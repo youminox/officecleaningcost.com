@@ -1,0 +1,90 @@
+{
+  "slug": "travel-hospitality-admin-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/travel-hospitality-admin-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "travel hospitality admin office scope tasks",
+  "title": "Travel Hospitality Admin Office Scope Tasks: Production Benchmarks & Work Scope for Hotel Back-Offices",
+  "seoTitle": "Travel Hospitality Admin Office Scope Tasks: Hotel Back-Office Checklist",
+  "metaDescription": "Travel hospitality admin office scope tasks: daily, weekly, and monthly hotel back-office checklist with sq ft/hour rates. Compare bids in our tool.",
+  "excerpt": "A hotel back-office scope of work has to account for three-shift occupancy, shared team member restrooms, cash rooms, and service corridors that standard office checklists ignore. This guide breaks down every daily, weekly, and monthly task and shows which ones push labor hours above typical office production rates.",
+  "quickAnswer": "A complete hotel back-office scope covers daily trash, restroom sanitation, high-touch disinfection, and HEPA vacuuming of traffic lanes; weekly detail dusting, glass, and full-floor vacuuming; and monthly or quarterly vent, baseboard, and floor-care work. Because of continuous occupancy and heavy corridor traffic, hospitality admin suites usually clean at 2,200–2,800 sq ft per hour versus the 3,500 sq ft per hour ISSA office benchmark, which is why bids land in the upper half of the $0.09–$0.15 per sq ft per visit range for 2,500–9,999 sq ft suites.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overnight scene in a US hotel heart-of-house administration office, a janitorial worker in a color-coded apron wiping a front office manager desk with a blue microfiber cloth while a night auditor works at a terminal in the background, a tower HEPA air purifier in the corner, low warm desk lamps and overhead LED panels, three-quarter angle at desk height, shallow depth of field, no text, no words, no logos, no watermarks",
+    "alt": "Cleaner wiping a hotel back-office desk with a microfiber cloth while a night auditor works nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes a Hospitality Admin Scope Different" },
+    { "type": "p", "text": "Most janitorial checklists assume a suite that empties at 6 p.m. A hotel back office never fully empties. The front office manager leaves at 7 p.m., the night auditor arrives at 11 p.m., and the reservations team logs in at 6 a.m. Crews must clean around people, keyboards, and phone calls, which slows production. Add a cash room that can only be entered with a manager present, a uniform room full of lint, and a corridor where housekeeping carts roll past every few minutes, and a generic 40-line office checklist leaves major gaps." },
+    { "type": "p", "text": "The scope below is organized by frequency and zone so it can be dropped directly into an RFP exhibit. Each task is tagged with the labor impact so you can see exactly why hospitality bids run higher than a comparable tenant suite." },
+    { "type": "h2", "text": "Daily Tasks (Every Scheduled Visit)" },
+    { "type": "table", "caption": "Daily hotel back-office task list with labor impact", "headers": ["Zone", "Task", "Typical Minutes per 1,000 sq ft", "Labor Impact vs. Standard Office"], "rows": [
+      ["Admin offices and bullpens", "Empty trash and recycling, replace liners, spot-clean desk surfaces that are cleared", "4 – 6", "Higher: work around occupied desks on overnight shifts"],
+      ["Reservations / revenue bullpen", "Disinfect shared headsets, phones, keyboards, and mice with an EPA-registered product", "3 – 5", "Higher: shared hot-desk equipment across three shifts"],
+      ["Team member restrooms", "Clean and disinfect fixtures, refill soap and towels, mop floor, check partitions", "12 – 18 per restroom", "Much higher: line-staff use doubles fixture traffic"],
+      ["Service corridor", "HEPA vacuum carpet or dust-mop and damp-mop hard floor, remove cart debris", "6 – 9", "Higher: dock and laundry grit"],
+      ["Staff breakroom", "Wipe counters, sink, microwave inside and out, fridge exterior, cabinet pulls", "8 – 12 per room", "Higher: meal periods across shifts"],
+      ["Time clock and employee entrance", "Disinfect clock face and door hardware, vacuum walk-off mat", "2 – 3", "Unique to hospitality"]
+    ] },
+    { "type": "p", "text": "Microfiber is the backbone of the daily routine. Commercial split-microfiber cloths such as the Rubbermaid HYGEN 16x16 damp/wet cloths are rated for about 500 commercial launderings, are bleach safe, and come color-coded so the restroom cloth never touches a revenue manager's keyboard. Ask bidders to describe their color-coding plan in writing; it is the simplest evidence that a vendor understands cross-contamination." },
+    { "type": "h2", "text": "Weekly and Monthly Detail Tasks" },
+    { "type": "ul", "items": [
+      "Weekly: full-floor HEPA vacuuming including under desks and along edges, not just traffic lanes.",
+      "Weekly: dust horizontal surfaces up to 7 feet, including filing cabinets, credenzas, and printer tops.",
+      "Weekly: clean interior glass on conference room partitions and the front desk back-office door vision panel.",
+      "Weekly: wipe chair arms, bases, and conference chairs; spot-clean upholstered seating.",
+      "Monthly: high dust vents, return grilles, sprinkler heads, and light lenses in admin areas.",
+      "Monthly: detail baseboards, door frames, and kick plates in the service corridor where cart scuffs accumulate.",
+      "Monthly: clean and sanitize waste receptacles inside and out; deodorize uniform room bins.",
+      "Monthly: wipe and replace filters on in-room air purifiers in private offices if the vendor maintains them.",
+      "Quarterly: hot-water extraction of corridor carpet and scrub-and-recoat of VCT at the employee entrance."
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Air purifiers belong in the scope document", "text": "Many hotel GMs and HR directors run portable HEPA units in interview rooms and private offices. A Winix 5500-2 is sized for about 360 sq ft with a washable AOC carbon layer, while an Alen BreatheSmart 75i covers about 1,300 sq ft with a laser particle sensor and a whisper-quiet mode suited to a sales office. If the vendor is expected to wipe housings, rinse washable prefilters, or log filter changes, write it into the monthly list; otherwise those units are nobody's job." },
+    { "type": "h2", "text": "Production Benchmarks: Why Hospitality Admin Labor Runs Long" },
+    { "type": "p", "text": "ISSA production standards put routine office cleaning at roughly 3,500 sq ft per hour for an open, unoccupied suite. Hotel back offices rarely hit that number. The table below shows realistic production rates by zone and the resulting crew hours for a 5,000 sq ft admin wing. These hours describe labor content only; the vendor's per-visit price also covers supervision, supplies, insurance, and margin." },
+    { "type": "table", "caption": "Production rates for a 5,000 sq ft hotel admin wing", "headers": ["Zone", "Sq Ft", "Production Rate (sq ft/hr)", "Crew Hours per Visit"], "rows": [
+      ["Private offices (GM, finance, HR, sales)", "1,600", "3,200", "0.50"],
+      ["Open bullpen (reservations, revenue)", "1,400", "2,600", "0.54"],
+      ["Service corridor and employee entrance", "1,000", "2,000", "0.50"],
+      ["Breakroom and uniform room", "600", "1,500", "0.40"],
+      ["Two team member restrooms", "400", "900", "0.44"],
+      ["Total", "5,000", "2,099 blended", "2.38"]
+    ] },
+    { "type": "p", "text": "At 2.38 crew hours per visit, versus about 1.43 hours if the same 5,000 sq ft hit the 3,500 sq ft per hour benchmark, the hospitality suite carries roughly 66 percent more labor content. That gap explains why a bid at the bottom of the $0.09–$0.15 per sq ft per visit band, which would be $450 per visit before restrooms, is a red flag. At 3x-weekly service with the 0.95 frequency multiplier and a 1.05 mixed-floor multiplier, a realistic base range is about $449–$748 per visit, or $5,835–$9,726 per month across 13 visits, before restroom and breakroom fees." },
+    { "type": "h2", "text": "Specialty Tasks That Push Hours Above Standard Rates" },
+    { "type": "steps", "items": [
+      { "name": "Escorted cash and safe room cleaning", "text": "A manager must unlock and observe. Budget 10–15 minutes of standby labor per visit and require the vendor to log entry times." },
+      { "name": "Overnight work around the night audit", "text": "Crews cleaning between 11 p.m. and 6 a.m. move slower around occupied desks and may carry a shift differential of 10–15 percent." },
+      { "name": "Post-event storage and banquet office resets", "text": "After conventions, sales and catering offices fill with sample boxes and signage. Treat these as out-of-scope tasks billed at the $35–$65 standard hourly rate with written approval." },
+      { "name": "Uniform room lint control", "text": "Lint and polybag waste can double trash volume. Specify daily liner changes and a monthly high-dust of shelving." },
+      { "name": "Bodily fluid response in shared restrooms", "text": "Spill response under an OSHA bloodborne pathogen program requires trained staff and a spill kit; price it as a per-incident fee rather than leaving it undefined." }
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Document the safety basics", "text": "Every scope exhibit should require OSHA Hazard Communication training, a site-specific Safety Data Sheet binder, wet floor signage during mopping, and bloodborne pathogen training for any worker assigned to restrooms. Ask for training logs during the bid review, not after a slip-and-fall claim." },
+    { "type": "h2", "text": "Scope Exclusions to Spell Out" },
+    { "type": "p", "text": "Hospitality admin contracts fail most often at the boundaries. State plainly that guest corridors, the lobby, public restrooms, kitchen and hood areas, laundry, and engineering shops are excluded unless separately priced. Clarify whether the vendor or hotel supplies paper, soap, and liners; consumables included typically add $0.012–$0.025 per sq ft per visit. And identify which department, front office or housekeeping, signs off on inspections so quality complaints have a clear path." },
+    { "type": "cta", "text": "Plug your zone-by-zone square footage and frequencies into the Office Cleaning Cost Calculator, then load vendor bids into the Quote Comparator to see which proposals actually price the specialty tasks listed above." }
+  ],
+  "faqs": [
+    { "q": "How many hours should it take to clean a 5,000 sq ft hotel back office?", "a": "Plan on roughly 2.2 to 2.6 crew hours per visit for routine service, compared with about 1.4 hours for an unoccupied tenant office of the same size. The difference comes from occupied overnight desks, shared team member restrooms, corridor grit, and escorted cash room entry." },
+    { "q": "Which tasks should be daily versus weekly in a hospitality admin office?", "a": "Trash, restroom sanitation, high-touch disinfection of shared phones and headsets, breakroom wipe-down, and traffic-lane vacuuming should happen every visit. Full-edge vacuuming, detail dusting, interior glass, and chair cleaning can move to weekly. High dusting, baseboards, and receptacle washing are monthly, with carpet extraction quarterly." },
+    { "q": "Does the scope need to mention OSHA requirements?", "a": "Yes. The vendor is responsible for training its own employees, but the hotel should require proof of OSHA Hazard Communication training and Safety Data Sheets for every product, plus bloodborne pathogen training for restroom staff. Including those requirements in the scope makes them enforceable and auditable." },
+    { "q": "How do I handle out-of-scope requests like post-convention cleanup?", "a": "Write a change-order clause that requires written approval before work starts and caps the rate. Standard janitorial labor runs about $35–$65 per hour, while specialty tasks such as carpet extraction or bodily fluid cleanup run $55–$95. Pre-agreed rates prevent invoice disputes after busy event weeks." },
+    { "q": "Should consumables be included in the cleaning scope?", "a": "Including paper, soap, and liners simplifies purchasing and typically adds $0.012–$0.025 per sq ft per visit. Hotels with strong purchasing programs often keep consumables in-house to use brand-standard products, but then the scope must state who monitors stock levels so restrooms do not run out between visits." }
+  ],
+  "amazonProductIds": [
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier",
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/travel-hospitality-admin-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/government-municipal-office-cleaning-cost/",
+    "/facility-cleaning-costs/government-municipal-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-anti-fatigue-mats-for-office-reception-desks/"
+  ]
+}

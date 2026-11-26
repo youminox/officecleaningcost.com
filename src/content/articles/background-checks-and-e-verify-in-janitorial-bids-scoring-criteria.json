@@ -1,0 +1,202 @@
+{
+  "slug": "background-checks-and-e-verify-in-janitorial-bids-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/background-checks-and-e-verify-in-janitorial-bids-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric background checks and e verify in janitorial bids",
+  "title": "Weighted Evaluation Rubric & Vendor Verification Checklist for Background Checks and E-Verify in Janitorial Bids",
+  "seoTitle": "Weighted Evaluation Rubric: Background Checks E-Verify in Bids",
+  "metaDescription": "Use our 100-point weighted evaluation rubric for background checks and E-Verify in janitorial bids to score vendors and test pricing in our Quote Comparator.",
+  "excerpt": "Scoring janitorial proposals fairly requires an objective rubric that weighs workforce security and E-Verify documentation alongside monthly price. Use this 100-point procurement evaluation matrix and audit checklist to grade competing commercial cleaning vendors before awarding your contract.",
+  "quickAnswer": "A procurement-grade weighted evaluation rubric for background checks and E-Verify in janitorial bids should allocate 100 total points across five auditable pillars: Federal E-Verify & W-2 Payroll Proof (25 pts), Accredited 7-Year Criminal & Drug Screening Depth (25 pts), Relief/Floater Access Controls (20 pts), Third-Party Crime Bonding (15 pts), and Burdened Labor Rate Realism at $35 to $65/hr (15 pts). Any bidder scoring below 75 points or refusing to disclose their E-Verify Company ID should be disqualified before price negotiations.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic medium-angle shot of two US corporate procurement executives seated at a glass conference room table comparing printed vendor evaluation scorecards alongside a laptop showing a clean color-coded bar chart, bright daylight office interior with blurred city skyline, no text, no words, no numbers, no logos, no watermarks.",
+    "alt": "Two corporate procurement managers scoring janitorial vendor proposals at a glass conference room table"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Pass/Fail Checkboxes Fail in Commercial Janitorial Procurement"
+    },
+    {
+      "type": "p",
+      "text": "In most corporate RFPs, workforce vetting is reduced to a single yes/no question on a vendor questionnaire: 'Do you perform background checks and verify employment eligibility for all janitorial personnel?' Every bidder checks 'Yes.' Yet behind that identical checkbox, Bidder A runs a PBSA-accredited 7-year primary-source county and federal criminal search, verifies every hire through federal E-Verify within 72 hours, conducts a 5-panel lab drug screen, and pays $21/hr W-2 wages ($46/hr billed); while Bidder B runs an unverified $2 instant online name scrape, relies on unscreened 1099 cash floaters when someone calls out sick, and quotes $29/hr."
+    },
+    {
+      "type": "p",
+      "text": "To defend your vendor selection to executive leadership, corporate security, and internal audit committees, you need a quantitative, 100-point weighted evaluation rubric. By requiring documentary exhibits for each scoring tier—and tying those exhibits directly to realistic square-foot and hourly labor benchmarks—you prevent low-compliance brokers from undercutting qualified Building Service Contractors (BSCs)."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Minimum Passing Score Threshold for Class A & Regulated Offices",
+      "text": "Set a mandatory technical gate in your RFP: bidders must achieve at least 75 out of 100 points on the Workforce Security & E-Verify Rubric (and at least 15 out of 25 on the E-Verify/W-2 pillar) before their pricing envelope is opened. For SOC 2, HIPAA, defense, or financial facilities, raise the minimum qualifying gate to 85 points."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric for Background Checks & E-Verify"
+    },
+    {
+      "type": "p",
+      "text": "Distribute this 100-point scoring matrix to your facility, security, and procurement evaluation committee. Each evaluator scores competing bids from 0 to Maximum Points per category based solely on submitted evidence:"
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Procurement Scoring Matrix for Janitorial Workforce Vetting & E-Verify Compliance",
+      "headers": [
+        "Evaluation Criterion",
+        "Weight (Pts)",
+        "0 – 40% Score (Disqualifying / Weak)",
+        "50 – 75% Score (Acceptable Standard)",
+        "80 – 100% Score (Best-in-Class Audit Proof)"
+      ],
+      "rows": [
+        [
+          "1. Federal E-Verify & W-2 Employment Proof",
+          "25 pts",
+          "Paper I-9 only; uses 1099 subcontractors; no E-Verify Company ID disclosed",
+          "Active E-Verify ID provided; 100% W-2 staff; manual HR tracking spreadsheet",
+          "E-Verify MOU attached + state UI/Workers' Comp payroll audit proof + digital I-9/E-Verify integration"
+        ],
+        [
+          "2. Criminal Background Check Depth & Accreditation",
+          "25 pts",
+          "Instant national database only; state-only check; unaccredited screening vendor",
+          "PBSA-accredited CRA; SSN trace + 7-yr county criminal + National Sex Offender Registry",
+          "PBSA CRA + 7-yr all-counties-lived + Federal District Courts + OFAC/global watchlist + annual re-screen"
+        ],
+        [
+          "3. Drug Screening & Occupational Health Protocol",
+          "15 pts",
+          "No pre-employment test or 'testing only upon client request at client expense'",
+          "SAMHSA-certified lab 5-panel pre-employment + post-accident / reasonable-suspicion testing",
+          "5-to-10-panel lab screen + random pool testing + OSHA Bloodborne Pathogens & HazCom certification logs"
+        ],
+        [
+          "4. Relief Crew, Floater & Badge Access Governance",
+          "20 pts",
+          "Ad-hoc substitutes sent without prior notice; shared 'Vendor' access cards allowed",
+          "Pre-vetted bench of 2-3 relief cleaners; individual photo badges; 24-hr substitution notice",
+          "Biometric/GPS geofenced timekeeping + 48-hr pre-cleared floater roster + $500 contractual penalty for badge sharing"
+        ],
+        [
+          "5. Crime Bonding & Labor Rate Sustainability",
+          "15 pts",
+          "CGL only (no crime bond); billed rate <$32/hr (<$0.06/sq ft on mid-size office) indicating wage compression",
+          "$50k Third-Party Employee Dishonesty Bond; billed labor $35–$48/hr with all screening costs included",
+          "$100k–$250k Third-Party Crime Bond + zero turnover re-bill clause + transparent wage/burden disclosure ($45–$65/hr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Cross-Checking Rubric Scores Against Square-Foot and Hourly Pricing Benchmarks"
+    },
+    {
+      "type": "p",
+      "text": "Criteria #5 on the rubric above—Labor Rate Sustainability—is where facility procurement teams catch deceptive proposals. A vendor can promise the moon on pages 1 through 10 of their technical proposal, checking every box for PBSA county background checks, 10-panel drug screens, and zero-subcontractor W-2 employment. However, if their financial schedule quotes an effective hourly rate of $27.50 per hour or $0.048 per sq ft per visit on a 12,000 sq ft office, the math is physically impossible."
+    },
+    {
+      "type": "p",
+      "text": "Use our standard commercial benchmarks to validate whether a bidder's price can legitimately fund their promised compliance tier:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Small Offices (Under 2,500 sq ft): Expect $0.12 to $0.20 per sq ft per visit, subject to a $90 to $135 minimum visit charge. Because a single custodian frequently works alone after hours, individual RFID badge attribution and a $50,000+ Third-Party Crime Bond are mandatory.",
+        "Mid-Size Suites (2,500 to 9,999 sq ft): Expect $0.09 to $0.15 per sq ft per visit (with frequency multipliers of 1.08 for 1x/week at 4.33 visits/mo, 1.00 for 2x/week at 8.66 visits/mo, 0.95 for 3x/week at 13.0 visits/mo, and 0.90 for 5x/week at 21.65 visits/mo). Any bid below $0.08/sq ft in this bracket warrants an immediate payroll and E-Verify audit.",
+        "Large Floors & Multi-Floor Tenants (10,000 to 24,999 sq ft): Expect $0.07 to $0.12 per sq ft per visit, driven by ISSA production rates averaging 3,500 sq ft per labor hour and standard vetted hourly billing between $35 and $65/hr ($55 to $95/hr for specialty cleared or floor/disinfection techs).",
+        "Enterprise Campuses (25,000+ sq ft): Expect $0.05 to $0.10 per sq ft per visit, where dedicated on-site working supervisors oversee multi-person crews and must maintain an on-site digital binder of active E-Verify and CRA clearance attestations."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating Equipment and Dispenser Standardization in the Technical Score"
+    },
+    {
+      "type": "p",
+      "text": "When scoring proposals, sophisticated facility managers also evaluate how the contractor manages consumable restocking and restroom traffic flow. High-capacity, locked, touchless dispenser systems reduce the number of hours unassigned utility runners spend moving through tenant corridors and prevent daytime run-outs."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Automated Touchless Roll Towel Control: Facilities standardized on the Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser benefit from touchless infrared dispensing, whisper-quiet operation, ADA depth compliance, and programmable sheet length that cuts paper waste and lowers custodian refill frequency.",
+        "High-Capacity Twin Jumbo Bath Tissue Security: Specifying the Tork Twin Jumbo Bath Tissue Roll Dispenser T2 holds two 9-inch jumbo rolls with a stub-roll transfer mechanism and keyed lock, eliminating mid-day tissue run-outs between nightly janitorial visits and protecting reserve rolls from pilferage.",
+        "Non-Proprietary Universal Electronic Towel Systems: Where procurement teams want freedom to bid paper consumables competitively across multiple suppliers, the San Jamar Tear-N-Dry Essence Electronic Towel Dispenser accepts universal 8-inch non-proprietary roll towels powered by 4 D-cell batteries in a low-profile housing."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Stage Vendor Verification Workflow Prior to Contract Award"
+    },
+    {
+      "type": "p",
+      "text": "Once your evaluation committee tabulates the 100-point rubric scores for your top two or three finalist vendors, execute this four-stage verification protocol before signing the contract:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Stage 1: Verify the E-Verify Company ID on the Federal Portal & Inspect Sample Redacted CRA Reports",
+          "text": "Confirm the bidder's legal entity on E-Verify.gov and review three anonymized background screening completion certificates from their PBSA-accredited Consumer Reporting Agency issued within the past 60 days to verify that 7-year primary-source county and federal searches are actually in their active package."
+        },
+        {
+          "name": "Stage 2: Audit the Certificate of Insurance (COI) for Third-Party Crime & Workers' Comp",
+          "text": "Have your risk manager inspect the live COI to verify Commercial General Liability ($1M/$2M minimum), statutory Workers' Compensation, and a Third-Party Employee Dishonesty / Janitorial Crime policy endorsement naming your entity as Loss Payee."
+        },
+        {
+          "name": "Stage 3: Conduct a Pre-Award Relief Roster & Geofence Demo",
+          "text": "Ask the vendor to demonstrate their mobile timekeeping app (such as Swept, Janitorial Manager, or Chronotek) showing GPS geofenced clock-in/clock-out and photo/ID verification so you know unauthorized substitutes cannot clock in remotely."
+        },
+        {
+          "name": "Stage 4: Incorporate the Winning Rubric Commitments as Contract Exhibit C",
+          "text": "Attach the vendor's signed RFP compliance questionnaire, E-Verify MOU, and screening adjudication matrix directly to the Master Services Agreement as a binding contractual exhibit with financial service-level credits for non-compliance."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "How to Weight Technical Security Score vs. Commercial Price",
+      "text": "In standard multi-tenant office buildings, use a 60% Technical/Security Rubric Score to 40% Commercial Price weighting. In regulated healthcare, legal, financial, or SOC 2 technology offices, shift to a 70% Technical/Security Score to 30% Price weighting so a vendor cannot win the award by slashing screening standards to offer a 10% price discount."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your janitorial proposals side-by-side? Enter your competing bids into our Janitorial Quote Comparator or benchmark fair vetted labor pricing in the Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a PBSA-accredited Consumer Reporting Agency (CRA) and why should it be on our scoring rubric?",
+      "a": "The Professional Background Screening Association (PBSA) accredits background check companies that adhere to strict primary-source court verification, FCRA consumer privacy, and data accuracy standards. Awarding full rubric points only to janitorial vendors who use a PBSA-accredited CRA prevents contractors from using cheap, unverified 'people-search' websites that miss recent county felony records."
+    },
+    {
+      "q": "How should our scoring rubric handle janitorial bidders in states that restrict pre-employment THC testing or Ban-the-Box rules?",
+      "a": "Your rubric should award full compliance points for drug and criminal screening policies tailored to local statutory law—such as a 4-panel drug screen (excluding non-impairment THC metabolites where protected by state law) and post-conditional-offer criminal screening that uses an EEOC-compliant individualized assessment matrix focused on job-related offenses like theft, burglary, fraud, and workplace violence."
+    },
+    {
+      "q": "Why does the rubric award 20 points solely to relief crew and floater governance?",
+      "a": "Even the weakest janitorial contractor will carefully screen the primary night crew assigned on Day 1 of a new contract. Security failures almost always happen on Friday nights or during flu season when a regular cleaner calls out sick and an unprepared dispatcher sends an unvetted cash worker or family member to cover the shift. Scoring the vendor's pre-cleared bench depth and geofenced clock-in system closes that vulnerability."
+    },
+    {
+      "q": "How do we score a bidder whose square-foot price is 25% below the market benchmark?",
+      "a": "Deduct points under Criterion 5 (Labor Rate Sustainability) and issue a formal Request for Clarification requiring a labor-hour build-up worksheet showing exact nightly hours, base hourly wages ($/hr), payroll taxes, workers' compensation insurance, screening amortization, and chemical/equipment budgets. If their implied hourly billing rate falls below $32 to $35/hr, they cannot sustain W-2 E-Verify compliance."
+    }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel",
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2",
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/cleaning-contract-termination-clause-guide/",
+    "/comparing-quotes-and-contracts/cleaning-contract-termination-clause-guide-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/cleaning-contract-termination-clause-guide-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/angel-soft-professional-80-rolls-vs-scott-jumbo/"
+  ]
+}

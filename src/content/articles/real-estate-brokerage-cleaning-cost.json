@@ -1,0 +1,77 @@
+{
+  "slug": "real-estate-brokerage-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/real-estate-brokerage-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "real estate brokerage rates",
+  "title": "Real Estate Brokerage Rates: Office Crew Pricing and Restroom Cost Breakdown",
+  "seoTitle": "Real Estate Brokerage Rates: Office Cleaning Crew & Restroom Pricing",
+  "metaDescription": "Real estate brokerage rates run $1,075-$16,540 a month for 1,800-7,500 sq ft offices. See restroom math and frequency picks, then run the calculator.",
+  "excerpt": "Real estate brokerages combine agent bullpens, closing rooms, and walk-in visitors, which creates heavier and more uneven wear than a typical professional office. Here is how crews price these offices per square foot and per restroom, and which weekly frequency fits each brokerage model.",
+  "quickAnswer": "Real estate brokerage offices typically pay $0.09-$0.15 per sq ft per visit in the 2,500-9,999 sq ft bracket, plus $15-$30 per restroom per visit. A 3,200 sq ft franchise office with two restrooms and a breakroom cleaned twice weekly runs about $2,960-$5,060 per month, while a 7,500 sq ft flagship cleaned three times weekly lands near $9,690-$16,540. Small satellite offices under 2,000 sq ft can often get by with weekly service at $1,075-$1,815 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening scene in a US real estate brokerage bullpen: rows of open agent desks with dual monitors, a custodian emptying deskside bins while a coworker vacuums carpet tile near a glass-front closing room, property listing photo frames on the wall without readable text, bright overhead LED lighting, high angle wide shot from a mezzanine, no text, no logos, no watermarks",
+    "alt": "Two custodians servicing the open agent bullpen of a real estate brokerage office in the evening"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes a Brokerage Office Different to Clean" },
+    { "type": "p", "text": "A real estate brokerage is part sales floor, part conference center, and part drop-in lounge. Agents are independent contractors who come and go at all hours, many share hoteling desks, and buyers and sellers arrive for listing presentations, offer reviews, and closings. Foot traffic is uneven: Monday sales meetings, Thursday and Friday offer deadlines, and weekend agent activity around open houses all pile soil and trash onto specific days. A cleaning bid that ignores those patterns will either overcharge on quiet days or fall behind on busy ones." },
+    { "type": "p", "text": "Physically, most brokerages share a recognizable layout. There is a reception and waiting area near a street-facing entrance, an open bullpen of agent desks, two to four closing or conference rooms, a broker's private office, a transaction coordinator area with files, a breakroom that doubles as the venue for training lunches, and restrooms sized for visitor traffic. The bullpen and breakroom drive trash volume. The closing rooms and restrooms drive client perception." },
+    { "type": "h2", "text": "Benchmark Monthly Costs by Brokerage Size" },
+    { "type": "table", "caption": "Real estate brokerage monthly cleaning estimates (national benchmarks, before consumables)", "headers": ["Brokerage model", "Sq ft / floor type", "Frequency", "Restrooms + add-ons", "Per-visit range", "Monthly range"], "rows": [
+      ["Satellite or team office", "1,800 / carpet (x1.00)", "Weekly (4.33 visits, x1.08)", "1 restroom", "$248-$419", "$1,075-$1,813"],
+      ["Franchise storefront office", "3,200 / VCT vinyl (x1.04)", "2x/week (8.66 visits, x1.00)", "2 restrooms + breakroom", "$342-$584", "$2,958-$5,059"],
+      ["Flagship brokerage with closing rooms", "7,500 / mixed (x1.05)", "3x/week (13 visits, x0.95)", "3 restrooms + breakroom + glass", "$745-$1,272", "$9,689-$16,538"],
+      ["Regional brokerage headquarters", "12,000 / carpet (x1.00)", "5x/week (21.65 visits, x0.90)", "4 restrooms + breakroom", "$828-$1,441", "$17,926-$31,198"]
+    ] },
+    { "type": "p", "text": "Take the franchise storefront row as a worked example. Multiply 3,200 sq ft by $0.09-$0.15 to get $288-$480, then by 1.04 for VCT or LVT vinyl, which yields $300-$499 of base labor per visit. Twice-weekly service carries a 1.00 frequency multiplier. Add two restrooms at $15-$30 each and a breakroom at $12-$25 to reach $342-$584 per visit. With 8.66 visits per month based on 4.333 weeks, the monthly total is $2,958-$5,059, or about $0.92-$1.58 per sq ft per month." },
+    { "type": "h2", "text": "Restroom Pricing Breakdown" },
+    { "type": "p", "text": "Restrooms are priced separately because they consume labor out of proportion to their size. A single-user restroom near reception in a brokerage might see 40-60 uses a day on a busy Thursday, from agents, clients, appraisers, and inspectors. At benchmark pricing of $15-$30 per restroom per visit, the restroom line alone becomes a meaningful share of the bill." },
+    { "type": "table", "caption": "Monthly restroom line item at common brokerage configurations", "headers": ["Configuration", "Visits per month", "Restroom cost per visit", "Monthly restroom cost"], "rows": [
+      ["1 restroom, weekly", "4.33", "$15-$30", "$65-$130"],
+      ["2 restrooms, 2x/week", "8.66", "$30-$60", "$260-$520"],
+      ["3 restrooms, 3x/week", "13", "$45-$90", "$585-$1,170"],
+      ["4 restrooms, 5x/week", "21.65", "$60-$120", "$1,299-$2,598"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: consumables on a 3,200 sq ft brokerage", "text": "Vendor-supplied toilet tissue, roll towels, foam soap, and liners add $0.012-$0.025 per sq ft per visit, which is $38-$80 per visit or about $333-$693 per month at twice-weekly service. Many brokerages buy paper themselves and keep only labor in the contract." },
+    { "type": "h2", "text": "Traffic Wear Patterns in Brokerage Offices" },
+    { "type": "p", "text": "Brokerages often sit in ground-floor retail storefronts, which means street grit, rain, and winter de-icing salt come straight through the front door onto the first 20 feet of flooring. Walk-off matting of at least 10-15 ft inside the entry, serviced every visit, is the single most effective way to protect carpet tile and LVT in the bullpen. Upper-floor offices in multi-tenant buildings see less street soil but more elevator lobby traffic." },
+    { "type": "p", "text": "Inside, the heaviest wear runs from the entry to the closing rooms and from the bullpen to the breakroom. Rolling desk chairs on hoteling desks grind carpet tiles, so chair mats or periodic tile rotation matter. Breakrooms used for weekly sales meetings with catered lunches need more than a nightly wipe; they need floor mopping and trash removal the same evening." },
+    { "type": "h2", "text": "Choosing the Right Weekly Frequency" },
+    { "type": "ul", "items": [
+      "Satellite and team offices under 2,000 sq ft with fewer than 10 agents: weekly service scheduled the night before the busiest client day.",
+      "Franchise storefronts of 2,500-5,000 sq ft: twice weekly, typically Monday night after the sales meeting and Thursday night before weekend activity.",
+      "Flagship offices with multiple closing rooms and 40+ agents: three times weekly, with restrooms and the breakroom serviced every visit and bullpen vacuuming on rotation.",
+      "Regional headquarters with transaction coordinators, marketing, and training rooms: five nights weekly, because trash volume and restroom use scale with daily headcount.",
+      "Add a Saturday evening restroom and trash visit for offices that host weekend agent hours or open-house meetups rather than increasing weekday frequency."
+    ] },
+    { "type": "h2", "text": "Restroom Dispensers That Hold Down Labor" },
+    { "type": "p", "text": "Because restroom labor is billed per visit, dispensers that run longer between refills keep a brokerage from paying for an extra touch-up visit. The Scott Pro High-Capacity Coreless Standard Roll Dispenser holds four coreless rolls in an ADA-compliant housing designed for high-traffic restrooms, with keyed or keyless operation. Pairing it with the Rubbermaid Commercial AutoFoam 1100 mL Touchless Soap Dispenser, which delivers up to 2,750 doses per refill and runs on a battery rated for about three years, means a twice-weekly crew rarely finds an empty soap unit." },
+    { "type": "p", "text": "At reception and in each closing room, a GOJO PURELL ES8 Touch-Free Hand Sanitizer Dispenser with a 1,200 mL refill gives clients a touchless option before signing documents. Its energy-on-the-refill design removes separate battery maintenance, and the at-a-glance window lets the crew check levels without opening the housing." },
+    { "type": "callout", "variant": "tip", "title": "Schedule around offer deadlines", "text": "Ask the vendor to align service nights with your brokerage calendar. Cleaning the night after the Monday sales meeting and the night before Friday offer reviews puts labor where soil actually accumulates." },
+    { "type": "cta", "text": "Enter your brokerage's square footage, flooring, restroom count, and service nights into the Office Cleaning Cost Calculator, then compare vendor bids side by side in the Quote Comparator to confirm restroom pricing is itemized." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean a 3,000 sq ft real estate office?", "a": "At benchmark rates of $0.09-$0.15 per sq ft per visit for that bracket, a 3,000-3,200 sq ft office with two restrooms and a breakroom cleaned twice weekly typically costs about $2,800-$5,060 per month. Weekly service with fewer add-ons can drop that to roughly $1,500-$2,700." },
+    { "q": "Why do vendors charge per restroom?", "a": "Restrooms require disinfection, restocking, and mopping that take far longer per square foot than offices. Itemizing $15-$30 per restroom per visit makes bids comparable and lets you see whether a vendor has allocated real time to visitor restrooms." },
+    { "q": "How do I calculate monthly visits for a twice-weekly schedule?", "a": "Multiply 2 visits per week by 4.333 weeks per month for 8.66 visits. Multiply that by the per-visit price, including restrooms and add-ons, to get the true monthly cost and compare it with any flat monthly quote." },
+    { "q": "What insurance should a brokerage require from its cleaning company?", "a": "Request a certificate of insurance with general liability, workers compensation, and a third-party crime bond, naming the brokerage and landlord as additional insureds. Brokerages storing transaction files and lockbox keys on site should confirm the bond covers employee theft at client premises." },
+    { "q": "Is carpet extraction included in a brokerage cleaning contract?", "a": "Usually not. Hot-water extraction and VCT scrub-and-recoat are periodic services, amortized at $0.03-$0.06 per sq ft per month in our benchmarks. For a 3,200 sq ft office, that is about $96-$192 per month if you want it built into the contract." }
+  ],
+  "amazonProductIds": [
+    "gojo-purell-es8-touch-free-hand-sanitizer-dispenser",
+    "scott-pro-high-capacity-coreless-standard-roll-dispenser",
+    "rubbermaid-commercial-autofoam-1100-ml-touchless-soap-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/real-estate-brokerage-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/real-estate-brokerage-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/insurance-agency-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-bleach-safe-microfiber-cloths-for-restrooms/"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "slug": "subleased-office-cleaning-cost-guide",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/subleased-office-cleaning-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "subleased office cleaning cost",
+  "title": "Subleased Office Cleaning Cost: Who Pays, What It Covers, and Suite Pricing",
+  "seoTitle": "Subleased Office Cleaning Cost: Suite Responsibilities & Pricing",
+  "metaDescription": "Subleased office cleaning cost for a 4,000 sq ft suite runs $4,450–$9,350/month depending on the model. Compare pro-rata vs own-vendor options in our tool.",
+  "excerpt": "In a sublease, janitorial cost depends on who controls the contract: the sublandlord's vendor, your own vendor, or a pro-rata share of the master lease services. This guide prices each model for a 4,000 sq ft suite and shows the lease clauses that decide the bill.",
+  "quickAnswer": "A 4,000 sq ft subleased office typically pays $5,456–$9,353 per month as a pro-rata share of the sublandlord's 5x/week contract, $7,015–$11,691 with its own vendor at the same frequency, or $4,446–$7,410 with its own vendor at 3x/week. The cheapest option depends on what the sublease and the master lease allow, so read the services and alterations clauses before soliciting bids.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic photo of a subleased office suite carved out of a larger floor, demountable glass wall separating two companies' workspaces, carpet tile in the subtenant area, an evening cleaner wiping a reception counter with a blue microfiber cloth while an upright lobby dustpan and broom rest nearby, warm overhead lighting with dusk city view through windows, wide eye-level shot down the corridor, zero text, zero logos, zero watermarks",
+    "alt": "Evening cleaner wiping a reception counter in a subleased office suite separated by a glass wall"
+  },
+  "blocks": [
+    { "type": "p", "text": "Subleasing adds a layer to every operating question, and janitorial service is one of the first to cause friction. The subtenant wants a clean suite at a fair price; the sublandlord still owes the landlord compliance with the master lease; and the landlord may control who is allowed into the building after hours. Before comparing vendor rates, you need to know which of three cost models your documents allow." },
+    { "type": "h2", "text": "The Three Sublease Cleaning Models" },
+    {
+      "type": "ul",
+      "items": [
+        "Pro-rata share: the sublandlord keeps its existing janitorial contract and bills the subtenant a percentage based on rentable square feet, often with a 5–10% administrative fee.",
+        "Subtenant's own vendor: the subtenant hires and manages a separate contractor for its suite only, subject to landlord approval of the vendor and its insurance.",
+        "Landlord-provided service: in full-service gross buildings, janitorial is included in rent and passes through the master lease; the subtenant pays nothing separate unless it wants above-standard service."
+      ]
+    },
+    { "type": "p", "text": "Each model shifts cost and control. Pro-rata is simplest but locks you into the sublandlord's frequency. Your own vendor gives control but loses the volume discount of a larger contract. Landlord-provided service is cheapest on paper but rarely flexible." },
+    { "type": "h2", "text": "Pricing Example: 4,000 sq ft Carved From a 12,000 sq ft Floor" },
+    { "type": "p", "text": "Assume a sublandlord leases 12,000 sq ft of carpeted office and subleases 4,000 sq ft (33.3%). Its current contract sits in the 10,000–24,999 sq ft bracket at $0.07–$0.12 per sq ft per visit, with 5x/week service (multiplier 0.9, 21.65 visits per month). That master contract costs $756–$1,296 per visit, or $16,367–$28,058 per month. Here is how the subtenant's share compares with going it alone." },
+    {
+      "type": "table",
+      "caption": "Monthly janitorial cost for a 4,000 sq ft subleased suite by model (carpet, national rates)",
+      "headers": ["Model", "Rate Basis", "Per Visit", "Visits / Month", "Monthly Cost"],
+      "rows": [
+        ["Pro-rata share of master contract (5x/wk)", "33.3% of $16,367–$28,058", "$252–$432", "21.65", "$5,456–$9,353"],
+        ["Pro-rata plus 8% admin fee", "Share × 1.08", "$272–$467", "21.65", "$5,892–$10,101"],
+        ["Own vendor, 5x/week", "4,000 × $0.09–$0.15 × 0.9", "$324–$540", "21.65", "$7,015–$11,691"],
+        ["Own vendor, 3x/week", "4,000 × $0.09–$0.15 × 0.95", "$342–$570", "13", "$4,446–$7,410"],
+        ["Own vendor, 2x/week", "4,000 × $0.09–$0.15 × 1.0", "$360–$600", "8.66", "$3,118–$5,196"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "The bracket penalty", "text": "A 4,000 sq ft suite falls into a higher per-square-foot bracket than the 12,000 sq ft master floor. At equal frequency, buying your own service costs about 25–30% more than the pro-rata share. Going independent only saves money if you also reduce frequency." },
+    { "type": "h2", "text": "Lease Clauses That Decide Who Pays" },
+    { "type": "p", "text": "Pull three documents before talking to vendors: the master lease, the sublease, and the landlord's consent to sublease. Look for a services clause stating whether janitorial is provided by the landlord, a building rules exhibit governing outside contractors, and any requirement that contractors use union labor or carry specific insurance limits. In many Class A towers, only the building's contractor may clean tenant suites after hours, which makes the own-vendor model impossible regardless of price." },
+    { "type": "p", "text": "Also check how common areas are handled. If the subleased suite shares restrooms, a kitchenette, or a reception area with the sublandlord, someone must clean and restock them. A shared restroom pair adds $15–$30 per restroom per visit; a shared breakroom adds $12–$25 per visit. Split those costs by headcount or square footage and write the split into the sublease so it does not become a monthly argument." },
+    { "type": "callout", "variant": "compliance", "title": "Insurance and access control", "text": "Any vendor you hire will need a COI meeting the master lease requirements, commonly $1 million per occurrence general liability, workers' compensation, and an umbrella policy, naming the landlord, the property manager, and the sublandlord as additional insureds. Landlords may also require background checks for anyone with after-hours badge access." },
+    { "type": "h2", "text": "Tools and Supplies in Shared Suites" },
+    { "type": "p", "text": "Where two companies share a floor, cross-contamination and supply theft are recurring complaints. A four-color microfiber system, such as the Microfiber Wholesale 16x16 pack in 300 GSM, lets the crew keep red cloths for restrooms, green for the shared kitchen, and blue for each company's work areas, which is easy to audit visually. During the day, a lidded upright dustpan and angled broom like the Rubbermaid Commercial Lobby Pro let a day porter or office manager clear spills quietly in a shared reception without pulling out a full cart. For subtenants whose suite opens onto an exterior courtyard or ground-level entry, a 36-inch litter grabber such as the Unger Nifty Nabber keeps the entry presentable between scheduled visits." },
+    { "type": "h2", "text": "Steps to Set Up Cleaning in a New Sublease" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Confirm what the master lease allows", "text": "Identify whether the landlord provides janitorial, whether outside vendors are permitted, and what insurance they must carry." },
+        { "name": "Request the sublandlord's current scope and invoice", "text": "Ask for the vendor scope, frequency, and monthly cost so you can verify any pro-rata charge against actual square footage." },
+        { "name": "Negotiate the allocation method", "text": "Agree on rentable square feet or headcount, cap the admin fee, and define who pays for shared restrooms and kitchens." },
+        { "name": "Get independent bids for comparison", "text": "Even if you choose pro-rata, independent quotes at 3x/week and 5x/week give you leverage. Load them into the Quote Comparator." },
+        { "name": "Document the surrender standard", "text": "Write down the cleaning condition required at sublease expiration so move-out costs are predictable." }
+      ]
+    },
+    { "type": "cta", "text": "Run your subleased suite's square footage and preferred frequency through the Office Cleaning Cost Calculator, then compare the pro-rata charge against independent bids in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Can a subtenant hire its own cleaning company?", "a": "Only if the master lease and the landlord's consent allow it. Many office buildings restrict after-hours access to approved contractors. If outside vendors are permitted, expect to provide a COI, background check results, and possibly proof of OSHA HazCom training before the vendor receives badges." },
+    { "q": "Is a pro-rata janitorial charge fair?", "a": "It is fair when based on actual contract cost and rentable square footage, with a modest admin fee of 5–10%. Ask for the vendor invoice. If the sublandlord charges a flat amount well above 33% of its contract for a third of the space, negotiate a cap or audit right." },
+    { "q": "How do I calculate monthly cost for my suite?", "a": "Multiply square footage by the per-visit rate and frequency multiplier, then by visits per month using 4.33 weeks. For 4,000 sq ft at $0.12 and 3x/week (0.95 multiplier, 13 visits), the result is 4,000 × 0.12 × 0.95 × 13 = $5,928 per month." },
+    { "q": "Who cleans shared restrooms between the sublandlord and subtenant?", "a": "Usually the sublandlord's vendor, since restrooms are building systems that must meet health codes and OSHA bloodborne pathogens practices. The sublease should allocate restroom cleaning and consumables cost, typically $15–$30 per restroom per visit, by square footage or headcount." },
+    { "q": "What happens to the cleaning arrangement when the sublease ends?", "a": "The subtenant typically owes a surrender clean to broom-clean or the master lease standard, and any independent vendor contract should end with a 30-day notice. Align the vendor contract end date with the sublease expiration to avoid paying for service after you vacate." }
+  ],
+  "amazonProductIds": [
+    "microfiber-wholesale-16x16-commercial-cleaning-cloths-150-pack-c",
+    "unger-nifty-nabber-36-inch-commercial-trash-picker-grabber",
+    "rubbermaid-commercial-lobby-pro-upright-dust-pan-and-broom"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/summer-vacation-lull-cleaning-schedule-cost/",
+    "/office-cleaning-cost-guides/year-end-holiday-office-deep-clean-cost/",
+    "/office-cleaning-cost-guides/how-janitorial-markup-and-overhead-work/",
+    "/restroom-and-breakroom-dispensers/best-stainless-steel-folded-towel-dispensers/"
+  ]
+}

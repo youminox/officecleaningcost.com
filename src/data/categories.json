@@ -1,0 +1,132 @@
+[
+  {
+    "slug": "office-cleaning-cost-guides",
+    "name": "Office Cleaning Cost Guides",
+    "shortName": "Cost Basics",
+    "eyebrow": "Core Pricing Benchmarks",
+    "description": "National office cleaning rates per square foot, hourly janitor pricing, flat-rate contracts, and minimum visit fees explained clearly.",
+    "isTransactional": false,
+    "targetCount": 110,
+    "ambientImage": "cat-office-cleaning-cost-guides"
+  },
+  {
+    "slug": "city-cleaning-costs",
+    "name": "Office Cleaning Cost by City",
+    "shortName": "150 US Cities",
+    "eyebrow": "Local Market Benchmarks",
+    "description": "Localized commercial cleaning rates, labor wage adjustments, and typical monthly budgets across 150 major US metro areas.",
+    "isTransactional": false,
+    "targetCount": 150,
+    "ambientImage": "cat-city-cleaning-costs"
+  },
+  {
+    "slug": "facility-cleaning-costs",
+    "name": "Cost by Facility & Office Type",
+    "shortName": "By Facility Type",
+    "eyebrow": "Industry-Specific Quotes",
+    "description": "Janitorial pricing adjustments for medical clinics, dental suites, law firms, coworking hubs, banks, gyms, and corporate headquarters.",
+    "isTransactional": false,
+    "targetCount": 120,
+    "ambientImage": "cat-facility-cleaning-costs"
+  },
+  {
+    "slug": "cleaning-services-and-tasks",
+    "name": "Rates by Cleaning Service & Task",
+    "shortName": "Services & Tasks",
+    "eyebrow": "Task-Level Pricing",
+    "description": "Standalone and add-on rates for restroom sanitization, carpet extraction, VCT strip and wax, interior glass, day porters, and post-construction.",
+    "isTransactional": false,
+    "targetCount": 140,
+    "ambientImage": "cat-cleaning-services-and-tasks"
+  },
+  {
+    "slug": "cleaning-frequency-and-schedules",
+    "name": "Cleaning Frequency & Shift Pricing",
+    "shortName": "Frequency & Shifts",
+    "eyebrow": "Schedule Optimization",
+    "description": "How monthly, biweekly, weekly, 3x/week, 5x/week, and day-porter vs night-crew schedules alter per-visit discounts and monthly totals.",
+    "isTransactional": false,
+    "targetCount": 80,
+    "ambientImage": "cat-cleaning-frequency-and-schedules"
+  },
+  {
+    "slug": "flooring-and-surface-cleaning-costs",
+    "name": "Flooring & Surface Maintenance Costs",
+    "shortName": "Flooring Care",
+    "eyebrow": "Surface-Specific Rates",
+    "description": "Labor time and chemical cost multipliers for commercial carpet tiles, VCT/LVT vinyl, ceramic tile & grout, hardwood, and polished concrete.",
+    "isTransactional": false,
+    "targetCount": 90,
+    "ambientImage": "cat-flooring-and-surface-cleaning-costs"
+  },
+  {
+    "slug": "comparing-quotes-and-contracts",
+    "name": "Comparing Janitorial Quotes & Contracts",
+    "shortName": "Quotes & RFPs",
+    "eyebrow": "Procurement & Auditing",
+    "description": "RFP templates, bid comparison scorecards, liability insurance & bonding checks, and red flags in commercial cleaning contracts.",
+    "isTransactional": false,
+    "targetCount": 120,
+    "ambientImage": "cat-comparing-quotes-and-contracts"
+  },
+  {
+    "slug": "in-house-vs-outsourced-cleaning",
+    "name": "In-House Custodian vs Outsourced Cleaning",
+    "shortName": "In-House vs Outsourced",
+    "eyebrow": "Staffing & ROI Math",
+    "description": "Payroll taxes, workers' compensation, equipment capex, and break-even square footage comparing W-2 custodians against contracted vendors.",
+    "isTransactional": false,
+    "targetCount": 90,
+    "ambientImage": "cat-in-house-vs-outsourced-cleaning"
+  },
+  {
+    "slug": "green-cleaning-and-osha-compliance",
+    "name": "Green Cleaning, Health & OSHA Compliance",
+    "shortName": "Green & Compliance",
+    "eyebrow": "Standards & Safety",
+    "description": "OSHA Bloodborne Pathogens, EPA Safer Choice, Green Seal, LEED janitorial credits, and indoor air quality cost impacts for US offices.",
+    "isTransactional": false,
+    "targetCount": 100,
+    "ambientImage": "cat-green-cleaning-and-osha-compliance"
+  },
+  {
+    "slug": "commercial-vacuums-and-floor-machines",
+    "name": "Commercial Vacuums & Floor Machines",
+    "shortName": "Vacuums & Machines",
+    "eyebrow": "Amazon Commercial Picks",
+    "description": "Independent buying guides and head-to-head comparisons of commercial backpack vacuums, HEPA uprights, carpet extractors, and floor scrubbers on Amazon.",
+    "isTransactional": true,
+    "targetCount": 55,
+    "ambientImage": "cat-commercial-vacuums-and-floor-machines"
+  },
+  {
+    "slug": "janitorial-carts-mops-and-tools",
+    "name": "Janitorial Carts, Mops & Pro Tools",
+    "shortName": "Carts & Mop Kits",
+    "eyebrow": "Amazon Commercial Picks",
+    "description": "Buying guides for wringer mop buckets, microfiber flat-mop systems, rolling janitorial carts, trash dollies, and squeegee kits on Amazon.",
+    "isTransactional": true,
+    "targetCount": 50,
+    "ambientImage": "cat-janitorial-carts-mops-and-tools"
+  },
+  {
+    "slug": "restroom-and-breakroom-dispensers",
+    "name": "Restroom & Breakroom Dispensers",
+    "shortName": "Restroom Dispensers",
+    "eyebrow": "Amazon Commercial Picks",
+    "description": "Commercial touchless paper towel dispensers, jumbo bath tissue holders, foaming soap dispensers, and step-on office waste bins on Amazon.",
+    "isTransactional": true,
+    "targetCount": 50,
+    "ambientImage": "cat-restroom-and-breakroom-dispensers"
+  },
+  {
+    "slug": "commercial-cleaning-chemicals-and-mats",
+    "name": "Commercial Disinfectants, Liners & Mats",
+    "shortName": "Supplies & Mats",
+    "eyebrow": "Amazon Commercial Picks",
+    "description": "Buyer recommendations for EPA-registered disinfectants, neutral floor cleaners, high-density can liners, HEPA purifiers, and entrance scraper mats on Amazon.",
+    "isTransactional": true,
+    "targetCount": 45,
+    "ambientImage": "cat-commercial-cleaning-chemicals-and-mats"
+  }
+]

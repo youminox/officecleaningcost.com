@@ -1,0 +1,191 @@
+{
+  "slug": "who-supplies-toilet-paper-soap-and-liners",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/who-supplies-toilet-paper-soap-and-liners/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "vendor supplied consumables",
+  "title": "Who Supplies Toilet Paper, Hand Soap & Trash Liners? Vendor-Supplied vs. Client-Supplied Consumables Math",
+  "seoTitle": "Vendor-Supplied Consumables vs. Client-Supplied Paper & Soap Math",
+  "metaDescription": "Vendor-supplied consumables add $0.012-$0.025/sq ft per visit: compare contractor markup vs. client-supplied paper, soap, and liners in our Quote Comparator.",
+  "excerpt": "Every commercial janitorial contract draws a hard boundary between contractor-provided cleaning chemicals and tenant-paid restroom consumables. This guide breaks down the exact per-square-foot and per-employee math comparing vendor-supplied consumables against direct client purchasing.",
+  "quickAnswer": "In standard US commercial office cleaning contracts, the janitorial contractor supplies all cleaning chemicals, disinfectants, microfiber tools, and HEPA vacuums within their base rate ($0.05 to $0.20 per sq ft per visit, or $35 to $65/hr), while toilet paper, paper hand towels, liquid hand soap, and trash can liners are billed separately. Bundling vendor-supplied consumables adds $0.012 to $0.025 per sq ft per visit (roughly $3.25 to $5.80 per full-time onsite employee per month), including a 15% to 30% contractor handling and warehousing markup over direct client procurement.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic eye-level medium shot inside a well-organized commercial office janitorial supply room, stainless steel wire shelving stocked with sealed corrugated cases of jumbo bath tissue, multifold paper hand towels, and boxed heavy-duty trash can liners, clipboard hanging on rack without legible text, bright clean LED overhead lighting, sharp focus.",
+    "alt": "Organized commercial office janitorial supply closet stocked with bulk toilet tissue, paper towels, and heavy-duty trash liners"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "The Industry Default: Cleaning Supplies vs. Restroom & Breakroom Consumables"
+    },
+    {
+      "type": "p",
+      "text": "First-time office managers frequently assume that a commercial cleaning quote covers every item used inside a restroom or kitchenette. In US Building Service Contractor (BSC) terminology, however, there is a strict legal and financial distinction between 'janitorial cleaning supplies' and 'facility paper/plastic consumables.' Unless your Request for Proposal (RFP) explicitly checks the box for vendor supplied consumables, a standard base cleaning bid covers only the contractor's tools of the trade: neutral-pH floor cleaners, EPA-registered restroom disinfectants, glass cleaner, color-coded microfiber cloths, mop heads, and commercial HEPA vacuums."
+    },
+    {
+      "type": "p",
+      "text": "By contrast, items that remain inside the building for tenant and visitor consumption—specifically jumbo or standard bath tissue, multifold or roll paper hand towels, foaming or liquid hand soap, sanitary napkin disposal liners, and low-density or high-density trash can liners—are treated as variable tenant operating expenses. Why? Because consumable consumption scales with headcount density and hybrid attendance rather than square footage alone. A 10,000 sq ft call center with 110 onsite staff burns through four times as much bath tissue and hand soap as a 10,000 sq ft executive law firm with 22 onsite attorneys, even though both suites fall into the same 10,000 to 24,999 sq ft base cleaning bracket ($0.07 to $0.12 per sq ft per visit)."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "National Benchmark: Per-Sq-Ft vs. Per-Occupant Consumable Spend",
+      "text": "When bundled into a janitorial contract as a flat add-on, vendor supplied consumables typically add $0.012 to $0.025 per sq ft per visit. Across a 5x-week daily schedule (21.65 visits per month based on 4.33 weeks/month), that translates to $0.26 to $0.54 per sq ft per month—or $3.25 to $5.80 per daily onsite employee per month when tracked on an open-book per-case invoice."
+    },
+    {
+      "type": "h2",
+      "text": "Three Procurement Models for Toilet Paper, Hand Soap, and Trash Liners"
+    },
+    {
+      "type": "p",
+      "text": "Facility managers generally choose among three contract structures for managing restroom and breakroom restocking. Regardless of who buys the cases, the physical labor of checking dispensers nightly, loading fresh rolls, refilling soap cassettes, and relining receptacles is always included inside the base nightly restroom sanitation fee ($15 to $30 per restroom per visit) and general trash pull scope."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Model 1: Client-Purchased, Contractor-Restocked (Lowest Unit Cost): Your office administrator orders cases directly from a commercial supply vendor, stores them in an onsite janitor closet, and the night crew restocks dispensers from your inventory. The contractor submits a monthly low-stock alert when closet par levels drop below a two-week buffer.",
+        "Model 2: Vendor-Supplied Open-Book Cost-Plus (Best for Multi-Site Portfolios): The janitorial contractor orders, delivers, and stages all paper, soap, and liners using their master distributor volume discount, billing the exact case usage each month on a separate invoice line with a contractually capped 12% to 18% handling and delivery fee.",
+        "Model 3: Vendor-Supplied Flat Monthly All-Inclusive Rate ($0.012–$0.025/sq ft/visit): The contractor folds consumables into a fixed monthly price. While convenient for budget predictability, contractors build a 25% to 35% risk cushion into flat-rate consumable add-ons to protect themselves against headcount surges."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side Cost Math: 12,000 Sq Ft Office With 65 Onsite Employees"
+    },
+    {
+      "type": "p",
+      "text": "To see how these three models impact your annual facility budget, examine a 12,000 sq ft corporate office with 65 daily onsite employees, four multi-stall restrooms, and one breakroom, cleaned 3x weekly (13.0 visits per month using the 4.33 weeks-per-month multiplier). Base cleaning at $0.0855 per sq ft per visit ($0.09 base rate x 0.95 3x/wk multiplier) plus four restrooms ($20/visit each) and one breakroom ($18/visit) totals $1,124 per visit, or $14,612 per month. Now compare the three ways to fund paper, soap, and trash liners on top of that base labor."
+    },
+    {
+      "type": "table",
+      "caption": "Monthly & Annual Consumables Cost Comparison (12,000 Sq Ft Office, 65 Staff, 3x/Week Service = 13.0 Visits/Mo)",
+      "headers": [
+        "Consumable Procurement Model",
+        "Pricing Formula / Billing Basis",
+        "Monthly Consumables Cost",
+        "Effective Cost per Sq Ft / Visit",
+        "Annual Consumables Spend",
+        "Operational Trade-Off"
+      ],
+      "rows": [
+        [
+          "Model 1: Client Direct Purchase",
+          "Direct case orders (65 staff x $3.45/mo actual usage)",
+          "$224",
+          "$0.0014 / sq ft / visit",
+          "$2,688",
+          "Lowest cash cost; requires ~25 sq ft onsite closet storage & monthly PO placement"
+        ],
+        [
+          "Model 2: Vendor Open-Book Cost + 15%",
+          "Wholesale distributor invoice ($210/mo) + 15% handling/delivery",
+          "$242",
+          "$0.0016 / sq ft / visit",
+          "$2,904",
+          "Hands-off logistics with full invoice transparency; only $216/yr premium over self-supply"
+        ],
+        [
+          "Model 3A: Vendor Flat Add-On (Low Tier)",
+          "Fixed $0.012 / sq ft / visit x 12,000 sq ft x 13.0 visits/mo",
+          "$1,872",
+          "$0.0120 / sq ft / visit",
+          "$22,464",
+          "Massive overcharge if billed per-sq-ft on low-density or hybrid offices"
+        ],
+        [
+          "Model 3B: Vendor Flat Add-On (High Tier)",
+          "Fixed $0.025 / sq ft / visit x 12,000 sq ft x 13.0 visits/mo",
+          "$3,900",
+          "$0.0250 / sq ft / visit",
+          "$46,800",
+          "Only justifiable in ultra-high-traffic medical clinics or public retail restrooms"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Why Specifying Commercial Case Standards Cuts Restocking Waste by 22%"
+    },
+    {
+      "type": "p",
+      "text": "Whether you choose client-supplied inventory or vendor supplied consumables on an open-book schedule, your contract must specify exact commercial case capacities, ply counts, and micron thicknesses. When specs are left vague, either an office administrator buys residential retail packs that require mid-day restocking or a contractor delivers ultra-thin single-ply tissue and 6-micron liners that tear during collection."
+    },
+    {
+      "type": "p",
+      "text": "For standard commercial office restrooms, anchoring your bath tissue spec around the Tork Universal Jumbo Bath Tissue 2-Ply (12-Case) gives your facility 12 jumbo 9-in diameter rolls with 1,000 feet of 2-ply EcoLogo-certified tissue per roll (12,000 linear feet per case), drastically cutting run-out complaints and partial stub-roll waste compared to standard 4-inch residential rolls. For hand-drying stations using universal folded dispensers, the Pacific Blue Basic Folded Paper Towels (4000-Case) by Georgia-Pacific provides 4,000 EPA-compliant white multifold towels divided into 16 sleeves of 250 sheets, fitting standard wall cabinets while keeping cost-per-hand-dry predictable. And for central breakrooms, copy stations, and 55-gallon janitor collection barrels, specifying the Berry Rhino-X 38x60 Heavy-Duty 55-Gallon Liners (200-Case) delivers 17-micron high-density leak-proof strength across a 200-count bulk case, preventing coffee grounds and wet lunch waste from puncturing bags during nightly cart transport."
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Workflow to Set Up a Frictionless Consumables Restocking Program"
+    },
+    {
+      "type": "p",
+      "text": "If you opt to purchase your own consumables or switch your contractor from a flat per-square-foot fee to an open-book inventory system, implement this four-step operational control loop during contract onboarding."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Conduct a 30-Day Baseline Burn-Rate Audit",
+          "text": "Track exact case consumption of bath tissue, hand towels, foam soap refills, desk liners, and 55-gallon breakroom liners over four full workweeks (4.33 weeks/month) to establish your facility's true monthly usage per onsite employee."
+        },
+        {
+          "name": "Step 2: Establish Minimum/Maximum Closet Par Levels",
+          "text": "Post a laminated Par-Level Inventory Card inside the janitor closet specifying a 4-week maximum stock and a 1.5-week reorder trigger for every SKU so night crews never face empty shelves."
+        },
+        {
+          "name": "Step 3: Lock Access to Reserve Cases",
+          "text": "Keep two open working cases of each product on the janitor cart shelf and store sealed reserve pallets in a badge-controlled or key-locked supply room to prevent pilferage or cross-site contractor borrowing."
+        },
+        {
+          "name": "Step 4: Require Monthly Case-Count Reconciliation on Invoices",
+          "text": "If using vendor supplied consumables, require the contractor's monthly invoice to list exact case quantities delivered, unit case price, and signed receiving slips before accounts payable releases payment."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Hybrid Office Alert: Never Pay Per-Sq-Ft Flat Consumable Rates on 3-Day Hybrid Schedules",
+      "text": "If your company operates a Tuesday–Thursday hybrid attendance model where Friday and Monday headcount drops by 60%, a flat per-sq-ft consumable fee ($0.012 to $0.025/sq ft/visit) forces you to pay for 5-day peak paper consumption that never occurs. Always switch hybrid offices to open-book per-case billing or direct client purchasing."
+    },
+    {
+      "type": "cta",
+      "text": "Compare base janitorial labor against vendor-supplied consumables add-on pricing ($0.012–$0.025/sq ft/visit) for your exact square footage in our Office Cleaning Cost Calculator and Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who pays for cleaning chemicals, mop heads, and HEPA vacuum bags in a commercial janitorial contract?",
+      "a": "The janitorial contractor always provides and pays for all cleaning chemicals, EPA-registered disinfectants, glass cleaners, microfiber cloths, wet mops, and HEPA vacuum bags as part of their base hourly ($35 to $65/hr) or per-square-foot ($0.05 to $0.20/sq ft/visit) rate. You should never be billed a separate 'chemical or equipment usage fee' on top of your base cleaning agreement."
+    },
+    {
+      "q": "If we buy our own toilet paper, soap, and trash liners, can the cleaning vendor charge extra to restock the dispensers?",
+      "a": "No. Restocking toilet tissue dispensers, loading paper towel cabinets, snapping in liquid or foam soap refills, and replacing trash can liners are core nightly tasks built directly into base restroom cleaning ($15 to $30 per restroom per visit), breakroom sanitation ($12 to $25/visit), and workstation trash collection."
+    },
+    {
+      "q": "What is a fair contractor markup on vendor-supplied consumables when billed per case?",
+      "a": "Under an open-book cost-plus consumables rider, a fair contractor markup ranges from 12% to 18% above their wholesale distributor invoice. Because major janitorial contractors buy paper and plastic liners at master distributor pallet pricing (often 15% to 20% below retail office-supply prices), an open-book cost-plus-15% arrangement typically matches what a small office would pay ordering retail cases on its own, while saving your staff ordering and freight-receiving time."
+    },
+    {
+      "q": "Do OSHA HazCom rules require Safety Data Sheets (SDS) for restroom hand soap inside the janitor closet?",
+      "a": "While standard cosmetic hand soaps intended for employee washing are generally exempt from OSHA Hazard Communication (29 CFR 1910.1200) labeling compared to concentrated industrial bowl cleaners and quaternary disinfectants, best-in-class facility compliance programs still keep product specification sheets and EcoLogo/Green Seal certifications for all restroom soaps in the onsite SDS binder alongside the contractor's COI and chemical safety logs."
+    }
+  ],
+  "amazonProductIds": [
+    "tork-universal-jumbo-bath-tissue-2-ply-12-case",
+    "berry-rhino-x-38x60-heavy-duty-55-gallon-liners-200-case",
+    "pacific-blue-basic-folded-paper-towels-4000-case"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/who-supplies-toilet-paper-soap-and-liners-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/who-supplies-toilet-paper-soap-and-liners-scoring-criteria/",
+    "/comparing-quotes-and-contracts/janitorial-inspection-scorecards-and-kpis/",
+    "/restroom-and-breakroom-dispensers/best-high-traffic-restroom-dispenser-bundle-50-plus-staff/"
+  ]
+}

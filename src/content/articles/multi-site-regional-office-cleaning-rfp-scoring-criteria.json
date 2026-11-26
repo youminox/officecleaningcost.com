@@ -1,0 +1,175 @@
+{
+  "slug": "multi-site-regional-office-cleaning-rfp-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/multi-site-regional-office-cleaning-rfp-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric multi site regional office cleaning rfp",
+  "title": "Weighted Bid Evaluation Rubric for a Multi-Site Regional Office Cleaning RFP",
+  "seoTitle": "Weighted Evaluation Rubric: Multi-Site Regional Office Cleaning RFP",
+  "metaDescription": "Score regional janitorial bids with a weighted evaluation rubric for a multi-site regional office cleaning RFP: audit 3,500 sq ft/hr rates and compare bids.",
+  "excerpt": "Evaluating multi-branch janitorial proposals requires grading geographic route density, roving supervisor ratios, and branch-by-branch labor hours—not just the portfolio grand total. Use this 100-point weighted evaluation rubric to score regional commercial cleaning bidders objectively.",
+  "quickAnswer": "A commercial-grade weighted evaluation rubric for a multi site regional office cleaning rfp allocates 100 points across five criteria: Site-by-Site Labor Hour & Bracketed Pricing Realism (30 points, audited against $35–$65/hr and 3,500 sq ft/hr ISSA production standards), Regional Self-Performance & Route Density (25 points), Roving Supervision & Geofenced QA Systems (20 points), Standardized Consumables & Equipment Logistics (15 points), and Master COI / W-2 Compliance & Site Carve-Out Flexibility (10 points). Require bidders to score at least 78/100 overall with zero unapproved subcontracted branches.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Commercial real estate procurement team seated at a glass conference room table scoring regional multi-site janitorial RFP bid binders with a 100-point matrix spreadsheet, commercial cleaning cart and stainless dispenser hardware sample displayed in corner, bright natural office lighting, zero text or watermarks",
+    "alt": "Corporate procurement team scoring regional janitorial RFP proposals using a weighted bid evaluation matrix"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Multi-Site RFP Evaluation Demands a Geographic & Labor-Weighted Matrix"
+    },
+    {
+      "type": "p",
+      "text": "In a single-building janitorial bid, evaluating whether a contractor has local crew coverage is straightforward. In a 10-site or 30-site regional procurement spanning 60,000 to 250,000 combined square feet, a bidder's grand-total portfolio price can hide severe geographic gaps. One bidder may submit the lowest total portfolio bid by under-allocating nightly hours at your 35,000 sq ft headquarters while planning to subcontract five outer suburban branches to third-party operators. Another bidder may price small satellite offices (<2,500 sq ft) at an uncompetitive $135 per visit because they lack nearby mobile route density."
+    },
+    {
+      "type": "p",
+      "text": "Implementing a weighted evaluation rubric for a multi site regional office cleaning rfp standardizes how your procurement, facilities, and finance stakeholders grade every proposal. By separating site-level production math (30 points) and regional W-2 route density (25 points) from roving field supervision (20 points), hardware standardization (15 points), and legal compliance (10 points), your committee identifies which contractor can actually staff every zip code on Day 1."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Evaluation Rubric for Multi-Site Regional Office Cleaning RFPs",
+      "headers": [
+        "Scoring Dimension",
+        "Weight",
+        "Maximum Score Standard (90%–100% of Points)",
+        "Moderate Score Standard (50%–75% of Points)",
+        "Red Flag / Automatic Disqualification"
+      ],
+      "rows": [
+        [
+          "1. Site-by-Site Labor Hours & Tiered Pricing",
+          "30 Pts",
+          "Itemizes hours per branch matching 3,500 sq ft/hr ISSA pace at $35–$65/hr; bracketed rates ($0.05–$0.08 HQ; $0.09–$0.13 branch)",
+          "Reasonable portfolio total but uses blended sq-ft rate or overcharges $125+ minimums on 2x/wk satellites",
+          "Implied pace >5,200 sq ft/hr at any site or hides 5th-week surcharges outside 4.33 wks/mo math"
+        ],
+        [
+          "2. W-2 Self-Performance & Route Density",
+          "25 Pts",
+          "100% direct W-2 crews across all branch zip codes; existing commercial accounts within 10 miles of 90%+ of sites",
+          "Self-performs 75%+ of sites; uses 1 disclosed, fully insured regional partner for remote outlier branches",
+          "Undisclosed national broker model subcontracting >25% of branches or using 1099 labor"
+        ],
+        [
+          "3. Roving Field Supervision & GPS Timekeeping",
+          "20 Pts",
+          "Dedicated regional account director, <1:12 supervisor-to-cleaner ratio, geofenced clock-ins & monthly branch photo audits",
+          "Roving supervisor visits HQ weekly and satellites quarterly; manual paper sign-in logs at outer branches",
+          "No dedicated roving supervisor; relies on client branch managers to report missed cleanings"
+        ],
+        [
+          "4. Standardized Equipment & Consumables Logistics",
+          "15 Pts",
+          "Stages dedicated commercial carts/bins per site; central consumables tracking ($0.012–$0.025/sq ft/visit) with branch delivery proof",
+          "Provides standard tools and consumables but lacks branch-by-branch usage reporting",
+          "Requires crews to haul wet mops in personal trunks between branches without dedicated site closets"
+        ],
+        [
+          "5. Master COI, OSHA & Site Carve-Out Terms",
+          "10 Pts",
+          "$1M/$2M+ GL, statutory WC, $50k–$100k bond, OSHA HazCom SDS at all sites, 30-day single-site carve-out/closure right",
+          "Meets insurance minimums but requests 60-day notice on branch closures",
+          "Refuses individual branch termination carve-outs or lacks multi-state Workers' Comp endorsements"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "How to Audit Route Density on Satellite Branches (<2,500 Sq Ft)",
+      "text": "When scoring Dimension 1 and Dimension 2 for small satellite branches cleaned 1x/week (4.33 visits/mo, 1.08x multiplier) or 2x/week (8.66 visits/mo, 1.0x multiplier), inspect the vendor's proposed per-visit minimum. A contractor with strong existing route density in that suburb can pair your 1,800 sq ft branch with two neighboring commercial clinics on the same evening shift, quoting $85 to $105 per visit. A contractor with no nearby accounts must pay a cleaner for 45 minutes of deadhead driving, forcing their bid up to $125 to $145+ per visit."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Standardized Site Equipment and Restroom Hardware Readiness"
+    },
+    {
+      "type": "p",
+      "text": "Dimension 4 (15 points) evaluates whether each bidder commits to staging dedicated, commercial-grade equipment inside every branch's janitorial closet rather than cross-contaminating mops and open trash bags in the back of a route vehicle. High-scoring multi-site proposals specify exact commercial hardware models across every location in the portfolio:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Uniform Restroom Dispenser Compatibility: Verify that the contractor's supply logistics support durable architectural fixtures across all branches, such as the Bobrick B-262 ClassicSeries Surface-Mounted Folded Towel Dispenser (satin-finish 304 stainless steel cabinet with tumbler lock holding 400 C-fold or 525 multifold towels), preventing unauthorized plastic dispenser swap-outs at satellite offices.",
+        "Dedicated On-Site Cart Staging for Anchor & Mid-Size Hubs: Require bidders on 10,000+ sq ft branches to stage a dedicated Rubbermaid Commercial High-Capacity Janitorial Cleaning Cart on site—featuring a 34-gallon zippered vinyl bag, three structural web shelves with 40% more capacity, 8-inch rear wheels, and a locking cabinet door for secure chemical storage.",
+        "Ergonomic Central Waste Collection Across All Tiers: Award full equipment marks when bidders equip branch utility closets and breakroom collection rounds with the Rubbermaid Commercial Brute 44-Gallon Vented Trash Can, constructed from NSF-listed LLDPE resin with four integrated venting channels that reduce liner pull force by 50% and prevent back-strain injuries or torn liners on branch carpets."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step Committee Workflow for Scoring Multi-Site Proposals"
+    },
+    {
+      "type": "p",
+      "text": "To keep a 10-site or 25-site RFP evaluation objective and fast, run your selection committee through this four-stage scoring protocol:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Stage 1: Normalize the Branch-by-Branch Bid Spreadsheet",
+          "text": "Reject any lump-sum portfolio quote. Require all bidders to complete your locked Excel/CSV template showing each branch's cleanable sq ft, weekly frequency (using 4.33 weeks/month: 8.66 visits for 2x/wk, 13.0 for 3x/wk, 21.65 for 5x/wk), nightly labor hours, hourly bill rate ($35–$65/hr), base monthly fee, consumables estimate ($0.012–$0.025/sq ft/visit), and quarterly floor care rate ($0.03–$0.06/sq ft/mo)."
+        },
+        {
+          "name": "Stage 2: Run the Production-Pace Variance Filter",
+          "text": "Calculate each bidder's implied square feet per labor hour at every branch (Cleanable Sq Ft ÷ Nightly Labor Hours). Deduct 10 points immediately from any bidder whose proposed hours imply a pace above 4,500 sq ft/hr on mixed flooring (1.05x) or tile/grout restrooms (1.12x), and disqualify bids exceeding 5,200 sq ft/hr."
+        },
+        {
+          "name": "Stage 3: Verify Zip-Code W-2 Density & Supervisor Ratios",
+          "text": "Map each finalist's active commercial accounts and field supervisor home bases against your branch addresses. Award the full 25 route-density points and 20 supervision points only to contractors demonstrating direct W-2 coverage and geofenced inspection reporting within 15 miles of your outer branches."
+        },
+        {
+          "name": "Stage 4: Conduct Reference Audits with Multi-Branch Peers",
+          "text": "Interview at least two current multi-site clients (minimum 5+ locations managed under one MSA) to verify invoice accuracy, outer-branch consistency after Month 6, and responsiveness to 15-day cure notices."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "When to Split a Regional Award Across Two Zone Winners"
+    },
+    {
+      "type": "p",
+      "text": "After tallying your 100-point matrix by individual branch and by geographic zone, you may discover that Contractor A scores 94/100 in your Northern Metro Zone (where their headquarters and 120 W-2 cleaners are based) but drops to 68/100 in your Southern Corridor 60 miles away, while Contractor B shows the exact inverse strength. Rather than forcing a single compromise award, split the portfolio into two Master Services Agreements by zone. Managing two high-performing regional self-performers (90+ points each) delivers far cleaner facilities and lower total cost than hiring one overextended vendor across incompatible territories."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to benchmark every branch office in your multi-site RFP before scoring vendor spreadsheets? Enter your branch square footages, flooring types, and visit frequencies into our Office Cleaning Cost Calculator & Quote Comparator to build your master evaluation baseline."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the single most predictive scoring metric in a multi-site janitorial RFP?",
+      "a": "Branch-level labor hour disclosure paired with existing W-2 route density within 10 to 15 miles of each branch location (totaling 55 of the 100 points). A contractor who commits realistic daily hours (around 3,500 sq ft/hr ISSA pace) and already operates nearby W-2 commercial routes will outperform a cheaper broker every time."
+    },
+    {
+      "q": "How do you score supervision ratios across widely dispersed regional offices?",
+      "a": "Evaluate both the roving supervisor-to-cleaner ratio (ideally 1 roving field supervisor per 10 to 15 frontline cleaners or per 8 to 10 satellite branches) and the technology stack. Award full points (20/20) only when the contractor pairs in-person monthly branch audits with real-time smartphone GPS geofenced clock-ins that alert dispatch within 15 minutes of a missed evening arrival."
+    },
+    {
+      "q": "Should we allow bidders to bid on partial geographic lots in a multi-site RFP?",
+      "a": "Yes. Structuring your RFP into 2 or 3 geographic lots (with an option to bid on individual lots or the combined portfolio with a volume discount) prevents smaller, high-quality regional self-performers from being locked out and gives your scoring committee leverage against national brokers."
+    },
+    {
+      "q": "What contract flexibility criteria should carry the full 10 points in Dimension 5?",
+      "a": "To earn all 10 points in Compliance & Contract Flexibility, a bidder must accept three clauses without redline resistance: (1) single-site partial termination after a 15-day cure failure without voiding the master agreement, (2) 30-day penalty-free deletion of closed or relocated branches, and (3) pre-locked bracketed square-foot pricing for newly acquired branch offices."
+    }
+  ],
+  "amazonProductIds": [
+    "bobrick-b-262-classicseries-surface-mounted-folded-towel-dispens",
+    "rubbermaid-commercial-high-capacity-janitorial-cleaning-cart",
+    "rubbermaid-commercial-brute-44-gallon-vented-trash-can"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/evaluating-janitorial-supervision-ratios/",
+    "/comparing-quotes-and-contracts/evaluating-janitorial-supervision-ratios-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/evaluating-janitorial-supervision-ratios-scoring-criteria/",
+    "/commercial-cleaning-chemicals-and-mats/best-quiet-hepa-air-purifiers-for-therapy-and-law-offices/"
+  ]
+}

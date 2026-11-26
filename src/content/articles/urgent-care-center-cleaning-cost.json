@@ -1,0 +1,84 @@
+{
+  "slug": "urgent-care-center-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/urgent-care-center-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "urgent care center rates",
+  "title": "Urgent Care Center Rates: Facility Maintenance Pricing & Annual Cleaning Budget Guide",
+  "seoTitle": "Urgent Care Center Rates: Cleaning Cost per Sq Ft & Annual Budget",
+  "metaDescription": "Urgent care center rates for janitorial: $2.47-$4.12 per sq ft monthly at 7x/week for a 4,500 sq ft clinic. Model restrooms and frequency in our calculator.",
+  "excerpt": "Urgent care clinics pay well above standard office cleaning rates because they run seven days, carry one restroom per 900-1,200 sq ft, and see hundreds of walk-in patients a week. This guide shows the per-visit, monthly, and annual math so you can build a defensible budget line before you send out an RFP.",
+  "quickAnswer": "Most US urgent care centers of 3,500-6,000 sq ft pay roughly $285-$815 per nightly visit for base janitorial on VCT floors, or about $8,600-$24,700 per month when cleaned seven nights a week (30.33 visits per month). A typical 4,500 sq ft clinic with five restrooms lands near $13,400-$23,100 per month before quarterly floor care, which works out to about $2.47-$4.12 per sq ft per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic late-evening scene inside a closed suburban US urgent care center waiting room, empty vinyl chairs in rows, a janitor in navy scrubs and nitrile gloves wet-mopping glossy VCT flooring near a check-in counter, cool overhead LED lighting mixed with dark windows, wide-angle shot from the entry vestibule at waist height, no text, no logos, no signage, no watermarks",
+    "alt": "Janitor mopping the vinyl floor of an empty urgent care waiting room after closing time"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why urgent care cleaning costs more than a standard office" },
+    { "type": "p", "text": "An urgent care center looks like a small medical office on a floor plan, but it behaves like a mini emergency department. Doors open at 8 a.m., close at 8 or 9 p.m., and stay that way seven days a week. A 4,500 sq ft clinic routinely sees 80 to 150 walk-in patients per day, most of them symptomatic, many with children in tow. Every one of those visits touches a check-in kiosk, a clipboard or tablet, a waiting chair, an exam table, a restroom, and a door handle on the way out. That traffic load, not the square footage, is what drives the bid." },
+    { "type": "p", "text": "Three factors separate urgent care pricing from the general office benchmarks most buyers see first: frequency (seven nights instead of three or five), restroom density (often one fixture room per 900-1,200 sq ft versus one per 2,500-5,000 sq ft in an office), and hard-floor wear from rolling stools, wheelchairs, and wet-weather foot traffic. Each of those pushes labor minutes up, and labor is 60-70% of any janitorial contract." },
+    { "type": "h2", "text": "Benchmark urgent care center rates by clinic size" },
+    { "type": "p", "text": "The table below applies national size-bracket rates to a seven-night schedule on VCT or LVT flooring, the most common urgent care floor finish. The seven-day frequency multiplier (0.87) reflects the per-visit efficiency a crew gains when it cleans the same space every night, but the 30.33 visits per month still makes the monthly total the largest of any office category. Restroom fees and add-ons are excluded here so you can see the base building cost alone." },
+    { "type": "table", "caption": "Base janitorial cost for urgent care clinics, VCT flooring, 7 nights per week (excludes restrooms and add-ons)", "headers": ["Clinic size", "Rate bracket ($/sq ft per visit)", "Per-visit base", "Monthly base (30.33 visits)", "Per sq ft per month"], "rows": [
+      ["2,000 sq ft (satellite / occ-health)", "$0.12-$0.20", "$217-$362", "$6,586-$10,977", "$3.29-$5.49"],
+      ["3,500 sq ft (small freestanding)", "$0.09-$0.15", "$285-$475", "$8,644-$14,407", "$2.47-$4.12"],
+      ["4,500 sq ft (typical retail pad site)", "$0.09-$0.15", "$366-$611", "$11,114-$18,524", "$2.47-$4.12"],
+      ["7,500 sq ft (urgent care + imaging)", "$0.09-$0.15", "$611-$1,018", "$18,524-$30,873", "$2.47-$4.12"],
+      ["12,000 sq ft (hybrid urgent/primary care)", "$0.07-$0.12", "$760-$1,303", "$23,052-$39,517", "$1.92-$3.29"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Worked example: 4,500 sq ft clinic, five restrooms", "text": "Base: 4,500 sq ft x $0.09-$0.15 x 1.04 (VCT) x 0.87 (7x/week) = $366-$611 per visit. Restrooms: 5 x $15-$30 = $75-$150. Breakroom add-on: $12-$25. Total per visit: about $453-$786. Monthly: x 30.33 visits = $13,753-$23,832. Add quarterly VCT scrub-and-recoat amortized at $0.03-$0.06 per sq ft ($135-$270 per month) and the realistic all-in budget is roughly $13,900-$24,100 per month, or $167,000-$289,000 per year." },
+    { "type": "h2", "text": "Restroom density: the hidden cost driver" },
+    { "type": "p", "text": "Urgent care floor plans are restroom-heavy because of specimen collection, ADA requirements in every patient-facing restroom, and separate staff facilities. A 4,500 sq ft clinic with four patient restrooms and one staff restroom carries five fixture rooms, each billed at roughly $15-$30 per visit on top of the square-foot rate. That is $2,275-$4,550 per month on a seven-night schedule from restrooms alone. In a general office of the same size, you would expect two restrooms and about $910-$1,820 per month." },
+    { "type": "p", "text": "Ask bidders to break out restroom pricing as a separate line. It lets you compare apples to apples and gives you leverage if you later consolidate a restroom during a remodel. It also exposes vendors who bury restroom labor inside an inflated square-foot rate. Restroom dispensers matter too: high-capacity units such as the Tork Twin Jumbo T2 (two 9-inch jumbo rolls with stub-roll changeover and a keyed lock) and a touchless roll-towel unit like the Georgia-Pacific enMotion 10-inch dispenser reduce the run-outs that generate daytime complaint calls between night visits." },
+    { "type": "h2", "text": "Frequency: why seven nights is the default" },
+    { "type": "p", "text": "Some operators try to save money by cleaning five nights and having medical assistants wipe down on weekends. That works on paper and fails on Monday morning. Weekend volume at urgent care is often the highest of the week, and clinical staff are not trained or equipped for floor care, restroom detail, or trash and linen removal. The comparison below uses the same 4,500 sq ft clinic with five restrooms." },
+    { "type": "table", "caption": "Frequency comparison, 4,500 sq ft urgent care, VCT, five restrooms (base plus restrooms)", "headers": ["Schedule", "Visits per month", "Per-visit cost", "Monthly cost", "Operational fit"], "rows": [
+      ["3x per week", "13.0", "$475-$817", "$6,177-$10,620", "Not viable; four uncleaned nights of patient traffic"],
+      ["5x per week (Mon-Fri)", "21.65", "$454-$782", "$9,831-$16,926", "Only for weekday-only occupational health clinics"],
+      ["7x per week (nightly)", "30.33", "$441-$761", "$13,389-$23,073", "Standard for walk-in urgent care with weekend hours"]
+    ] },
+    { "type": "p", "text": "Notice that the per-visit price drops as frequency rises. A crew that cleans nightly never faces a three-day soil buildup, so each visit is faster. The monthly total still climbs, which is why the budget conversation should focus on per-visit efficiency and scope clarity, not on cutting nights." },
+    { "type": "h2", "text": "Traffic wear and flooring choices" },
+    { "type": "p", "text": "Most urgent care centers use VCT or sheet vinyl in clinical areas and carpet tile only in administrative offices, if at all. VCT carries a 1.04 multiplier over carpet because it needs nightly damp mopping with a neutral cleaner or disinfectant, periodic high-speed burnishing, and a quarterly scrub-and-recoat. Ceramic tile in restrooms and procedure rooms pushes the multiplier to 1.12 because grout lines trap soil and need agitation. If you are building out a new clinic, sealed sheet vinyl with heat-welded seams and coved base is the lowest lifetime-cost choice: fewer seams, no grout, and fast disinfectant dwell without moisture intrusion." },
+    { "type": "ul", "items": [
+      "Entry vestibule and waiting room: highest soil load; specify walk-off matting in the scope and require it vacuumed nightly.",
+      "Exam rooms: damp mop nightly with an EPA-registered disinfectant; clinical staff handle exam table paper and between-patient wipes.",
+      "Procedure and X-ray rooms: tile or sheet vinyl, disinfect floor and high-touch surfaces nightly, terminal clean on request.",
+      "Corridors: auto-scrubber or microfiber flat mop depending on width; burnish weekly to hold gloss.",
+      "Restrooms: full disinfection nightly, grout detail monthly, dispensers restocked to full each visit."
+    ] },
+    { "type": "h2", "text": "How to build the annual budget line" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage", "text": "Use the cleanable area from your lease exhibit or CAD plan, not gross rentable square feet. Mechanical rooms, server closets, and secured drug storage are usually excluded." },
+      { "name": "Count fixture rooms and flooring types", "text": "List every restroom, including specimen and staff restrooms, and note which rooms are VCT, sheet vinyl, tile, or carpet tile." },
+      { "name": "Set frequency by operating hours", "text": "Match cleaning nights to open days. Seven-day clinics need seven nights; weekday occupational health sites can run five." },
+      { "name": "Add periodic work", "text": "Amortize quarterly floor care at $0.03-$0.06 per sq ft per month and budget for semiannual high dusting and vent cleaning." },
+      { "name": "Layer compliance and contingency", "text": "Add 12-25% for bloodborne pathogen training, EPA-registered disinfectants, background checks, and overnight access, plus a 5% contingency for on-call terminal cleans." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch for scope gaps in low bids", "text": "Bids that come in under about $2.00 per sq ft per month on a seven-night urgent care schedule almost always exclude something: restroom detail, consumables restocking, burnishing, or the use of hospital-grade disinfectants. Ask for a task-frequency matrix and a chemical list with EPA registration numbers before you compare totals." },
+    { "type": "cta", "text": "Plug your clinic's square footage, restroom count, flooring, and seven-night schedule into the Office Cleaning Cost Calculator to get a per-visit and monthly range, then upload competing bids to the Quote Comparator to spot missing scope lines." }
+  ],
+  "faqs": [
+    { "q": "How is the monthly cost calculated from a per-visit urgent care rate?", "a": "Multiply the per-visit price by the visits per month. Contracts use 52 weeks divided by 12 months, or 4.333 weeks per month, so a seven-night schedule equals about 30.33 visits and a five-night schedule equals 21.65. A clinic billed $450 per visit at seven nights pays about $13,650 per month, not $12,600 as a four-week shortcut would suggest." },
+    { "q": "Should an urgent care cleaning contract include consumables like paper towels and soap?", "a": "It can, at roughly $0.012-$0.025 per sq ft per visit, which is about $54-$113 per night for a 4,500 sq ft clinic. Many operators buy paper and soap through their medical supply distributor and have the janitorial vendor only restock. Either way, write the restocking duty and par levels into the scope so dispensers are full when doors open." },
+    { "q": "What insurance should an urgent care janitorial vendor carry?", "a": "Request a certificate of insurance showing at least $1 million per occurrence and $2 million aggregate general liability, statutory workers' compensation, commercial auto, and a janitorial bond or third-party crime coverage. Name the clinic operator and landlord as additional insureds. Healthcare operators increasingly ask for pollution liability as well because of disinfectant chemical use." },
+    { "q": "Does the janitorial vendor handle sharps containers and red-bag waste?", "a": "No. Regulated medical waste is collected by a licensed medical waste hauler under state rules. The janitorial scope should state that cleaners do not touch sharps containers or red bags, and that they wipe only the exterior surfaces around them. Cleaners still need OSHA bloodborne pathogen training under 29 CFR 1910.1030 because of incidental exposure." },
+    { "q": "Is a green-certified cleaning program realistic in urgent care?", "a": "Partly. Green Seal GS-37 or UL ECOLOGO general cleaners work well for glass, offices, and breakrooms, but patient-care surfaces need EPA-registered disinfectants with label claims for the pathogens your clinic sees. A blended program, with certified products in non-clinical zones and registered disinfectants in clinical zones, is common and defensible." }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel",
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2",
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/urgent-care-center-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/urgent-care-center-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/diagnostic-lab-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/tork-universal-multifold-vs-pacific-blue-basic/"
+  ]
+}

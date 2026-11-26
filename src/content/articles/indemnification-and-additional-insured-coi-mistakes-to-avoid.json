@@ -1,0 +1,205 @@
+{
+  "slug": "indemnification-and-additional-insured-coi-mistakes-to-avoid",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi-mistakes-to-avoid/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "billing traps mistakes indemnification and additional insured coi",
+  "title": "What Vendors Leave Out of Additional Insured Endorsements: Costly COI Mistakes & Billing Traps",
+  "seoTitle": "Additional Insured COI Mistakes & Billing Traps in Cleaning Contracts",
+  "metaDescription": "Indemnification and additional insured COI mistakes: catch missing CG 20 37 forms, subcontractor gaps, and $0.12/sq ft insurance surcharges. Compare quotes.",
+  "excerpt": "Accepting a summary COI without auditing the underlying policy exclusions can leave your business completely uninsured for morning slip-and-falls and 1099 subcontractor injuries. Discover the six most dangerous COI omissions and insurance billing traps in commercial cleaning contracts.",
+  "quickAnswer": "The most common mistakes facility managers make with indemnification and additional insured COIs include accepting an ACORD 25 without the CG 20 37 Completed Operations endorsement, failing to detect 'Ghost' Workers' Comp policies that exclude 1099 subcontractors, omitting the Primary and Non-Contributory endorsement (CG 20 01), and paying bogus 4% to 8% 'insurance administration surcharges' on top of standard $0.07 to $0.15/sq ft ($35 to $65/hr) cleaning rates.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a commercial property risk manager in a modern US office suite examining insurance policy endorsement forms with a magnifying glass beside a laptop and janitorial service binder, glass conference room partitions in background, bright natural office lighting, no readable text or logos",
+    "alt": "Commercial risk manager auditing janitorial additional insured COI endorsements in an office conference room"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How Incomplete Cleaning COIs Shift Six-Figure Liability Back to Tenants"
+    },
+    {
+      "type": "p",
+      "text": "When comparing janitorial quotes for a 10,000 to 24,999-square-foot commercial office ($0.07 to $0.12 per square foot benchmark at 21.65 visits per month for 5x/week service), every single bidder will check 'Yes' when asked if they carry $1,000,000 / $2,000,000 in General Liability insurance, Workers' Compensation, and a Janitorial Bond. However, in the commercial cleaning industry, checking 'Yes' on an RFP questionnaire and delivering legally enforceable risk transfer are two completely different realities."
+    },
+    {
+      "type": "p",
+      "text": "Over 60% of initial Certificates of Insurance (COIs) submitted by janitorial contractors fail basic corporate risk-management audits. Some omissions are accidental errors by busy insurance brokers who send a generic ACORD 25 without attaching the policy endorsement pages. Other omissions are deliberate cost-cutting maneuvers—such as purchasing a cheap 'Ghost' Workers' Compensation policy covering zero payroll while staffing your building with uninsured 1099 subcontractors, or tacking surprise 'COI administrative surcharges' onto your monthly invoice after contract execution."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "The 'Ghost Policy' Workers' Comp Trap",
+      "text": "An ACORD 25 can display an active Workers' Compensation policy number with Statutory Limits even when the policy covers $0 in actual employee payroll. If the vendor staffs your night crew with 1099 independent contractors and a cleaner suffers a serious fall or needle-stick injury in your suite, state labor boards routinely pierce the contractor veil and hold the premises tenant and building owner liable as the statutory employer."
+    },
+    {
+      "type": "h2",
+      "text": "6 Fatal COI Omissions & Insurance Billing Traps to Catch"
+    },
+    {
+      "type": "p",
+      "text": "Before approving a janitorial vendor for building access or releasing their first monthly payment, cross-check their insurance submission and contract pricing schedule against the six high-risk traps detailed below."
+    },
+    {
+      "type": "table",
+      "caption": "Top 6 Indemnification & Additional Insured COI Mistakes and Billing Traps",
+      "headers": [
+        "COI Omission or Billing Trap",
+        "What the Vendor Submits",
+        "Hidden Financial / Legal Exposure",
+        "Mandatory Verification & Contract Fix"
+      ],
+      "rows": [
+        [
+          "1. Missing CG 20 37 (Completed Operations)",
+          "Broker attaches only ISO CG 20 10 (Ongoing Operations) endorsement",
+          "Zero Additional Insured defense for 8:30 AM slip-and-falls after night crew leaves",
+          "Mandate both CG 20 10 and CG 20 37 (or dual-trigger blanket equivalent) attached to COI"
+        ],
+        [
+          "2. Uninsured 1099 Subcontractor Exclusion",
+          "CGL policy contains ISO CG 22 94 or carrier 'Subcontractor Exclusion' rider",
+          "CGL carrier denies all property damage or injury claims caused by subcontracted crews",
+          "Ban 1099 subcontracting in MSA and require proof of W-2 payroll matching Workers' Comp class 9014"
+        ],
+        [
+          "3. Bogus 'COI & Bond Admin Surcharges'",
+          "Vendor quotes $0.08/sq ft base rate, then adds a 6% 'Insurance & COI Fee' on invoice",
+          "Inflates a $2,000/mo contract by $120/mo ($1,440/yr) above quoted bid",
+          "Stipulate all insurance, endorsements, and waiver costs are bundled into the base rate ($35–$65/hr)"
+        ],
+        [
+          "4. Missing Primary & Non-Contributory (CG 20 01)",
+          "ACORD 25 description box says 'Primary' without attached CG 20 01 policy endorsement",
+          "Vendor's insurer forces your corporate CGL policy to split defense and settlement costs 50/50",
+          "Require physical ISO CG 20 01 endorsement page so vendor's policy pays 100% first-dollar defense"
+        ],
+        [
+          "5. Privity-of-Contract Gap for Landlords",
+          "Vendor uses Blanket AI form CG 20 33, which only covers parties in direct contract with vendor",
+          "Your building landlord and property manager are denied Additional Insured status in a lawsuit",
+          "Require ISO CG 20 38 (covers any upstream party required by contract) or scheduled CG 20 10/37"
+        ],
+        [
+          "6. First-Party Only Dishonesty Bond",
+          "ACORD 25 lists '$25,000 Employee Dishonesty' without Third-Party Client Property coverage",
+          "Bond covers theft from the cleaning company itself, paying $0 when tenant laptops are stolen",
+          "Verify explicit 'Third-Party / Client Property Rider' naming tenant property on crime declaration"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Mistake #1: Accepting CG 20 33 When Your Landlord Requires Upstream Coverage"
+    },
+    {
+      "type": "p",
+      "text": "When a tenant hires their own commercial cleaning service directly (common in single-tenant buildings, medical suites, and Class B/C net-leased offices), the tenant signs the contract with the janitorial vendor, while the Building Landlord requires the tenant to ensure the landlord and property management firm are also named as Additional Insureds. This three-way relationship creates a classic insurance trap known as the **Privity of Contract Gap**."
+    },
+    {
+      "type": "p",
+      "text": "Many janitorial insurance policies use the standard **ISO CG 20 33** Automatic Additional Insured endorsement. Under strict judicial interpretation in states across the US, CG 20 33 extends Additional Insured coverage *only* to the organization that directly signed the written contract with the cleaning company (you, the tenant). Because the Building Owner and Property Manager did not countersign your cleaning agreement, they lack 'direct privity of contract'—and the vendor's insurer can flatly reject the landlord's tender of defense after a slip-and-fall in your reception area. That triggers a breach of your office lease's indemnification covenant, forcing your company to pay the landlord's legal bills out of pocket. Always verify that the vendor's policy utilizes **ISO CG 20 38** (which extends blanket coverage to any upstream entity you are contractually required to include) or specifically schedules the landlord's legal LLC name on a CG 20 10 / CG 20 37 endorsement."
+    },
+    {
+      "type": "h2",
+      "text": "Mistake #2: Falling for Post-Award 'Endorsement & Waiver' Billing Surcharges"
+    },
+    {
+      "type": "p",
+      "text": "In standard US commercial janitorial pricing, all overhead associated with statutory insurance—Commercial General Liability, Workers' Compensation, Umbrella excess coverage, Third-Party Crime Bonds, and standard ISO endorsements—is fully absorbed inside the benchmark loaded hourly rate of $35 to $65 per hour (or $55 to $95 per hour for specialty restoration crews). That loaded structure already underpins the national square-foot benchmarks ($0.12–$0.20/sq ft under 2,500 sq ft; $0.09–$0.15/sq ft for 2,500–9,999 sq ft; $0.07–$0.12/sq ft for 10,000–24,999 sq ft; and $0.05–$0.10/sq ft for 25,000+ sq ft)."
+    },
+    {
+      "type": "p",
+      "text": "However, a growing billing trap among aggressive low-ball bidders is to exclude their endorsement costs during the RFP and then submit a Change Order during onboarding claiming: *'Our carrier charges $350 per Additional Insured entity plus $400 for a Waiver of Subrogation and a 5% monthly Risk Management Fee.'* Do not pay these phantom surcharges. Almost all commercial janitorial CGL packages written by reputable carriers include blanket Additional Insured, Primary and Non-Contributory, and Waiver of Subrogation endorsements for a flat annual policy fee of $150 to $300 total across the contractor's entire book of business. Insert an explicit RFP rule that any insurance endorsement fees or administrative percentages are strictly disallowed."
+    },
+    {
+      "type": "h2",
+      "text": "Mistake #3: Overlooking Puncture & Slip Hazards That Trigger Claims"
+    },
+    {
+      "type": "p",
+      "text": "Even with perfect Indemnification and Additional Insured endorsements, a workplace injury or OSHA Bloodborne Pathogens (29 CFR 1910.1030) exposure inside your building disrupts operations and drives up long-term contract costs. Specifying puncture-resistant liners and high-capacity restroom consumables in your daily maintenance scope ($0.012 to $0.025/sq ft/visit consumable add-on benchmark) eliminates the physical hazards that trigger Workers' Comp and General Liability claims:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Preventing Laceration & Puncture Claims in Breakrooms: Thin bargain trash bags split open when filled with broken coffee mugs, sharp food packaging, or copy-room binding wire, causing leg lacerations and liquid spills on VCT corridors (1.04 flooring multiplier). Specifying Genuine Joe 33x39 Heavy-Duty 33-Gallon Can Liners (100-Case, constructed at a thick 1.5-mil gauge in a convenient flat pack) protects night cleaners from puncture injuries and prevents wet trail leaks across freshly buffed floors.",
+        "Standardizing Safe Deskside Collection: For low-weight dry paper waste at employee cubicles, staging Boardwalk 24x33 Low-Cost Office Deskside Trash Can Liners (1000-Case, 8-micron high-density polyethylene on coreless rolls for 12–16 quart bins) allows cleaners to pull and tie bags cleanly without reaching bare hands into blind wastebaskets.",
+        "Reducing Restroom Fixture Servicing Frequency: High-traffic commercial restrooms ($15 to $30 per-visit base benchmark, often featuring Ceramic Tile & Grout at a 1.12 multiplier) experience fewer wet-floor rushes and maintenance incidents when equipped with Scott Essential Jumbo Roll Toilet Paper 2-Ply (12-Case, providing 12 x 1,000 ft rolls or 12,000 linear feet per case on a 3.25-in core), minimizing mid-day dispenser checks."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Contract Redline Checklist to Eliminate COI Loopholes"
+    },
+    {
+      "type": "p",
+      "text": "Protect your organization before executing a commercial cleaning agreement by adding these four non-negotiable redlines to the Insurance and Indemnification section:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Tie First Invoice Payment to Verified Endorsement Delivery",
+          "text": "State explicitly in the Payment Terms section: 'Delivery of an ACORD 25 Certificate of Insurance accompanied by physical ISO policy endorsements CG 20 10, CG 20 37 (or CG 20 38), CG 20 01, CG 24 04, and WC 00 03 13 is a strict condition precedent to Client's obligation to pay any monthly or project invoice.'"
+        },
+        {
+          "name": "Prohibit 'Sole Negligence' Escape Hatches in Indemnification",
+          "text": "Ensure the contractor's indemnification obligation covers any claim 'arising in whole or in part out of Contractor's operations or omissions,' except to the extent caused by the Client's sole gross negligence. Beware of vendor contracts that nullify indemnification if the tenant is even 1% contributorily negligent."
+        },
+        {
+          "name": "Require an Officer Affidavit of 100% W-2 Staffing",
+          "text": "Require the vendor to sign a compliance attestation certifying that every individual assigned to your premises is a direct W-2 employee covered under the scheduled Workers' Compensation policy—and require an updated state quarterly payroll tax/WC summary upon annual renewal."
+        },
+        {
+          "name": "Mandate 30-Day Cancellation Notice & Direct Carrier Ratings",
+          "text": "Require all policies to be underwritten by carriers holding an A.M. Best rating of 'A- VII' or better, and require the vendor to provide 30 days' prior written notice of any policy cancellation, non-renewal, or material reduction in limits (10 days for non-payment of premium)."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Watch Out for Care, Custody, and Control (CCC) Exclusions",
+      "text": "Standard CGL policies exclude damage to 'personal property in the care, custody, or control of the insured.' If a cleaner sprays corrosive acidic bowl cleaner onto a $15,000 custom marble reception desk or saturates a conference room smart-board while cleaning, some carriers invoke the CCC exclusion. Verify that the vendor's CGL policy either limits the CCC exclusion to property physically removed from your premises or includes a $25,000–$50,000 Broad Form Property Damage / CCC buy-back endorsement."
+    },
+    {
+      "type": "cta",
+      "text": "Want to see how a fully insured, W-2 compliant janitorial bid compares to your current monthly spend? Enter your square footage, flooring type, and cleaning frequency into our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Is text typed into the 'Description of Operations' box on an ACORD 25 legally binding?",
+      "a": "No. Even if an insurance agent types 'Certificate Holder and Landlord are named as Additional Insured on a Primary and Non-Contributory basis with Waiver of Subrogation' into the bottom Description of Operations box on the ACORD 25, courts across the United States routinely rule that the ACORD summary box cannot override the actual insurance policy. You are only covered if the underlying policy contains the matching ISO endorsement forms (CG 20 10, CG 20 37, CG 20 01, CG 24 04, WC 00 03 13)."
+    },
+    {
+      "q": "How can we tell if a janitorial bidder is using a 'Ghost' Workers' Compensation policy?",
+      "a": "Look closely at the Workers' Compensation line on the ACORD 25 and request the policy's Information Page (Declarations Page, Item 4). On a Ghost policy, the 'Any Proprietor/Partner/Executive Officer/Member Excluded?' box is often checked 'Y' (Yes), and the Declarations page lists an estimated annual payroll of '$0' or 'If Any' under NCCI Class Code 9014 (Janitorial Services). A legitimate commercial cleaning firm serving 10,000+ sq ft accounts will show substantial six- or seven-figure annual payroll under Class 9014."
+    },
+    {
+      "q": "What happens if our cleaning vendor's policy is written on a 'Claims-Made' basis instead of 'Occurrence'?",
+      "a": "Never accept a Claims-Made General Liability policy from a janitorial vendor. On an Occurrence policy (checked on the ACORD 25 CGL row), the policy active on the night of the accident pays the claim even if the injured visitor files their lawsuit 18 months later after you have fired the cleaning vendor. On a Claims-Made policy, if the vendor drops coverage or goes out of business before the lawsuit is filed, your Additional Insured protection vanishes completely."
+    },
+    {
+      "q": "Should our janitorial COI also include Commercial Auto Liability if the crew doesn't drive our company vehicles?",
+      "a": "Yes. Require at least $1,000,000 Combined Single Limit (CSL) Commercial Auto Liability covering Scheduled, Hired, and Non-Owned Autos. Janitorial supervisors and mobile floor-care crews drive panel vans and personal vehicles onto your property parking lot, loading docks, and pedestrian plazas every night. If a vendor truck backs into your building's glass curtain wall, strikes a tenant vehicle, or hits a pedestrian in your parking deck, Auto Liability—not General Liability—responds."
+    }
+  ],
+  "amazonProductIds": [
+    "scott-essential-jumbo-roll-toilet-paper-2-ply-12-case",
+    "boardwalk-24x33-low-cost-office-deskside-trash-can-liners-1000-c",
+    "genuine-joe-33x39-heavy-duty-33-gallon-can-liners-100-case"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi-scoring-criteria/",
+    "/comparing-quotes-and-contracts/how-to-fire-and-transition-cleaning-vendors/",
+    "/comparing-quotes-and-contracts/how-to-fire-and-transition-cleaning-vendors-mistakes-to-avoid/",
+    "/commercial-cleaning-chemicals-and-mats/best-low-profile-ada-entrance-mats-for-office-doors/"
+  ]
+}

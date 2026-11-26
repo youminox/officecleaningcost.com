@@ -1,0 +1,230 @@
+{
+  "slug": "two-person-in-house-custodial-team-budget-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/two-person-in-house-custodial-team-budget-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template two person custodial",
+  "title": "All-In Cost Ledger & Capex Template: Two-Person Custodial Team ROI Worksheet",
+  "seoTitle": "Capex Template: Two-Person Custodial Team All-In Cost Ledger & ROI",
+  "metaDescription": "Capex template for a two-person custodial team: line-item ledger for 4,160 labor hours, workers' comp, and supply restock. Benchmark with our calculator.",
+  "excerpt": "Building an executive business case for a two-person in-house custodial team requires a complete general-ledger worksheet covering 4,160 annual W-2 labor hours, dual benefits packages, startup equipment capex, and internal PTO cross-coverage. Use this line-item CFO cost ledger and ROI checklist to audit your 45,000 to 60,000-square-foot facility budget.",
+  "quickAnswer": "Our capex template two person custodial worksheet shows that operating a 2-FTE in-house custodial team (4,160 annual paid hours) requires $8,400 to $12,600 in Year-1 startup equipment capex ($233–$350/month over 36 months) plus $124,000 to $138,500 in annual payroll, FICA, Class 9014 workers' compensation, health insurance, and chemical/equipment opex. When compared against an outsourced 5x-weekly contract on a 50,000 sq ft building (21.65 visits/month at 4.33 weeks/month), the in-house two-person team achieves positive net ROI only when replacing a combined night-crew plus daytime-porter contract exceeding $10,800/month.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Clean overhead architectural photograph of a commercial facility supply room and corridor staging zone where a heavy-duty 3-shelf structural foam utility cart loaded with paper cases sits alongside a 44-gallon barrel with a yellow snap-on rim caddy and a brushed stainless steel semi-round open trash can, bright LED lighting, no text or logos.",
+    "alt": "Three-shelf commercial utility service cart, 44-gallon barrel with rim caddy, and stainless steel receptacle in a facility staging room"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Audit a 4,160-Hour Two-Person Custodial Budget Without Hidden Variance"
+    },
+    {
+      "type": "p",
+      "text": "When corporate real estate directors and CFOs evaluate a capex template two person custodial proposal for a 45,000 to 60,000-square-foot facility, the most common financial error is treating two full-time W-2 custodians as simply double the base hourly wage of one employee. At 80 regular hours per week across 52 weeks (4,160 annual paid clock hours), a two-person custodial department introduces multi-tier wage structures (Lead Custodian vs. Evening Associate), dual medical benefit enrollments, two sets of mobile carts and vacuums, and an internal overtime cross-coverage ledger for 416 combined hours of annual holidays, vacation, and sick leave."
+    },
+    {
+      "type": "p",
+      "text": "At the same time, benchmarking your in-house ledger against third-party janitorial bids requires strict adherence to the 4.33 weeks-per-month calendar multiplier (52 weeks ÷ 12 months). A 5-day-per-week cleaning schedule equals 21.65 monthly visits (260 annual visits). Furthermore, in the 25,000+ sq ft enterprise bracket, national base cleaning rates run $0.05 to $0.10 per square foot per visit with a 0.90 daily weekday frequency multiplier, while paper and soap consumables add $0.012 to $0.025 per square foot per visit."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Internal PTO Cross-Coverage vs. External Temp Agency Backfill",
+      "text": "A major financial advantage in the two-person custodial worksheet is eliminating external staffing agency backfill. When one custodian takes 10 vacation days, the second custodian can work 2 hours of overtime per day (10 OT hours/week at 1.5x base wage plus 13.8% variable payroll tax/WC burden) to maintain all restrooms, breakrooms, and trash runs—costing ~$3,900/year in overtime across both FTEs instead of $12,480/year in external temporary labor."
+    },
+    {
+      "type": "h2",
+      "text": "Master All-In Cost Ledger: Two-Person In-House Team vs. Outsourced 50,000 Sq Ft Contract"
+    },
+    {
+      "type": "p",
+      "text": "The spreadsheet template below models a 50,000-square-foot commercial office building operating 5 days per week (21.65 visits/month). To give your finance committee a complete decision matrix, the table compares the All-In 2-FTE In-House Budget against both an Outsourced Evening-Only Contract and an Outsourced Evening + Day Porter Contract."
+    },
+    {
+      "type": "table",
+      "caption": "CFO All-In Cost Ledger (50,000 Sq Ft Campus): 2-Person In-House Team vs. Outsourced Night-Only & Night + Day Porter Bids",
+      "headers": [
+        "GL Code / Budget Line Item",
+        "In-House 2-Person Team (Annual)",
+        "In-House Monthly (÷ 12)",
+        "Outsourced Night-Only (Monthly)",
+        "Outsourced Night + Day Porter (Monthly)"
+      ],
+      "rows": [
+        [
+          "1. Lead Custodian W-2 Wages (2,080 hrs @ $24.00/hr)",
+          "$49,920",
+          "$4,160",
+          "Included in vendor fee",
+          "Included in vendor fee"
+        ],
+        [
+          "2. Evening Associate W-2 Wages (2,080 hrs @ $19.50/hr)",
+          "$40,560",
+          "$3,380",
+          "Included in vendor fee",
+          "Included in vendor fee"
+        ],
+        [
+          "3. FICA (7.65%) & FUTA/SUTA (1.8%) on $90,480 Base",
+          "$8,550",
+          "$713",
+          "$0 (Vendor payroll)",
+          "$0 (Vendor payroll)"
+        ],
+        [
+          "4. Class 9014 Janitorial Workers' Comp ($4.85/$100)",
+          "$4,388",
+          "$366",
+          "$0 (Covered by COI)",
+          "$0 (Covered by COI)"
+        ],
+        [
+          "5. Employer Health, Dental & 401(k) Match (2 FTEs)",
+          "$16,200",
+          "$1,350",
+          "$0 (Vendor benefits)",
+          "$0 (Vendor benefits)"
+        ],
+        [
+          "6. PTO Cross-Coverage Overtime (120 OT hrs + 14.3% tax/WC)",
+          "$4,480",
+          "$373",
+          "$0 (Vendor floaters)",
+          "$0 (Vendor floaters)"
+        ],
+        [
+          "7. Startup Equipment Capex ($10,440 / 36 mos + $75/mo maint)",
+          "$4,380",
+          "$365",
+          "$0 (Vendor equipment)",
+          "$0 (Vendor equipment)"
+        ],
+        [
+          "8. Chemicals, Dilution Concentrates, Pads & PPE",
+          "$4,320",
+          "$360",
+          "Included in base fee",
+          "Included in base fee"
+        ],
+        [
+          "9. Quarterly Floor Care Accrual (Done In-House vs. $0.03/sq ft)",
+          "$1,200 (Rentals/pads)",
+          "$100",
+          "$1,500 (Amortized add-on)",
+          "$1,500 (Amortized add-on)"
+        ],
+        [
+          "10. Outsourced 5x/Wk Night Cleaning Base (71.4 hrs/wk @ $36/hr)",
+          "$0",
+          "$0",
+          "$6,956",
+          "$6,956"
+        ],
+        [
+          "11. Outsourced 20-Hr/Wk Daytime Lobby/Restroom Porter ($40/hr)",
+          "$0",
+          "$0",
+          "$0 (No day coverage)",
+          "$3,464"
+        ],
+        [
+          "TOTAL ALL-IN OPERATING & CAPEX BUDGET",
+          "$133,998",
+          "$11,167",
+          "$8,456 ($101,472/yr)",
+          "$11,920 ($143,040/yr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Year-1 Startup Capital Expenditure (Capex) Schedule for a Two-Person Team"
+    },
+    {
+      "type": "p",
+      "text": "To keep two full-time custodians productive simultaneously across a 45,000 to 60,000-square-foot facility, you cannot force them to share a single vacuum or wait for one supply cart. A two-person custodial launch requires $8,400 to $12,600 in Year-1 equipment capex—including a compact 20-inch walk-behind floor scrubber ($3,800–$5,200), two commercial HEPA backpack vacuums ($750–$1,100 total), two mobile waste/cleaning rigs, and heavy bulk restock carts:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Heavy Bulk Paper & Chemical Transport (Rubbermaid Commercial Utility Service Cart 3-Shelf): Restocking 16 to 24 restrooms and 4+ breakrooms across a 50,000 sq ft campus involves moving hundreds of pounds of cased paper towels and gallon chemical concentrates from the loading dock to upper-floor closets. This structural foam 3-shelf utility cart carries a 500 lb load capacity on 4-inch non-marking casters with rounded trim that protects hallway drywall.",
+        "Dual Mobile Barrel Tooling (Rubbermaid Commercial Brute Rim Caddy Attachment): Outfitting both custodians' 44-gallon trash barrels with a snap-on 9-compartment Brute Rim Caddy keeps disinfectant spray bottles, safety signs, liner rolls, and bowl brushes clipped directly to the barrel rim during evening rounds.",
+        "ADA-Compliant Common Area Receptacles (Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can): Installing brushed stainless steel 14.5-gallon semi-round open cans in high-traffic breakrooms and restroom exits provides a heavy tip-resistant base, a flat-back ADA profile, and a lift-off lid for rapid two-person liner sweeps."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step ROI Calculation: How to Score Your Two-Person Custodial Business Case"
+    },
+    {
+      "type": "p",
+      "text": "Before presenting this worksheet to your CFO or asset manager, run your facility's numbers through this four-step ROI verification audit:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Calculate Net Productive Hours Needed at 3,500 Sq Ft/Hr",
+          "text": "Divide your cleanable square footage by the ISSA 3,500 sq ft/hr benchmark and multiply by your flooring multiplier (1.00 carpet, 1.04 VCT, 1.05 mixed, 1.12 ceramic tile). A 50,000 sq ft mixed-floor building requires 15.0 net cleaning hours per day (75.0 hours/week), justifying a 2-FTE (80 clock hour) team."
+        },
+        {
+          "name": "Step 2: Apply Your Local Statutory & Benefits Burden Multiplier",
+          "text": "Multiply your combined 4,160-hour gross wage total by 1.143 (7.65% FICA + 1.8% FUTA/SUTA + 4.85% Class 9014 Workers' Comp), then add your exact annual employer health insurance contribution per FTE ($6,800–$8,500/person)."
+        },
+        {
+          "name": "Step 3: Credit In-House Quarterly Floor Care & Add-On Savings",
+          "text": "If your two-person team will perform quarterly carpet extraction and VCT scrubbing in-house ($0.03–$0.06/sq ft/month vendor value, or $1,500–$3,000/month on 50,000 sq ft) plus daily interior glass detailing ($15–$35/visit), credit those avoided vendor add-on fees against the W-2 payroll cost."
+        },
+        {
+          "name": "Step 4: Value Daytime Porter & Handyman Offset Hours",
+          "text": "If staggering your two custodians (7:00 AM–3:30 PM and 2:30 PM–11:00 PM) replaces a 20-hour/week contracted day porter ($3,464/month at $40/hr), your two-person in-house team nets $753/month ($9,042/year) in direct savings over an outsourced Night + Day Porter contract."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Wall-Mounted Chemical Dilution Dispensers Cut Supply Opex by 35%",
+      "text": "When budgeting Line 8 (Chemicals & Concentrates) for a two-person custodial team, never buy ready-to-use (RTU) trigger bottles. Installing a wall-mounted closed-loop chemical dilution dispenser in your main janitor closet reduces chemical expenditure from $0.009/sq ft/month down to $0.005/sq ft/month—saving $2,400/year across a 50,000 sq ft campus while enforcing exact OSHA HazCom dilution ratios."
+    },
+    {
+      "type": "cta",
+      "text": "Want to generate an instant outsourced cost baseline for Lines 9, 10, and 11 of your CFO worksheet? Run your exact square footage and flooring profile in our Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many total paid hours vs. net working hours should be modeled for a two-person custodial team?",
+      "a": "A two-person full-time custodial team is paid for 4,160 gross clock hours per year (2 FTEs x 2,080 hours). After subtracting 208 hours per employee for 10 federal holidays, 10 vacation days, and 6 paid sick days (416 non-working hours), plus 30 minutes of paid daily breaks per shift, the budget yields approximately 3,480 to 3,550 net productive floor hours per year."
+    },
+    {
+      "q": "What equipment capex budget is required in Year 1 for a two-person custodial team?",
+      "a": "A 45,000 to 60,000 sq ft facility launching a two-person in-house team should budget $8,400 to $12,600 in Year-1 startup capex: one 20-inch walk-behind battery floor scrubber or commercial carpet extractor ($4,200–$5,800), two commercial HEPA backpack vacuums ($800–$1,100), two janitorial carts/44-gal Brute rigs ($900–$1,300), one 500-lb 3-shelf utility cart ($320–$450), and commercial receptacles/dilution hardware ($2,200–$3,950)."
+    },
+    {
+      "q": "Why does a two-person in-house team beat outsourcing when a day porter is required?",
+      "a": "Commercial janitorial vendors discount night-crew rates ($35–$40/hr equivalent) by utilizing fast part-time evening teams, but bill dedicated daytime porters at full standalone hourly rates ($38–$48/hr). By staggering a two-person W-2 team across an early shift (7:00 AM–3:30 PM) and a late shift (2:30 PM–11:00 PM), the employer gets full daytime porter coverage and full evening cleaning inside 80 regular weekly hours."
+    },
+    {
+      "q": "How do you account for Certificates of Insurance (COI) and liability differences in the CFO model?",
+      "a": "Outsourced janitorial vendors include $1M/$2M General Liability, Janitorial Fidelity Bonding (employee dishonesty/theft coverage), and statutory Workers' Compensation in their monthly rate. For an in-house team, your CFO worksheet must include Class 9014 Workers' Compensation premiums (~4.85% of payroll) plus any crime/fidelity rider endorsement required by your corporate lease."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can",
+    "rubbermaid-commercial-utility-service-cart-3-shelf"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/chemical-dilution-dispensers-roi-in-house/",
+    "/in-house-vs-outsourced-cleaning/chemical-dilution-dispensers-roi-in-house-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/chemical-dilution-dispensers-roi-in-house-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/best-rolling-trash-dollies-and-mega-collectors/"
+  ]
+}

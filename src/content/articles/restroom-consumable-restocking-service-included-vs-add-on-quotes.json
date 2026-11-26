@@ -1,0 +1,78 @@
+{
+  "slug": "restroom-consumable-restocking-service-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/restroom-consumable-restocking-service-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge restroom consumable restocking service",
+  "title": "Is Restroom Paper, Soap & Liner Replenishment Included in Standard Cleaning or Billed Extra?",
+  "seoTitle": "Restroom Consumable Restocking: Included or Extra Charge? Contract Audit",
+  "metaDescription": "Restroom consumable restocking extra charge explained: labor vs. product, $0.012–$0.025/sq ft per visit supply adders. Audit your quote in our comparator.",
+  "excerpt": "Most janitorial bids include the labor to refill dispensers but bill the paper, soap, and liners themselves as a separate line or a cost-plus invoice. This audit guide shows how to tell which model your vendor uses and what a fair supply adder looks like per sq ft.",
+  "quickAnswer": "In most US office contracts, the labor to restock toilet tissue, towels, soap, and liners is included in the base retainer, but the product itself is either billed as a supply adder of roughly $0.012–$0.025 per sq ft per visit or passed through on a monthly cost-plus invoice (typically 8%–20% markup). Only all-inclusive bids fold product into the base rate, and those usually cap usage or exclude specialty items like foam soap cartridges and feminine hygiene liners.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior of a clean US corporate office restroom at night, a janitor in a navy uniform loading a multifold towel dispenser beside a stainless sink while a supply cart with cased paper towels, jumbo tissue rolls and coreless liner rolls sits by the door, soft overhead LED lighting, eye-level three-quarter angle, no text, no logos, no watermarks",
+    "alt": "Janitor restocking a multifold paper towel dispenser in an office restroom next to a supply cart"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Labor vs. Product: The Split Every Quote Hides" },
+    { "type": "p", "text": "When a property manager asks whether restroom restocking is included, the honest answer is almost always 'half of it is.' Commercial janitorial pricing separates two cost streams: the minutes a cleaner spends opening dispensers, loading rolls, swapping soap cartridges, and pulling liners, and the cases of paper, soap, and plastic that actually go into those dispensers. Labor is a predictable function of fixture count and visit frequency, so vendors bake it into the per-visit rate. Product is a variable cost driven by headcount, visitor traffic, and dispenser design, so most vendors refuse to absorb it without a usage cap or a markup." },
+    { "type": "p", "text": "The confusion comes from scope language. A line like 'restock restroom supplies' in a cleaning specification describes a task, not a purchase commitment. Unless the contract also says 'contractor-furnished consumables' or lists a supply adder, you should assume you are buying the paper and the vendor is only installing it. Many tenants discover this in month two, when a separate supply invoice arrives with a cost-plus markup they never negotiated." },
+    { "type": "h2", "text": "The Three Billing Models You Will See in Bids" },
+    { "type": "table", "caption": "How US janitorial vendors bill restroom consumables (8,000 sq ft office, 5x/week = 21.65 visits/month)", "headers": ["Billing model", "What the base rate covers", "How product is billed", "Typical monthly product cost", "Audit risk"], "rows": [
+      ["Client-furnished", "Restocking labor only", "Tenant buys cases directly and stores them on site", "Tenant's own purchase cost", "Stockouts if no one orders on time"],
+      ["Supply adder (flat)", "Labor plus product at a fixed per-sq-ft rate", "$0.012–$0.025 per sq ft per visit added to invoice", "$96–$200/visit, about $2,078–$4,330/month", "Overpaying if headcount is low"],
+      ["Cost-plus pass-through", "Restocking labor only", "Actual cases used plus 8%–20% markup, invoiced monthly", "Varies with usage; verify against delivery tickets", "Unverified case counts and inflated list prices"],
+      ["All-inclusive retainer", "Labor and standard product folded into one rate", "No separate line; usage capped or specialty items excluded", "Embedded in base; ask for the breakout", "Hidden caps and downgraded paper grades"]
+    ] },
+    { "type": "p", "text": "The flat supply adder in the table uses the national benchmark the Office Cleaning Cost Calculator applies: $0.012 to $0.025 per sq ft per visit. At 8,000 sq ft that is $96 to $200 per service night. Multiply by 21.65 visits (5 nights a week times 4.33 weeks per month) and the product line alone runs roughly $2,078 to $4,330 per month. That is often 12%–20% of the total janitorial invoice, which is why it deserves its own line in every bid comparison." },
+    { "type": "h2", "text": "Contract Language That Signals 'Included' vs. 'Extra'" },
+    { "type": "ul", "items": [
+      "'Contractor shall furnish and install all restroom paper, hand soap, and receptacle liners' means product is included, but check for a grade or usage cap clause.",
+      "'Contractor shall restock tenant-supplied consumables' means labor only; you buy the product.",
+      "'Consumables billed at cost plus X%' means pass-through; demand delivery tickets with case counts and SKU numbers.",
+      "'Supplies furnished per Exhibit C' means look at Exhibit C: it often lists only toilet tissue and roll towels, excluding foam soap, seat covers, and sanitary napkin liners.",
+      "'Excess usage billed separately above baseline' means the all-inclusive price assumes a headcount; growth triggers extra charges.",
+      "Silence on supplies usually means the vendor will invoice product separately once the first case runs out."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Proprietary dispensers lock you in", "text": "If the vendor installs branded touchless dispensers keyed to its own refills, switching vendors later can mean replacing every dispenser or paying premium refill pricing. Ask who owns the dispensers, whether they are on free-loan tied to supply volume, and what the removal terms are at contract end." },
+    { "type": "h2", "text": "What a Fair Restocking Scope Covers" },
+    { "type": "p", "text": "Restocking labor is not trivial. A typical office restroom with two toilets, two sinks, and one urinal takes four to seven minutes per visit to check and refill, on top of the $15–$30 per restroom per visit that cleaning the fixtures costs. Vendors bidding at $35–$65 per hour for standard labor fold that time into the base rate. If a vendor tries to bill restocking minutes as a separate add-on while you also pay for product, you are paying twice for the same trip to the dispenser." },
+    { "type": "p", "text": "A defensible included scope should name the specific dispensers serviced (towel, tissue, soap, seat cover, feminine hygiene disposal), the par level each must be left at after each visit, who stores the backstock, and who is accountable when a dispenser runs dry between visits. Product specifications matter too. A case of Tork Universal Multifold Hand Towels in the 16 x 250 configuration delivers 4,000 sheets of 100% recycled paper sized 9.125 x 9.5 inches, which fits most standard multifold cabinets. If a bid simply says 'paper towels' with no sheet count or grade, the vendor can substitute a thinner, lower-count product that empties dispensers faster and drives up usage." },
+    { "type": "h2", "text": "How to Audit an Existing Contract in Five Steps" },
+    { "type": "steps", "items": [
+      { "name": "Pull the last three invoices", "text": "Separate base cleaning charges from any line labeled supplies, consumables, paper, or materials. Note whether product appears as a flat amount or varies month to month." },
+      { "name": "Read the scope exhibit and supply exhibit side by side", "text": "Confirm whether the contract says 'furnish and install' or only 'restock.' List every consumable category the exhibit names and flag anything missing, such as foam soap or liners." },
+      { "name": "Count dispensers and estimate usage", "text": "Walk every restroom and breakroom. Record dispenser type and refill format. A 40-person office typically consumes 2–3 cases of multifold towels and one case of jumbo tissue per month." },
+      { "name": "Convert to a per-sq-ft-per-visit figure", "text": "Divide monthly supply cost by square footage, then by visits per month (21.65 for 5x weekly). Compare against the $0.012–$0.025 benchmark to see if you are inside or above range." },
+      { "name": "Renegotiate the billing model", "text": "If pass-through markup exceeds 15% or the flat adder exceeds $0.025, ask for a capped flat adder, quarterly true-ups against delivery tickets, or permission to buy product directly." }
+    ] },
+    { "type": "h2", "text": "When Client-Furnished Supplies Beat Vendor-Furnished" },
+    { "type": "p", "text": "Buying consumables yourself makes sense when you have an office manager who already orders breakroom supplies, storage space for at least two weeks of backstock, and a headcount under about 60 people. You avoid markup entirely and control the paper grade. The trade-off is accountability: if the closet is empty on a Friday night, the cleaner cannot restock, and the contract will say that is your problem. Vendor-furnished supplies make more sense for multi-floor sites, buildings with heavy visitor traffic, and teams without anyone tasked with purchasing." },
+    { "type": "p", "text": "A hybrid approach also works well: the vendor furnishes high-turnover items like towels, tissue, and liners on a flat adder, while you buy specialty soap cartridges or scented products that only fit your dispensers. Spell out the split in the scope exhibit so nobody argues about who should have ordered the foam soap. For breakroom sinks that the cleaner also restocks, keep small supplies like 3M Scotch-Brite heavy-duty scour pads, which are non-rusting synthetic 6 x 9 inch pads suited to porcelain and stainless, on the tenant side of the ledger since usage is low and unpredictable." },
+    { "type": "callout", "variant": "compliance", "title": "HazCom applies to stored soap and chemicals", "text": "Under OSHA's Hazard Communication Standard (29 CFR 1910.1200), whoever stores soap concentrates, sanitizers, and cleaning chemicals on site must keep current Safety Data Sheets accessible. If the vendor stocks your janitorial closet, require an SDS binder or digital index as a contract deliverable." },
+    { "type": "cta", "text": "Toggle the 'Paper & Soap Consumables Included' option in the Office Cleaning Cost Calculator to see the supply adder for your exact square footage and frequency, then load competing bids into the Quote Comparator to spot which vendors are hiding product costs." }
+  ],
+  "faqs": [
+    { "q": "Is restroom restocking usually included in a commercial cleaning quote?", "a": "The labor almost always is. The product is usually not, unless the contract explicitly says 'contractor-furnished consumables' or quotes an all-inclusive rate. Expect a supply adder of about $0.012–$0.025 per sq ft per visit or a cost-plus invoice if the vendor provides paper, soap, and liners." },
+    { "q": "What markup is reasonable on pass-through restroom supplies?", "a": "Most US janitorial firms mark up pass-through consumables 8%–20% to cover purchasing, freight, storage, and delivery to your site. Anything above 20% deserves pushback, and every invoice should be backed by delivery tickets showing case counts, SKUs, and unit prices you can check against distributor pricing." },
+    { "q": "How do I calculate monthly supply cost from a per-visit adder?", "a": "Multiply square footage by the per-sq-ft rate, then by visits per month. For 5x weekly service use 21.65 visits (5 x 4.33 weeks). A 5,000 sq ft office at $0.015 per sq ft per visit pays $75 per visit, or about $1,624 per month." },
+    { "q": "Should liners be part of the restroom consumables line?", "a": "They should be listed explicitly. Many supply exhibits cover only tissue and towels, leaving deskside and restroom can liners as a separate charge. Confirm liner sizes and gauge in the scope so the vendor cannot switch to a thinner film that tears and creates extra cleanup labor." },
+    { "q": "Does the vendor's certificate of insurance cover supply deliveries?", "a": "Your COI should show general liability and auto coverage if the vendor delivers cases in its own vehicles, plus workers' compensation for staff lifting and stocking. Ask to be named as additional insured and confirm coverage limits meet your lease requirements before vendor-furnished supplies begin." }
+  ],
+  "amazonProductIds": [
+    "tork-universal-multifold-hand-towels-natural-16-pack-case",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack",
+    "ettore-master-brass-14-inch-commercial-window-squeegee"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-restroom-consumable-restocking-service-quotes/",
+    "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-cost-guide/",
+    "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-for-small-vs-large-offices/",
+    "/janitorial-carts-mops-and-tools/best-commercial-mop-handles-and-quick-change-frames/"
+  ]
+}

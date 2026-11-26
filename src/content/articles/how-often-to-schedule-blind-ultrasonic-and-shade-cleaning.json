@@ -1,0 +1,85 @@
+{
+  "slug": "how-often-to-schedule-blind-ultrasonic-and-shade-cleaning",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-blind-ultrasonic-and-shade-cleaning/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar blind ultrasonic and shade cleaning",
+  "title": "Quarterly vs. Annual Calendar for Ultrasonic Blind & Roller Shade Cleaning: Frequency by Foot Traffic and Annual Spend",
+  "seoTitle": "Blind Ultrasonic & Shade Cleaning Calendar: Quarterly vs. Annual Spend",
+  "metaDescription": "Blind ultrasonic and shade cleaning calendar by traffic tier: annual, semi-annual, or quarterly at $10-$35 per unit. Model your spend in our cost calculator.",
+  "excerpt": "Ultrasonic blind and roller shade cleaning belongs on a traffic-driven calendar, not a guess: annual for quiet interior suites, semi-annual for typical floors, quarterly for lobbies and soil-heavy zones. This guide shows the thresholds, the per-unit math, and what each cadence costs per year and per sq ft.",
+  "quickAnswer": "Most US offices schedule ultrasonic blind and roller shade cleaning once a year, move to semi-annual for medium-traffic floors and south- or west-facing glass lines, and go quarterly only in lobbies, cafés, and soil-heavy zones near HVAC supply diffusers. Expect roughly $10-$18 per horizontal blind, $18-$35 per vertical set, and $15-$35 per roller shade, plus a $150-$250 trip minimum. Monthly attention should be in-place HEPA dusting by your janitorial crew, not ultrasonic tank work.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a US corporate office perimeter with a technician in a navy uniform lowering aluminum horizontal blinds into a stainless ultrasonic tank on a mobile trailer bay, roller shades half-drawn on floor-to-ceiling windows behind, soft late-afternoon daylight, eye-level 35mm lens, no text, no logos, no watermarks",
+    "alt": "Technician removing office horizontal blinds for ultrasonic tank cleaning beside roller-shaded windows"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why blind and shade cleaning needs its own calendar" },
+    { "type": "p", "text": "Window coverings sit outside the nightly janitorial loop. Your crew empties trash, vacuums carpet, and sanitizes restrooms on a per-visit schedule priced at $0.07-$0.15 per sq ft for most mid-size offices, but slats and shade fabric accumulate a different soil profile: settled dust, nicotine or cooking film carried on HVAC air, UV-baked grime on the glass side, and fingerprints on pull cords and hem bars. Feather dusting moves that soil around; it does not remove the bonded film. Ultrasonic cleaning, where blinds are immersed in a heated tank and cavitation lifts residue out of slat curls and ladder cords, is the reset. Because it is a periodic project billed per unit, the question is not whether to do it but how often each zone of your building actually needs it." },
+    { "type": "p", "text": "The answer follows foot traffic and air movement more than calendar habit. A reception lobby with a revolving door, a café, and a supply diffuser blowing across the window line will gray a set of white aluminum blinds in three months. A private office on the north side of the 14th floor can go a full year and look fine. Treating both on the same cycle either wastes money or leaves the lobby looking neglected." },
+    { "type": "h2", "text": "Foot-traffic thresholds that set the cadence" },
+    { "type": "p", "text": "Use three tiers based on daily people movement past or near the windows, then adjust for exposure and air handling. The thresholds below are practical breakpoints we see facility managers adopt in multi-tenant Class A and B buildings." },
+    { "type": "table", "caption": "Recommended ultrasonic blind and roller shade cadence by traffic tier", "headers": ["Traffic tier", "Typical spaces", "Daily occupants near windows", "Ultrasonic / deep clean", "In-place HEPA dusting"], "rows": [
+      ["Low", "Private offices, executive suites, records rooms", "Under 25", "Annual (1x/yr)", "Quarterly, included in base scope"],
+      ["Medium", "Open-plan workstations, conference rooms, training rooms", "25-150", "Semi-annual (2x/yr)", "Monthly high dusting"],
+      ["Heavy", "Lobbies, cafés, breakrooms, clinics, ground-floor retail-facing glass", "150+", "Quarterly (4x/yr)", "Biweekly or weekly wipe of cords and hem bars"],
+      ["Soil-load override", "Near kitchens, print rooms, supply diffusers, construction zones", "Any", "Bump up one tier", "Add monthly spot vacuum of slats"]
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Monthly is a dusting frequency, not a tank frequency", "text": "When a vendor proposes monthly ultrasonic service, it is almost always overkill. Repeated removal, re-hanging, and heat cycles stress ladder tape, wand clips, and shade clutches. Reserve monthly visits for in-place HEPA vacuuming with a soft brush tool and a microfiber wipe of the bottom rail, which your regular crew can perform as a scheduled high-dusting task." },
+    { "type": "h2", "text": "Unit pricing that drives annual spend" },
+    { "type": "p", "text": "Specialty window-covering contractors price per unit, with a trip or setup minimum. On-site mobile ultrasonic trucks are common for buildings with 30 or more blinds; smaller counts often go off-site to a shop with a 5-10 business day turnaround. When pricing is hourly instead, expect specialty rates of $55-$95 per technician hour, compared with $35-$65 for standard janitorial labor." },
+    { "type": "ul", "items": [
+      "Horizontal aluminum or faux-wood blinds up to roughly 36 x 60 in: $10-$18 each, removal and re-hang usually included.",
+      "Oversized horizontals over 60 sq ft of slat area: $20-$40 each, often priced per sq ft of blind at $0.60-$1.20.",
+      "Vertical blind sets (vanes plus headrail): $18-$35 per set, more if vanes are fabric and need separate washing.",
+      "Roller shades, vinyl or PVC-coated screen: $15-$35 each for on-site ultrasonic or low-moisture clean; blackout and sheer fabrics may be limited to vacuum and spot treatment.",
+      "Motorized shades: add $8-$20 per unit for safe disconnection and reprogramming checks.",
+      "Trip or mobilization minimum: $150-$250 per visit, which dominates the bill for small counts."
+    ] },
+    { "type": "h2", "text": "Annualized cost by calendar choice" },
+    { "type": "p", "text": "The example below assumes a 10,000 sq ft office with 40 standard horizontal blinds and 12 roller shades, a midpoint unit price of $14 per blind and $24 per shade, and a $200 trip charge each visit. Per-visit cost is (40 x $14) + (12 x $24) + $200 = $1,048. Divide annual totals by 12 for a monthly budget line, then by square footage to compare with your janitorial rate." },
+    { "type": "table", "caption": "Annual spend example: 10,000 sq ft office, 40 blinds and 12 roller shades", "headers": ["Cadence", "Visits per year", "Annual cost", "Monthly budget line", "Per sq ft per month"], "rows": [
+      ["Annual", "1", "$1,048", "$87", "$0.009"],
+      ["Semi-annual", "2", "$2,096", "$175", "$0.017"],
+      ["Quarterly", "4", "$4,192", "$349", "$0.035"],
+      ["Tiered (lobby quarterly, floors annual)", "4 lobby + 1 full", "About $1,850", "About $154", "$0.015"]
+    ] },
+    { "type": "p", "text": "The tiered row is where most savings come from. If the lobby and café hold 8 blinds and 4 shades, those 12 units cost about $208 in labor per visit, so three extra lobby-only visits add roughly $624 in units plus three trip charges. Negotiating a reduced $100-$125 trip fee for lobby-only touch-ups, or bundling them with an already scheduled carpet extraction or window-washing day, keeps the tiered plan well under the cost of a building-wide quarterly program." },
+    { "type": "h2", "text": "Building the calendar step by step" },
+    { "type": "steps", "items": [
+      { "name": "Inventory every window covering", "text": "Walk each floor and log blind type, width, height, mounting, and whether shades are manual or motorized. Note fabric type on roller shades, since sheer and blackout fabrics have different cleaning limits." },
+      { "name": "Assign a traffic tier per zone", "text": "Use badge data or headcount plans to estimate daily occupants near each window line, then apply the low, medium, and heavy thresholds above." },
+      { "name": "Apply soil-load overrides", "text": "Bump any zone up a tier if it sits near a kitchen, a print room, a supply diffuser, or an active construction area. Smoke-affected buildings or those near freeways often need the bump building-wide." },
+      { "name": "Align with other periodic work", "text": "Schedule ultrasonic visits on the same nights as quarterly carpet extraction or semi-annual interior glass so the crew only moves furniture once and the trip charge is shared." },
+      { "name": "Write it into the contract", "text": "List each cadence, unit price, trip fee, and turnaround time as a scheduled periodic line item with a per-visit completion sign-off, rather than leaving it to ad-hoc work orders." }
+    ] },
+    { "type": "h2", "text": "Signals that your current cadence is wrong" },
+    { "type": "p", "text": "Visible gray banding on the top surface of slats within 60 days of a cleaning, tenant complaints about dust on desks under window lines, yellowing on the glass side of white shades, or sticky cords in breakrooms all indicate the zone needs to move up a tier. On the other side, if a technician reports that annual-cycle blinds in private offices are barely soiled, drop those to an every-18-months cycle and redirect the budget to the lobby. Ask the vendor for before-and-after photos and a short soil-level note per zone after each visit; three visits of data will tell you more than any rule of thumb." },
+    { "type": "callout", "variant": "compliance", "title": "Safety and documentation on cleaning days", "text": "Ultrasonic solutions are typically alkaline detergents; require the vendor to provide Safety Data Sheets under OSHA HazCom and to label any secondary containers. Ladder work above 4 feet should follow the vendor's fall-protection program, and a current certificate of insurance naming your building as additional insured should be on file before the first removal." },
+    { "type": "p", "text": "Supporting gear matters on these nights too. Crews staging blinds for an on-site truck often roll them out in a high-capacity collector such as a 120-gallon mobile unit with a 400 lb load rating and 12-inch wheels that handle threshold transitions, while a compact eight-slot carry caddy keeps re-hang brackets, wand clips, and microfiber cloths organized at each window. At the entrance, a 3 x 10 ft brush-rib runner with a beveled ADA edge keeps foot traffic from tracking grit into the staging corridor." },
+    { "type": "cta", "text": "Plug your blind and shade counts, square footage, and preferred cadence into the Office Cleaning Cost Calculator to see the monthly budget line, or drop competing window-covering bids into the Quote Comparator to normalize trip fees and per-unit pricing." }
+  ],
+  "faqs": [
+    { "q": "Is quarterly ultrasonic blind cleaning ever necessary for a whole office?", "a": "Rarely. Building-wide quarterly service makes sense for healthcare clinics, food-service-heavy offices, or buildings with smoke infiltration. For a typical office, quarterly service belongs only in lobbies, cafés, and breakrooms, with annual or semi-annual cycles elsewhere. Building-wide quarterly service roughly quadruples annual spend versus an annual cycle without a matching appearance gain in low-traffic rooms." },
+    { "q": "How do I convert a per-visit blind cleaning price into a monthly janitorial budget line?", "a": "Multiply the per-visit cost by visits per year and divide by 12. For example, a $1,048 visit done twice a year is $2,096 per year, or about $175 per month. If you want to compare it with weekly-based janitorial pricing, divide the monthly figure by 4.333 weeks per month to get a weekly equivalent of about $40." },
+    { "q": "Can my regular janitorial crew handle blinds between ultrasonic visits?", "a": "Yes, and they should. In-place HEPA vacuuming with a brush attachment and a damp microfiber wipe of hem bars and cords is standard high-dusting work. Make sure it is written into the scope as a monthly or quarterly task, because many base contracts exclude window coverings unless they are named explicitly." },
+    { "q": "What documents should I require from a blind cleaning contractor?", "a": "Ask for a certificate of insurance with general liability and workers compensation, Safety Data Sheets for the ultrasonic detergent under OSHA HazCom, a damage-and-replacement policy for brittle slats or old shade clutches, and a turnaround commitment if blinds go off-site. Green Seal or similar certified detergents are worth requesting if your building has sustainability reporting goals." },
+    { "q": "Does ultrasonic cleaning work on all roller shade fabrics?", "a": "No. Vinyl and PVC-coated solar screens generally tolerate ultrasonic or low-moisture cleaning, but some blackout laminates, sheers, and natural-fiber shades can delaminate, shrink, or water-spot. A competent vendor tests a hidden corner first and may recommend HEPA vacuuming plus spot treatment instead, often at the lower end of the $15-$35 per shade range." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-mega-brute-mobile-collector-120-gal",
+    "rubbermaid-commercial-deluxe-carry-caddy-3154",
+    "notrax-136-brush-step-3x10-commercial-lobby-runner"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/blind-ultrasonic-and-shade-cleaning-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-blind-ultrasonic-and-shade-cleaning-quotes/",
+    "/cleaning-services-and-tasks/floor-mat-rental-vs-purchased-cleaning-cost-guide/",
+    "/restroom-and-breakroom-dispensers/enmotion-800ft-rolls-vs-scott-pro-1150ft-hard-roll/"
+  ]
+}

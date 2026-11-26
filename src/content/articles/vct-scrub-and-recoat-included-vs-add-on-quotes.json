@@ -1,0 +1,78 @@
+{
+  "slug": "vct-scrub-and-recoat-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/vct-scrub-and-recoat-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge vct scrub and recoat",
+  "title": "Extra Charge for VCT Scrub and Recoat? Reading Retainers vs Work-Order Invoices",
+  "seoTitle": "Extra Charge VCT Scrub and Recoat: Retainer vs Work-Order Billing",
+  "metaDescription": "Extra charge VCT scrub and recoat? Many retainers bundle it at $0.03-$0.06/sq ft monthly; others bill $0.12-$0.30/sq ft per visit. Compare quotes line by line.",
+  "excerpt": "Scrub and recoat sits in a gray zone: some janitorial retainers include it as periodic work while others invoice it per visit. This audit guide shows office managers how to tell which model they have and which one costs less.",
+  "quickAnswer": "VCT scrub and recoat is included in a monthly retainer more often than full stripping, but only when the scope names it with a frequency, typically quarterly, amortized at about $0.03 to $0.06 per sq ft per month. Otherwise vendors invoice it as a work order at $0.12 to $0.30 per sq ft per visit with a $200 to $400 minimum.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead view of a facility manager's desk in a US office with a printed janitorial contract, highlighted scope of work pages, a calculator, and a laptop, next to a window overlooking a freshly recoated glossy VCT hallway visible through an open door, soft afternoon natural light, shallow depth of field, no readable text, no logos, no watermarks",
+    "alt": "Facility manager reviewing a janitorial contract beside a freshly recoated VCT hallway"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Scrub and Recoat Falls in a Gray Zone" },
+    { "type": "p", "text": "Full VCT stripping is almost always billed separately because it is disruptive and labor-heavy. Scrub and recoat is different. It is lighter, faster, and can sometimes be performed by an experienced night crew with a compact scrubber, so some vendors bundle it into the monthly retainer to win the account. Others treat it as specialty work at $55 to $95 per technician hour. The result: two bids for the same building can include or exclude it without saying so clearly, and procurement teams end up comparing unlike numbers." },
+    { "type": "p", "text": "Routine retainers are built from per-visit rates of $0.05 to $0.20 per sq ft depending on building size, multiplied by visits per month using 4.333 weeks per month. Periodic floor work does not fit that per-visit math, so it either appears as an amortized line or disappears into exclusions. Your job is to find out which." },
+    { "type": "h2", "text": "Where to Look in the Contract" },
+    { "type": "ul", "items": [
+      "Periodic task schedule: look for quarterly or semiannual hard floor scrub and recoat with stated square footage.",
+      "Exclusions section: phrases like restorative floor care, finish application, or machine scrubbing signal a separate charge.",
+      "Rate card exhibit: a pre-priced per-sq-ft rate means it is an add-on, but at least a predictable one.",
+      "Invoice line items: a recurring deep floor or periodic services line suggests amortization; its absence suggests work orders.",
+      "Supply and equipment clause: if the vendor supplies finish and pads only for routine care, recoat materials may be billed separately."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Burnishing is not recoating", "text": "Some retainers include monthly high-speed burnishing and describe it as floor maintenance. Burnishing polishes existing finish; it does not add new coats. If no finish is applied, you are not receiving scrub and recoat, and a separate invoice will eventually follow when the floor wears through." },
+    { "type": "h2", "text": "Retainer Inclusion vs Work-Order Billing: Cost Comparison" },
+    { "type": "p", "text": "The comparison below uses an 8,000 sq ft office with 3,500 sq ft of VCT and quarterly recoats. It shows how the same service looks under four billing approaches." },
+    { "type": "table", "caption": "Annual cost of quarterly VCT scrub and recoat on 3,500 sq ft under different billing models", "headers": ["Billing model", "How it is charged", "Rate used", "Annual cost", "Monthly equivalent"], "rows": [
+      ["Amortized in retainer", "Fixed monthly line on base invoice", "$0.045 per VCT sq ft per month", "$1,890", "$157.50"],
+      ["Pre-priced add-on", "Work order at locked rate", "$0.15 per sq ft per visit x 4", "$2,100", "$175"],
+      ["On-request work order", "Quoted at time of need", "$0.18-$0.24 per sq ft x 4", "$2,520-$3,360", "$210-$280"],
+      ["Hourly specialty billing", "2 techs, about 3.5 hrs per visit", "$65 per tech hour x 4", "$1,820 plus overruns", "$152+"],
+      ["Bundled deep floor program", "Recoats plus carpet extraction", "$0.04 per total sq ft per month", "$3,840 (covers both services)", "$320"]
+    ] },
+    { "type": "p", "text": "Amortized and pre-priced models usually win because the vendor can schedule crews efficiently. On-request pricing costs the most because it is negotiated when your floor already looks bad and you have little leverage." },
+    { "type": "h2", "text": "Audit Steps for Your Current Contract" },
+    { "type": "steps", "items": [
+      { "name": "Pull 12 months of invoices", "text": "Separate routine cleaning charges from any periodic or one-time floor charges." },
+      { "name": "Compare against the periodic schedule", "text": "If recoats are listed quarterly, you should see four dated visits in the vendor work log." },
+      { "name": "Check square footage", "text": "Confirm recoat pricing uses resilient-floor area only, not total rentable square footage." },
+      { "name": "Inspect the floor", "text": "Recently recoated VCT shows uniform gloss with no gray traffic lanes; dull lanes suggest skipped or thin coats." },
+      { "name": "Request credits or a schedule", "text": "If an amortized visit was skipped, request a credit at the per-visit rate or a firm make-up date." }
+    ] },
+    { "type": "h2", "text": "Deciding Whether to Bundle" },
+    { "type": "p", "text": "Bundling scrub and recoat into the retainer makes sense when you have more than about 2,500 sq ft of VCT, predictable traffic, and a budget that favors flat monthly invoices. Keeping it as a pre-priced add-on works better when tenant improvements or moves may change your layout, or when VCT is limited to a small breakroom where a semiannual visit at the $200 to $400 minimum is enough." },
+    { "type": "p", "text": "Whichever you choose, make sure the vendor separates floor care from day-porter or touchup duties. A cordless HEPA-sealed stick vacuum for executive suites, a bendable high-reach microfiber duster for vents, and hard roll towels in restrooms are routine retainer items; none of them substitute for periodic restorative floor work, and they should never be used to justify a higher base without a defined recoat schedule." },
+    { "type": "callout", "variant": "compliance", "title": "Contract and safety essentials", "text": "Whether bundled or billed separately, require a certificate of insurance naming you and the landlord as additional insured, OSHA HazCom Safety Data Sheets for scrub solution and finish, wet floor coning during work, and Green Seal certified finish if sustainability is tracked." },
+    { "type": "h2", "text": "Negotiation Language to Request" },
+    { "type": "p", "text": "Ask for wording such as: Vendor will perform scrub and recoat of 3,500 sq ft of VCT quarterly, applying two coats of finish, during weekend hours, with a dated work log provided within five business days; skipped visits credited at $0.15 per sq ft. Clear language like this eliminates surprise invoices and gives you a verifiable standard." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to estimate routine and floor care costs together, then load competing proposals into the Quote Comparator to normalize bundled and add-on pricing on an annual basis." }
+  ],
+  "faqs": [
+    { "q": "Is VCT scrub and recoat usually included in office cleaning contracts?", "a": "It is included more often than full stripping, but only when the scope of work lists it in the periodic schedule with a frequency and square footage. Without that, expect a work-order charge of $0.12 to $0.30 per sq ft per visit with a $200 to $400 minimum." },
+    { "q": "How much does a bundled scrub and recoat add to a monthly retainer?", "a": "For quarterly service, amortized scrub and recoat typically adds about $0.03 to $0.06 per sq ft of VCT per month. On 3,500 sq ft, that is roughly $105 to $210 per month added to the base invoice." },
+    { "q": "How can I tell if my vendor is burnishing instead of recoating?", "a": "Burnishing uses a high-speed machine to polish existing finish without applying new coats. Ask for the work log listing finish product and coat count. If no finish was applied, the service was a burnish, not a recoat, and the floor will eventually need restorative work." },
+    { "q": "How do I compare a bid that includes recoats with one that does not?", "a": "Convert both to annual cost. Multiply each monthly base by 12, then add projected recoat work orders to the bid that excludes them. Routine cleaning should be calculated from weekly frequency times 4.333 weeks per month, kept separate from periodic floor care." },
+    { "q": "What documents should accompany scrub and recoat work?", "a": "A current certificate of insurance, OSHA Hazard Communication Safety Data Sheets for all chemicals, a dated work log with square footage and coats applied, and proof of technician training. Request Green Seal certified finish if your organization tracks sustainability." }
+  ],
+  "amazonProductIds": [
+    "dyson-v15-detect-pro-commercial-spot-cordless-stick",
+    "rubbermaid-commercial-16-inch-high-duster-microfiber-wand",
+    "scott-pro-hard-roll-paper-towels-175-inch-core-6-case"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-vct-scrub-and-recoat-quotes/",
+    "/cleaning-services-and-tasks/high-speed-floor-burnishing-cost-guide/",
+    "/cleaning-services-and-tasks/high-speed-floor-burnishing-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/karcher-puzzi-8-1-c-vs-bissell-bgss1481-spotter/"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "electrostatic-disinfection-spraying-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "electrostatic disinfection spraying unit price",
+  "title": "Electrostatic Disinfection Spraying Unit Price: Per-Sq-Ft, Per-Fixture, and Hourly Rates for US Offices",
+  "seoTitle": "Electrostatic Disinfection Spraying Unit Price: Sq Ft & Hourly Rates",
+  "metaDescription": "Electrostatic disinfection spraying unit price runs $0.04–$0.20 per sq ft or $55–$95 per hour with $90–$135 minimums. Estimate your office cost now.",
+  "excerpt": "Electrostatic disinfection is priced three ways, per square foot, per hour, or per fixture, and the cheapest-looking unit can produce the most expensive invoice. This guide gives national ranges, minimum charges, and worked examples so office managers can benchmark any quote.",
+  "quickAnswer": "Electrostatic disinfection spraying for US offices typically costs $0.08 to $0.20 per sq ft per application for suites under 2,500 sq ft, falling to $0.03 to $0.08 per sq ft for buildings over 25,000 sq ft. Vendors billing hourly charge specialty rates of $55 to $95 per technician hour, and nearly all enforce per-visit minimums of $90 to $135, which often exceed the per-sq-ft math for small offices.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic medium shot of a janitorial technician in nitrile gloves and safety glasses using a cordless backpack electrostatic sprayer to mist an open-plan US office with rows of white desks and task chairs, fine charged mist visible in the cool evening fluorescent light, shot from a low three-quarter angle, no text, no logos, no watermarks",
+    "alt": "Technician with a backpack electrostatic sprayer misting desks in an empty open-plan office after hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Three Ways Vendors Price Electrostatic Spraying" },
+    { "type": "p", "text": "Electrostatic disinfection uses a sprayer that applies a positive charge to droplets of an EPA-registered disinfectant, so the mist wraps around chair arms, keyboard edges, and door hardware instead of drifting past them. Because the sprayer covers surfaces faster than manual wipe-down, production rates are high: a trained technician with a backpack unit can treat 8,000 to 15,000 sq ft of open office per hour, compared with the 3,500 sq ft per hour ISSA benchmark for routine janitorial cleaning. That production rate is the foundation of every pricing model." },
+    { "type": "ul", "items": [
+      "Per square foot: the most common model, billed per application on the cleanable floor area. Best for open-plan offices and predictable recurring service.",
+      "Per hour: billed at specialty rates of $55 to $95 per technician hour, common for one-time event or outbreak response work where the scope is uncertain.",
+      "Per fixture or per room: used for restrooms, breakrooms, fitness rooms, and medical exam rooms, typically $8 to $20 per fixture or $25 to $60 per room.",
+      "Flat per-visit minimum: almost universal at $90 to $135 per visit, covering travel, setup, chemical mixing, and post-application documentation."
+    ] },
+    { "type": "h2", "text": "National Per-Sq-Ft Rates by Building Size" },
+    { "type": "table", "caption": "Electrostatic disinfection spraying unit prices per application, national US ranges (excluding routine cleaning)", "headers": ["Office size", "Rate per sq ft per application", "Example office", "Cost per application", "Minimum applied?"], "rows": [
+      ["Under 2,500 sq ft", "$0.08–$0.20", "1,800 sq ft", "$144–$360", "Often, at low end"],
+      ["2,500–9,999 sq ft", "$0.06–$0.14", "6,000 sq ft", "$360–$840", "Rarely"],
+      ["10,000–24,999 sq ft", "$0.04–$0.10", "18,000 sq ft", "$720–$1,800", "No"],
+      ["25,000+ sq ft", "$0.03–$0.08", "50,000 sq ft", "$1,500–$4,000", "No"]
+    ] },
+    { "type": "p", "text": "Unit rates fall as size increases because setup time, travel, chemical mixing, and documentation are fixed costs spread over more square footage. They sit roughly in line with routine janitorial rates for the same bracket, which range from $0.12 to $0.20 per sq ft under 2,500 sq ft down to $0.05 to $0.10 above 25,000 sq ft, because the faster production rate is offset by disinfectant cost, specialty labor, and equipment amortization." },
+    { "type": "callout", "variant": "benchmark", "title": "Quick sanity check", "text": "Divide the quote by your square footage. If a 6,000 sq ft office is quoted above $0.15 per sq ft for a standalone recurring application, the vendor is either pricing in manual pre-cleaning, using a premium disinfectant with a long dwell time, or padding margin. Ask which." },
+    { "type": "h2", "text": "Hourly and Minimum Charges in Practice" },
+    { "type": "p", "text": "Hourly billing is fair when the scope is unclear, such as a same-night outbreak response in a building with unknown furniture density. A two-technician crew at $75 per hour each treating a 12,000 sq ft floor in 1.5 hours plus 45 minutes of setup and documentation bills about $338, or $0.028 per sq ft. That looks cheap, but hourly invoices can creep if the crew moves slowly. Cap hourly work with a not-to-exceed figure." },
+    { "type": "p", "text": "Minimums dominate small-office pricing. A 900 sq ft insurance agency at $0.15 per sq ft computes to $135, which is exactly the top of the $90 to $135 minimum range. A 600 sq ft suite would compute to $90 but may still be billed at the vendor's $125 minimum. For tiny suites, bundling electrostatic spraying with a regular janitorial visit is the only way to avoid paying for a full mobilization." },
+    { "type": "h2", "text": "What Drives a Quote Up or Down" },
+    { "type": "table", "caption": "Cost drivers for electrostatic disinfection spraying", "headers": ["Driver", "Effect on unit price", "Notes"], "rows": [
+      ["Pre-cleaning required", "+30% to +60%", "Disinfectants do not work on soiled surfaces; manual wipe-down adds labor"],
+      ["Disinfectant chemistry", "+5% to +20%", "Hydrogen peroxide and hypochlorous products cost more than quats"],
+      ["Furniture density", "+10% to +25%", "Dense benching and lab spaces slow the sprayer pass"],
+      ["After-hours or weekend timing", "+10% to +25%", "Overtime premiums and access coordination"],
+      ["Recurring contract", "-10% to -25%", "Monthly or weekly programs discount versus one-time calls"],
+      ["Bundled with janitorial", "-15% to -35%", "No separate mobilization, crew already on site"]
+    ] },
+    { "type": "p", "text": "Pre-cleaning is the biggest variable. EPA-registered disinfectant labels require surfaces to be pre-cleaned of visible soil, and spraying over dusty desks or greasy breakroom counters wastes product. Vendors that include routine janitorial cleaning will spray right after the crew wipes surfaces, while standalone disinfection specialists may charge extra for wipe-down or exclude it entirely." },
+    { "type": "h2", "text": "Compliance and Product Questions to Ask" },
+    { "type": "callout", "variant": "compliance", "title": "EPA, OSHA, and label requirements", "text": "Ask for the EPA registration number of the disinfectant, confirm the label permits electrostatic application, and request the Safety Data Sheet for your OSHA HazCom file. Technicians should wear gloves and eye protection, and the vendor should note the label's dwell time and re-entry interval on the service ticket." },
+    { "type": "p", "text": "Spraying is only one part of a facility hygiene program. Floors in breakrooms and lobbies still need mechanical cleaning: a Sanitaire SC6045A 20-inch, 175 RPM rotary machine handles periodic VCT scrubbing, a cordless Karcher BD 30/4 C Bp compact scrubber drier with an 11-inch path and 1-gallon tanks suits tight lobbies and breakrooms, and a Bissell BigGreen BGFS650 twin-brush 12-inch machine fits boutique suites. Disinfectant overspray on floors should be removed during routine damp mopping so residue does not build up on finish coats." },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable area", "text": "Use rentable square footage minus mechanical rooms, stairwells, and storage that will not be treated." },
+      { "name": "Pick a pricing model", "text": "Choose per sq ft for recurring service, hourly with a cap for outbreak response, and per fixture for restroom-only programs." },
+      { "name": "Confirm pre-cleaning", "text": "Specify whether high-touch surfaces are wiped before spraying and who performs it." },
+      { "name": "Request documentation", "text": "Require a service log listing date, areas treated, product, EPA number, and dwell time for each application." },
+      { "name": "Normalize the price", "text": "Convert every quote to cost per sq ft per application and to monthly cost using 4.33 weeks per month." }
+    ] },
+    { "type": "cta", "text": "Enter your square footage and spraying frequency into the Office Cleaning Cost Calculator, then compare each vendor's electrostatic line side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "What is a fair electrostatic spraying price for a 5,000 sq ft office?", "a": "For a recurring application, $0.06 to $0.14 per sq ft is typical, so $300 to $700 per visit. If sprayed weekly, multiply by 4.33 visits per month for $1,300 to $3,030 monthly, though weekly programs usually earn a 10 to 25 percent discount." },
+    { "q": "Why does my small office pay the minimum charge every time?", "a": "Under about 900 sq ft, per-sq-ft math falls below the typical $90 to $135 minimum that covers travel, setup, and documentation. Bundling spraying into your regular janitorial visit eliminates the separate mobilization and usually drops the effective cost." },
+    { "q": "Does electrostatic spraying replace regular cleaning?", "a": "No. Disinfectant labels require pre-cleaning of visible soil, and spraying does nothing for dust, trash, or floors. It is an add-on that improves coverage on high-touch surfaces after routine cleaning, not a substitute for it." },
+    { "q": "Is hourly or per-sq-ft billing better?", "a": "Per-sq-ft billing gives budget certainty for recurring programs. Hourly billing suits one-time outbreak responses where furniture density and scope are unknown, but insist on a not-to-exceed cap so the invoice cannot run past your estimate." },
+    { "q": "What documents should the vendor provide?", "a": "A certificate of insurance naming your company as additional insured, the disinfectant's EPA registration number and Safety Data Sheet for OSHA HazCom compliance, and a service log for each application showing areas treated, product, and dwell time." }
+  ],
+  "amazonProductIds": [
+    "sanitaire-sc6045a-commercial-rotary-floor-machine",
+    "karcher-bd-30-4-c-bp-compact-scrubber-drier",
+    "bissell-biggreen-commercial-bgfs650-scrub-and-polish-machine"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-electrostatic-disinfection-spraying/",
+    "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-included-vs-add-on-quotes/",
+    "/commercial-vacuums-and-floor-machines/best-heavy-duty-vacuums-for-in-house-janitors/"
+  ]
+}

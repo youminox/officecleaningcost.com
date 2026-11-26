@@ -1,0 +1,2402 @@
+[
+  {
+    "slug": "new-york-ny",
+    "city": "New York",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.35,
+    "hourlyRange": [
+      47,
+      81
+    ],
+    "janitorMedianWageRef": 22.28,
+    "climateWearNote": "Winter road salt and slush drive heavy lobby mat and marble/VCT floor maintenance.",
+    "businessDistricts": "Midtown Manhattan, Financial District, Hudson Yards, Brooklyn Downtown",
+    "regulatoryNote": "NYC Local Law building waste sorting and union-adjacent prevailing wage benchmarks."
+  },
+  {
+    "slug": "los-angeles-ca",
+    "city": "Los Angeles",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.24,
+    "hourlyRange": [
+      43,
+      74
+    ],
+    "janitorMedianWageRef": 20.46,
+    "climateWearNote": "Dusty dry summers and coastal humidity require frequent HVAC vent and glass detailing.",
+    "businessDistricts": "Downtown LA, Century City, Silicon Beach, Pasadena",
+    "regulatoryNote": "California Cal/OSHA cleaning chemical labeling and AB 1978 janitorial registration rules."
+  },
+  {
+    "slug": "chicago-il",
+    "city": "Chicago",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "region": "Midwest",
+    "costMultiplier": 1.22,
+    "hourlyRange": [
+      43,
+      73
+    ],
+    "janitorMedianWageRef": 20.13,
+    "climateWearNote": "Lake-effect snow and sidewalk de-icer residue require winter entryway extraction.",
+    "businessDistricts": "The Loop, Fulton Market, River North, O'Hare Corridor",
+    "regulatoryNote": "Chicago minimum wage tiers and commercial high-rise after-hours security badging."
+  },
+  {
+    "slug": "houston-tx",
+    "city": "Houston",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "High Gulf Coast humidity increases mold-prevention restroom and carpet drying cycles.",
+    "businessDistricts": "Downtown Houston, Energy Corridor, Galleria, The Woodlands",
+    "regulatoryNote": "Standard Texas commercial liability and background-checked night crew requirements."
+  },
+  {
+    "slug": "phoenix-az",
+    "city": "Phoenix",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.98,
+    "hourlyRange": [
+      34,
+      59
+    ],
+    "janitorMedianWageRef": 16.17,
+    "climateWearNote": "Fine desert dust and monsoon grit accelerate carpet fiber abrasion and air vent buildup.",
+    "businessDistricts": "Downtown Phoenix, Scottsdale Airpark, Tempe, Chandler",
+    "regulatoryNote": "Arizona indoor air quality focus and low-water hard-floor maintenance."
+  },
+  {
+    "slug": "philadelphia-pa",
+    "city": "Philadelphia",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "region": "Northeast",
+    "costMultiplier": 1.18,
+    "hourlyRange": [
+      41,
+      71
+    ],
+    "janitorMedianWageRef": 19.47,
+    "climateWearNote": "Four-season precipitation and historic stone lobbies require pH-neutral floor care.",
+    "businessDistricts": "Center City, University City, Navy Yard, King of Prussia",
+    "regulatoryNote": "Philadelphia labor standards and multi-tenant Class A tower insurance minimums."
+  },
+  {
+    "slug": "san-antonio-tx",
+    "city": "San Antonio",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.9,
+    "hourlyRange": [
+      32,
+      54
+    ],
+    "janitorMedianWageRef": 14.85,
+    "climateWearNote": "Warm climate dust and limestone pollen keep commercial entryways busy year-round.",
+    "businessDistricts": "Downtown, Medical Center, Pearl District, Stone Oak",
+    "regulatoryNote": "Standard Texas vendor COI and background screening expectations."
+  },
+  {
+    "slug": "san-diego-ca",
+    "city": "San Diego",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.21,
+    "hourlyRange": [
+      42,
+      73
+    ],
+    "janitorMedianWageRef": 19.96,
+    "climateWearNote": "Coastal salt air speeds up interior glass streaking and anodized hardware smudging.",
+    "businessDistricts": "Downtown Gaslamp, UTC/La Jolla, Sorrento Valley, Mission Valley",
+    "regulatoryNote": "Cal/OSHA green chemical compliance and AB 1978 janitorial contractor registration."
+  },
+  {
+    "slug": "dallas-tx",
+    "city": "Dallas",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.99,
+    "hourlyRange": [
+      35,
+      59
+    ],
+    "janitorMedianWageRef": 16.34,
+    "climateWearNote": "Spring pollen and urban construction dust drive regular HEPA vacuuming and glass wiping.",
+    "businessDistricts": "Uptown, Downtown Arts District, Las Colinas, Legacy West",
+    "regulatoryNote": "Class A office tower $2M aggregate liability and after-hours keycard compliance."
+  },
+  {
+    "slug": "san-jose-ca",
+    "city": "San Jose",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.33,
+    "hourlyRange": [
+      47,
+      80
+    ],
+    "janitorMedianWageRef": 21.95,
+    "climateWearNote": "Tech campus glass partitions and clean-room adjacent suites demand streak-free detailing.",
+    "businessDistricts": "North San Jose, Downtown, Santana Row, Cupertino Border",
+    "regulatoryNote": "Santa Clara County wage ordinances and strict Cal/OSHA + LEED green cleaning."
+  },
+  {
+    "slug": "austin-tx",
+    "city": "Austin",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "Cedar pollen spikes and rapid tech build-outs increase post-construction and HVAC dusting.",
+    "businessDistricts": "Downtown Austin, Domain, East Austin, Tech Ridge",
+    "regulatoryNote": "City of Austin green-building commercial lease specs for eco-certified cleaners."
+  },
+  {
+    "slug": "jacksonville-fl",
+    "city": "Jacksonville",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.92,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.18,
+    "climateWearNote": "Subtropical humidity and coastal sand demand moisture-controlled carpet and tile care.",
+    "businessDistricts": "Downtown Southbank, Deerwood Park, Baymeadows, Town Center",
+    "regulatoryNote": "Florida commercial general liability and hurricane-season emergency cleanup clauses."
+  },
+  {
+    "slug": "fort-worth-tx",
+    "city": "Fort Worth",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.94,
+    "hourlyRange": [
+      33,
+      56
+    ],
+    "janitorMedianWageRef": 15.51,
+    "climateWearNote": "Dry windborne dust and logistics corridor traffic increase entryway soil tracking.",
+    "businessDistricts": "Sundance Square, Cultural District, AllianceTexas",
+    "regulatoryNote": "Texas commercial COI and bonded crew verification."
+  },
+  {
+    "slug": "columbus-oh",
+    "city": "Columbus",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "region": "Midwest",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Winter freeze-thaw slush and spring moisture keep matting and VCT buffing essential.",
+    "businessDistricts": "Downtown, Arena District, Easton, Dublin",
+    "regulatoryNote": "Ohio workers' compensation state-fund certificate verification."
+  },
+  {
+    "slug": "charlotte-nc",
+    "city": "Charlotte",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "region": "South",
+    "costMultiplier": 0.98,
+    "hourlyRange": [
+      34,
+      59
+    ],
+    "janitorMedianWageRef": 16.17,
+    "climateWearNote": "Heavy red-clay tracking during rainstorms and spring pine pollen coat lobbies and glass.",
+    "businessDistricts": "Uptown, South End, Ballantyne, University City",
+    "regulatoryNote": "Financial-district background checks and strict bank-grade key control."
+  },
+  {
+    "slug": "indianapolis-in",
+    "city": "Indianapolis",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "region": "Midwest",
+    "costMultiplier": 0.92,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.18,
+    "climateWearNote": "Midwest winter salt and humid summers drive bi-annual carpet extraction and VCT waxing.",
+    "businessDistricts": "Monument Circle, Keystone at the Crossing, Carmel",
+    "regulatoryNote": "Indiana standard commercial general liability and janitorial bonding."
+  },
+  {
+    "slug": "san-francisco-ca",
+    "city": "San Francisco",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.35,
+    "hourlyRange": [
+      47,
+      81
+    ],
+    "janitorMedianWageRef": 22.28,
+    "climateWearNote": "Steep urban labor costs, fog dampness, and strict zero-waste sorting shape bids.",
+    "businessDistricts": "Financial District, SoMa, Mission Bay, Jackson Square",
+    "regulatoryNote": "San Francisco Health Care Security Ordinance (HCSO) and mandatory compost/recycling sorting."
+  },
+  {
+    "slug": "seattle-wa",
+    "city": "Seattle",
+    "state": "Washington",
+    "stateCode": "WA",
+    "region": "West",
+    "costMultiplier": 1.27,
+    "hourlyRange": [
+      44,
+      76
+    ],
+    "janitorMedianWageRef": 20.96,
+    "climateWearNote": "Nine months of persistent rain make walk-off mats and damp-soil extraction non-negotiable.",
+    "businessDistricts": "Downtown, South Lake Union, Belltown, Ballard",
+    "regulatoryNote": "Seattle minimum wage standards and Washington L&I workers' comp verification."
+  },
+  {
+    "slug": "denver-co",
+    "city": "Denver",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "region": "West",
+    "costMultiplier": 1.12,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.48,
+    "climateWearNote": "Snow-melt magnesium chloride residue and high-altitude dry dust impact hardwood and carpet.",
+    "businessDistricts": "LoDo, Denver Tech Center, Cherry Creek, RiNo",
+    "regulatoryNote": "Colorado commercial green cleaning preferences in LEED-certified downtown towers."
+  },
+  {
+    "slug": "washington-dc",
+    "city": "Washington",
+    "state": "District of Columbia",
+    "stateCode": "DC",
+    "region": "South",
+    "costMultiplier": 1.28,
+    "hourlyRange": [
+      45,
+      77
+    ],
+    "janitorMedianWageRef": 21.12,
+    "climateWearNote": "Federal contractor security clearances and historic marble lobbies raise labor overhead.",
+    "businessDistricts": "Downtown K Street, Capitol Hill, Navy Yard, NoMa",
+    "regulatoryNote": "DC Displaced Workers Protection Act and federal clearance-vetted staffing."
+  },
+  {
+    "slug": "boston-ma",
+    "city": "Boston",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "region": "Northeast",
+    "costMultiplier": 1.31,
+    "hourlyRange": [
+      46,
+      79
+    ],
+    "janitorMedianWageRef": 21.62,
+    "climateWearNote": "Harsh coastal winters, heavy salt tracking, and older HVAC systems raise deep-clean needs.",
+    "businessDistricts": "Back Bay, Financial District, Seaport, Cambridge Kendall",
+    "regulatoryNote": "Massachusetts prevailing-level metro labor costs and Class A building insurance."
+  },
+  {
+    "slug": "nashville-tn",
+    "city": "Nashville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "region": "South",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Rapid commercial construction dust and humid summers boost interior glass and floor care.",
+    "businessDistricts": "Downtown SoBro, Midtown, Brentwood, Cool Springs",
+    "regulatoryNote": "Tennessee healthcare-adjacent sanitation demand and bonded night crews."
+  },
+  {
+    "slug": "detroit-mi",
+    "city": "Detroit",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "region": "Midwest",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Heavy Great Lakes winter salt and industrial corridor grime call for robust VCT scrubbing.",
+    "businessDistricts": "Downtown Woodward, Corktown, Southfield, Troy",
+    "regulatoryNote": "Michigan commercial insurance and multi-shift automotive office protocols."
+  },
+  {
+    "slug": "portland-or",
+    "city": "Portland",
+    "state": "Oregon",
+    "stateCode": "OR",
+    "region": "West",
+    "costMultiplier": 1.14,
+    "hourlyRange": [
+      40,
+      68
+    ],
+    "janitorMedianWageRef": 18.81,
+    "climateWearNote": "Frequent winter rain and moss moisture require diligent lobby drying and low-VOC care.",
+    "businessDistricts": "Pearl District, Downtown, Lloyd District, Beaverton",
+    "regulatoryNote": "Oregon OSHA hazard communication and Green Seal product mandates in downtown leases."
+  },
+  {
+    "slug": "las-vegas-nv",
+    "city": "Las Vegas",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "region": "West",
+    "costMultiplier": 1.04,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.16,
+    "climateWearNote": "Fine desert silt and 24/7 hospitality/corporate schedules require frequent dusting and restroom care.",
+    "businessDistricts": "Downtown Symphony Park, Summerlin, Henderson, Strip Corridor",
+    "regulatoryNote": "Nevada OSHA commercial standards and multi-shift security badge handling."
+  },
+  {
+    "slug": "memphis-tn",
+    "city": "Memphis",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "region": "South",
+    "costMultiplier": 0.87,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.36,
+    "climateWearNote": "River humidity and distribution-hub traffic mean heavy VCT and breakroom traffic.",
+    "businessDistricts": "Downtown, East Memphis, Germantown, Airport Logistics",
+    "regulatoryNote": "Competitive Mid-South wage floor with strict warehouse-office dust control."
+  },
+  {
+    "slug": "louisville-ky",
+    "city": "Louisville",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "region": "South",
+    "costMultiplier": 0.9,
+    "hourlyRange": [
+      32,
+      54
+    ],
+    "janitorMedianWageRef": 14.85,
+    "climateWearNote": "Ohio Valley pollen and seasonal rain drive spring/fall deep carpet and glass schedules.",
+    "businessDistricts": "Downtown Whiskey Row, Hurstbourne, East End",
+    "regulatoryNote": "Kentucky workers' compensation and commercial liability COI standards."
+  },
+  {
+    "slug": "baltimore-md",
+    "city": "Baltimore",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "region": "South",
+    "costMultiplier": 1.1,
+    "hourlyRange": [
+      38,
+      66
+    ],
+    "janitorMedianWageRef": 18.15,
+    "climateWearNote": "Chesapeake humidity and winter sleet track grit across historic rowhouse and harbor offices.",
+    "businessDistricts": "Inner Harbor, Harbor East, Downtown, Towson",
+    "regulatoryNote": "Maryland minimum wage schedule and medical/biotech suite compliance."
+  },
+  {
+    "slug": "milwaukee-wi",
+    "city": "Milwaukee",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "region": "Midwest",
+    "costMultiplier": 0.98,
+    "hourlyRange": [
+      34,
+      59
+    ],
+    "janitorMedianWageRef": 16.17,
+    "climateWearNote": "Lake Michigan snow and heavy salt require aggressive winter floor neutralization.",
+    "businessDistricts": "Downtown East Town, Third Ward, Brookfield, Wauwatosa",
+    "regulatoryNote": "Wisconsin commercial COI and food/manufacturing office hygiene rules."
+  },
+  {
+    "slug": "albuquerque-nm",
+    "city": "Albuquerque",
+    "state": "New Mexico",
+    "stateCode": "NM",
+    "region": "West",
+    "costMultiplier": 0.9,
+    "hourlyRange": [
+      32,
+      54
+    ],
+    "janitorMedianWageRef": 14.85,
+    "climateWearNote": "Spring windstorms deposit fine silica dust on window sills, desks, and tile grout.",
+    "businessDistricts": "Uptown, Downtown, Journal Center, Mesa del Sol",
+    "regulatoryNote": "New Mexico commercial contractor gross receipts tax considerations."
+  },
+  {
+    "slug": "tucson-az",
+    "city": "Tucson",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Desert dust and intense sun require frequent blinds dusting and hard-floor sweeping.",
+    "businessDistricts": "Downtown, Foothills, Rita Ranch, UA Tech Park",
+    "regulatoryNote": "Arizona commercial bonding and eco-friendly low-water cleaning."
+  },
+  {
+    "slug": "fresno-ca",
+    "city": "Fresno",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.02,
+    "hourlyRange": [
+      36,
+      61
+    ],
+    "janitorMedianWageRef": 16.83,
+    "climateWearNote": "Agricultural valley dust and summer heat increase HVAC vent and glass cleaning cycles.",
+    "businessDistricts": "Downtown, Woodward Park, Fig Garden, Clovis",
+    "regulatoryNote": "California AB 1978 janitorial registration and Cal/OSHA compliance."
+  },
+  {
+    "slug": "sacramento-ca",
+    "city": "Sacramento",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.15,
+    "hourlyRange": [
+      40,
+      69
+    ],
+    "janitorMedianWageRef": 18.97,
+    "climateWearNote": "Heavy spring tree pollen and state-office foot traffic keep daily janitorial scopes thorough.",
+    "businessDistricts": "Downtown Capitol Mall, Midtown, Natomas, Roseville",
+    "regulatoryNote": "California state-agency green cleaning specs and AB 1978 registration."
+  },
+  {
+    "slug": "mesa-az",
+    "city": "Mesa",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Arid desert dust and stucco grit wear down commercial carpet traffic lanes.",
+    "businessDistricts": "Downtown Mesa, Fiesta District, Eastmark, Superstition Springs",
+    "regulatoryNote": "Arizona standard commercial COI and multi-tenant suite key control."
+  },
+  {
+    "slug": "kansas-city-mo",
+    "city": "Kansas City",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "region": "Midwest",
+    "costMultiplier": 0.94,
+    "hourlyRange": [
+      33,
+      56
+    ],
+    "janitorMedianWageRef": 15.51,
+    "climateWearNote": "Ice-storm salt in winter and humid summers drive year-round floor maintenance.",
+    "businessDistricts": "Downtown Power & Light, Country Club Plaza, Overland Park",
+    "regulatoryNote": "Bi-state MO/KS business licensing and commercial insurance coverage."
+  },
+  {
+    "slug": "atlanta-ga",
+    "city": "Atlanta",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "region": "South",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Dense pine pollen coats glass and lobbies every spring alongside humid summer grime.",
+    "businessDistricts": "Midtown, Buckhead, Downtown, Perimeter Center",
+    "regulatoryNote": "Georgia high-rise Class A insurance requirements ($2M+ umbrella common)."
+  },
+  {
+    "slug": "omaha-ne",
+    "city": "Omaha",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "region": "Midwest",
+    "costMultiplier": 0.91,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.02,
+    "climateWearNote": "Plains wind dust and snowy winters require dependable walk-off matting and VCT care.",
+    "businessDistricts": "Downtown Old Market, Aksarben, West Omaha, Regency",
+    "regulatoryNote": "Nebraska workers' comp verification and bonded custodial crews."
+  },
+  {
+    "slug": "colorado-springs-co",
+    "city": "Colorado Springs",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "region": "West",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Snow grit and dry mountain air make electrostatic dusting and floor scrubbing vital.",
+    "businessDistricts": "Downtown, Briargate, Interquest, Airport Corridor",
+    "regulatoryNote": "Defense-contractor clearance and US citizen background checks near bases."
+  },
+  {
+    "slug": "raleigh-nc",
+    "city": "Raleigh",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "region": "South",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Heavy spring oak/pine pollen and Research Triangle lab-office cleanliness standards.",
+    "businessDistricts": "Downtown Raleigh, North Hills, Research Triangle Park",
+    "regulatoryNote": "Biotech/R&D clean-zone protocols and EPA-registered disinfection."
+  },
+  {
+    "slug": "miami-fl",
+    "city": "Miami",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 1.08,
+    "hourlyRange": [
+      38,
+      65
+    ],
+    "janitorMedianWageRef": 17.82,
+    "climateWearNote": "Tropical humidity, salt air, and sudden downpours demand mold-resistant restroom and tile care.",
+    "businessDistricts": "Brickell, Downtown Miami, Coral Gables, Doral",
+    "regulatoryNote": "Bilingual commercial crews, high-rise elevator scheduling, and Class A COI."
+  },
+  {
+    "slug": "virginia-beach-va",
+    "city": "Virginia Beach",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "region": "South",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Coastal sand and humid ocean air accelerate carpet wear and glass salt-film.",
+    "businessDistricts": "Town Center, Lynnhaven, Oceanfront Commercial",
+    "regulatoryNote": "Virginia commercial insurance and federal-contractor office vetting."
+  },
+  {
+    "slug": "oakland-ca",
+    "city": "Oakland",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.29,
+    "hourlyRange": [
+      45,
+      77
+    ],
+    "janitorMedianWageRef": 21.29,
+    "climateWearNote": "Bay Area wage ordinances and damp marine air shape commercial janitorial budgets.",
+    "businessDistricts": "Downtown Uptown, Jack London Square, Emeryville",
+    "regulatoryNote": "Oakland Living Wage / AB 1978 compliance and zero-waste sorting."
+  },
+  {
+    "slug": "minneapolis-mn",
+    "city": "Minneapolis",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "region": "Midwest",
+    "costMultiplier": 1.12,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.48,
+    "climateWearNote": "Long winters with heavy road salt make winter floor neutralization and carpet extraction critical.",
+    "businessDistricts": "Downtown Skyway, North Loop, St. Louis Park, Bloomington",
+    "regulatoryNote": "Minnesota prevailing-market wage competition and skyway-connected tower protocols."
+  },
+  {
+    "slug": "tulsa-ok",
+    "city": "Tulsa",
+    "state": "Oklahoma",
+    "stateCode": "OK",
+    "region": "South",
+    "costMultiplier": 0.87,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.36,
+    "climateWearNote": "Spring storms and red dirt tracking require dependable matting and tile scrubbing.",
+    "businessDistricts": "Downtown Deco District, Midtown, South Tulsa",
+    "regulatoryNote": "Oklahoma commercial liability and energy-sector office security checks."
+  },
+  {
+    "slug": "arlington-tx",
+    "city": "Arlington",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "DFW metro dust and heavy commuter traffic drive consistent breakroom and floor care.",
+    "businessDistricts": "Downtown, Entertainment District, North Arlington",
+    "regulatoryNote": "Texas standard commercial COI and bonded night crews."
+  },
+  {
+    "slug": "new-orleans-la",
+    "city": "New Orleans",
+    "state": "Louisiana",
+    "stateCode": "LA",
+    "region": "South",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Extreme year-round humidity requires vigilant restroom mildew prevention and dehumidified drying.",
+    "businessDistricts": "CBD, Warehouse District, Metairie, Mid-City",
+    "regulatoryNote": "Louisiana commercial liability and storm-readiness vendor agreements."
+  },
+  {
+    "slug": "tampa-fl",
+    "city": "Tampa",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Afternoon rainstorms and coastal sand keep tile grout and lobby floors busy.",
+    "businessDistricts": "Downtown Water Street, Westshore, Ybor City, New Tampa",
+    "regulatoryNote": "Florida commercial COI and medical-plaza infection-control standards."
+  },
+  {
+    "slug": "honolulu-hi",
+    "city": "Honolulu",
+    "state": "Hawaii",
+    "stateCode": "HI",
+    "region": "West",
+    "costMultiplier": 1.3,
+    "hourlyRange": [
+      46,
+      78
+    ],
+    "janitorMedianWageRef": 21.45,
+    "climateWearNote": "Salt-air corrosion, trade-wind dust, and high island supply freight push rates higher.",
+    "businessDistricts": "Downtown Bishop Street, Kakaako, Waikiki Commercial",
+    "regulatoryNote": "Hawaii Prepaid Health Care Act labor cost impact and imported chemical freight."
+  },
+  {
+    "slug": "anaheim-ca",
+    "city": "Anaheim",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.19,
+    "hourlyRange": [
+      42,
+      71
+    ],
+    "janitorMedianWageRef": 19.63,
+    "climateWearNote": "High visitor density and hospitality-adjacent office corridors require frequent restroom resets.",
+    "businessDistricts": "Platinum Triangle, Downtown, Canyon Industrial",
+    "regulatoryNote": "California AB 1978 compliance and Cal/OSHA chemical safety logs."
+  },
+  {
+    "slug": "aurora-co",
+    "city": "Aurora",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "region": "West",
+    "costMultiplier": 1.04,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.16,
+    "climateWearNote": "Snowmelt grit and expansive medical-campus square footage keep floor scrubbers active.",
+    "businessDistricts": "Fitzsimons Medical Campus, City Center, Southlands",
+    "regulatoryNote": "Healthcare-adjacent sanitation protocols and background-screened staff."
+  },
+  {
+    "slug": "santa-ana-ca",
+    "city": "Santa Ana",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.18,
+    "hourlyRange": [
+      41,
+      71
+    ],
+    "janitorMedianWageRef": 19.47,
+    "climateWearNote": "Civic center traffic and warm dusty winds drive interior glass and carpet care.",
+    "businessDistricts": "Downtown Civic Center, South Coast Metro, MacArthur Place",
+    "regulatoryNote": "California AB 1978 janitorial registration and multi-tenant COI."
+  },
+  {
+    "slug": "st-louis-mo",
+    "city": "St. Louis",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "region": "Midwest",
+    "costMultiplier": 0.94,
+    "hourlyRange": [
+      33,
+      56
+    ],
+    "janitorMedianWageRef": 15.51,
+    "climateWearNote": "Humid river summers and winter ice-melt residue drive seasonal carpet and VCT restoration.",
+    "businessDistricts": "Downtown, Clayton, Central West End, Westport",
+    "regulatoryNote": "Missouri union-adjacent downtown towers vs suburban non-union pricing spreads."
+  },
+  {
+    "slug": "pittsburgh-pa",
+    "city": "Pittsburgh",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "region": "Northeast",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "Hilly wet winters, slush, and brick/stone office lobbies require pH-neutral floor cleaning.",
+    "businessDistricts": "Downtown Golden Triangle, Oakland, Strip District, North Shore",
+    "regulatoryNote": "Pennsylvania commercial insurance and university/health-system vendor vetting."
+  },
+  {
+    "slug": "corpus-christi-tx",
+    "city": "Corpus Christi",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.88,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.52,
+    "climateWearNote": "Coastal salt haze and sand call for daily glass wiping and hard-floor mopping.",
+    "businessDistricts": "Downtown Marina, Southside, Port Industrial",
+    "regulatoryNote": "Texas standard commercial COI and industrial-office safety orientation."
+  },
+  {
+    "slug": "riverside-ca",
+    "city": "Riverside",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.09,
+    "hourlyRange": [
+      38,
+      65
+    ],
+    "janitorMedianWageRef": 17.99,
+    "climateWearNote": "Inland heat and windborne dust mean frequent air-vent dusting and hard-floor sweeping.",
+    "businessDistricts": "Downtown, Canyon Crest, Hunter Park",
+    "regulatoryNote": "California AB 1978 compliance and Inland Empire warehouse-office standards."
+  },
+  {
+    "slug": "cincinnati-oh",
+    "city": "Cincinnati",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "region": "Midwest",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "River-valley humidity and winter freeze-thaw cycles require regular tile and carpet care.",
+    "businessDistricts": "Downtown, Over-the-Rhine, Mason, Blue Ash",
+    "regulatoryNote": "Ohio BWC workers' compensation certificate and bonded crews."
+  },
+  {
+    "slug": "lexington-ky",
+    "city": "Lexington",
+    "state": "Kentucky",
+    "stateCode": "KY",
+    "region": "South",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Seasonal pollen and rainstorms drive steady entry-mat and restroom sanitation.",
+    "businessDistricts": "Downtown, Beaumont, Hamburg, UK Research Corridor",
+    "regulatoryNote": "Kentucky commercial COI and university-affiliated office cleaning standards."
+  },
+  {
+    "slug": "anchorage-ak",
+    "city": "Anchorage",
+    "state": "Alaska",
+    "stateCode": "AK",
+    "region": "West",
+    "costMultiplier": 1.24,
+    "hourlyRange": [
+      43,
+      74
+    ],
+    "janitorMedianWageRef": 20.46,
+    "climateWearNote": "Seven months of snow, ice grit, and gravel tracking make deep floor maintenance expensive.",
+    "businessDistricts": "Downtown, Midtown, Dimond Boulevard",
+    "regulatoryNote": "Higher Alaska labor and chemical shipping costs with strict winter entryway care."
+  },
+  {
+    "slug": "stockton-ca",
+    "city": "Stockton",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.05,
+    "hourlyRange": [
+      37,
+      63
+    ],
+    "janitorMedianWageRef": 17.32,
+    "climateWearNote": "Delta wind dust and agricultural particulate increase HVAC vent and window cleaning frequency.",
+    "businessDistricts": "Downtown Waterfront, Miracle Mile, Brookside",
+    "regulatoryNote": "California AB 1978 janitorial registration and Cal/OSHA SDS compliance."
+  },
+  {
+    "slug": "st-paul-mn",
+    "city": "St. Paul",
+    "state": "Minnesota",
+    "stateCode": "MN",
+    "region": "Midwest",
+    "costMultiplier": 1.09,
+    "hourlyRange": [
+      38,
+      65
+    ],
+    "janitorMedianWageRef": 17.99,
+    "climateWearNote": "Severe winter road salt and snow tracking require daily lobby mopping and carpet extraction.",
+    "businessDistricts": "Downtown Capitol, Midway, Lowertown, Highland",
+    "regulatoryNote": "Minnesota metro wage benchmarks and government-adjacent background vetting."
+  },
+  {
+    "slug": "newark-nj",
+    "city": "Newark",
+    "state": "New Jersey",
+    "stateCode": "NJ",
+    "region": "Northeast",
+    "costMultiplier": 1.24,
+    "hourlyRange": [
+      43,
+      74
+    ],
+    "janitorMedianWageRef": 20.46,
+    "climateWearNote": "Dense transit commuter soil and winter salt require heavy-duty floor and restroom care.",
+    "businessDistricts": "Downtown Broad Street, Ironbound, Gateway Center",
+    "regulatoryNote": "New Jersey contractor registration and NYC-metro-adjacent insurance minimums."
+  },
+  {
+    "slug": "greensboro-nc",
+    "city": "Greensboro",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "region": "South",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Spring pollen and humid Piedmont summers drive regular glass and carpet maintenance.",
+    "businessDistricts": "Downtown, Friendly Center, Airport Corporate Park",
+    "regulatoryNote": "North Carolina commercial COI and multi-shift office security."
+  },
+  {
+    "slug": "buffalo-ny",
+    "city": "Buffalo",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.04,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.16,
+    "climateWearNote": "Extreme lake-effect snow and salt tracking demand intense winter matting and VCT care.",
+    "businessDistricts": "Downtown Canalside, Amherst, Williamsville",
+    "regulatoryNote": "New York State minimum wage tiers and mandatory workers' compensation coverage."
+  },
+  {
+    "slug": "plano-tx",
+    "city": "Plano",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Corporate campus glass atriums and high headcounts require thorough breakroom and restroom resets.",
+    "businessDistricts": "Legacy West, Granite Park, Downtown Plano",
+    "regulatoryNote": "Fortune-500 corporate campus COI, badges, and daytime porter staffing."
+  },
+  {
+    "slug": "lincoln-ne",
+    "city": "Lincoln",
+    "state": "Nebraska",
+    "stateCode": "NE",
+    "region": "Midwest",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Winter snow salt and spring dust keep VCT and commercial carpet maintenance steady.",
+    "businessDistricts": "Downtown Haymarket, Fallbrook, SouthPointe",
+    "regulatoryNote": "Nebraska commercial bonding and university-corridor office protocols."
+  },
+  {
+    "slug": "orlando-fl",
+    "city": "Orlando",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Daily summer thunderstorms and high humidity accelerate tile grout and restroom wear.",
+    "businessDistricts": "Downtown CBD, Maitland Center, Lake Nona, I-Drive",
+    "regulatoryNote": "Florida commercial COI and tourism/medical corridor sanitation schedules."
+  },
+  {
+    "slug": "irvine-ca",
+    "city": "Irvine",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.23,
+    "hourlyRange": [
+      43,
+      74
+    ],
+    "janitorMedianWageRef": 20.29,
+    "climateWearNote": "Modern master-planned glass offices require pristine conference partitions and green chemicals.",
+    "businessDistricts": "Irvine Spectrum, Business Complex, UCI Research Park",
+    "regulatoryNote": "California AB 1978 compliance and LEED-certified office park requirements."
+  },
+  {
+    "slug": "toledo-oh",
+    "city": "Toledo",
+    "state": "Ohio",
+    "stateCode": "OH",
+    "region": "Midwest",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Great Lakes winter slush and industrial particulate require dependable floor scrubbing.",
+    "businessDistricts": "Downtown, Westgate, Perrysburg, Maumee",
+    "regulatoryNote": "Ohio BWC compliance and manufacturing-office dust control."
+  },
+  {
+    "slug": "jersey-city-nj",
+    "city": "Jersey City",
+    "state": "New Jersey",
+    "stateCode": "NJ",
+    "region": "Northeast",
+    "costMultiplier": 1.29,
+    "hourlyRange": [
+      45,
+      77
+    ],
+    "janitorMedianWageRef": 21.29,
+    "climateWearNote": "Waterfront high-rise glass and heavy PATH commuter traffic mirror Manhattan service expectations.",
+    "businessDistricts": "Exchange Place, Newport, Journal Square",
+    "regulatoryNote": "NYC-metro labor pricing, freight-elevator scheduling, and $2M+ COI."
+  },
+  {
+    "slug": "chula-vista-ca",
+    "city": "Chula Vista",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.15,
+    "hourlyRange": [
+      40,
+      69
+    ],
+    "janitorMedianWageRef": 18.97,
+    "climateWearNote": "Coastal dust and warm dry weather require frequent glass and hard-surface dusting.",
+    "businessDistricts": "Downtown Third Ave, Eastlake, Otay Ranch",
+    "regulatoryNote": "California AB 1978 janitorial contractor licensing."
+  },
+  {
+    "slug": "durham-nc",
+    "city": "Durham",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "region": "South",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Biotech, healthcare, and university office suites demand elevated disinfection standards.",
+    "businessDistricts": "Downtown American Tobacco, RTP, Southpoint",
+    "regulatoryNote": "Life-science suite HEPA vacuuming and EPA List N compliance."
+  },
+  {
+    "slug": "fort-wayne-in",
+    "city": "Fort Wayne",
+    "state": "Indiana",
+    "stateCode": "IN",
+    "region": "Midwest",
+    "costMultiplier": 0.88,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.52,
+    "climateWearNote": "Midwest winter salt and spring moisture keep entry matting and breakrooms busy.",
+    "businessDistricts": "Downtown, Dupont Medical Corridor, Jefferson Pointe",
+    "regulatoryNote": "Indiana competitive mid-market pricing and bonded staff."
+  },
+  {
+    "slug": "st-petersburg-fl",
+    "city": "St. Petersburg",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "Coastal humidity and summer rain drive frequent tile, glass, and mildew control.",
+    "businessDistricts": "Downtown Central Ave, Carillon Park, Gateway",
+    "regulatoryNote": "Florida commercial liability insurance and hurricane-prep clauses."
+  },
+  {
+    "slug": "laredo-tx",
+    "city": "Laredo",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "Hot dry border dust and freight-logistics foot traffic increase floor sweeping frequency.",
+    "businessDistricts": "Downtown, North Laredo, Mines Road Logistics",
+    "regulatoryNote": "Cost-competitive South Texas labor with warehouse-office dust control."
+  },
+  {
+    "slug": "madison-wi",
+    "city": "Madison",
+    "state": "Wisconsin",
+    "stateCode": "WI",
+    "region": "Midwest",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "Heavy winter salt, spring mud, and tech/university campuses drive green cleaning demand.",
+    "businessDistricts": "Capitol Square, University Research Park, West Towne",
+    "regulatoryNote": "Wisconsin workers' comp and high preference for Green Seal supplies."
+  },
+  {
+    "slug": "chandler-az",
+    "city": "Chandler",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Tech-corridor clean rooms and desert dust require strict HEPA filtration and dusting.",
+    "businessDistricts": "Price Corridor, Downtown Chandler, Ocotillo",
+    "regulatoryNote": "Semiconductor/tech campus NDA badging and ESD-safe floor care."
+  },
+  {
+    "slug": "lubbock-tx",
+    "city": "Lubbock",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "West Texas dust storms mean frequent window sill, vent, and carpet soil removal.",
+    "businessDistricts": "Downtown, South Plains, Medical District",
+    "regulatoryNote": "Low baseline West Texas rates with thorough dust-control add-ons."
+  },
+  {
+    "slug": "scottsdale-az",
+    "city": "Scottsdale",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 1.05,
+    "hourlyRange": [
+      37,
+      63
+    ],
+    "janitorMedianWageRef": 17.32,
+    "climateWearNote": "Luxury medical, wealth-management, and glass-heavy offices demand meticulous finishing.",
+    "businessDistricts": "Old Town, Scottsdale Airpark, Kierland",
+    "regulatoryNote": "High-touch executive suite detailing and bonded daytime/evening crews."
+  },
+  {
+    "slug": "reno-nv",
+    "city": "Reno",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "region": "West",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "High-desert dust and winter mountain snow residue wear on commercial entry flooring.",
+    "businessDistricts": "Downtown Riverwalk, Midtown, Tahoe-Reno Corridor",
+    "regulatoryNote": "Nevada commercial COI and logistics-office flex scheduling."
+  },
+  {
+    "slug": "baton-rouge-la",
+    "city": "Baton Rouge",
+    "state": "Louisiana",
+    "stateCode": "LA",
+    "region": "South",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Humid subtropical weather and heavy rainstorms require aggressive entryway drying.",
+    "businessDistricts": "Downtown, Corporate Blvd, Perkins Rowe",
+    "regulatoryNote": "Louisiana commercial insurance and petrochemical-office safety compliance."
+  },
+  {
+    "slug": "boise-id",
+    "city": "Boise",
+    "state": "Idaho",
+    "stateCode": "ID",
+    "region": "West",
+    "costMultiplier": 0.98,
+    "hourlyRange": [
+      34,
+      59
+    ],
+    "janitorMedianWageRef": 16.17,
+    "climateWearNote": "Dry summer dust and winter snow grit keep carpet extraction and VCT scrubbing regular.",
+    "businessDistricts": "Downtown 8th Street, Meridian Corridor, Boise Bench",
+    "regulatoryNote": "Idaho commercial COI and fast-growing Treasure Valley labor market."
+  },
+  {
+    "slug": "richmond-va",
+    "city": "Richmond",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "region": "South",
+    "costMultiplier": 0.98,
+    "hourlyRange": [
+      34,
+      59
+    ],
+    "janitorMedianWageRef": 16.17,
+    "climateWearNote": "Humid summers, spring pollen, and historic brick/wood offices need careful neutral cleaners.",
+    "businessDistricts": "Downtown Shockoe, Short Pump, Innsbrook",
+    "regulatoryNote": "Virginia financial/legal corridor background checks and bonding."
+  },
+  {
+    "slug": "spokane-wa",
+    "city": "Spokane",
+    "state": "Washington",
+    "stateCode": "WA",
+    "region": "West",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Winter snow/ice-melt tracking and dry dusty summers require balanced year-round floor care.",
+    "businessDistricts": "Downtown Riverfront, Spokane Valley, South Hill",
+    "regulatoryNote": "Washington L&I coverage and state minimum wage tiers."
+  },
+  {
+    "slug": "des-moines-ia",
+    "city": "Des Moines",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "region": "Midwest",
+    "costMultiplier": 0.88,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.52,
+    "climateWearNote": "Insurance-hub skyscrapers face harsh winter salt and humid summer soil tracking.",
+    "businessDistricts": "Downtown Skywalk, West Des Moines, Jordan Creek",
+    "regulatoryNote": "Iowa commercial COI and skywalk-connected Class A building schedules."
+  },
+  {
+    "slug": "montgomery-al",
+    "city": "Montgomery",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "Hot humid climate and pine pollen require frequent glass and restroom upkeep.",
+    "businessDistricts": "Downtown Dexter Ave, EastChase, Maxwell Corridor",
+    "regulatoryNote": "Competitive Alabama baseline rates and government-contractor vetting."
+  },
+  {
+    "slug": "tacoma-wa",
+    "city": "Tacoma",
+    "state": "Washington",
+    "stateCode": "WA",
+    "region": "West",
+    "costMultiplier": 1.12,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.48,
+    "climateWearNote": "Port humidity and persistent rain drive daily lobby mat vacuuming and damp mopping.",
+    "businessDistricts": "Downtown Pacific Ave, Port Industrial, Lakewood",
+    "regulatoryNote": "Washington state wage laws and L&I workers' comp compliance."
+  },
+  {
+    "slug": "shreveport-la",
+    "city": "Shreveport",
+    "state": "Louisiana",
+    "stateCode": "LA",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "Humid summers and seasonal storms call for reliable restroom and tile disinfection.",
+    "businessDistricts": "Downtown Red River, Youree Drive, Bossier",
+    "regulatoryNote": "Louisiana commercial COI and bonded local cleaning crews."
+  },
+  {
+    "slug": "fremont-ca",
+    "city": "Fremont",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.28,
+    "hourlyRange": [
+      45,
+      77
+    ],
+    "janitorMedianWageRef": 21.12,
+    "climateWearNote": "Silicon Valley manufacturing-office hybrids require strict floor and HEPA dust control.",
+    "businessDistricts": "Warm Springs, Central Fremont, Ardenwood",
+    "regulatoryNote": "Alameda County wage standards and California AB 1978 registration."
+  },
+  {
+    "slug": "salt-lake-city-ut",
+    "city": "Salt Lake City",
+    "state": "Utah",
+    "stateCode": "UT",
+    "region": "West",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Winter inversion dust and road salt demand frequent window and lobby floor detailing.",
+    "businessDistricts": "Downtown Temple Square, Sugar House, Silicon Slopes",
+    "regulatoryNote": "Utah commercial COI and eco-friendly low-VOC cleaning demand."
+  },
+  {
+    "slug": "huntsville-al",
+    "city": "Huntsville",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "region": "South",
+    "costMultiplier": 0.91,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.02,
+    "climateWearNote": "Aerospace and defense engineering offices require vetted US-citizen night crews.",
+    "businessDistricts": "Downtown, Cummings Research Park, Redstone Gate",
+    "regulatoryNote": "Federal defense contractor security clearance & badge rules."
+  },
+  {
+    "slug": "grand-rapids-mi",
+    "city": "Grand Rapids",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "region": "Midwest",
+    "costMultiplier": 0.93,
+    "hourlyRange": [
+      33,
+      56
+    ],
+    "janitorMedianWageRef": 15.35,
+    "climateWearNote": "Heavy West Michigan lake-effect snow makes winter salt neutralization a top priority.",
+    "businessDistricts": "Downtown Monroe Center, Medical Mile, Kentwood",
+    "regulatoryNote": "Michigan commercial COI and medical-corridor sanitation protocols."
+  },
+  {
+    "slug": "knoxville-tn",
+    "city": "Knoxville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "region": "South",
+    "costMultiplier": 0.88,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.52,
+    "climateWearNote": "Smoky Mountain valley pollen and seasonal rain increase glass and carpet upkeep.",
+    "businessDistricts": "Downtown Market Square, West Knoxville, Oak Ridge",
+    "regulatoryNote": "Tennessee commercial bonding and DOE/research-adjacent office vetting."
+  },
+  {
+    "slug": "worcester-ma",
+    "city": "Worcester",
+    "state": "Massachusetts",
+    "stateCode": "MA",
+    "region": "Northeast",
+    "costMultiplier": 1.16,
+    "hourlyRange": [
+      41,
+      70
+    ],
+    "janitorMedianWageRef": 19.14,
+    "climateWearNote": "Heavy New England winter snow and salt increase lobby floor and carpet extraction cycles.",
+    "businessDistricts": "Downtown, Shrewsbury Street, Biotech Park",
+    "regulatoryNote": "Massachusetts labor rates and biotech/medical office compliance."
+  },
+  {
+    "slug": "providence-ri",
+    "city": "Providence",
+    "state": "Rhode Island",
+    "stateCode": "RI",
+    "region": "Northeast",
+    "costMultiplier": 1.15,
+    "hourlyRange": [
+      40,
+      69
+    ],
+    "janitorMedianWageRef": 18.97,
+    "climateWearNote": "Coastal dampness and winter slush require steady hardwood, stone, and carpet maintenance.",
+    "businessDistricts": "Downtown Financial, Jewelry District, East Side",
+    "regulatoryNote": "Rhode Island minimum wage tiers and historic-building floor care."
+  },
+  {
+    "slug": "charleston-sc",
+    "city": "Charleston",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "Coastal humidity, historic wood/brick interiors, and summer storms require gentle moisture control.",
+    "businessDistricts": "Downtown King Street, Mount Pleasant, North Charleston",
+    "regulatoryNote": "South Carolina commercial COI and hospitality/medical office standards."
+  },
+  {
+    "slug": "savannah-ga",
+    "city": "Savannah",
+    "state": "Georgia",
+    "stateCode": "GA",
+    "region": "South",
+    "costMultiplier": 0.92,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.18,
+    "climateWearNote": "Subtropical humidity, live-oak pollen, and coastal sand require daily floor and glass care.",
+    "businessDistricts": "Historic District, Midtown, Pooler Logistics",
+    "regulatoryNote": "Georgia commercial insurance and historic preservation-safe cleaners."
+  },
+  {
+    "slug": "little-rock-ar",
+    "city": "Little Rock",
+    "state": "Arkansas",
+    "stateCode": "AR",
+    "region": "South",
+    "costMultiplier": 0.86,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.19,
+    "climateWearNote": "Humid summers and spring storms keep carpet, VCT, and restrooms in steady rotation.",
+    "businessDistricts": "Downtown River Market, West Little Rock, Chenal",
+    "regulatoryNote": "Arkansas competitive pricing with standard COI and bonding."
+  },
+  {
+    "slug": "jackson-ms",
+    "city": "Jackson",
+    "state": "Mississippi",
+    "stateCode": "MS",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "Warm humid weather and clay soil tracking require reliable restroom and floor sanitization.",
+    "businessDistricts": "Downtown Capitol, Fondren, Ridgeland",
+    "regulatoryNote": "Mississippi competitive wage floor and commercial insurance verification."
+  },
+  {
+    "slug": "hartford-ct",
+    "city": "Hartford",
+    "state": "Connecticut",
+    "stateCode": "CT",
+    "region": "Northeast",
+    "costMultiplier": 1.19,
+    "hourlyRange": [
+      42,
+      71
+    ],
+    "janitorMedianWageRef": 19.63,
+    "climateWearNote": "Insurance-headquarters towers face tough New England winter salt and slush.",
+    "businessDistricts": "Downtown Constitution Plaza, West Hartford, Farmington",
+    "regulatoryNote": "Connecticut prevailing wage tiers and Class A corporate COI."
+  },
+  {
+    "slug": "stamford-ct",
+    "city": "Stamford",
+    "state": "Connecticut",
+    "stateCode": "CT",
+    "region": "Northeast",
+    "costMultiplier": 1.3,
+    "hourlyRange": [
+      46,
+      78
+    ],
+    "janitorMedianWageRef": 21.45,
+    "climateWearNote": "NYC-commuter financial towers expect pristine glass, marble, and after-hours security.",
+    "businessDistricts": "Downtown Tresser, Harbor Point, Stamford Executive Park",
+    "regulatoryNote": "Fairfield County high labor rates and $2M+ Class A umbrella coverage."
+  },
+  {
+    "slug": "new-haven-ct",
+    "city": "New Haven",
+    "state": "Connecticut",
+    "stateCode": "CT",
+    "region": "Northeast",
+    "costMultiplier": 1.17,
+    "hourlyRange": [
+      41,
+      70
+    ],
+    "janitorMedianWageRef": 19.3,
+    "climateWearNote": "Coastal New England weather and university/medical offices drive strict sanitation.",
+    "businessDistricts": "Downtown Green, Science Park, Long Wharf",
+    "regulatoryNote": "Connecticut labor compliance and bioscience suite protocols."
+  },
+  {
+    "slug": "albany-ny",
+    "city": "Albany",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.09,
+    "hourlyRange": [
+      38,
+      65
+    ],
+    "janitorMedianWageRef": 17.99,
+    "climateWearNote": "Upstate snowstorms and state-agency foot traffic require tough entryway floor programs.",
+    "businessDistricts": "Downtown Empire Plaza, Wolf Road, Latham",
+    "regulatoryNote": "New York State prevailing wage awareness and union-adjacent buildings."
+  },
+  {
+    "slug": "syracuse-ny",
+    "city": "Syracuse",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Nation-leading snowfall makes heavy walk-off mats and salt-neutralizer mopping essential.",
+    "businessDistricts": "Downtown Armory Square, University Hill, Liverpool",
+    "regulatoryNote": "New York State workers' comp and winter floor care add-ons."
+  },
+  {
+    "slug": "rochester-ny",
+    "city": "Rochester",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.02,
+    "hourlyRange": [
+      36,
+      61
+    ],
+    "janitorMedianWageRef": 16.83,
+    "climateWearNote": "Lake Ontario winter slush and tech/optical offices require careful HEPA dust control.",
+    "businessDistricts": "Downtown East End, Brighton, Henrietta",
+    "regulatoryNote": "New York State labor compliance and medical/tech suite vetting."
+  },
+  {
+    "slug": "allentown-pa",
+    "city": "Allentown",
+    "state": "Pennsylvania",
+    "stateCode": "PA",
+    "region": "Northeast",
+    "costMultiplier": 1.02,
+    "hourlyRange": [
+      36,
+      61
+    ],
+    "janitorMedianWageRef": 16.83,
+    "climateWearNote": "Lehigh Valley winter weather and logistics-corridor dust keep VCT and carpet busy.",
+    "businessDistricts": "Downtown Hamilton, Lehigh Valley Industrial Park",
+    "regulatoryNote": "Pennsylvania commercial COI and multi-shift office access."
+  },
+  {
+    "slug": "wilmington-de",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "stateCode": "DE",
+    "region": "South",
+    "costMultiplier": 1.13,
+    "hourlyRange": [
+      40,
+      68
+    ],
+    "janitorMedianWageRef": 18.64,
+    "climateWearNote": "Corporate-headquarters banking towers expect spotless lobbies, glass, and executive suites.",
+    "businessDistricts": "Downtown Rodney Square, Riverfront, Greenville",
+    "regulatoryNote": "Delaware corporate tower COI and strict financial-sector confidentiality."
+  },
+  {
+    "slug": "manchester-nh",
+    "city": "Manchester",
+    "state": "New Hampshire",
+    "stateCode": "NH",
+    "region": "Northeast",
+    "costMultiplier": 1.08,
+    "hourlyRange": [
+      38,
+      65
+    ],
+    "janitorMedianWageRef": 17.82,
+    "climateWearNote": "Winter snow salt and river-valley humidity require regular carpet extraction and VCT care.",
+    "businessDistricts": "Downtown Elm Street, Millyard, Airport Tech Park",
+    "regulatoryNote": "New Hampshire commercial insurance and mill-building wood/brick care."
+  },
+  {
+    "slug": "portland-me",
+    "city": "Portland",
+    "state": "Maine",
+    "stateCode": "ME",
+    "region": "Northeast",
+    "costMultiplier": 1.1,
+    "hourlyRange": [
+      38,
+      66
+    ],
+    "janitorMedianWageRef": 18.15,
+    "climateWearNote": "Coastal winter slush, salt mist, and historic timber offices demand gentle floor care.",
+    "businessDistricts": "Old Port, Downtown Congress, South Portland",
+    "regulatoryNote": "Maine paid-leave labor impacts and eco-certified coastal cleaning."
+  },
+  {
+    "slug": "burlington-vt",
+    "city": "Burlington",
+    "state": "Vermont",
+    "stateCode": "VT",
+    "region": "Northeast",
+    "costMultiplier": 1.11,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.32,
+    "climateWearNote": "Long snowy winters and green-minded tenants prioritize salt removal and Green Seal products.",
+    "businessDistricts": "Church Street, South End, Williston",
+    "regulatoryNote": "Vermont strict green-chemical preferences and winter floor budgets."
+  },
+  {
+    "slug": "fargo-nd",
+    "city": "Fargo",
+    "state": "North Dakota",
+    "stateCode": "ND",
+    "region": "Midwest",
+    "costMultiplier": 0.9,
+    "hourlyRange": [
+      32,
+      54
+    ],
+    "janitorMedianWageRef": 14.85,
+    "climateWearNote": "Severe blizzards and sub-zero salt grit demand heavy-duty entryway extraction.",
+    "businessDistricts": "Downtown Broadway, South Fargo, West Fargo",
+    "regulatoryNote": "North Dakota Workforce Safety & Insurance (WSI) compliance."
+  },
+  {
+    "slug": "sioux-falls-sd",
+    "city": "Sioux Falls",
+    "state": "South Dakota",
+    "stateCode": "SD",
+    "region": "Midwest",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Winter ice-melt tracking and financial-center offices keep carpet and glass schedules tight.",
+    "businessDistricts": "Downtown Phillips Ave, Cherapa Place, South Sioux Falls",
+    "regulatoryNote": "South Dakota competitive pricing with financial-campus security vetting."
+  },
+  {
+    "slug": "billings-mt",
+    "city": "Billings",
+    "state": "Montana",
+    "stateCode": "MT",
+    "region": "West",
+    "costMultiplier": 0.92,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.18,
+    "climateWearNote": "Winter snow grit and dry prairie winds increase HVAC vent and window sill dusting.",
+    "businessDistricts": "Downtown, West End, Shiloh Crossing",
+    "regulatoryNote": "Montana workers' compensation and commercial bonding checks."
+  },
+  {
+    "slug": "cheyenne-wy",
+    "city": "Cheyenne",
+    "state": "Wyoming",
+    "stateCode": "WY",
+    "region": "West",
+    "costMultiplier": 0.91,
+    "hourlyRange": [
+      32,
+      55
+    ],
+    "janitorMedianWageRef": 15.02,
+    "climateWearNote": "High plains wind dust and winter snow tracking keep entryways and glass active.",
+    "businessDistricts": "Downtown Capitol, Dell Range, Business Parkway",
+    "regulatoryNote": "Wyoming workers' comp certificate and government-adjacent screening."
+  },
+  {
+    "slug": "charleston-wv",
+    "city": "Charleston",
+    "state": "West Virginia",
+    "stateCode": "WV",
+    "region": "South",
+    "costMultiplier": 0.86,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.19,
+    "climateWearNote": "Appalachian valley dampness and winter slush drive seasonal floor and restroom upkeep.",
+    "businessDistricts": "Downtown Capitol, Kanawha City, South Hills",
+    "regulatoryNote": "West Virginia commercial COI and competitive regional rates."
+  },
+  {
+    "slug": "columbia-sc",
+    "city": "Columbia",
+    "state": "South Carolina",
+    "stateCode": "SC",
+    "region": "South",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Intense summer heat, heavy pollen, and humidity require diligent restroom care.",
+    "businessDistricts": "Downtown Main Street, Vista, Irmo",
+    "regulatoryNote": "South Carolina commercial bonding and state-office background checks."
+  },
+  {
+    "slug": "birmingham-al",
+    "city": "Birmingham",
+    "state": "Alabama",
+    "stateCode": "AL",
+    "region": "South",
+    "costMultiplier": 0.88,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.52,
+    "climateWearNote": "Humid summers, red soil, and medical-district traffic keep tile and carpet active.",
+    "businessDistricts": "Downtown Uptown, UAB Medical District, Hoover",
+    "regulatoryNote": "Alabama commercial COI and medical-grade disinfectant expectations."
+  },
+  {
+    "slug": "chattanooga-tn",
+    "city": "Chattanooga",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "region": "South",
+    "costMultiplier": 0.89,
+    "hourlyRange": [
+      31,
+      53
+    ],
+    "janitorMedianWageRef": 14.69,
+    "climateWearNote": "Valley humidity and spring pollen call for steady interior glass and carpet care.",
+    "businessDistricts": "Downtown Northshore, Southside, Hamilton Place",
+    "regulatoryNote": "Tennessee tech-corridor flex offices and standard COI."
+  },
+  {
+    "slug": "wichita-ks",
+    "city": "Wichita",
+    "state": "Kansas",
+    "stateCode": "KS",
+    "region": "Midwest",
+    "costMultiplier": 0.87,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.36,
+    "climateWearNote": "Plains dust and aviation-manufacturing office traffic require diligent HEPA vacuuming.",
+    "businessDistricts": "Downtown Old Town, Eastborough, West Wichita",
+    "regulatoryNote": "Kansas aerospace-contractor security vetting and COI."
+  },
+  {
+    "slug": "fort-lauderdale-fl",
+    "city": "Fort Lauderdale",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 1.04,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.16,
+    "climateWearNote": "Coastal salt haze, tropical downpours, and humidity accelerate glass and tile care.",
+    "businessDistricts": "Las Olas, Downtown, Cypress Creek, Plantation",
+    "regulatoryNote": "South Florida high-rise insurance and bilingual crew coordination."
+  },
+  {
+    "slug": "west-palm-beach-fl",
+    "city": "West Palm Beach",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 1.05,
+    "hourlyRange": [
+      37,
+      63
+    ],
+    "janitorMedianWageRef": 17.32,
+    "climateWearNote": "Wealth-management and waterfront glass suites demand spotless streak-free detailing.",
+    "businessDistricts": "Downtown Rosemary Square, Palm Beach Lakes, Boca Border",
+    "regulatoryNote": "Class A financial suite confidentiality and background checks."
+  },
+  {
+    "slug": "naples-fl",
+    "city": "Naples",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "High-end medical and boutique wealth offices prioritize meticulous stone and wood care.",
+    "businessDistricts": "Downtown 5th Ave, North Naples, Pelican Bay",
+    "regulatoryNote": "Premium concierge-grade finishing and bonded daytime crews."
+  },
+  {
+    "slug": "sarasota-fl",
+    "city": "Sarasota",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Coastal humidity and fine sand drive daily lobby sweeping and glass polishing.",
+    "businessDistricts": "Downtown Main Street, Lakewood Ranch, Fruitville",
+    "regulatoryNote": "Florida commercial COI and medical-plaza compliance."
+  },
+  {
+    "slug": "el-paso-tx",
+    "city": "El Paso",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.85,
+    "hourlyRange": [
+      30,
+      51
+    ],
+    "janitorMedianWageRef": 14.03,
+    "climateWearNote": "High-desert windborne dust storms make window sill and vent dusting essential.",
+    "businessDistricts": "Downtown, Westside, Eastlake Corporate",
+    "regulatoryNote": "Cost-efficient West Texas labor with thorough dust mitigation."
+  },
+  {
+    "slug": "frisco-tx",
+    "city": "Frisco",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 1.0,
+    "hourlyRange": [
+      35,
+      60
+    ],
+    "janitorMedianWageRef": 16.5,
+    "climateWearNote": "New corporate headquarters and Class A glass campuses require daily porter and night care.",
+    "businessDistricts": "The Star, Hall Park, Frisco Station",
+    "regulatoryNote": "Corporate park COI, smart-badge access, and breakroom sanitization."
+  },
+  {
+    "slug": "mckinney-tx",
+    "city": "McKinney",
+    "state": "Texas",
+    "stateCode": "TX",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "Growing suburban office parks face spring pollen and heavy commuter foot traffic.",
+    "businessDistricts": "Downtown Historic, Craig Ranch, Eldorado",
+    "regulatoryNote": "North Dallas suburban commercial COI and bonding."
+  },
+  {
+    "slug": "tempe-az",
+    "city": "Tempe",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.99,
+    "hourlyRange": [
+      35,
+      59
+    ],
+    "janitorMedianWageRef": 16.34,
+    "climateWearNote": "University-corridor tech towers and desert dust keep glass and carpet schedules steady.",
+    "businessDistricts": "Mill Avenue, Rio Salado, ASU Research Park",
+    "regulatoryNote": "Arizona commercial COI and tech-campus NDA security."
+  },
+  {
+    "slug": "gilbert-az",
+    "city": "Gilbert",
+    "state": "Arizona",
+    "stateCode": "AZ",
+    "region": "West",
+    "costMultiplier": 0.97,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 16.0,
+    "climateWearNote": "Biotech/medical offices and dry desert silt require consistent HEPA vacuuming.",
+    "businessDistricts": "Heritage District, SanTan, Rivulon",
+    "regulatoryNote": "Medical-suite sanitation and commercial liability coverage."
+  },
+  {
+    "slug": "henderson-nv",
+    "city": "Henderson",
+    "state": "Nevada",
+    "stateCode": "NV",
+    "region": "West",
+    "costMultiplier": 1.01,
+    "hourlyRange": [
+      35,
+      61
+    ],
+    "janitorMedianWageRef": 16.66,
+    "climateWearNote": "Arid desert dust and executive office parks require regular blinds and floor care.",
+    "businessDistricts": "Green Valley, Water Street, West Henderson",
+    "regulatoryNote": "Nevada commercial COI and bonded night staffing."
+  },
+  {
+    "slug": "bellevue-wa",
+    "city": "Bellevue",
+    "state": "Washington",
+    "stateCode": "WA",
+    "region": "West",
+    "costMultiplier": 1.29,
+    "hourlyRange": [
+      45,
+      77
+    ],
+    "janitorMedianWageRef": 21.29,
+    "climateWearNote": "Eastside tech skyscrapers and rainy Pacific Northwest weather push rates near Seattle.",
+    "businessDistricts": "Downtown Bellevue, Factoria, Spring District",
+    "regulatoryNote": "Washington high metro labor rates and strict Class A tower insurance."
+  },
+  {
+    "slug": "redmond-wa",
+    "city": "Redmond",
+    "state": "Washington",
+    "stateCode": "WA",
+    "region": "West",
+    "costMultiplier": 1.26,
+    "hourlyRange": [
+      44,
+      76
+    ],
+    "janitorMedianWageRef": 20.79,
+    "climateWearNote": "Large tech-campus cafeterias, glass partitions, and wet weather drive comprehensive scopes.",
+    "businessDistricts": "Overlake, Downtown Redmond, Willows Corridor",
+    "regulatoryNote": "Tech-campus green cleaning mandates and badge-escort rules."
+  },
+  {
+    "slug": "naperville-il",
+    "city": "Naperville",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "region": "Midwest",
+    "costMultiplier": 1.12,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.48,
+    "climateWearNote": "Suburban corporate campuses face heavy Midwest winter salt and slush tracking.",
+    "businessDistricts": "Downtown, I-88 Diehl Corridor, Freedom Commons",
+    "regulatoryNote": "Illinois workers' comp compliance and multi-building campus discounts."
+  },
+  {
+    "slug": "schaumburg-il",
+    "city": "Schaumburg",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "region": "Midwest",
+    "costMultiplier": 1.11,
+    "hourlyRange": [
+      39,
+      67
+    ],
+    "janitorMedianWageRef": 18.32,
+    "climateWearNote": "Northwest suburban office towers require thorough winter floor neutralization.",
+    "businessDistricts": "Woodfield Corridor, Zurich Way, Meacham",
+    "regulatoryNote": "Chicagoland commercial COI and freight-elevator scheduling."
+  },
+  {
+    "slug": "reston-va",
+    "city": "Reston",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "region": "South",
+    "costMultiplier": 1.2,
+    "hourlyRange": [
+      42,
+      72
+    ],
+    "janitorMedianWageRef": 19.8,
+    "climateWearNote": "Northern Virginia defense/tech corridor demands cleared personnel and Class A standards.",
+    "businessDistricts": "Reston Town Center, Dulles Corridor, Sunset Hills",
+    "regulatoryNote": "Cleared contractor background checks and strict facility NDA rules."
+  },
+  {
+    "slug": "arlington-va",
+    "city": "Arlington",
+    "state": "Virginia",
+    "stateCode": "VA",
+    "region": "South",
+    "costMultiplier": 1.26,
+    "hourlyRange": [
+      44,
+      76
+    ],
+    "janitorMedianWageRef": 20.79,
+    "climateWearNote": "Federal-adjacent high-rises near DC require top-tier security vetting and marble care.",
+    "businessDistricts": "Rosslyn, Ballston, Crystal City, Pentagon City",
+    "regulatoryNote": "DC-metro wage scales, security vetting, and Class A tower COI."
+  },
+  {
+    "slug": "bethesda-md",
+    "city": "Bethesda",
+    "state": "Maryland",
+    "stateCode": "MD",
+    "region": "South",
+    "costMultiplier": 1.24,
+    "hourlyRange": [
+      43,
+      74
+    ],
+    "janitorMedianWageRef": 20.46,
+    "climateWearNote": "Biomedical, federal, and executive suites require clinical-grade restroom and air care.",
+    "businessDistricts": "Downtown Bethesda, Rock Spring, NIH Corridor",
+    "regulatoryNote": "NIH/medical-corridor sanitation protocols and DC-metro wages."
+  },
+  {
+    "slug": "ann-arbor-mi",
+    "city": "Ann Arbor",
+    "state": "Michigan",
+    "stateCode": "MI",
+    "region": "Midwest",
+    "costMultiplier": 1.02,
+    "hourlyRange": [
+      36,
+      61
+    ],
+    "janitorMedianWageRef": 16.83,
+    "climateWearNote": "University R&D suites and snowy Michigan winters drive steady floor and lab-office care.",
+    "businessDistricts": "Downtown Main, State Street, Plymouth Road",
+    "regulatoryNote": "Michigan commercial COI and research-suite green cleaning."
+  },
+  {
+    "slug": "boulder-co",
+    "city": "Boulder",
+    "state": "Colorado",
+    "stateCode": "CO",
+    "region": "West",
+    "costMultiplier": 1.16,
+    "hourlyRange": [
+      41,
+      70
+    ],
+    "janitorMedianWageRef": 19.14,
+    "climateWearNote": "Eco-conscious tech tenants mandate Green Seal products alongside winter snow-grit care.",
+    "businessDistricts": "Pearl Street, 28th Street, Flatiron Park",
+    "regulatoryNote": "Strict Boulder zero-waste composting and non-toxic chemical rules."
+  },
+  {
+    "slug": "provo-ut",
+    "city": "Provo",
+    "state": "Utah",
+    "stateCode": "UT",
+    "region": "West",
+    "costMultiplier": 0.94,
+    "hourlyRange": [
+      33,
+      56
+    ],
+    "janitorMedianWageRef": 15.51,
+    "climateWearNote": "Silicon Slopes tech offices and winter road salt keep carpet and glass crews busy.",
+    "businessDistricts": "Downtown Center, Riverwoods, Lehi Border",
+    "regulatoryNote": "Utah commercial COI and fast-growing tech-park janitorial standards."
+  },
+  {
+    "slug": "durham-chapel-hill-nc",
+    "city": "Durham-Chapel Hill",
+    "state": "North Carolina",
+    "stateCode": "NC",
+    "region": "South",
+    "costMultiplier": 0.96,
+    "hourlyRange": [
+      34,
+      58
+    ],
+    "janitorMedianWageRef": 15.84,
+    "climateWearNote": "Academic and clinical research corridors prioritize HEPA filtration and low-VOC care.",
+    "businessDistricts": "Chapel Hill Franklin St, Meadowmont, Eastgate",
+    "regulatoryNote": "University/medical-adjacent disinfection and Green Seal specs."
+  },
+  {
+    "slug": "bakersfield-ca",
+    "city": "Bakersfield",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.03,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.0,
+    "climateWearNote": "San Joaquin Valley dust and heat increase interior dusting and tile floor mopping.",
+    "businessDistricts": "Downtown, Southwest Bakersfield, Riverwalk",
+    "regulatoryNote": "California AB 1978 janitorial registration and Cal/OSHA logs."
+  },
+  {
+    "slug": "modesto-ca",
+    "city": "Modesto",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.04,
+    "hourlyRange": [
+      36,
+      62
+    ],
+    "janitorMedianWageRef": 17.16,
+    "climateWearNote": "Central Valley particulate and agricultural traffic keep lobby mats and vents busy.",
+    "businessDistricts": "Downtown, McHenry Corridor, Dale Road",
+    "regulatoryNote": "California AB 1978 compliance and commercial COI."
+  },
+  {
+    "slug": "hendersonville-tn",
+    "city": "Hendersonville",
+    "state": "Tennessee",
+    "stateCode": "TN",
+    "region": "South",
+    "costMultiplier": 0.9,
+    "hourlyRange": [
+      32,
+      54
+    ],
+    "janitorMedianWageRef": 14.85,
+    "climateWearNote": "Lakefront humidity and suburban Nashville growth drive steady medical and legal suite care.",
+    "businessDistricts": "Indian Lake, Main Street, Saundersville",
+    "regulatoryNote": "Tennessee commercial bonding and suburban medical-suite standards."
+  },
+  {
+    "slug": "boca-raton-fl",
+    "city": "Boca Raton",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 1.06,
+    "hourlyRange": [
+      37,
+      64
+    ],
+    "janitorMedianWageRef": 17.49,
+    "climateWearNote": "Executive financial parks and coastal humidity demand spotless stone, glass, and brass.",
+    "businessDistricts": "Mizner Park, Yamato Corridor, Boca Center",
+    "regulatoryNote": "Class A South Florida COI and background-vetted crews."
+  },
+  {
+    "slug": "clearwater-fl",
+    "city": "Clearwater",
+    "state": "Florida",
+    "stateCode": "FL",
+    "region": "South",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Coastal salt mist and afternoon rainstorms keep lobby glass and tile grout active.",
+    "businessDistricts": "Downtown Cleveland St, Countryside, Ulmerton",
+    "regulatoryNote": "Florida commercial liability and coastal mildew prevention."
+  },
+  {
+    "slug": "peoria-il",
+    "city": "Peoria",
+    "state": "Illinois",
+    "stateCode": "IL",
+    "region": "Midwest",
+    "costMultiplier": 0.95,
+    "hourlyRange": [
+      33,
+      57
+    ],
+    "janitorMedianWageRef": 15.67,
+    "climateWearNote": "Midwest river-valley winters and industrial headquarters demand durable VCT floor care.",
+    "businessDistricts": "Downtown Riverfront, Northwoods, Peoria Heights",
+    "regulatoryNote": "Illinois workers' comp verification and bonded custodial staff."
+  },
+  {
+    "slug": "springfield-mo",
+    "city": "Springfield",
+    "state": "Missouri",
+    "stateCode": "MO",
+    "region": "Midwest",
+    "costMultiplier": 0.86,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.19,
+    "climateWearNote": "Ozark seasonal pollen and winter slush require balanced carpet and hard-floor schedules.",
+    "businessDistricts": "Downtown Square, Medical Mile, South Campbell",
+    "regulatoryNote": "Cost-competitive Missouri labor with healthcare-corridor options."
+  },
+  {
+    "slug": "sioux-city-ia",
+    "city": "Sioux City",
+    "state": "Iowa",
+    "stateCode": "IA",
+    "region": "Midwest",
+    "costMultiplier": 0.86,
+    "hourlyRange": [
+      30,
+      52
+    ],
+    "janitorMedianWageRef": 14.19,
+    "climateWearNote": "Plains winter snow salt and river humidity require reliable matting and VCT care.",
+    "businessDistricts": "Downtown Fourth Street, Southern Hills, Lakeport",
+    "regulatoryNote": "Iowa commercial COI and multi-shift office cleaning."
+  },
+  {
+    "slug": "cheektowaga-ny",
+    "city": "Cheektowaga",
+    "state": "New York",
+    "stateCode": "NY",
+    "region": "Northeast",
+    "costMultiplier": 1.02,
+    "hourlyRange": [
+      36,
+      61
+    ],
+    "janitorMedianWageRef": 16.83,
+    "climateWearNote": "Heavy airport-corridor lake-effect snow drives intense winter floor salt removal.",
+    "businessDistricts": "Galleria Corridor, Genesee St, Thruway Park",
+    "regulatoryNote": "New York State labor rules and winter entryway maintenance."
+  },
+  {
+    "slug": "pasadena-ca",
+    "city": "Pasadena",
+    "state": "California",
+    "stateCode": "CA",
+    "region": "West",
+    "costMultiplier": 1.21,
+    "hourlyRange": [
+      42,
+      73
+    ],
+    "janitorMedianWageRef": 19.96,
+    "climateWearNote": "Architectural heritage buildings and tech labs require surface-safe neutral cleaners.",
+    "businessDistricts": "Old Pasadena, South Lake Ave, East Colorado",
+    "regulatoryNote": "California AB 1978 registration and Class A stone/wood care."
+  },
+  {
+    "slug": "concord-nh",
+    "city": "Concord",
+    "state": "New Hampshire",
+    "stateCode": "NH",
+    "region": "Northeast",
+    "costMultiplier": 1.06,
+    "hourlyRange": [
+      37,
+      64
+    ],
+    "janitorMedianWageRef": 17.49,
+    "climateWearNote": "State-capital winter weather and brick/wood offices require careful snow-salt cleanup.",
+    "businessDistricts": "Main Street, Loudon Road, Capitol Corridor",
+    "regulatoryNote": "New Hampshire commercial COI and government-adjacent screening."
+  }
+]

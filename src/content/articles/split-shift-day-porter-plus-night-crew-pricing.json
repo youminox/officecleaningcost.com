@@ -1,0 +1,89 @@
+{
+  "slug": "split-shift-day-porter-plus-night-crew-pricing",
+  "pillar": "cleaning-frequency-and-schedules",
+  "path": "/cleaning-frequency-and-schedules/split-shift-day-porter-plus-night-crew-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "split-shift day porter + night crew hybrid rates",
+  "title": "Split-Shift Day Porter + Night Crew Hybrid Rates: Hourly Costs, Crew Budgets, and Security/HVAC Trade-Offs",
+  "seoTitle": "Split-Shift Day Porter + Night Crew Hybrid Rates: Crew Budget Math",
+  "metaDescription": "Split-shift day porter + night crew hybrid rates: $35-$65/hr porters plus 2x-3x weekly night visits can trim 18-30% vs. nightly crews. Run your numbers.",
+  "excerpt": "A split-shift program pairs a daytime porter billed by the hour with a reduced-frequency night crew billed per square foot. This guide shows how to budget both halves, where the savings actually come from, and which security and HVAC lease terms change the math.",
+  "quickAnswer": "Split-shift day porter + night crew hybrid rates typically combine a day porter at $35-$65 per hour with a night crew running 2x or 3x per week at $0.07-$0.12 per sq ft per visit for a 10,000-24,999 sq ft office. For an 18,000 sq ft floor, that lands around $16,974-$35,120 per month depending on porter hours and night frequency, compared with $24,551-$42,088 for a five-night crew. Most of the savings come from fewer night mobilizations and fewer after-hours HVAC hours, not from cheaper labor.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic midday scene inside a bright US open-plan office: a uniformed day porter wheels an enclosed locking housekeeping cart past glass conference rooms while employees work at sit-stand desks, soft natural daylight from floor-to-ceiling windows, eye-level 35mm lens, shallow depth of field, no text, no logos, no watermarks",
+    "alt": "Day porter pushing a locked janitorial cart through an occupied open-plan office during business hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How a split-shift hybrid is actually priced" },
+    { "type": "p", "text": "A split-shift program is two contracts in one invoice. The day porter is almost always billed as labor hours: a dedicated attendant on site for 4, 6, or 8 hours who restocks restrooms, resets conference rooms, wipes high-touch points, empties overflowing breakroom bins, and responds to spills. The night crew is billed the way a conventional janitorial contract is billed, per square foot per visit, with a frequency multiplier applied. The key procurement insight is that the porter absorbs work that used to force the night crew to come every evening, so you can drop night visits from five to three or even two without the building looking neglected by Wednesday afternoon." },
+    { "type": "p", "text": "Our national benchmarks put standard janitorial labor at $35-$65 per hour and specialty labor at $55-$95 per hour. Night routine rates run $0.07-$0.12 per sq ft per visit for 10,000-24,999 sq ft, adjusted by frequency: 1.0x for twice weekly, 0.95x for three times weekly, and 0.90x for five nights. Monthly visit counts use 4.33 weeks per month, so 2x per week is 8.66 visits, 3x is 13 visits, and 5x is 21.65 visits." },
+    { "type": "h2", "text": "Crew budget scenarios for an 18,000 sq ft office" },
+    { "type": "p", "text": "The table below models a single-tenant 18,000 sq ft carpeted office with six restrooms and one breakroom. Night costs use the 10,000-24,999 sq ft bracket; porter costs use the standard hourly range across 21.65 weekdays per month. Restroom and breakroom add-ons are excluded so the comparison isolates the schedule decision." },
+    {
+      "type": "table",
+      "caption": "Monthly budget comparison, 18,000 sq ft carpeted office (USD, routine scope only)",
+      "headers": ["Program", "Night rate per sq ft per visit", "Night cost per month", "Porter hours per month", "Porter cost per month", "Total monthly range"],
+      "rows": [
+        ["Night crew only, 5x/week", "$0.063-$0.108", "$24,551-$42,088", "0", "$0", "$24,551-$42,088"],
+        ["Night 3x/week + 6-hr day porter", "$0.0665-$0.114", "$15,561-$26,676", "129.9", "$4,547-$8,444", "$20,108-$35,120"],
+        ["Night 2x/week + 8-hr day porter", "$0.07-$0.12", "$10,912-$18,706", "173.2", "$6,062-$11,258", "$16,974-$29,964"]
+      ]
+    },
+    { "type": "p", "text": "At the low end of the market, the two-night hybrid saves roughly $7,577 per month against five nights; at the high end the gap is about $12,124. The three-night option is the safer first step for offices with heavy restroom traffic, because the night crew still performs full restroom disinfection and hard-floor damp mopping on alternating days while the porter covers touch-ups in between." },
+    { "type": "callout", "variant": "benchmark", "title": "Productivity check before you sign", "text": "ISSA production standards assume roughly 3,500 sq ft per hour for routine office cleaning. If a bid shows the night crew covering 18,000 sq ft in under four labor hours with full restroom and breakroom scope, ask how. Shortfalls usually show up as skipped detail dusting and edge vacuuming within 60 days." },
+    { "type": "h2", "text": "What the day porter should and should not do" },
+    { "type": "p", "text": "The porter budget is wasted if the scope reads like a night crew task list. Daytime work has to be quiet, quick, and visible in the right places. Vacuuming open-plan carpet while people are on calls generates complaints; restocking towels and wiping elevator call buttons does not. Write the porter scope around touchpoints and response time, then leave anything loud, wet, or chemical-heavy to the evening crew." },
+    {
+      "type": "ul",
+      "items": [
+        "Restroom checks every 60-90 minutes: paper, soap, liner swaps, counter wipe-down, and a log sheet on the back of the door.",
+        "Conference room resets between meetings: table wipe, whiteboard clean, trash pull, chair alignment.",
+        "Breakroom and coffee station service after the mid-morning and lunch peaks, including sink and microwave interior wipes.",
+        "Lobby and elevator-bank presentation: glass entry doors, receptacle liner checks on architectural steel bins, and floor mat straightening.",
+        "Spill and incident response with a documented bloodborne pathogen kit, since day staff are the first responders when someone gets cut.",
+        "Leave to the night crew: full carpet vacuuming, restroom floor scrubbing, trash consolidation to the dock, and any disinfectant with a long contact time."
+      ]
+    },
+    { "type": "h2", "text": "Security, key control, and chemical storage during occupied hours" },
+    { "type": "p", "text": "A night-only crew works in an empty suite with alarm codes and keys, and the risk profile is mostly about after-hours access logs. A day porter changes that: now chemicals and equipment move through occupied space. OSHA's Hazard Communication Standard requires labeled secondary containers and accessible Safety Data Sheets, and the practical way to meet that in a staffed office is an enclosed, locking housekeeping cart. A cart with locking cabinet doors and a rated load near 300 lb lets the porter carry quart bottles, liners, and paper without leaving disinfectant sprayers on a counter where a visitor can reach them." },
+    { "type": "p", "text": "For the night half, insist on named crew rosters, badge-level access rather than shared master keys, and an alarm-arming confirmation at the end of each visit. Reducing night visits from five to two cuts the number of after-hours access events by more than half, which many security directors count as a benefit in its own right." },
+    { "type": "h2", "text": "The HVAC and lighting line most buyers miss" },
+    { "type": "p", "text": "In multi-tenant Class A and B buildings, after-hours HVAC is often billed by the hour per zone under the lease rider. If your night crew needs conditioned air for three hours a visit and the building charges $75 per hour, five nights a week costs around $4,871 per month in HVAC alone, using 21.65 visits. Dropping to two nights reduces that to roughly $1,949. That is real money the janitorial bid never shows. Check your lease for the after-hours rate, the minimum billable block, and whether the landlord will run reduced airflow for cleaning crews." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Pull the lease rider", "text": "Find the after-hours HVAC rate per zone and the minimum billable hours per request." },
+        { "name": "Log current night hours", "text": "Ask the incumbent vendor for badge-in and badge-out times for the last 30 days." },
+        { "name": "Model three schedules", "text": "Price 5x nights, 3x nights plus porter, and 2x nights plus porter using 4.33 weeks per month." },
+        { "name": "Add the utility delta", "text": "Multiply eliminated night visits by billable HVAC hours and the rider rate." },
+        { "name": "Bid it as one contract", "text": "Require one vendor and one supervisor across both shifts so restroom logs and complaints have a single owner." }
+      ]
+    },
+    { "type": "h2", "text": "Contract terms that keep a split-shift program honest" },
+    { "type": "p", "text": "Hourly porter labor is easy to under-deliver. Require a time-and-attendance report from a geofenced app or badge system, and write a credit clause for unfilled porter shifts, typically the full hourly rate plus a modest penalty. Specify whether porter hours include a paid 30-minute break, which can quietly reduce productive coverage by 6-8 percent on a six-hour shift. On the night side, keep the per-visit minimum in view: our benchmarks show $90-$135 per visit minimums, which matter only for small suites but can appear when a vendor splits a floor into separately priced zones." },
+    { "type": "cta", "text": "Plug your square footage, flooring type, and night frequency into the Office Cleaning Cost Calculator, then compare porter-plus-night bids side by side in the Quote Comparator before your next renewal." }
+  ],
+  "faqs": [
+    { "q": "Is a day porter billed per square foot or per hour?", "a": "Almost always per hour. Expect $35-$65 per hour for standard porter work in most US metros, with specialty or union buildings higher. Ask whether the rate is fully burdened, meaning it includes payroll taxes, workers' compensation, general liability, and supervision. The certificate of insurance should name your company and the landlord as additional insureds for both shifts." },
+    { "q": "How many night visits can I cut when I add a porter?", "a": "Most 10,000-25,000 sq ft offices move from five nights to three without complaints, and to two if the porter works six to eight hours. Multiply visits by 4.33 weeks per month to price it correctly: 3x weekly is 13 visits and 2x weekly is 8.66 visits, not 12 and 8." },
+    { "q": "Does the day porter need OSHA bloodborne pathogen training?", "a": "If the porter is expected to clean up blood or other potentially infectious materials, OSHA 29 CFR 1910.1030 applies and the employer must provide training, PPE, and a written exposure control plan. Require the vendor to confirm training dates in writing and to stock a spill kit on the porter cart." },
+    { "q": "Can I require green-certified chemicals on the day shift only?", "a": "You can, and many tenants do because occupants are present. Specify Green Seal GS-37 or EPA Safer Choice products for general cleaning and EPA-registered disinfectants with short contact times for touchpoints. Night crews can use the same products to simplify HazCom training and SDS binders." },
+    { "q": "What is usually excluded from a split-shift contract?", "a": "Common exclusions include carpet extraction, VCT strip and recoat, exterior window washing, high dusting above 10 feet, and event cleanup outside porter hours. Price these separately; a quarterly deep floor program amortizes to about $0.03-$0.06 per sq ft per month." }
+  ],
+  "amazonProductIds": [
+    "suncast-commercial-housekeeping-cart-with-locking-cabinet",
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle"
+  ],
+  "related": [
+    "/cleaning-frequency-and-schedules/",
+    "/cleaning-frequency-and-schedules/when-to-choose-split-shift-day-porter-plus-night-crew/",
+    "/cleaning-frequency-and-schedules/on-demand-flexible-cleaning-blocks-pricing/",
+    "/cleaning-frequency-and-schedules/when-to-choose-on-demand-flexible-cleaning-blocks/",
+    "/restroom-and-breakroom-dispensers/best-commercial-restroom-accessories-for-day-porters/"
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "slug": "audit-tool-calculating-your-in-house-hourly-yield-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/audit-tool-calculating-your-in-house-hourly-yield-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template audit tool calculating",
+  "title": "Annual Operating Expense Model: Custodial Sq Ft Per Hour Budget Worksheet",
+  "seoTitle": "Capex Template & Audit Tool: Calculating In-House Hourly Yield Opex",
+  "metaDescription": "Download our capex template and audit tool for calculating custodial sq ft per hour, FICA burden, and $0.05-$0.20/sq ft vendor quotes in our calculator.",
+  "excerpt": "Build a CFO-ready annual operating expense ledger and capex template that links in-house custodial sq ft per hour directly to loaded W-2 payroll taxes, PTO backfill, and equipment depreciation. Compare your true internal cost against fixed-fee vendor bids.",
+  "quickAnswer": "A complete capex template and audit tool for calculating in-house custodial hourly yield must include a 34% to 42% W-2 payroll tax and benefits burden, 11.5% PTO/sick-day overtime coverage, and $1,200 to $2,800 in amortized utility cart and machine capex. In a 20,000 sq ft office cleaned 5x/week (21.65 visits/month), lifting in-house yield from 2,100 sq ft/hr to the 3,500 sq ft/hr ISSA benchmark saves $29,800 per year in direct payroll.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic angle of a modern US corporate facility manager storage hub and office hallway with a structural foam 3-shelf utility service cart loaded with paper supplies, a 44-gallon barrel rim caddy, and a brushed stainless semi-round open trash can by a glass breakroom door, crisp commercial lighting, no text or watermarks",
+    "alt": "Commercial 3-shelf utility cart, barrel rim caddy, and stainless steel breakroom trash receptacle"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Linking Custodial Sq Ft Per Hour Directly to Your Annual Opex Ledger"
+    },
+    {
+      "type": "p",
+      "text": "Most corporate facility budgets treat custodial headcount as a fixed salary line item disconnected from floor-level productivity. When the CFO asks why in-house facility operating expenses rose 14% year-over-year, facility directors rarely have a quantitative ledger showing how a slow production rate (for instance, 2,100 custodial sq ft per hour instead of the 3,500 sq ft/hr ISSA commercial standard) translates into thousands of dollars in excess W-2 hours, FICA taxes, Workers' Compensation premiums, and overtime backfill."
+    },
+    {
+      "type": "p",
+      "text": "Using an integrated capex template and audit tool for calculating in-house hourly yield converts physical floor output into hard general-ledger dollars. By modeling 4.333 weeks per month (21.65 weekday visits per month for a 5x/week schedule) alongside full statutory payroll burdens and 36-month equipment depreciation, you can present an indisputable ROI comparison between optimizing your internal crew, Investing in high-efficiency transport carts, or outsourcing to a fixed-fee janitorial vendor."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 1.38x W-2 Custodial Payroll Burden Multiplier",
+      "text": "Never plug a custodian's $22.00/hr base pay rate into an annual Opex worksheet. Once you add 7.65% employer FICA, 1.2% FUTA/SUTA, 4.8% Workers' Compensation (Janitorial Class Code 9014), 10.4% paid vacation/holidays/sick leave (27 days/year), and 14.0% employer health plan contribution, your true loaded hourly cost is $30.36/hr (1.38x base wage)—before counting a single hour of 1.5x overtime coverage."
+    },
+    {
+      "type": "h2",
+      "text": "Master Annual Opex & Capex Worksheet (20,000 Sq Ft Office, 5x/Week Service)"
+    },
+    {
+      "type": "p",
+      "text": "The spreadsheet ledger below models a 20,000-square-foot commercial office (in the 10,000–24,999 sq ft bracket where outsourced rates run $0.07 to $0.12/sq ft per visit with a 0.90x 5x-week frequency multiplier) across three scenarios: an unoptimized in-house team operating at 2,100 sq ft/hr, an engineered in-house team operating at 3,350 sq ft/hr after equipment capex upgrades, and a turnkey outsourced vendor contract."
+    },
+    {
+      "type": "table",
+      "caption": "12-Month Capex & Opex Audit Worksheet: 20,000 Sq Ft Commercial Office (21.65 Visits/Month, 260 Visits/Year)",
+      "headers": [
+        "Budget Line Item & Calculation Basis",
+        "Scenario A: Unoptimized In-House (2,100 Sq Ft/Hr Yield)",
+        "Scenario B: Capex-Optimized In-House (3,350 Sq Ft/Hr Yield)",
+        "Scenario C: Outsourced Commercial Vendor (3,500 Sq Ft/Hr Basis)"
+      ],
+      "rows": [
+        [
+          "1. Productive Shift Hours Required (20,000 sq ft × 260 days)",
+          "2,476 hrs / yr (9.52 hrs/day across 1.2 FTEs)",
+          "1,552 hrs / yr (5.97 hrs/day across 0.75 FTE)",
+          "1,486 hrs / yr (5.71 hrs/day billed inside flat contract)"
+        ],
+        [
+          "2. Base W-2 Wages ($22.00 / hr direct wage)",
+          "$54,472 / yr ($4,539 / mo)",
+          "$34,144 / yr ($2,845 / mo)",
+          "$0 direct W-2 payroll (transferred to vendor)"
+        ],
+        [
+          "3. Statutory Payroll Burden (38% FICA, WC Code 9014, Benefits)",
+          "$20,699 / yr ($1,725 / mo)",
+          "$12,975 / yr ($1,081 / mo)",
+          "Included in vendor $35–$65/hr billable rate"
+        ],
+        [
+          "4. PTO, Sick & Turnover Overtime Backfill (10.4% days at 1.5x)",
+          "$8,498 / yr ($708 / mo at $33/hr OT + burden)",
+          "$5,326 / yr ($444 / mo at $33/hr OT + burden)",
+          "$0 / yr (vendor absorbs float tech backfill at $0 extra)"
+        ],
+        [
+          "5. Restroom & Breakroom Supply Consumables ($0.015/sq ft/visit avg)",
+          "$8,400 / yr ($700 / mo + 12% pilferage/unmetered waste)",
+          "$7,800 / yr ($650 / mo metered cart restocking)",
+          "$7,800 / yr ($650 / mo pass-through or client-supplied)"
+        ],
+        [
+          "6. Chemicals, Microfiber & Machine Maintenance",
+          "$2,640 / yr ($220 / mo retail dilution waste)",
+          "$1,680 / yr ($140 / mo closed-loop dispenser)",
+          "$0 / yr (included in vendor base contract)"
+        ],
+        [
+          "7. Equipment Capex Amortization (36-Month Straight-Line)",
+          "$780 / yr ($65 / mo aging upright vacuums & buckets)",
+          "$1,620 / yr ($135 / mo utility carts, rim caddies, HEPA vacs)",
+          "$240 / yr ($20 / mo front-of-house stainless cans only)"
+        ],
+        [
+          "8. Quarterly Deep Floor Program ($0.03–$0.06/sq ft/mo)",
+          "$9,600 / yr ($800 / mo outsourced ad-hoc carpet/VCT)",
+          "$8,400 / yr ($700 / mo scheduled semi-annual care)",
+          "$7,200 / yr ($600 / mo bundled at $0.03/sq ft/mo)"
+        ],
+        [
+          "9. Base Outsourced Vendor Contract ($0.08/sq ft × 0.90x × 21.65/mo)",
+          "$0 / yr",
+          "$0 / yr",
+          "$64,896 / yr ($5,408 / mo incl. 6 restrooms & breakroom)"
+        ],
+        [
+          "Total Annual / Monthly Operating Cost",
+          "$105,089 / yr ($8,757 / mo | $0.0202/sq ft/visit)",
+          "$71,945 / yr ($5,995 / mo | $0.0138/sq ft/visit)",
+          "$80,136 / yr ($6,678 / mo | $0.0154/sq ft/visit turnkey)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "High-ROI Equipment Capex That Lifts Hourly Yield by 35%+"
+    },
+    {
+      "type": "p",
+      "text": "Notice the dramatic difference between Scenario A ($105,089/year) and Scenario B ($71,945/year) in the ledger above: spending an extra $840/year ($70/month amortized over 36 months) on commercial material-handling and waste staging hardware saves over **$33,100 per year** in wasted W-2 payroll hours. Three specific capital purchases drive this hourly yield expansion:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bulk Consumable Transport Without Closet Backtracking: Equip your supply hub with a Rubbermaid Commercial Utility Service Cart 3-Shelf (heavy-duty structural foam construction rated for a 500 lb load capacity across 3 shelves, 4-inch non-marking swivel casters, and rounded dent-resistant trim). A custodian can load a full night's cases of multifold paper towels, jumbo tissue rolls, and liner boxes in one pass rather than making four trips back to the basement storage room.",
+        "Point-of-Use Barrel Tool Organization: Snap a Rubbermaid Commercial Brute Rim Caddy Attachment onto every 44-gallon waste collection barrel. Its 9 molded compartments and integrated tool clips keep wet floor signs, bowl swabs, disinfectant bottles, and spare liner rolls attached directly to the rim of the mobile waste barrel.",
+        "Zero-Latch Breakroom & Restroom Receptacles: Standardize high-traffic breakrooms and restroom exits on the Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can (heavy-gauge brushed stainless steel, ADA-friendly open top with no foot pedal to break, weighted base, and lift-off outer lid for 15-second liner changes)."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accounting for Flooring, Frequency, and Scope Add-Ons in Your Worksheet"
+    },
+    {
+      "type": "p",
+      "text": "When tailoring this capex template and audit tool for calculating your specific building's budget, adjust Line 1 (Productive Shift Hours) and Line 9 (Outsourced Vendor Benchmark) using the exact surface and frequency multipliers from your floor plan:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Surface Multipliers: Multiply cleanable area by 1.00x for commercial carpet, 1.04x for VCT/LVT vinyl, 1.12x for ceramic tile and grout, 1.08x for engineered hardwood, 0.95x for polished concrete, or 1.05x for mixed carpet and hard floors.",
+        "Frequency Multipliers (4.333 Weeks/Month Basis): Apply 1.28x for Monthly (1.0 visit/mo), 1.16x for Biweekly (2.17 visits/mo), 1.08x for Weekly 1x/wk (4.33 visits/mo), 1.00x for Twice Weekly 2x/wk (8.66 visits/mo), 0.95x for 3x/wk (13.0 visits/mo), 0.90x for Daily Weekdays 5x/wk (21.65 visits/mo), or 0.87x for 7x/wk (30.33 visits/mo).",
+        "Itemized Scope Carve-Outs: Add $15 to $30 per restroom per visit, $12 to $25 per breakroom/kitchenette per visit, and $15 to $35 per visit for interior glass and conference partitions."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Don't Omit Workers' Compensation Class Code 9014 Exposure",
+      "text": "A single lower-back strain from lifting unvented 44-gallon trash liners or a slip-and-fall while stripping VCT floors can raise an employer's Workers' Compensation Experience Modification Rate (EMR) for three consecutive policy years. Outsourced commercial vendors absorb all Class Code 9014 claims under their own policy."
+    },
+    {
+      "type": "h2",
+      "text": "Decision Checklist: Keep In-House, Upgrade Capex, or Outsource?"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Calculate Your Current Effective Cost Per Sq Ft Per Visit",
+          "text": "Sum your trailing 12-month W-2 custodial wages, 38% tax/benefit burden, overtime backfill, supplies, and equipment repairs, then divide by (Cleanable Sq Ft × Annual Cleaning Visits)."
+        },
+        {
+          "name": "Step 2: Run the 3,500 Sq Ft/Hr Yield Gap Test",
+          "text": "If your team's output falls below 2,600 sq ft/hr, inspect whether missing utility carts, unorganized barrels, or deskside trash loops are causing the drag—or whether fractional shift minimums make W-2 staffing structurally inefficient."
+        },
+        {
+          "name": "Step 3: Compare Your Optimized Ledger Against Three Fixed-Fee Vendor Bids",
+          "text": "Solicit turnkey vendor quotes for your exact size bracket ($0.07–$0.12/sq ft for 10,000–24,999 sq ft) and require proof of $1M/$2M General Liability, Workers' Compensation, and OSHA HazCom training."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Plug your facility square footage, W-2 hourly wage, and visit schedule into our Office Cleaning Cost Calculator to generate your instant in-house vs. outsourced budget comparison."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What percentage should I add to an in-house custodian's base hourly wage for taxes and benefits?",
+      "a": "For full-time W-2 commercial custodians in the US, add 34% to 42% (1.34x to 1.42x multiplier) to base hourly pay to cover 7.65% FICA, federal and state unemployment taxes, Workers' Compensation class code 9014 premiums, paid holidays/vacation/sick days, and employer health insurance contributions."
+    },
+    {
+      "q": "How do I budget for custodian vacation, sick days, and turnover in an annual operating expense model?",
+      "a": "A full-time custodian working 260 weekdays per year typically takes 10 federal holidays, 10 vacation days, and 5 to 7 sick days (25 to 27 days total, or roughly 10.4% of the year). Your budget worksheet must include a dedicated backfill line item priced at 1.5x overtime rates or temporary agency bill rates ($35 to $55/hr) for those 200+ hours."
+    },
+    {
+      "q": "Why does a 500-lb capacity 3-shelf utility cart improve custodial sq ft per hour?",
+      "a": "Without a high-capacity utility service cart, custodians carry paper towel sleeves and chemical cases by hand or overload fabric bag hooks, forcing 3 to 4 return trips to the main supply room per shift. Staging bulk paper and chemical refills on a 500-lb structural foam 3-shelf cart saves 25 to 35 minutes per night."
+    },
+    {
+      "q": "What is the standard amortized budget rate for quarterly deep floor care?",
+      "a": "Across US commercial office buildings, quarterly hot-water carpet extraction and VCT machine scrub-and-recoat programs are budgeted at $0.03 to $0.06 per square foot per month ($0.36 to $0.72/sq ft annually), whether performed by an outsourced specialty crew at $55 to $95/hr or amortized across internal equipment."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can",
+    "rubbermaid-commercial-utility-service-cart-3-shelf"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/in-house-janitor-vs-outsourced-cost-comparison/",
+    "/in-house-vs-outsourced-cleaning/in-house-janitor-vs-outsourced-cost-comparison-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/in-house-janitor-vs-outsourced-cost-comparison-budget-worksheet/",
+    "/restroom-and-breakroom-dispensers/best-coreless-commercial-toilet-paper-dispensers/"
+  ]
+}

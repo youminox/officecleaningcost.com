@@ -1,0 +1,76 @@
+{
+  "slug": "how-often-to-schedule-high-dusting-exposed-ceilings",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-high-dusting-exposed-ceilings/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar high dusting exposed ceilings",
+  "title": "Quarterly, Annual, or Monthly? A Calendar for High Dusting Exposed Ceilings, Beams & Ductwork",
+  "seoTitle": "High Dusting Exposed Ceilings Calendar: Quarterly vs Annual Spend",
+  "metaDescription": "High dusting exposed ceilings: match monthly, quarterly, or annual cycles to foot traffic, with $55–$95/hr specialty math. Model your spend in our calculator.",
+  "excerpt": "Exposed decks, open-web joists, and spiral ductwork collect dust at very different rates depending on headcount, HVAC runtime, and nearby production areas. This guide shows how to tie the high dusting calendar to foot traffic and turn each frequency into an annual budget line.",
+  "quickAnswer": "Most US offices with exposed ceilings should schedule high dusting quarterly; low-traffic suites with under 15 occupants per 5,000 sq ft can stretch to twice a year or annually, while heavy-traffic floors, cafés, and spaces near warehouses or print rooms need monthly spot passes. Specialty crews bill roughly $55–$95 per labor hour, so a 10,000 sq ft open-ceiling floor typically runs $500–$950 per full event, or about $2,000–$3,800 per year on a quarterly cycle.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a modern US open-plan tech office with an exposed black-painted concrete deck, open-web steel joists, and silver spiral ductwork; a janitorial technician on a compact scissor lift uses a HEPA backpack vacuum with an extension wand along a duct run while desks below are covered with drop cloths; early morning cool daylight through tall windows, low camera angle looking up, no text, no logos, no watermarks",
+    "alt": "Technician on a scissor lift high dusting spiral ductwork and steel joists above covered desks in an open office"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why exposed ceilings need their own frequency plan" },
+    { "type": "p", "text": "A dropped acoustic-tile ceiling hides most of the dust that floats up from carpet, paper, and clothing fibers. An exposed ceiling does not. Every horizontal surface overhead, including the top of spiral duct, joist chords, cable trays, sprinkler mains, and pendant light housings, turns into a shelf. The dust builds into a gray felt that eventually drops onto desks when HVAC cycles on, especially at the supply diffusers. Nightly janitorial crews never touch it, because their scope stops at roughly 7 feet and their production rate assumes ground-level work." },
+    { "type": "p", "text": "That gap is why high dusting is sold as a periodic task with its own calendar. The right interval depends less on the calendar month and more on how much airborne particulate your building produces. Occupant density, HVAC runtime, MERV rating on the air handlers, and nearby dust sources such as print rooms, cafés, or a shared wall with a warehouse all drive the soil load. The goal is to clean just before visible buildup or fallout complaints, not after." },
+    { "type": "h2", "text": "Foot-traffic thresholds that set the interval" },
+    { "type": "p", "text": "We sort exposed-ceiling spaces into three traffic tiers, using occupants per 5,000 sq ft of floor plate as the primary signal and adjusting for dust sources. Use the tier that fits your worst zone, not your building average, because a dusty café ceiling will drop debris onto the whole floor no matter how quiet the private offices are." },
+    { "type": "table", "caption": "Traffic tier, recommended high dusting interval, and annual labor estimate for a 10,000 sq ft exposed-ceiling floor ($55–$95/hr specialty rate)", "headers": ["Traffic tier", "Typical profile", "Recommended interval", "Labor hours per event", "Cost per event", "Events per year", "Annual spend"], "rows": [
+      ["Low", "Under 15 occupants per 5,000 sq ft; law suite, design studio, MERV 13 filtration", "Every 6–12 months", "8–10", "$440–$950", "1–2", "$440–$1,900"],
+      ["Medium", "15–35 occupants per 5,000 sq ft; standard open office, small breakroom", "Quarterly", "9–10", "$500–$950", "4", "$2,000–$3,800"],
+      ["Heavy", "35+ occupants per 5,000 sq ft, café or print room, retail frontage, or shared warehouse wall", "Monthly spot pass plus quarterly full pass", "4 (spot) / 10 (full)", "$220–$380 spot; $550–$950 full", "8 spot + 4 full", "$3,960–$6,840"]
+    ] },
+    { "type": "p", "text": "Hours in the table assume a two-person crew working from rolling ladders and a 15–20 ft scissor lift at about 1,000–1,250 sq ft of floor plane per crew hour, including drop-cloth setup and teardown. Ceilings above 20 ft, heavy cable tray density, or tight furniture layouts will slow that pace; our companion guide on factors that raise high dusting quotes covers those adjustments in detail." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: hourly vs per-square-foot quotes", "text": "Vendors that quote per square foot for exposed-ceiling dusting usually land at $0.05–$0.10 per sq ft of floor plane per event for open, lift-accessible ceilings at 12–18 ft. That works out close to the $55–$95 specialty hourly band. If a bid comes in well above $0.12 per sq ft without lift rental or after-hours premiums listed, ask for the labor-hour assumption behind it." },
+    { "type": "h2", "text": "Turning frequency into an annual budget line" },
+    { "type": "p", "text": "Annual spend is simply cost per event multiplied by events per year, but buyers often forget to amortize it into the monthly facilities budget. Divide the annual number by 12 to see what it adds to your janitorial run rate. A medium-traffic 10,000 sq ft floor on a quarterly cycle at $725 per event (the midpoint) costs $2,900 per year, or about $242 per month. Compare that with a nightly base contract for the same floor at roughly $0.07–$0.12 per sq ft per visit across 21.65 weekday visits per month (4.33 weeks), which lands near $15,000–$26,000 per month. High dusting is a small line next to routine service, which makes it an easy cut that tends to cost more later when fallout complaints start." },
+    { "type": "ul", "items": [
+      "Annual event: best for low-traffic suites with good filtration and no café; schedule it right after the heating season ends, when dust levels peak.",
+      "Semiannual: a sensible middle ground for small studios; pair it with spring and fall HVAC filter changes so overhead dust is removed while the system is serviced.",
+      "Quarterly: the default for most open offices; align it with quarterly carpet extraction so falling debris is captured before floors are cleaned.",
+      "Monthly spot pass: reserve for supply diffusers, café hoods, and print rooms in heavy-traffic zones, while the full ceiling stays on a quarterly cycle.",
+      "Event-driven: add a one-off pass before investor tours, lease turnover inspections, or after any ceiling-plenum construction work."
+    ] },
+    { "type": "h2", "text": "How to build the calendar step by step" },
+    { "type": "steps", "items": [
+      { "name": "Map dust sources overhead", "text": "Walk the floor with your vendor at mid-day with HVAC running. Note supply diffusers with streaking, joists with visible felt, and the zones above printers, coffee stations, and entry vestibules. Photograph them so you have a baseline." },
+      { "name": "Assign a traffic tier per zone", "text": "Count occupants per 5,000 sq ft and flag dust sources. A floor can have a heavy café zone and a low-traffic executive wing; schedule each zone on its own interval instead of averaging." },
+      { "name": "Sequence with floor care", "text": "Book high dusting 1–3 days before carpet extraction or VCT scrub-and-recoat. Debris falls down, so cleaning ceilings after floors wastes the floor program, which runs about $0.03–$0.06 per sq ft per month amortized." },
+      { "name": "Lock the window and access", "text": "Most exposed-ceiling work happens Friday night or Saturday to keep lifts away from occupants. Confirm building engineer sign-off, freight elevator time for the lift, and any after-hours security escort fees." },
+      { "name": "Inspect and reset the interval", "text": "After two cycles, compare before and after photos. If joists show only light film at the next visit, stretch the interval; if felt has returned, tighten it or add spot passes on the problem zones." }
+    ] },
+    { "type": "h2", "text": "Chemicals, tools, and what the crew should bring" },
+    { "type": "p", "text": "High dusting is primarily dry work: HEPA backpack vacuums with telescoping wands, lambswool or microfiber dusters on extension poles, and static-dissipative cloths for ductwork. Wet chemistry comes in at the tail end. Greasy film on ductwork above coffee bars and microwaves needs a non-corrosive degreaser such as Simple Green Pro HD, a biodegradable, phosphate-free concentrate that will not attack galvanized duct or painted steel when diluted correctly. Pendant light housings and reachable railings that people actually touch can be finished with CloroxPro disinfecting wipes, an EPA List N, bleach-free option in a refillable 700-count bucket that keeps crews from carrying spray bottles up a lift. Once the ceiling is done, a pass with a pH-neutral floor cleaner like Zep's 1:128 no-rinse concentrate removes the dust that settles onto finished VCT or polished concrete without dulling the finish." },
+    { "type": "callout", "variant": "compliance", "title": "Safety and documentation checks", "text": "Ask the vendor for its aerial lift training records (OSHA 29 CFR 1926.453 and ANSI A92 operator training), its fall-protection plan, and Safety Data Sheets for every chemical under OSHA HazCom 1910.1200. Require a certificate of insurance naming your company and landlord as additional insureds, with general liability limits that match your lease, typically $1 million per occurrence and $2 million aggregate." },
+    { "type": "h2", "text": "Signals that your current interval is wrong" },
+    { "type": "p", "text": "The calendar should respond to evidence. Dark streaking around supply diffusers within six weeks of a cleaning, dust bunnies on desks after weekend HVAC startup, or employee complaints about allergies tend to mean the interval is too long. On the other hand, if the crew documents only a light film during quarterly visits for a full year, you can likely move to semiannual service and save $1,000–$1,900 per year on a 10,000 sq ft floor. Keep the photo log in your vendor file so frequency decisions are based on evidence, not memory." },
+    { "type": "cta", "text": "Plug your square footage, traffic tier, and preferred interval into the Office Cleaning Cost Calculator to see what high dusting adds to your monthly janitorial budget, then use the Quote Comparator to line up vendor bids on the same frequency." }
+  ],
+  "faqs": [
+    { "q": "Is quarterly high dusting enough for an open office with exposed ductwork?", "a": "For most offices with 15–35 occupants per 5,000 sq ft and standard MERV 8–13 filtration, yes. Quarterly service keeps joists and duct tops from building visible felt. Add monthly spot passes on diffusers and any duct runs over coffee stations or printers if streaking returns between visits." },
+    { "q": "How do I convert a quarterly high dusting quote into a monthly budget figure?", "a": "Multiply the per-event price by 4 and divide by 12. A $725 quarterly event equals $2,900 per year, or about $242 per month. If your base janitorial contract is priced per visit, remember it is multiplied by 4.333 weeks per month, so keep periodic tasks on a separate line to avoid mixing the two calculations." },
+    { "q": "Should high dusting be scheduled before or after carpet extraction?", "a": "Before. Dust and debris fall during ceiling work, so book high dusting one to three days ahead of extraction or VCT scrub-and-recoat. Reversing the order means paying for floor care that gets soiled immediately." },
+    { "q": "What insurance and safety documents should a high dusting vendor provide?", "a": "Request a current COI with general liability and workers' compensation, with your company and landlord listed as additional insureds, plus proof of aerial lift operator training, a fall-protection plan, and Safety Data Sheets for all chemicals under OSHA's Hazard Communication Standard. Lift work over occupied furniture is high-risk, so do not waive these." },
+    { "q": "Can high dusting be skipped in a low-traffic suite?", "a": "It can be stretched, but rarely skipped. Even quiet suites with good filtration build a film on duct tops within a year, and that film drops when HVAC cycles hard in winter. An annual event at $440–$950 for 10,000 sq ft is inexpensive insurance against fallout complaints." }
+  ],
+  "amazonProductIds": [
+    "cloroxpro-clorox-disinfecting-wipes-commercial-bucket-700-count",
+    "zep-neutral-ph-industrial-floor-cleaner-concentrate-5-gallon-pai",
+    "simple-green-pro-hd-heavy-duty-cleaner-and-degreaser-1-gallon"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/high-dusting-exposed-ceilings-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-high-dusting-exposed-ceilings-quotes/",
+    "/cleaning-services-and-tasks/breakroom-deep-sanitization-cost-guide/",
+    "/janitorial-carts-mops-and-tools/suncast-locking-cart-vs-rubbermaid-executive-cart/"
+  ]
+}

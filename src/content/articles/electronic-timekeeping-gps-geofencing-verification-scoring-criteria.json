@@ -1,0 +1,253 @@
+{
+  "slug": "electronic-timekeeping-gps-geofencing-verification-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/electronic-timekeeping-gps-geofencing-verification-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric electronic timekeeping gps geofencing verification",
+  "title": "Comparing Proposals Side-by-Side: Weighted Evaluation Rubric for GPS Geofencing Timekeeping",
+  "seoTitle": "Weighted Evaluation Rubric: GPS Geofencing Timekeeping Scoring",
+  "metaDescription": "Use a 100-point weighted evaluation rubric for electronic timekeeping GPS geofencing verification. Score $35-$65/hr bids in our Quote Comparator.",
+  "excerpt": "Evaluate competing janitorial proposals objectively with this 100-point weighted evaluation rubric for GPS geofencing timekeeping. Compare polygon accuracy, interior NFC checkpoints, audit-log transparency, and automatic short-shift credits before signing.",
+  "quickAnswer": "A weighted evaluation rubric for electronic timekeeping GPS geofencing verification scores janitorial proposals across 100 points: Geofence Radius & Interior QR/NFC Beacons (25 pts), Anti-Spoofing & Individual Biometric Authentication (20 pts), Native Audit-Log Invoice Attachment (20 pts), Contractual Labor-Hour Reconciliation & SLA Credits (20 pts), and Zero-Fee Software & Cart Integration within standard $0.07 to $0.15/sq ft rates (15 pts). Requiring bidders to submit a redacted sample attendance export during the RFP eliminates contractors who rely on unverified paper timesheets.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic scene in a modern US corporate conference room showing a facility procurement director evaluating three janitorial bid binders side-by-side next to a tablet displaying a GPS geofence verification scorecard and a commercial janitorial cart equipped with a rim caddy in the background, bright natural office lighting, no text or watermarks",
+    "alt": "Facility procurement director scoring janitorial proposals with a weighted GPS geofencing evaluation rubric"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Every Janitorial RFP Needs a Quantitative Timekeeping Scorecard"
+    },
+    {
+      "type": "p",
+      "text": "When comparing three commercial office cleaning quotes side-by-side, the biggest hidden variable is rarely the hourly billing rate—which typically sits within the $35 to $65 per hour national benchmark—but whether the promised nightly labor hours will actually show up inside your building after Month 1. Two bidders might both quote $3,400 per month for a 15,000 sq ft facility cleaned five nights per week (`21.65 visitsPerMonth` at `4.33 weeksPerMonth`), yet one vendor backs their quote with immutable GPS geofence plus interior NFC closet beacons while the other relies on an unverified supervisor text message."
+    },
+    {
+      "type": "p",
+      "text": "Applying a weighted evaluation rubric for electronic timekeeping GPS geofencing verification transforms attendance accountability into an objective, auditable RFP score. By requiring bidders to prove their geofence radius controls, anti-buddy-punching safeguards, and automatic invoice credit mechanics before contract award, procurement committees prevent chronic short-shifting before it starts."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Mandatory RFP Deliverable: Sample Redacted Attendance Export",
+      "text": "Require every RFP finalist to attach a real, client-redacted 30-day GPS attendance export from an active commercial office account of comparable size (10,000–25,000 sq ft). Any bidder who cannot produce a native software export showing GPS perimeter status and edit flags should score 0 points on Criteria 1 through 3."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric for GPS Geofencing Timekeeping"
+    },
+    {
+      "type": "p",
+      "text": "Use this 100-point rubric during vendor presentations and proposal scoring to evaluate how each janitorial contractor verifies unattended night-crew labor."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point RFP Weighted Scoring Rubric for Electronic Timekeeping & GPS Geofencing Verification",
+      "headers": [
+        "Scoring Criterion",
+        "Weight (Pts)",
+        "0-Point Disqualifier (Deficient Bid)",
+        "Half Credit (50% of Weight)",
+        "Full Credit (100% of Weight)"
+      ],
+      "rows": [
+        [
+          "1. Geofence Precision & Interior Beacons",
+          "25 pts",
+          "Paper sign-in sheet or unrestricted mobile app that allows off-site clock-ins",
+          "Wide parcel GPS geofence (500–1,000 ft) that permits parking-lot car punches",
+          "Tight 100–150 ft building polygon geofence paired with physical interior closet QR/NFC scan tags"
+        ],
+        [
+          "2. Individual Identity & Anti-Buddy-Punching",
+          "20 pts",
+          "Supervisor batch-clocks entire crew from one phone or shared PIN code",
+          "Individual worker mobile logins, but no biometric selfie or keycard cross-check",
+          "Individual mobile profiles with biometric/photo-selfie verification + auto-clock-out on geofence exit"
+        ],
+        [
+          "3. Immutable Audit-Log Invoice Attachment",
+          "20 pts",
+          "Refuses to share time logs, claiming fixed-price contracts are exempt from hour reporting",
+          "Provides vendor-typed Excel summary upon request, stripping out manual edit flags",
+          "Automatically attaches native software CSV/PDF log (showing GPS status & manual edit flags) to every invoice"
+        ],
+        [
+          "4. Contractual Hour Baseline & SLA Credits",
+          "20 pts",
+          "No stated nightly labor hours in proposal; refuses financial credits for short shifts",
+          "Lists target nightly hours in proposal, but only offers future 'make-up cleaning' for missed hours",
+          "Commits to Minimum Monthly Labor Hours in Exhibit B with automatic pro-rata credits ($35–$65/hr) below 92% delivery"
+        ],
+        [
+          "5. All-Inclusive Tech Pricing & Task Logging",
+          "15 pts",
+          "Charges $50–$150/mo software portal fees; app tracks clock-in only with zero task checklist",
+          "Software included in base $/sq ft rate, but lacks photo-verified closet/restroom checklists",
+          "100% included in base rate ($0.07–$0.15/sq ft) with geotagged closet restock & task completion photos at clock-out"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side Proposal Comparison: Scoring Three Finalist Bidders"
+    },
+    {
+      "type": "p",
+      "text": "Consider how this weighted evaluation rubric distinguishes three competing proposals for a 20,000 sq ft suburban corporate office with six restrooms (`1.12x` ceramic tile and grout multiplier, $15–$30/restroom benchmark), two breakrooms ($12–$25/visit), and mixed carpet/LVT flooring (`1.05x` multiplier) cleaned 5x per week (`21.65 visitsPerMonth`, `0.90` daily frequency multiplier). At the ISSA benchmark of 3,500 sq ft per hour, the facility requires roughly 5.75 to 6.0 labor hours per night, or 124.5 to 130.0 verified hours per month."
+    },
+    {
+      "type": "table",
+      "caption": "Side-by-Side Proposal Scoring Example: 20,000 Sq Ft Office Cleaned 5x/Week (21.65 Visits/Mo)",
+      "headers": [
+        "Evaluation Dimension",
+        "Bidder 1 (Opaque Fixed-Bid)",
+        "Bidder 2 (Basic App Bidder)",
+        "Bidder 3 (Verified Geofence Winner)"
+      ],
+      "rows": [
+        [
+          "Quoted Monthly Price & $/Sq Ft Rate",
+          "$3,460 / mo ($0.080/sq ft) + $95/mo Portal Fee",
+          "$3,897 / mo ($0.090/sq ft all-in)",
+          "$3,980 / mo ($0.092/sq ft all-in)"
+        ],
+        [
+          "Committed Monthly Labor Hours & Hourly Rate",
+          "Unstated ('As needed to complete scope')",
+          "115.0 hrs / mo ($33.88/hr — under-budgeted)",
+          "129.9 hrs / mo (6.0 hrs/visit at $30.64–$45.00 loaded)"
+        ],
+        [
+          "Criterion 1: Geofence & NFC Beacons (25)",
+          "0 / 25 (Paper log + supervisor text)",
+          "13 / 25 (500-ft GPS radius; no closet NFC tag)",
+          "25 / 25 (150-ft GPS polygon + closet & top-floor NFC tags)"
+        ],
+        [
+          "Criterion 2: Anti-Buddy-Punching (20)",
+          "0 / 20 (Lead cleaner signs in entire crew)",
+          "10 / 20 (Individual app login; no selfie or auto-exit)",
+          "20 / 20 (Photo-selfie at closet tag + 10-min auto-exit cut)"
+        ],
+        [
+          "Criterion 3: Native Audit-Log Reporting (20)",
+          "0 / 20 (Refuses monthly hour reporting)",
+          "10 / 20 (Sends monthly summary upon request)",
+          "20 / 20 (Native software PDF with edit flags on every invoice)"
+        ],
+        [
+          "Criterion 4: Hour Baseline & SLA Credit (20)",
+          "0 / 20 (No hour guarantee or invoice credit)",
+          "10 / 20 (Verbal promise to add hours if short)",
+          "20 / 20 (Written pro-rata credit below 119.5 verified hrs/mo)"
+        ],
+        [
+          "Criterion 5: Tech Fee & Task Integration (15)",
+          "0 / 15 ($95/mo software junk fee)",
+          "10 / 15 (Free app, but no photo task sign-off)",
+          "15 / 15 ($0 fee + required restroom/closet photo at clock-out)"
+        ],
+        [
+          "Total Weighted Rubric Score (100 Pts Max)",
+          "0 / 100 (REJECT — High Short-Shift Risk)",
+          "53 / 100 (CONDITIONAL — Needs Contract Revisions)",
+          "100 / 100 (AWARD — Fully Verifiable Labor Value)"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Although Bidder 1 appears $425 per month cheaper on the cover page (after adding their $95/mo portal fee), their refusal to commit to a monthly labor hour baseline or attach native GPS logs allows them to run the building with 3.5 nightly hours instead of 6.0 hours—overcharging you by more than $1,500 per month on an effective hourly basis."
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating On-Site Equipment Organization Alongside Digital Checklists"
+    },
+    {
+      "type": "p",
+      "text": "Criterion 5 of the rubric links electronic clock-out verification with physical equipment and dispenser readiness. When a night crew's mobile app requires a timestamped photo of their organized cart and stocked restroom dispensers before unlocking the 'Clock Out' button, morning facility walk-through defects drop by more than 70%."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Standardized Barrel & Caddy Organization: Award full points to bidders who outfit utility waste barrels with a Rubbermaid Commercial Brute Rim Caddy Attachment (snap-on fit for 44-gallon barrels, 9 dedicated compartments and integrated tool clips holding spray bottles, wet floor signs, and liner rolls) so custodians waste zero geofenced shift minutes walking back and forth to the janitor closet for forgotten supplies.",
+        "Discreet Executive Carts for Daytime & Overlap Hours: For facilities with late-working tenants or daytime porters, verify that the bidder stages a Rubbermaid Commercial Executive Quick Cart Large (60-lb load capacity, Teflon-coated fabric shell, quiet casters, and stealth charcoal profile) with an interior QR tag for quick mid-shift task verification.",
+        "High-Yield Touchless Restroom Hardware: Combine geofenced restroom inspection scans with the Rubbermaid Commercial AutoFoam 1100 mL Touchless Soap Dispenser (up to 2,750 doses per refill, 3-year battery life, ADA compliant) so night crews can confirm LED battery and soap status in seconds during their final yellow-zone check."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Four-Step Vendor Verification Protocol Prior to Contract Execution"
+    },
+    {
+      "type": "p",
+      "text": "Before signing the winning proposal, complete these four verification steps with the finalist vendor's operations manager."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Conduct a Live Geofence & NFC Beacon Demo During the Site Walkthrough",
+          "text": "Ask the vendor's operations director to drop a test 150-foot polygon pin on your building address in their live software dashboard during the finalist interview and demonstrate how an out-of-bounds clock-in attempt is blocked."
+        },
+        {
+          "name": "Inspect the 'Edited Punch' Flag on Their Sample Report",
+          "text": "Have the bidder show you exactly how their software highlights a supervisor-edited timestamp versus a raw GPS-verified mobile punch so your accounts payable clerk knows what to look for every month."
+        },
+        {
+          "name": "Verify Basement / Dead-Zone Offline Caching Capability",
+          "text": "If your janitor closet sits inside an interior concrete core with weak cellular service, confirm that the vendor's app caches encrypted timestamped NFC/QR scans offline and uploads them automatically upon exiting the lobby."
+        },
+        {
+          "name": "Bind the Minimum Monthly Labor Hours & Credit Formula into Exhibit B",
+          "text": "Write the exact nightly and monthly labor hours (calculated at 4.33 weeks/month) and the automatic hourly credit formula ($35–$65/hr below 92% verified attendance) directly into the signed pricing schedule."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Require a 48-Hour Automated Alert for Missed Nightly Check-Ins",
+      "text": "Top-scoring janitorial workforce platforms can send an automated email or SMS alert to the vendor's night field supervisor—and optionally to your facility inbox—if no custodian has scanned the closet NFC beacon within 45 minutes of the scheduled shift start time. That prevents a no-show night crew from becoming an uncleaned building at 8:00 AM."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your competing janitorial proposals on labor hours, $/sq ft rates, and GPS verification? Enter your bids into our Quote Comparator or calculate your facility's baseline labor hours in the Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How many points out of a total 100-point RFP should go to electronic timekeeping and quality assurance reporting?",
+      "a": "In a comprehensive commercial janitorial RFP scorecard (covering Pricing, Labor Hours, Insurance/COI, Cross-Contamination Protocols, Equipment, and Supervision), allocate 15% to 20% of the total RFP weight specifically to Electronic Timekeeping, GPS Geofencing & QA Reporting. Within that sub-category, use the 100-point weighted evaluation rubric above to grade each vendor's verification rigor."
+    },
+    {
+      "q": "How do we score a vendor who proposes an on-site biometric wall clock instead of a smartphone GPS geofencing app?",
+      "a": "An on-site biometric fingerprint or facial-recognition tablet mounted inside your locked janitor closet actually scores 25 out of 25 on Criterion 1 (location accuracy) and 20 out of 20 on Criterion 2 (anti-buddy-punching), because a worker must physically stand inside your closet to punch in and out. Just make sure the wall device connects via cellular SIM or guest Wi-Fi and still supports mobile task checklists for restroom and breakroom sign-offs."
+    },
+    {
+      "q": "What if a bidder scores high on the GPS rubric but quotes 25% fewer nightly labor hours than the other two vendors?",
+      "a": "Never evaluate the GPS rubric in isolation from the ISSA 3,500 sq ft/hr production benchmark. If a 20,000 sq ft office requires 5.75 to 6.0 nightly labor hours and a vendor commits to GPS verification for only 4.25 nightly hours, they are simply giving you verified proof of an under-staffed crew. Require all bidders to price against a minimum floor of nightly labor hours based on your square footage and restroom count."
+    },
+    {
+      "q": "Can we link our building's existing security badge system to the scoring criteria instead of relying only on the vendor's app?",
+      "a": "Yes. Award bonus credit to bidders who agree in writing to reconcile their monthly GPS software logs against your property's electronic access control (HID/Lenel/Brivo) badge swipe records, with building security badge logs serving as the binding source of truth whenever a discrepancy or manual punch edit arises."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-autofoam-1100-ml-touchless-soap-dispenser",
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/how-to-compare-3-office-cleaning-quotes/",
+    "/comparing-quotes-and-contracts/how-to-compare-3-office-cleaning-quotes-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/how-to-compare-3-office-cleaning-quotes-scoring-criteria/",
+    "/commercial-vacuums-and-floor-machines/karcher-bd-30-4-c-vs-hoover-40v-task-scrubber/"
+  ]
+}

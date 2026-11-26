@@ -1,0 +1,80 @@
+{
+  "slug": "blind-ultrasonic-and-shade-cleaning-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/blind-ultrasonic-and-shade-cleaning-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge blind ultrasonic and shade cleaning",
+  "title": "Extra Charge or Included? How Janitorial Contracts Handle Ultrasonic Blind & Roller Shade Cleaning",
+  "seoTitle": "Extra Charge Blind Ultrasonic & Shade Cleaning: Included vs. Add-On",
+  "metaDescription": "Extra charge blind ultrasonic and shade cleaning explained: when it sits in the base retainer vs. a $10-$35/unit work order. Compare bids in our Quote Comparator.",
+  "excerpt": "Ultrasonic blind and roller shade cleaning is almost never part of a standard nightly janitorial retainer, but some full-service contracts amortize it into the monthly fee. This audit guide shows how to read the scope language, spot double billing, and decide which structure is cheaper for your building.",
+  "quickAnswer": "In most US janitorial contracts, ultrasonic blind and roller shade cleaning is billed extra as a project work order at roughly $10-$18 per horizontal blind, $15-$35 per roller shade, and a $150-$250 trip minimum. Base retainers usually include only in-place dusting of blinds and sills on a monthly or quarterly high-dusting cycle. Larger integrated contracts sometimes fold an annual ultrasonic cycle into the retainer, typically adding $0.005-$0.015 per sq ft per month.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a US facility manager's desk in a glass-walled office, a printed janitorial contract with highlighted scope pages beside a tablet, dusty horizontal blinds and a gray roller shade on the window behind, cool overcast daylight, shallow depth of field from a 45-degree angle, no text legible, no logos, no watermarks",
+    "alt": "Facility manager reviewing a janitorial contract scope in front of office blinds and roller shades"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The short version: dusting is included, ultrasonic is not" },
+    { "type": "p", "text": "Standard commercial cleaning proposals are built on production rates. ISSA benchmarks put routine office cleaning near 3,500 sq ft per hour, and that productivity math, translated into $0.07-$0.15 per sq ft for most office sizes, leaves no room for taking down blinds, running them through a heated ultrasonic tank, and rehanging them. What base scopes do cover is a high-dusting task: a HEPA vacuum or microfiber duster across slats, headrails, and window sills, usually monthly or quarterly. Anything that involves removal, immersion, or fabric treatment shows up as a separate line or a separate vendor." },
+    { "type": "p", "text": "The confusion starts with vague language. A proposal that says 'clean window treatments' or 'dust and detail blinds' can be read by a tenant as a full cleaning and by the vendor as a once-a-quarter wipe. That gap becomes a dispute the first time a lobby shade looks gray and the vendor responds with a project quote." },
+    { "type": "h2", "text": "How contracts actually structure the work" },
+    { "type": "table", "caption": "Three common billing structures for blind and roller shade cleaning", "headers": ["Structure", "What the retainer covers", "How ultrasonic is billed", "Typical cost impact", "Best fit"], "rows": [
+      ["Base retainer only", "Monthly or quarterly in-place dusting of slats and sills", "Separate work order per project", "$10-$18 per blind, $15-$35 per shade, plus $150-$250 trip", "Offices under 10,000 sq ft, few blinds"],
+      ["Retainer plus scheduled periodic", "Dusting plus a named annual or semi-annual ultrasonic cycle", "Fixed periodic line item invoiced on completion", "Same unit rates, often 5-10% lower via pre-commitment", "Multi-floor offices with 40-200 units"],
+      ["Amortized into monthly fee", "Dusting plus ultrasonic cycle spread over 12 months", "Built into the per-sq-ft rate", "Adds about $0.005-$0.015 per sq ft per month", "Integrated facility or full-service contracts over 25,000 sq ft"]
+    ] },
+    { "type": "p", "text": "Amortization is not automatically a better deal. On a 30,000 sq ft office with 120 blinds and 30 shades, an annual ultrasonic cycle at midpoint pricing costs roughly (120 x $14) + (30 x $24) + $250 = $2,650. Spread over 12 months that is about $221 per month, or $0.0074 per sq ft. If the vendor's amortized adder is $0.012 per sq ft, you are paying $360 per month, or $4,320 a year, for $2,650 of work. That premium may be fair if it bundles a second lobby visit, but it should be visible and justified." },
+    { "type": "h2", "text": "Contract audit checklist" },
+    { "type": "steps", "items": [
+      { "name": "Find every mention of window coverings", "text": "Search the scope, periodic schedule, and exclusions list for blinds, shades, drapes, window treatments, and high dusting. Note the verb used: dust, vacuum, wipe, clean, or launder each implies a different level of work." },
+      { "name": "Confirm frequency and method", "text": "Base dusting should state a frequency (monthly, quarterly) and a method (HEPA vacuum, microfiber). If no frequency is listed, assume it will be done only on request." },
+      { "name": "Check the exclusions page", "text": "Many contracts exclude 'window treatment cleaning beyond dusting' or 'items requiring removal.' That single phrase means ultrasonic work is billed extra no matter what the sales proposal implied." },
+      { "name": "Look for amortized periodic language", "text": "If the contract mentions an annual or semi-annual window-covering cycle within the monthly fee, ask for the unit count and unit price it was based on so you can verify the math and the completion date." },
+      { "name": "Require a completion sign-off", "text": "Whether billed separately or amortized, insist on a dated, per-floor sign-off with photos. Without it, an amortized cycle can quietly be skipped while the fee continues." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch for double billing at renewal", "text": "A common pattern: year one amortizes an annual ultrasonic cycle into the per-sq-ft rate, year two the vendor sends a separate work order for the same blinds, and the rate never drops. At renewal, ask for a line-item breakdown of the base rate and strike any periodic task you are also paying for by work order." },
+    { "type": "h2", "text": "When a separate work order is the smarter choice" },
+    { "type": "p", "text": "For small and mid-size tenants, a standalone work order is usually cheaper and more controllable. You can shop specialty window-covering firms, who often run mobile ultrasonic trailers and price below a janitorial company that subcontracts the job and adds a 10-20% markup. You also control timing, which matters if you want to schedule cleaning before a client event or after a nearby construction project wraps up." },
+    { "type": "ul", "items": [
+      "Fewer than 30 blinds and shades: separate work order, bundled with another periodic visit to share the trip charge.",
+      "30-150 units on a predictable cycle: scheduled periodic line item with fixed unit pricing for the contract term.",
+      "Over 150 units, multiple buildings, or an integrated facility contract: amortization can work if the unit math is disclosed.",
+      "Buildings with frequent tenant turnover: work orders, so you only pay for occupied floors."
+    ] },
+    { "type": "h2", "text": "What a clean, comparable quote should list" },
+    { "type": "p", "text": "To compare an included structure against an add-on structure, normalize everything to annual cost. Ask every bidder for unit counts by type, unit price, trip or mobilization charge, on-site versus off-site handling, turnaround time, and the damage policy for brittle slats, broken ladder tape, or failed shade clutches. Then convert: annual project cost divided by 12 gives the monthly equivalent, and dividing that by 4.333 gives a weekly figure you can line up against a weekly-priced janitorial bid." },
+    { "type": "table", "caption": "Normalizing two bids for a 15,000 sq ft office with 60 blinds and 18 shades", "headers": ["Line", "Bid A: amortized", "Bid B: base plus work order"], "rows": [
+      ["Base janitorial rate", "$0.105 per sq ft per visit, 5x/wk", "$0.10 per sq ft per visit, 5x/wk"],
+      ["Window-covering treatment", "Annual ultrasonic included", "$14/blind, $24/shade, $200 trip"],
+      ["Annual ultrasonic cost", "Embedded: about $0.005 x 15,000 x 21.65 x 12 = $19,485 in base delta", "$840 + $432 + $200 = $1,472"],
+      ["Verdict", "Overpriced unless the delta buys more scope", "Cheaper by a wide margin"]
+    ] },
+    { "type": "p", "text": "That table shows how a seemingly small rate difference compounds. Half a cent per sq ft per visit on a five-night schedule (21.65 visits per month) is about $1,624 per month. Unless Bid A also includes interior glass, quarterly carpet extraction, or consumables, Bid B with a separate ultrasonic work order wins easily." },
+    { "type": "callout", "variant": "compliance", "title": "Paperwork that should come with either structure", "text": "Request a certificate of insurance naming the building owner and property manager as additional insured, Safety Data Sheets for the ultrasonic detergent per OSHA HazCom, and confirmation that ladder work follows a written fall-protection plan. If the janitorial firm subcontracts the work, the subcontractor's COI is required as well." },
+    { "type": "p", "text": "Night crews handling the staging also need the right supporting equipment: a hands-free 18-gallon step-on bin with a quiet lid for discarding damaged slats and old wand clips in occupied areas, a 120-gallon mobile collector to move stacks of blinds to the loading dock, and an eight-compartment carry caddy for brackets, microfiber, and touch-up tools at each window." },
+    { "type": "cta", "text": "Upload your current contract numbers and competing bids to the Quote Comparator to expose amortized window-covering charges, or use the Office Cleaning Cost Calculator to see what your base rate should be without them." }
+  ],
+  "faqs": [
+    { "q": "Is blind cleaning part of a standard office cleaning contract?", "a": "Dusting usually is; deep cleaning usually is not. Most base scopes include periodic in-place dusting of blinds and sills, while ultrasonic or removal-based cleaning is listed under exclusions or periodic add-ons. Read the exclusions page, since phrases like 'items requiring removal' settle the question regardless of sales language." },
+    { "q": "How much extra do vendors charge for ultrasonic blind and roller shade cleaning?", "a": "Expect about $10-$18 per standard horizontal blind, $18-$35 per vertical set, $15-$35 per roller shade, and a $150-$250 trip or mobilization minimum. Janitorial firms that subcontract the work may add a 10-20% coordination markup, so get a direct quote from a specialty firm for comparison." },
+    { "q": "Should I let my janitorial vendor amortize blind cleaning into the monthly rate?", "a": "Only if the vendor discloses the unit count, unit price, and scheduled completion date the amortization is based on, and agrees to a dated sign-off. Without that transparency it is hard to confirm the work happened, and the adder often exceeds the real project cost." },
+    { "q": "What scope wording prevents disputes over blind cleaning?", "a": "Specify the method, frequency, and units: for example, 'HEPA vacuum all horizontal blinds and roller shades in place, quarterly' in the base scope, and 'ultrasonic clean 60 horizontal blinds and 18 roller shades annually in March at the listed unit price' in the periodic schedule. Clear nouns, numbers, and months remove ambiguity." },
+    { "q": "Do I need special insurance or compliance documents for blind cleaning projects?", "a": "You should require a current COI with general liability and workers compensation, OSHA HazCom Safety Data Sheets for all detergents, and a damage-replacement policy. If your building pursues green certifications, ask whether the detergent is Green Seal or EPA Safer Choice certified." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-slim-jim-step-on-front-step-18-gallon-bin",
+    "rubbermaid-commercial-mega-brute-mobile-collector-120-gal",
+    "rubbermaid-commercial-deluxe-carry-caddy-3154"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-blind-ultrasonic-and-shade-cleaning-quotes/",
+    "/cleaning-services-and-tasks/floor-mat-rental-vs-purchased-cleaning-cost-guide/",
+    "/cleaning-services-and-tasks/floor-mat-rental-vs-purchased-cleaning-for-small-vs-large-offices/",
+    "/restroom-and-breakroom-dispensers/best-multifold-commercial-paper-towels-in-bulk/"
+  ]
+}

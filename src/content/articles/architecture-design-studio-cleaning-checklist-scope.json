@@ -1,0 +1,80 @@
+{
+  "slug": "architecture-design-studio-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/architecture-design-studio-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "architecture design studio scope tasks",
+  "title": "Architecture Design Studio Scope Tasks: Production Benchmarks & Work Scope",
+  "seoTitle": "Architecture Design Studio Scope Tasks: Daily, Weekly & Monthly",
+  "metaDescription": "Architecture design studio scope tasks, with production rates of 2,400–3,500 sq ft/hr by zone. See the full checklist, then price it in our cost calculator.",
+  "excerpt": "A studio cleaning scope has to cover model shops, plotter alcoves, and material libraries that a standard office checklist ignores. This breakdown lists daily, weekly, and monthly tasks with realistic production rates so you can see exactly which items add labor hours.",
+  "quickAnswer": "A complete architecture studio scope covers nightly trash, HEPA vacuuming, restroom and pantry sanitation, plus weekly plotter dusting and monthly material-library and high-dust work. Standard workstation zones clean at about 3,500 sq ft per labor hour, while model shops and critique areas drop to 2,400–3,000 sq ft per hour, which is why studio bids often run 10 to 20 percent above a plain office of the same size. Expect national per-visit rates of $0.09–$0.15 per sq ft for a 2,500–9,999 sq ft studio before restrooms at $15–$30 each.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a cleaning technician wiping a white drafting table with a blue microfiber cloth in a US design studio material library, shelves of tile and fabric sample boards in the background, a quiet tower air purifier in the corner, soft early-morning daylight through clerestory windows, shallow depth of field, no text, no logos, no watermarks",
+    "alt": "Technician wiping a drafting table with microfiber cloth beside shelves of design material samples"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How to Read a Studio Scope of Work" },
+    { "type": "p", "text": "A janitorial scope of work is the contract document that decides what you actually receive each night. In architecture and design studios, the generic three-page office checklist most vendors attach fails in predictable ways: it does not mention model tables, it assumes every surface can be sprayed with disinfectant, and it budgets minutes per room based on an ordinary cubicle floor. The result is either missed tasks or a crew that improvises around expensive work in progress." },
+    { "type": "p", "text": "Build your scope by zone, assign each task a frequency, and attach a production assumption. That last column is what lets you challenge a bid. If a vendor claims 6 labor hours per night for a 6,000 sq ft studio, you can check whether that matches the zones you actually have." },
+    { "type": "h2", "text": "Daily Tasks by Zone" },
+    { "type": "table", "caption": "Daily studio scope with production assumptions (per visit)", "headers": ["Zone", "Daily tasks", "Production rate", "Labor note"], "rows": [
+      ["Open studio workstations", "Empty trash and recycling, HEPA vacuum traffic lanes, spot-clean desk surfaces cleared by staff", "3,200 – 3,500 sq ft/hr", "Near standard office pace; slowed by cables and stools"],
+      ["Model shop / maker space", "Sweep or vacuum foam beads and wood shavings, empty scrap bins, damp-wipe shared benches", "2,400 – 2,800 sq ft/hr", "Specialty zone; machines excluded unless trained"],
+      ["Plotter and print alcove", "Empty paper bins, vacuum around plotter bases, wipe counters", "2,800 – 3,200 sq ft/hr", "Fine paper dust requires HEPA filtration"],
+      ["Conference and critique rooms", "Wipe tables, clear pin-up debris, vacuum, reset chairs", "3,000 – 3,400 sq ft/hr", "Pushpins and tape slow vacuuming"],
+      ["Restrooms", "Clean and disinfect fixtures, restock, mop with neutral cleaner", "12 – 20 minutes each", "Billed at $15 – $30 per restroom per visit"],
+      ["Pantry / breakroom", "Wipe counters and appliance exteriors, clean sink, empty organics", "10 – 15 minutes", "Add-on at $12 – $25 per visit"]
+    ] },
+    { "type": "p", "text": "Using those rates, a 6,000 sq ft studio with 4,200 sq ft of workstations, 600 sq ft of shop, 400 sq ft of plotter alcove, 800 sq ft of meeting space, two restrooms, and a pantry needs roughly 2.6 to 3.1 labor hours per night. A plain office of the same size would need about 2.2 to 2.5. That 15 to 25 percent difference is the specialty premium you see in bids." },
+    { "type": "h2", "text": "Weekly and Monthly Tasks" },
+    { "type": "ul", "items": [
+      "Weekly: high-dust plotter tops, vents, and shelving above 6 ft using a HEPA vacuum with extension wand rather than a feather duster that redistributes toner.",
+      "Weekly: detail-vacuum carpet edges along pin-up walls where tacks and staples collect.",
+      "Weekly: clean interior glass on conference partitions and studio entry doors, priced at $15 – $35 per visit if billed separately.",
+      "Weekly: wipe chair bases, task lamp arms, and monitor stands with a damp microfiber cloth.",
+      "Monthly: dry-dust material library shelving and sample bins without moving sample boards; wet chemicals stay off finishes.",
+      "Monthly: clean model shop walls and ductwork reachable from a step ladder, where spray-adhesive residue builds up.",
+      "Monthly: wipe down HVAC supply diffusers and return grilles in plotter areas.",
+      "Quarterly: hot-water extraction of carpet tile in critique zones, amortized at $0.03 – $0.06 per sq ft per month."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Do Not Let Crews Clean Inside Equipment", "text": "Laser cutters, CNC routers, 3D printers, and plotters carry manufacturer cleaning protocols and, in some cases, lens or optic surfaces that standard cleaners will damage. Your scope should state that crews clean around equipment only, and that internal cleaning stays with studio staff or the equipment service contractor." },
+    { "type": "h2", "text": "Which Specialty Tasks Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Four items consistently push studio labor beyond standard rates. First, work-in-progress protection: crews slow down and detour around taped zones, losing 5 to 10 percent productivity. Second, particulate: foam, chipboard, and toner dust demand HEPA vacuuming and frequent filter changes. Third, irregular hours: charrette nights mean staff present during cleaning, which forces quieter, slower routing. Fourth, materials care: fabric and stone samples must be dry-dusted by hand." },
+    { "type": "p", "text": "Each of those is legitimate, but none should be billed at specialty rates across the entire floor. Insist that bidders price the model shop and any spray booth at the specialty hourly band of $55 – $95, and the rest of the studio at the standard $35 – $65 hourly equivalent." },
+    { "type": "h2", "text": "Air Quality and Tooling Specifications to Include" },
+    { "type": "p", "text": "Studios with active model shops benefit from portable filtration to supplement HVAC. The Winix 5500-2 pairs True HEPA with a washable AOC carbon layer rated for about 360 sq ft, a fit for a small shop or plotter room, and its carbon stage helps with adhesive odors. For larger open studios, the Alen BreatheSmart 75i covers roughly 1,300 sq ft with medical-grade HEPA, a laser particle sensor, and a quiet run mode that will not distract staff on late nights. Filter replacement is an owner responsibility unless the scope assigns it to the vendor; write down who changes them and how often." },
+    { "type": "p", "text": "For surfaces, specify color-coded microfiber. The Rubbermaid HYGEN 16 by 16 inch split-microfiber cloths are rated for about 500 commercial launderings and are bleach safe, and color coding keeps restroom cloths away from drafting tables. Require the vendor to launder rather than discard cloths and to keep a separate color for the model shop so adhesive residue never reaches conference glass." },
+    { "type": "steps", "items": [
+      { "name": "Map your zones", "text": "Measure square footage for workstations, shop, plotter, meeting, and library areas separately and include the drawing in the RFP." },
+      { "name": "Assign frequencies", "text": "Mark each task daily, weekly, monthly, or quarterly using the tables above as a starting point." },
+      { "name": "State production assumptions", "text": "Ask each bidder to show labor hours per visit by zone so you can compare against the 2,400 – 3,500 sq ft per hour range." },
+      { "name": "List exclusions", "text": "Name models, equipment interiors, sample boards, and exterior windows as excluded or separately priced." },
+      { "name": "Set an inspection rhythm", "text": "Walk the studio with the supervisor monthly using a scored checklist tied to the scope." }
+    ] },
+    { "type": "cta", "text": "Plug your zone square footage, restroom count, and visit frequency into the Office Cleaning Cost Calculator, then compare each vendor's labor-hour assumptions side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours per night should a 6,000 sq ft studio require?", "a": "With typical studio zoning, expect roughly 2.6 to 3.1 labor hours per night including two restrooms and a pantry. A plain carpeted office at the ISSA reference of about 3,500 sq ft per hour would need about 2.2 to 2.5 hours. If a bidder proposes far more than 3.5 hours, ask for a task-time breakdown; far fewer than 2.2 usually means tasks are being skipped." },
+    { "q": "Should restrooms in a studio follow OSHA bloodborne pathogen practices?", "a": "Yes. Any janitorial worker who may contact blood or other potentially infectious materials, including in restrooms, falls under OSHA 29 CFR 1910.1030 through their employer. The vendor should have an exposure control plan, provide gloves and training, and offer hepatitis B vaccination. Ask for confirmation in writing during onboarding." },
+    { "q": "Who is responsible for Safety Data Sheets in our studio?", "a": "Under OSHA's Hazard Communication Standard, the cleaning contractor must maintain Safety Data Sheets for every chemical it brings on site and label secondary containers. Studios should keep their own SDS binder for model-shop adhesives, spray paints, and resins, and share relevant hazards with the vendor so crews know what they may encounter." },
+    { "q": "How do monthly visits get calculated for a weekly scope?", "a": "Multiply visits per week by 4.333, the result of 52 weeks divided by 12 months. Twice weekly equals about 8.66 visits, three times weekly equals 13, and daily weekdays equals 21.65. Monthly and quarterly tasks are then layered on top, either as a fixed monthly line or amortized into the per-visit price." },
+    { "q": "Can we shift some tasks to a day porter instead of the night crew?", "a": "Often yes. Pantry resets, restroom restocks, and spill response suit a part-time day porter, which frees the night crew for vacuuming and high dusting. Porter time is usually billed hourly at $35 to $65, so it pays off mainly in studios above 10,000 sq ft or with heavy client traffic." }
+  ],
+  "amazonProductIds": [
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier",
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/architecture-design-studio-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/marketing-creative-agency-cleaning-cost/",
+    "/facility-cleaning-costs/marketing-creative-agency-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-day-porter-quick-response-tool-kit/"
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "equipment-repair-and-depreciation-in-house-vs-vendor-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/equipment-repair-and-depreciation-in-house-vs-vendor-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template equipment repair depreciation",
+  "title": "All-In Cost Ledger & ROI Calculator: 60-Month Vacuum & Scrubber Depreciation Capex Template",
+  "seoTitle": "Capex Template: Equipment Repair & Depreciation 60-Month Cost Ledger",
+  "metaDescription": "Capex template for equipment repair and depreciation tracks 60-month MACRS schedules, battery swaps, and $35–$65/hr vendor rates. Audit your ROI now.",
+  "excerpt": "Download the exact 60-month CapEx and repair reserve ledger used by commercial property controllers to audit in-house janitorial equipment budgets. Compare Year-1 through Year-5 vacuum, auto-scrubber, and extractor depreciation against all-inclusive outsourced vendor pricing.",
+  "quickAnswer": "A rigorous capex template for equipment repair and depreciation over a 60-month commercial lifecycle budgets $9,150 in Year-1 fleet acquisition ($152.50/month straight-line depreciation) plus $6,150 to $8,380 in scheduled wear parts, AGM battery pack replacements, motor rebuilds, and downtime rental fees ($102.50 to $139.67/month) for a standard 15,000 sq ft office. Compared against an outsourced janitorial vendor charging $0.07 to $0.12 per sq ft ($35 to $65/hr all-in with zero client CapEx), self-performing equipment ties up $15,300 to $17,530 in 5-year capital.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up angle of a commercial facility manager auditing an equipment maintenance ledger on a clipboard next to a stainless steel janitorial shelf stocked with 4-gallon cases of commercial glass cleaner, hydrogen peroxide disinfectant gallons, and floor machine replacement parts, crisp office lighting, no readable text or brand logos",
+    "alt": "Facility manager checking an equipment depreciation ledger beside commercial disinfectant gallon cases and floor machine supplies"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Building a 60-Month CapEx & Preventative Maintenance Reserve Ledger"
+    },
+    {
+      "type": "p",
+      "text": "When corporate finance teams evaluate an internal janitorial proposal, equipment expenses are almost always understated because the operations proposal only lists the initial retail purchase price of two upright vacuums, a floor scrubber, and a janitorial cart. Under IRS MACRS 5-year commercial equipment depreciation schedules—and practical GAAP facility budgeting—initial acquisition CapEx represents only 52% to 58% of a janitorial fleet's 60-month total cost of ownership."
+    },
+    {
+      "type": "p",
+      "text": "The remaining 42% to 48% flows through your monthly operating expense (OpEx) maintenance lines: HEPA filtration bags, brush roller strips, polyurethane auto-scrubber squeegee blades, deep-cycle AGM battery replacements at Month 20 and Month 40, carbon motor brush overhauls, and emergency service technician truck rolls ($115 to $155 per hour). Using our structured capex template equipment repair depreciation worksheet below ensures your Year-1 through Year-5 cash-flow model captures every mechanical liability before you commit capital."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 1.75x 5-Year Equipment Multiplier Rule",
+      "text": "In commercial janitorial fleet accounting, multiply your Day-1 machinery purchase invoice by 1.75x to estimate your true 60-month expenditure (including consumables, wear parts, mid-life motor/battery overhauls, and repair shop labor). A $9,150 Year-1 equipment purchase will consume roughly $16,012 in total cash over 5 years ($266.87/month)."
+    },
+    {
+      "type": "h2",
+      "text": "Year-1 to Year-5 Cash-Flow & Depreciation Ledger (15,000 Sq Ft Baseline)"
+    },
+    {
+      "type": "p",
+      "text": "This line-by-line worksheet models a 15,000 sq ft commercial office with mixed carpet and hard flooring (1.05x flooring multiplier) cleaned 5x/week (21.65 weekday visits per month across 4.33 weeks/month, totaling 97.4 monthly operating hours). Every asset line separates straight-line 60-month depreciation from annual OpEx maintenance reserves."
+    },
+    {
+      "type": "table",
+      "caption": "60-Month CapEx Depreciation & Repair Reserve Worksheet: In-House Fleet vs. Outsourced Vendor (15,000 Sq Ft Mixed-Floor Office)",
+      "headers": [
+        "Asset ID & Line Item Description",
+        "Yr 1 CapEx Outlay",
+        "60-Mo Straight-Line Depreciation (/Mo)",
+        "Yr 1–5 Cumulative OpEx Parts & Repairs",
+        "All-In Monthly Fleet Cost (CapEx + OpEx)",
+        "Outsourced Vendor Contract Treatment"
+      ],
+      "rows": [
+        [
+          "EQ-01: Primary & Backup HEPA Upright Vacuums (2 Units @ $540 ea)",
+          "$1,080.00",
+          "$18.00 / mo",
+          "$1,440.00 (120 HEPA bags/yr, 10 brush rollers, 4 quick-change cords, 2 motor rebuilds)",
+          "$42.00 / mo",
+          "$0.00 (Vendor furnishes & swaps broken vacuums within 24 hrs)"
+        ],
+        [
+          "EQ-02: Compact 20-Inch Battery Walk-Behind Auto-Scrubber (Hard Floors & Restrooms)",
+          "$4,450.00",
+          "$74.17 / mo",
+          "$3,120.00 (2 AGM battery sets @ $980 ea, 10 squeegee blade sets, 1 vac fan motor, scrub pads)",
+          "$126.17 / mo",
+          "$0.00 (Daily mopping in base rate; machine scrubbing in $0.03–$0.06/sq ft floor program)"
+        ],
+        [
+          "EQ-03: Commercial Heated Box Carpet Extractor & Upholstery Wand",
+          "$2,150.00",
+          "$35.83 / mo",
+          "$920.00 (120-PSI solution pump seal rebuild, brass quick-disconnects, pressure hose)",
+          "$51.17 / mo",
+          "$0.00 (Vendor brings commercial extractors for quarterly care)"
+        ],
+        [
+          "EQ-04: Low-Speed 175-RPM Rotary Buffer / Tile & Grout Scrub Machine",
+          "$790.00",
+          "$13.17 / mo",
+          "$540.00 (Clutch plates, pad driver assembly, red/black/green floor pads, gearbox seal)",
+          "$22.17 / mo",
+          "$0.00 (Provided by vendor specialty floor crew)"
+        ],
+        [
+          "EQ-05: 2 Janitorial Carts, Dual-Bucket Systems & 18-In Microfiber Pulse Frames",
+          "$680.00",
+          "$11.33 / mo",
+          "$1,380.00 (Replacement microfiber pads every 300 wash cycles, casters, trigger valves)",
+          "$34.33 / mo",
+          "$0.00 (Vendor supplies color-coded red/blue microfiber kits)"
+        ],
+        [
+          "EQ-06: Unscheduled Repair Shop Truck Rolls & Downtime Overtime Reserve",
+          "$0.00",
+          "$0.00 / mo",
+          "$980.00 (4 dealer service calls @ $145/hr + 12 hrs manual mopping overtime during outages)",
+          "$16.33 / mo",
+          "$0.00 (100% absorbed by vendor fleet maintenance shop)"
+        ],
+        [
+          "TOTAL 60-MONTH EQUIPMENT LEDGER (SUM OF EQ-01 TO EQ-06)",
+          "$9,150.00 CapEx",
+          "$152.50 / mo",
+          "$8,380.00 OpEx repairs ($139.67/mo)",
+          "$292.17 / mo ($17,530 over 60 mos)",
+          "$0.00 separate CapEx (Bundled in $0.07–$0.12/sq ft vendor rate)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Year-by-Year Cash Outflow Spike: Beware of Month 20 and Month 40"
+    },
+    {
+      "type": "p",
+      "text": "While straight-line accounting spreads the $8,380 five-year repair and wear-part reserve evenly at $139.67 per month, actual cash outflows hit in jagged spikes. In Year 1, manufacturer warranties cover major defect failures, so monthly OpEx averages just $45/month for HEPA filter bags, belts, and microfiber pads. That artificially low Year-1 maintenance run-rate lulls facility managers into believing their fleet is virtually maintenance-free."
+    },
+    {
+      "type": "p",
+      "text": "Then Month 18 to Month 24 arrives (Year 2). By Month 20 on a 5x/week schedule (433 cumulative operating shifts), the walk-behind auto-scrubber's factory AGM battery pack drops below 45 minutes of runtime and requires a $980 replacement; simultaneously, the primary upright vacuum reaches 1,100 hours and requires a $210 armature motor and brush roller overhaul, and the carpet extractor's internal viton pump seals need a $260 service call. A second identical cash spike hits between Month 38 and Month 44 (Year 4). Controllers using our capex template equipment repair depreciation model accrue $139.67 every month from Day 1 so Year-2 and Year-4 repair bills never disrupt quarterly EBITDA."
+    },
+    {
+      "type": "h2",
+      "text": "Chemical Selection That Protects Equipment Valves, Seals & Glass Surfaces"
+    },
+    {
+      "type": "p",
+      "text": "A major driver of premature pump, solenoid valve, and trigger sprayer failure in lines EQ-02, EQ-03, and EQ-05 is chemical crystallization and acidic corrosion. Pairing your in-house equipment ledger with non-corrosive, peroxide-based and streak-free commercial formulations directly lowers your 5-year repair reserve:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Spartan Clean by Peroxy All-Purpose Cleaner Gallon (4-Case): Carrying Green Seal GS-37 certification, this hydrogen-peroxide multi-surface cleaner brightens ceramic tile grout (1.12x multiplier), floors, and glass without leaving sticky soap film inside auto-scrubber solution lines or pulse mop trigger valves.",
+        "CloroxPro Hydrogen Peroxide Cleaner Disinfectant Concentrate: Providing a fast 30-second to 1-minute hospital-grade kill time in a 128-oz gallon concentrate with zero harsh VOC fumes, this non-bleach formula sanitizes restroom fixtures and breakroom countertops without corroding stainless steel carts, rubber squeegee blades, or brass extractor fittings.",
+        "Zep Commercial Streak-Free Glass Cleaner Gallon (4-Case): Stocking a 4-gallon refillable ammonia-formula case for interior glass doors, sidelights, and conference room partitions ($15 to $35 per-visit add-on value) eliminates single-use aerosol waste and prevents sticky surfactant buildup on rubber window squeegees."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Mandatory Post-Shift Equipment Flush Protocol",
+      "text": "Require in-house custodians to run 32 oz of clean warm tap water through carpet extractor pumps and pulse mop trigger lines at the end of every shift, and prop auto-scrubber recovery tank lids open 3 inches overnight. Those two zero-cost habits prevent 70% of solenoid valve clogs and vacuum motor moisture corrosion."
+    },
+    {
+      "type": "h2",
+      "text": "Complete Master Reconciliation: Combining Labor, OSHA Training & Equipment CapEx"
+    },
+    {
+      "type": "p",
+      "text": "To give your CFO the complete financial picture for a 15,000 sq ft mixed-floor office cleaned 5x/week (21.65 visits/month), combine all four in-house cost centers and compare them against an all-inclusive commercial janitorial contract:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "In-House Productive Custodial Payroll (97.4 hrs/mo @ $28.10 fully burdened W-2 wage): $2,736.94 / month",
+        "In-House OSHA Onboarding, Turnover & Workers' Comp Code 9014 Overhead (Amortized): $329.03 to $616.57 / month",
+        "In-House 60-Month Equipment CapEx Depreciation & Repair Reserve (EQ-01 to EQ-06): $292.17 / month",
+        "In-House Chemical Concentrates & Cleaning Consumables: $185.00 / month",
+        "Total In-House All-In Monthly Run-Rate: $3,543.14 to $3,830.68 / month ($0.236 to $0.255 / sq ft)",
+        "Turnkey Outsourced Janitorial Vendor Contract (15,000 sq ft @ $0.07–$0.12/sq ft base adjusted for 0.90x 5x/week multiplier, 1.05x mixed flooring, breakroom add-on $12–$25/visit, interior glass $15–$35/visit, and $0.03–$0.06/sq ft amortized deep floor care): $1,850.00 to $2,680.00 / month ($0.123 to $0.179 / sq ft)"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Controller Checklist to Audit Your Janitorial ROI"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Enter Your Exact Flooring Square Footage & Multipliers",
+          "text": "Apply 1.0x for commercial carpet, 1.04x for VCT/LVT vinyl, 1.08x for hardwood, 1.12x for ceramic tile and grout, or 1.05x for mixed carpet and hard floors to size your required machinery."
+        },
+        {
+          "name": "Apply the 1.75x 60-Month TCO Multiplier to Any Proposed Equipment Quote",
+          "text": "Never approve a bare Year-1 janitorial equipment purchase order without booking an additional 75% over 60 months for AGM batteries, HEPA bags, squeegees, motor brushes, and repair shop labor."
+        },
+        {
+          "name": "Check the Quarterly Deep Floor Care Alternative",
+          "text": "Before spending $2,940 on an in-house carpet extractor and rotary buffer (EQ-03 and EQ-04), request a vendor pricing option for amortized Quarterly Deep Floor Care at $0.03 to $0.06/sq ft/month."
+        },
+        {
+          "name": "Run the Live Quote Comparator",
+          "text": "Input your building dimensions, restroom count ($15–$30/visit), and weekly frequency into our calculator to generate a side-by-side board presentation comparing self-performance against commercial vendor bids."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Run your exact building ledger right now: open our interactive Office Cleaning Cost Calculator & Quote Comparator to test your 60-month equipment and labor worksheet against live commercial cleaning benchmarks."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What IRS depreciation schedule applies to commercial vacuums and walk-behind floor scrubbers?",
+      "a": "Under IRS Publication 946 (Modified Accelerated Cost Recovery System / MACRS), commercial janitorial machinery and office maintenance equipment generally falls under the 5-year property class (or may qualify for Section 179 immediate first-year tax expensing up to statutory limits). For internal managerial cost-per-square-foot accounting, controllers typically amortize commercial floor scrubbers and extractors on a 60-month straight-line schedule while accruing a monthly OpEx repair reserve."
+    },
+    {
+      "q": "Why should we include downtime overtime in our equipment repair depreciation worksheet?",
+      "a": "Because cleaning requirement deadlines do not pause when a walk-behind auto-scrubber or HEPA vacuum is waiting on parts at a repair shop. When a 20-inch auto-scrubber is out of service for 7 business days, an in-house custodian must mop hard-floor corridors and restrooms manually at one-fourth the production speed—generating 8 to 14 hours of unplanned W-2 overtime at 1.5x their loaded hourly rate."
+    },
+    {
+      "q": "How do Green Seal GS-37 hydrogen peroxide cleaners reduce 5-year floor equipment maintenance costs?",
+      "a": "Traditional high-alkaline floor strippers, powdered detergents, and bleach solutions leave crystalline mineral deposits inside auto-scrubber solenoid valves, brass extractor jets, and microfiber pulse mop triggers, and aggressively degrade rubber squeegee blades. Green Seal GS-37 hydrogen peroxide cleaners break down into water and oxygen without leaving alkaline salt buildup, preventing valve seizures and extending rubber seal life."
+    },
+    {
+      "q": "What should we require in a vendor contract so we never get billed extra for equipment repairs or deep floor machine usage?",
+      "a": "Ensure the Master Services Agreement states that all daily HEPA vacuums, microfiber mopping systems, utility carts, and maintenance repairs are 100% included in the base monthly fee, with a mandatory 24-hour replacement SLA for any down unit. If you include periodic carpet hot-water extraction and VCT machine buffing, lock it in as an amortized Quarterly Deep Floor Care line item ($0.03 to $0.06/sq ft/month) with defined quarterly completion dates."
+    }
+  ],
+  "amazonProductIds": [
+    "cloroxpro-hydrogen-peroxide-cleaner-disinfectant-concentrate",
+    "zep-commercial-streak-free-glass-cleaner-gallon-4-case",
+    "spartan-clean-by-peroxy-all-purpose-cleaner-gallon-4-case"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-for-medical-and-dental-clinics/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-for-medical-and-dental-clinics-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-for-medical-and-dental-clinics-budget-worksheet/",
+    "/commercial-vacuums-and-floor-machines/best-starter-floor-equipment-kit-for-new-offices/"
+  ]
+}

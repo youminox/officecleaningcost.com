@@ -1,0 +1,179 @@
+{
+  "slug": "electrolyzed-water-aqueous-ozone-cleaning-cost",
+  "pillar": "green-cleaning-and-osha-compliance",
+  "path": "/green-cleaning-and-osha-compliance/electrolyzed-water-aqueous-ozone-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "aqueous ozone payback",
+  "title": "On-Site Aqueous Ozone & Electrolyzed Water Cleaning Systems: Capex & Payback",
+  "seoTitle": "Aqueous Ozone Payback & Electrolyzed Water Cleaning Cost Guide",
+  "metaDescription": "Calculate aqueous ozone payback and on-site electrolyzed water capex ($1,800-$6,500) across commercial offices. Compare costs in our quote calculator.",
+  "excerpt": "Wall-mounted aqueous ozone (AO) and on-site electrolyzed water (EW) generators turn cold tap water into a broad-spectrum cleaner and sanitizer on demand, cutting packaged chemical deliveries by up to 75%. This financial and regulatory analysis breaks down hardware capex ($1,800 to $6,500), desiccant cartridge upkeep, EPA establishment rules, and real-world payback horizons by building square footage.",
+  "quickAnswer": "Achieving a sub-18-month aqueous ozone payback requires an office facility of at least 25,000 square feet cleaned 5x to 7x per week (21.65 to 30.33 visits/month). Wall-mounted commercial aqueous ozone and electrolyzed water generators cost $1,800 to $6,500 in upfront capex (or $95 to $210/month leased) and produce on-demand sanitizing solution for $0.02 to $0.05 per gallon, replacing 65% to 80% of daily multi-surface, glass, and floor chemicals while still requiring specialty concentrates for heavy grease, hospital-claim virucides, and VCT acrylic stripping.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior view of an upscale commercial building janitorial engineering closet featuring a sleek stainless steel wall-mounted aqueous ozone and electrolyzed water generator with glowing blue LED flow status indicator filling a clear commercial auto-scrubber tank with cold water, clean tiled walls, bright natural-spectrum overhead lighting, eye-level camera angle, no text, no logos, no words, no watermarks.",
+    "alt": "Wall-mounted stainless steel aqueous ozone and electrolyzed water generator dispensing sanitizing solution in a commercial office janitor closet"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How On-Site Aqueous Ozone and Electrolyzed Water Generators Work"
+    },
+    {
+      "type": "p",
+      "text": "For commercial property directors seeking to move beyond traditional chemical jugs, on-site generation (OSG) technologies—specifically Stabilized Aqueous Ozone (SAO) and Electrolyzed Water (EW)—represent the next frontier in green janitorial engineering. Instead of shipping, storing, and diluting concentrated surfactants, wall-mounted OSG systems connect directly to a cold potable water line and standard 120V electrical outlet in the janitor closet to synthesize cleaning and sanitizing solutions on demand."
+    },
+    {
+      "type": "p",
+      "text": "Aqueous ozone generators pull ambient oxygen ($O_2$) through an air-drying desiccant cartridge and pass it through a high-voltage corona-discharge diamond or ceramic cell, converting oxygen into ozone ($O_3$) gas that is immediately infused into cold tap water at 1.5 to 3.0 parts per million (PPM). Electrolyzed water systems take a different electrochemical path: they pass cold water and a small amount of food-grade sodium chloride (salt) across titanium electrodes separated by a membrane, splitting the stream into an alkaline cleaner (sodium hydroxide at pH 10–11.5 for lifting oils and dirt) and an acidic sanitizer (hypochlorous acid, HOCl, at pH 5.0–6.5 and 50–200 PPM free available chlorine)."
+    },
+    {
+      "type": "p",
+      "text": "Once dispensed into spray bottles, microfiber charging buckets, or ride-on auto-scrubbers, aqueous ozone remains active as a sanitizer for 4 to 24 hours (or up to 3–6 days for ion-stabilized SAO cartridges) and works as a general cleaner for several days before reverting completely back to plain water and oxygen with zero chemical residue. Hypochlorous electrolyzed water typically holds its sanitizing oxidation-reduction potential (ORP > 750 mV) for 14 to 30 days in opaque closed containers."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The Real-World 75/25 Replacement Rule for Office Facilities",
+      "text": "Vendor brochures frequently claim on-site aqueous ozone or electrolyzed water eliminates 100% of janitorial chemicals. In actual US commercial office operations, OSG systems replace 70% to 80% of daily liquid volume (glass cleaners, neutral floor cleaners, carpet spotting sprays, and general restroom wipe-downs), while the remaining 20% to 30% still requires traditional products for VCT wax stripping, polymerized breakroom grease, and EPA List N bloodborne/norovirus claims."
+    },
+    {
+      "type": "h2",
+      "text": "Calculating Aqueous Ozone Payback Across Office Size Brackets"
+    },
+    {
+      "type": "p",
+      "text": "Evaluating aqueous ozone payback requires weighing upfront capital expenditure (Plus ongoing desiccant dryer cartridges, salt tablets, or diamond-cell replacement blocks every 6 to 12 months) against the displaced portion of your monthly chemical consumables spend. Recall that in standard commercial office contracts, bundled paper, soap, liner, and chemical consumables run $0.012 to $0.025 per square foot per visit, with liquid cleaning chemicals accounting for roughly 18% of that spend ($0.0022 to $0.0045/sq ft/visit)."
+    },
+    {
+      "type": "p",
+      "text": "Because a single commercial wall-mounted aqueous ozone generator costs between $1,800 (compact 1-GPM spray-bottle and small-bucket unit) and $6,500 (high-flow 4-to-5 GPM dual bottle/auto-scrubber unit with stabilization resin), installing hardware in a small 3,500-square-foot suite cleaned twice a week (8.66 visits/month) will take more than 4 years to break even. Conversely, in a 50,000-square-foot corporate headquarters or single-closet staging hub serviced 5x/week (21.65 visits/month at $0.05 to $0.10/sq ft base contract rate), the math shifts decisively in favor of on-site generation."
+    },
+    {
+      "type": "table",
+      "caption": "Aqueous Ozone & Electrolyzed Water Capex, Annual Opex & Payback Horizon by Office Size (5x/Week Service)",
+      "headers": [
+        "Office Size Bracket",
+        "Displaced Legacy Chemical Spend ($/Yr)",
+        "OSG System Capex (Installed Hardware)",
+        "Annual OSG Consumables (Cartridges/Cells/Power)",
+        "Net Annual Savings & Simple Payback Period"
+      ],
+      "rows": [
+        [
+          "Under 2,500 sq ft (2,000 sq ft avg)",
+          "$885 / yr (75% of $1,180 chemical budget)",
+          "$1,850 (1 compact wall unit)",
+          "$260 / yr (desiccant + stabilizer filters)",
+          "$625 / yr saved -> 2.96 Years (35.5 Mos) Payback"
+        ],
+        [
+          "2,500 - 9,999 sq ft (6,500 sq ft avg)",
+          "$2,730 / yr (75% of $3,640 chemical budget)",
+          "$2,400 (1 mid-flow wall unit)",
+          "$380 / yr (cartridges + annual cell check)",
+          "$2,350 / yr saved -> 1.02 Years (12.3 Mos) Payback"
+        ],
+        [
+          "10,000 - 24,999 sq ft (15,000 sq ft avg)",
+          "$5,960 / yr (75% of $7,950 chemical budget)",
+          "$3,600 (1 high-flow hub unit)",
+          "$590 / yr (stabilizer cartridges + ORP probes)",
+          "$5,370 / yr saved -> 0.67 Years (8.0 Mos) Payback"
+        ],
+        [
+          "25,000+ sq ft (50,000 sq ft avg)",
+          "$17,550 / yr (75% of $23,400 chemical budget)",
+          "$7,800 (2 high-flow multi-floor hub units)",
+          "$1,240 / yr (replacement cells + filters)",
+          "$16,310 / yr saved -> 0.48 Years (5.7 Mos) Payback"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "EPA FIFRA Device Regulations, OSHA Limits, and SDS Simplification"
+    },
+    {
+      "type": "p",
+      "text": "Understanding how US federal regulators classify aqueous ozone and electrolyzed water is critical before deploying OSG hardware across commercial or medical-adjacent office properties. Under the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA), an on-site aqueous ozone generator that produces ozone gas from ambient air and infuses it at the point of use without shipping a packaged chemical precursor is regulated by the EPA as a 'Pesticide Device' rather than a registered chemical pesticide. Pesticide devices must be manufactured in an EPA-registered Establishment (carrying an EPA Est. No. on the data plate) and backed by third-party laboratory efficacy testing (such as AOAC or ASTM E1153 sanitizer standards showing 99.9% reduction of E. coli, Staphylococcus aureus, and Salmonella inside specified dwell times), but they do not carry a liquid EPA Reg. No. like boxed bottled disinfectants."
+    },
+    {
+      "type": "p",
+      "text": "By comparison, when an electrolyzed water system generates hypochlorous acid onsite for immediate custodial use—or when facilities buy bottled stabilized hypochlorous solutions—specific EPA List N registrations may apply depending on whether the generator model and salt precursor bundle have completed formal EPA registration. From an OSHA standpoint, both aqueous ozone in solution (1.5 to 3.0 PPM) and neutral-pH hypochlorous acid carry virtually zero dermal or ocular corrosivity (SDS Hazard Rating 0-0-0), eliminating the need for plumbed ANSI Z358.1 emergency eyewash stations for those slots and keeping airborne ozone gas off-gassing well below the OSHA Permissible Exposure Limit (PEL) of 0.1 PPM TWA over an 8-hour shift."
+    },
+    {
+      "type": "h2",
+      "text": "Where Traditional Specialty Chemicals Must Supplement Aqueous Ozone"
+    },
+    {
+      "type": "p",
+      "text": "Facility managers who model a realistic aqueous ozone payback always budget a supplemental chemical reserve for the 20% to 25% of periodic tasks where oxidized cold water alone cannot match formulated chemistry. First, while aqueous ozone excels at daily damp-mopping on polished concrete (0.95x flooring multiplier), engineered hardwood (1.08x multiplier), and VCT vinyl (1.04x multiplier), it cannot strip or apply acrylic floor finish during quarterly deep floor restoration programs ($0.03 to $0.06 per square foot per month). For those semi-annual VCT turnarounds, crews still rely on dedicated polymer chemistry such as the Zep High-Traffic Floor Polish & Stripper Bundle, which pairs a heavy-duty 1-gallon VCT stripper with a high-solids wet-look acrylic polish to rebuild protective wear layers."
+    },
+    {
+      "type": "p",
+      "text": "Second, aqueous ozone loses its active oxidizing charge within 4 to 24 hours inside unstabilized trigger bottles. In satellite janitor closets without a plumbed OSG generator—or for deep ceramic tile grout brightening (1.12x flooring multiplier) and shelf-stable multi-surface backup—stocking a certified green concentrate like the Spartan Clean by Peroxy All-Purpose Cleaner Gallon (4-Case) (a Green Seal GS-37 certified 4 x 1 gallon hydrogen-peroxide concentrate that attacks organic grout stains and soap scum without VOC buildup) prevents performance gaps. Third, when high-altitude exterior curtain walls or oily biometric glass conference partitions ($15 to $35 per visit interior glass add-on) require rapid ammonia flash-drying in cold lobbies, keeping a reserve case of Zep Commercial Streak-Free Glass Cleaner Gallon (4-Case) (4 x 1 gallon refillable ammonia formula) ensures streak-free clarity where pure aqueous water droplets might evaporate too slowly."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Hard Water Scale Can Kill Corona-Discharge Cells",
+      "text": "If your municipal office water hardness exceeds 10 grains per gallon (170+ PPM calcium carbonate) or contains high dissolved iron, raw tap water will rapidly foul the internal venturi injector and electrode plates of an aqueous ozone or electrolyzed water unit. Always budget $180 to $320 for an inline scale-inhibitor pre-filter housing ahead of the OSG cold-water inlet."
+    },
+    {
+      "type": "h2",
+      "text": "5-Point Financial & Technical Checklist Before Buying or Leasing OSG Systems"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Centralized Hub Filling vs. Per-Floor Closets: Instead of buying six $2,500 aqueous ozone units for a 6-story, 60,000-square-foot office ($15,000 capex), install one high-flow $4,200 generator in the ground-floor central staging closet where crews fill all night-shift auto-scrubbers and microfiber buckets before taking the freight elevator.",
+        "Audit Annual Replacement Cartridge Costs: Ask the vendor for a binding 5-year price schedule on air-dryer desiccant cartridges, ion-stabilizing resin filters, and replacement diamond cells. Some systems cost $2,200 upfront but charge $850/year in proprietary filter cartridges that erode your payback.",
+        "Verify OSHA Bloodborne Pathogen Supplemental Protocol: Under OSHA 29 CFR 1910.1030, cleanup of blood or OPIM spills requires an EPA-registered tuberculocidal or HIV/HBV-listed disinfectant. Maintain an EPA List N hospital disinfectant spray or wipe kit alongside your aqueous ozone station for biohazard incidents.",
+        "Factor Carpet Extraction Rinse Savings: Aqueous ozone leaves zero soapy surfactant residue in commercial carpet tiles (1.0x baseline multiplier), extending the interval between hot-water extraction cycles by 25% to 35% because carpet fibers no longer re-attract soil to sticky detergent films.",
+        "Negotiate Shared Lease Amortization with Your BSC: If your janitorial contract has 24+ months remaining, ask your contractor to lease the OSG generator at $115 to $175/month and offset the lease fee through an immediate reduction in your monthly consumables billing rate."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Want to see how aqueous ozone capex or chemical consumables reductions change your facility's bottom-line cleaning rate? Run your square footage, flooring mix, and service frequency in our Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the typical payback period for a commercial aqueous ozone cleaning system?",
+      "a": "In a commercial office between 10,000 and 25,000 square feet cleaned 5 nights per week (21.65 visits/month), a single centralized $2,800 to $3,800 wall-mounted aqueous ozone generator typically reaches full payback in 7 to 11 months. In larger 50,000+ square foot facilities, payback drops to under 6 months, whereas offices under 3,000 square feet may take 2.5 to 3 years to recover hardware costs."
+    },
+    {
+      "q": "How long does aqueous ozone stay effective after being dispensed into a spray bottle or mop bucket?",
+      "a": "Standard unstabilized aqueous ozone holds its peak sanitizing oxidation charge (1.5 to 3.0 PPM) for roughly 4 to 8 hours—more than long enough for an evening janitorial shift—and functions as an effective multi-surface general cleaner for 24 to 48 hours. Systems equipped with ion-stabilizing mineral cartridges extend sanitizing potency up to 24 hours and general cleaning life up to 3 to 6 days."
+    },
+    {
+      "q": "Does aqueous ozone or electrolyzed water damage commercial carpet, VCT polish, or natural stone?",
+      "a": "Aqueous ozone is pH-neutral (matching the pH of your incoming cold tap water, typically 6.8 to 7.4) and leaves zero chemical residue, making it completely safe for finished VCT, polished marble, terrazzo, and wool or synthetic commercial carpet tiles. For electrolyzed water systems, verify whether the dispensed stream is neutral hypochlorous acid (pH 6.0) or high-alkaline sodium hydroxide (pH 11) before applying to acid-sensitive stone."
+    },
+    {
+      "q": "Can aqueous ozone replace EPA List N disinfectants during a viral outbreak or blood spill?",
+      "a": "While third-party labs have validated that aqueous ozone kills 99.9% of common bacteria and many enveloped viruses on hard non-porous surfaces within 30 to 60 seconds, aqueous ozone generators are regulated as EPA FIFRA Pesticide Devices rather than chemical liquids on EPA List N. For OSHA 29 CFR 1910.1030 bloodborne pathogen spills or mandated List N protocols, facilities must keep an EPA-registered chemical disinfectant on hand."
+    },
+    {
+      "q": "What utilities are required inside the janitor closet to install an on-site generator?",
+      "a": "You need a standard cold potable water line delivering 1.0 to 4.0 GPM at 35 to 75 PSI dynamic pressure, an approved ASSE 1055B or atmospheric backflow preventer, and a single standard 115V/120V GFCI-protected electrical receptacle drawing less than 2 to 4 amps when actively dispensing."
+    }
+  ],
+  "amazonProductIds": [
+    "zep-commercial-streak-free-glass-cleaner-gallon-4-case",
+    "spartan-clean-by-peroxy-all-purpose-cleaner-gallon-4-case",
+    "zep-high-traffic-floor-polish-and-stripper-bundle"
+  ],
+  "related": [
+    "/green-cleaning-and-osha-compliance/",
+    "/green-cleaning-and-osha-compliance/electrolyzed-water-aqueous-ozone-cleaning-cost-implementation-checklist/",
+    "/green-cleaning-and-osha-compliance/electrolyzed-water-aqueous-ozone-cleaning-cost-cost-vs-conventional/",
+    "/green-cleaning-and-osha-compliance/electrolyzed-water-aqueous-ozone-cleaning-cost-vendor-audit-questions/",
+    "/restroom-and-breakroom-dispensers/best-quick-view-window-restroom-dispensers/"
+  ]
+}

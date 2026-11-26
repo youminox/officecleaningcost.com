@@ -1,0 +1,76 @@
+{
+  "slug": "coworking-space-disinfection-and-compliance-pricing",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/coworking-space-disinfection-and-compliance-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "coworking space compliance fees",
+  "title": "Coworking Space Compliance Fees: Why Shared Office Quotes Exceed Standard Corporate Suites",
+  "seoTitle": "Coworking Space Compliance Fees: Why Shared Office Bids Run Higher",
+  "metaDescription": "Coworking space compliance fees explained: vetting, EPA disinfectants, 24/7 access, and $55–$95/hr specialty labor adding 13–22% to bids. Compare quotes.",
+  "excerpt": "Coworking janitorial bids carry costs a corporate suite never sees: crew vetting for 24/7 member access, EPA-registered disinfection of shared surfaces, night and weekend labor, and event turnovers. Here is how each requirement is priced and how to keep the premium honest.",
+  "quickAnswer": "Compliance and disinfection requirements typically add 13–22% to a coworking janitorial bid before consumables. On a 5,000 sq ft space cleaned five nights a week, a base of $8,768–$14,614 per month commonly becomes $9,937–$17,818 once high-touch EPA disinfection, crew vetting, after-hours premiums, and specialty event labor at $55–$95 per hour are included.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic late-night interior of a US shared office suite, a vetted cleaning technician wearing nitrile gloves and a visible ID badge on a lanyard disinfecting a phone booth door handle with a spray bottle and microfiber cloth, a tower HEPA air purifier glowing softly in a nearby conference room, keycard reader on the glass door, moody blue-hour light through windows, eye-level medium shot, no text, no logos, no watermarks",
+    "alt": "Badged cleaning technician disinfecting a coworking phone booth handle after hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What coworking space compliance fees actually pay for" },
+    { "type": "p", "text": "When an operator moves from a single-tenant office to a coworking model, the cleaning bid usually jumps more than the square footage alone would explain. The difference is not vendor greed; it is risk and labor structure. A coworking floor is effectively a semi-public space with many unrelated businesses storing laptops, client files, and personal items overnight. Members expect shared surfaces to be disinfected, not just wiped. Access runs 24/7 for premium tiers, so crews work around people at midnight. Each of those realities creates a line item, and the better vendors break them out instead of hiding them in a vague per-square-foot number." },
+    { "type": "h2", "text": "Line-item breakdown on a 5,000 sq ft coworking floor" },
+    { "type": "p", "text": "The base comes from the 2,500–9,999 sq ft bracket ($0.09–$0.15 per sq ft per visit) with the 0.90 weeknight multiplier, giving $405–$675 per visit across 21.65 visits per month. The added lines reflect typical bid structures we see from regional janitorial contractors serving flex-office operators." },
+    { "type": "table", "caption": "Typical compliance and disinfection add-ons, 5,000 sq ft coworking space at 5x/week", "headers": ["Line item", "How it is priced", "Monthly low", "Monthly high"], "rows": [
+      ["Base janitorial", "$0.081–$0.135 per sq ft per visit × 21.65", "$8,768", "$14,614"],
+      ["High-touch EPA disinfection (desks, booths, door pulls, kiosks)", "4–7% of base", "$351", "$1,023"],
+      ["Crew background screening and badging (amortized)", "Per-worker screening spread over 12 months", "$50", "$150"],
+      ["Night and weekend access premium", "5–10% of base", "$438", "$1,461"],
+      ["Event turnovers and specialty tasks", "6 hours × $55–$95 specialty rate", "$330", "$570"],
+      ["Subtotal before consumables", "", "$9,937 (+13%)", "$17,818 (+22%)"],
+      ["Consumables included (optional)", "$0.012–$0.025 per sq ft per visit", "$1,299", "$2,706"],
+      ["All-in monthly", "", "$11,236", "$20,524"]
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Disinfectant claims need an EPA registration number", "text": "If a vendor promises disinfection, ask for the EPA registration number of the product and its label dwell time. Quaternary ammonium products often need 3–10 minutes of visible wet contact; hydrogen peroxide products can be as short as 1–5 minutes. A spray-and-wipe in five seconds is cleaning, not disinfection, and should not be billed as a premium service." },
+    { "type": "h2", "text": "Background checks, badging, and member property risk" },
+    { "type": "p", "text": "Coworking operators typically require county and national criminal screening for every cleaner with keycard access, plus a signed confidentiality acknowledgment because crews work near client documents and whiteboards full of business plans. Screening commonly costs a vendor $35–$90 per worker, and with crew turnover in janitorial often exceeding 100% a year, that cost recurs. Expect $50–$150 a month amortized for a small crew. Ask that badges be issued per person, not shared, so your access logs actually identify who entered after hours." },
+    { "type": "ul", "items": [
+      "Certificate of insurance naming the operator and landlord as additional insureds, with at least $1 million general liability per occurrence.",
+      "Janitorial bond or third-party crime coverage protecting against theft of member property, often $25,000–$100,000 limits for flex operators.",
+      "Workers compensation and employer liability; never accept a 1099 crew with no coverage working on a lease you signed.",
+      "Written key and badge control procedure, including same-day deactivation when a cleaner leaves the vendor."
+    ] },
+    { "type": "h2", "text": "OSHA, HazCom, and green chemical expectations" },
+    { "type": "p", "text": "Vendors whose crews may respond to blood or vomit need an OSHA bloodborne pathogens program under 29 CFR 1910.1030, which includes training, PPE, and offering hepatitis B vaccination. Every chemical on the cart needs a safety data sheet and HazCom training under 29 CFR 1910.1200. Many coworking brands also market sustainability, so members and enterprise tenants increasingly ask for Green Seal GS-37 or EPA Safer Choice certified cleaners for daily work, reserving registered disinfectants for restrooms and high-touch points. Green programs rarely add more than 1–3% to chemical cost, but they do require the vendor to stock two product lines and train crews to keep them separate." },
+    { "type": "h2", "text": "Indoor air quality as a member-facing deliverable" },
+    { "type": "p", "text": "Enterprise members who lease private suites inside coworking buildings often ask about air quality. Portable HEPA units have become a common amenity in conference rooms and private offices, and someone has to wipe them, check filter indicators, and log filter replacements. Units such as the Medify MA-50 with True HEPA H13 filtration rated for about 1,100 sq ft per cycle, the Winix 5500-2 with washable AOC carbon sized for roughly 360 sq ft offices, and the Alen BreatheSmart 75i with a laser particle sensor and roughly 1,300 sq ft coverage each have different filter cadences. Adding a monthly purifier service line, usually 5–10 minutes per unit, keeps the work visible and prevents filters from silently clogging." },
+    { "type": "h2", "text": "How to keep the compliance premium honest" },
+    { "type": "steps", "items": [
+      { "name": "Require itemized compliance lines", "text": "Ask each bidder to list disinfection, vetting, after-hours, and specialty labor separately. A single blended rate makes it impossible to tell whether you are paying for disinfection that never happens." },
+      { "name": "Verify products and dwell times", "text": "Collect product names, EPA registration numbers, and SDS sheets. Spot-check that crews leave surfaces visibly wet for the labeled contact time." },
+      { "name": "Right-size access windows", "text": "If only 5% of members use the space after 10 p.m., schedule cleaning 7 p.m. to 11 p.m. and avoid paying an overnight premium for a 2 a.m. shift that serves nobody." },
+      { "name": "Benchmark against standard office cost", "text": "Run the same square footage as a standard office in the calculator, then confirm the coworking bid premium falls in the 13–22% range before consumables. Premiums above 30% deserve a detailed justification." }
+    ] },
+    { "type": "cta", "text": "Model your coworking base rate in the Office Cleaning Cost Calculator, then compare each vendor's compliance and disinfection lines side by side in the Quote Comparator before you sign." }
+  ],
+  "faqs": [
+    { "q": "Is it normal for a coworking cleaning bid to be 20% higher than a regular office?", "a": "Yes. Disinfection of shared desks and booths, crew vetting for 24/7 access, night premiums, and event turnovers typically add 13–22% before consumables. Bids above about 30% over a standard office quote should come with a clear task-level justification." },
+    { "q": "What is the difference between cleaning and disinfecting in a janitorial contract?", "a": "Cleaning removes soil; disinfecting uses an EPA-registered product left wet for the labeled dwell time to kill listed pathogens. Contracts should name the product, its registration number, and the surfaces where disinfection is required so the premium is tied to a verifiable practice." },
+    { "q": "Do coworking cleaners need background checks?", "a": "There is no federal mandate, but most operators and landlords require criminal screening for anyone with after-hours keycard access because crews work around member laptops and confidential materials. Require the vendor to certify screening for each badged worker and to deactivate badges the same day a worker leaves." },
+    { "q": "Who pays for compliance documentation like COIs and SDS binders?", "a": "The vendor carries the cost of insurance, safety programs, and SDS management, and it is built into their rates. Your job is to collect an updated certificate of insurance annually, confirm additional insured wording, and verify that SDS sheets are accessible on site for every product used." },
+    { "q": "How is a night premium usually calculated?", "a": "Most vendors express it as 5–10% of base, or as a shift differential of a few dollars per labor hour. At five nights a week on a 5,000 sq ft space, that is roughly $438–$1,461 per month. Narrowing the cleaning window to early evening can remove much of it." }
+  ],
+  "amazonProductIds": [
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/bank-branch-cleaning-cost/",
+    "/facility-cleaning-costs/bank-branch-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/bank-branch-disinfection-and-compliance-pricing/",
+    "/janitorial-carts-mops-and-tools/best-scour-pads-for-office-breakroom-sinks/"
+  ]
+}

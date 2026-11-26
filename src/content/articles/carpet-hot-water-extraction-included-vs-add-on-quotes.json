@@ -1,0 +1,79 @@
+{
+  "slug": "carpet-hot-water-extraction-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/carpet-hot-water-extraction-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge carpet hot water extraction",
+  "title": "Is Commercial Carpet Hot-Water Extraction Included in Standard Cleaning or Billed Extra?",
+  "seoTitle": "Extra Charge for Carpet Hot-Water Extraction? Included vs Add-On Quotes",
+  "metaDescription": "Extra charge for carpet hot-water extraction? Audit whether it's in your base retainer ($0.03-$0.06/sq ft/mo amortized) or a work order. Compare quotes.",
+  "excerpt": "Standard janitorial contracts almost never include restorative carpet extraction unless the scope says so explicitly. This audit guide shows how to read the scope, spot buried exclusions, and decide whether to fold extraction into the retainer or buy it as a project.",
+  "quickAnswer": "In most US janitorial contracts, nightly or weekly service covers vacuuming and spot cleaning only, and hot-water extraction is billed extra as a project work order at roughly $0.12-$0.40 per sq ft per event depending on size. Some vendors fold a quarterly program into the base retainer, typically adding $0.03-$0.06 per sq ft per month, which is only a good deal if the contract names the frequency, zones, and square footage.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a US facility manager's desk in a carpeted office with a printed janitorial service contract, a highlighter, and a tablet showing a floor plan, while a utility cart with color-coded microfiber cloths and a stainless steel open-top bin sits in soft focus behind, late afternoon window light, shallow depth of field, no readable text, no logos, no watermarks",
+    "alt": "Facility manager reviewing a janitorial contract scope beside a cleaning cart in a carpeted office"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What standard janitorial scope actually covers on carpet" },
+    { "type": "p", "text": "A typical office cleaning scope of work lists carpet tasks such as vacuum traffic areas nightly, vacuum all carpet weekly, edge and detail monthly, and spot clean as needed. Spot cleaning means treating visible spills with a spotter and towel, not running an extractor. Hot-water extraction requires different equipment, a trained technician, drying time, and often a second visit window, so most vendors carve it out of the base price and quote it separately." },
+    { "type": "p", "text": "Problems arise because sales proposals sometimes use loose language such as carpet care included or floor maintenance program. Unless the document specifies hot-water extraction, frequency, zones, and square footage, assume it is excluded. We regularly see buyers who believed they had quarterly extraction in a $0.11 per sq ft monthly contract discover at renewal that it was never priced." },
+    { "type": "h2", "text": "Three common contract structures compared" },
+    {
+      "type": "table",
+      "caption": "How vendors package carpet hot-water extraction (10,000 sq ft office, quarterly frequency)",
+      "headers": ["Structure", "How it is billed", "Typical cost", "Best for", "Main risk"],
+      "rows": [
+        ["Excluded, quoted per project", "Separate work order each event", "$0.12 - $0.20 per sq ft per event, $1,200 - $2,000", "Offices needing 1-2 events per year", "Easy to defer and let carpet decline"],
+        ["Bundled into retainer", "Amortized into monthly base", "+$0.03 - $0.06 per sq ft per month, $300 - $600 per month", "Steady quarterly programs", "Paying for events that never happen"],
+        ["Hybrid allowance", "Retainer includes set sq ft per year, overage billed", "Allowance of 20,000 sq ft per year, overage $0.14 - $0.22", "Mixed traffic, zone programs", "Disputes over measured area"],
+        ["Time and materials", "Specialty hourly rate plus chemicals", "$55 - $95 per technician hour", "Irregular spills, flood response", "Open-ended labor hours"]
+      ]
+    },
+    { "type": "callout", "variant": "warning", "title": "The bundled retainer trap", "text": "If extraction is amortized into your monthly fee but the contract does not list dates or require a completion log, you have no way to prove events were skipped. Require a signed service ticket with date, zones, and square footage for every event, and a credit clause for missed events." },
+    { "type": "h2", "text": "Contract audit checklist" },
+    { "type": "steps", "items": [
+      { "name": "Search the scope for exact method names", "text": "Look for hot-water extraction, truck-mount, or restorative cleaning. Phrases such as carpet maintenance or periodic floor care usually mean vacuuming and spotting only." },
+      { "name": "Check the exclusions schedule", "text": "Many contracts include an exhibit listing excluded services: carpet extraction, VCT strip and recoat, high dusting, window washing. Excluded items are billed at the project rate sheet." },
+      { "name": "Find the project rate sheet", "text": "Good contracts attach pricing for add-on services. Confirm the extraction rate per sq ft, the project minimum, and whether furniture moving and after-hours premiums are extra." },
+      { "name": "Confirm measured area", "text": "Ask whether pricing uses carpeted area or total rentable area. The difference in a typical office can be 20-30%." },
+      { "name": "Match the frequency to an invoice trail", "text": "If extraction is bundled, request the last 12 months of service tickets. If none exist, negotiate a credit or restructure as project billing." }
+    ] },
+    { "type": "h2", "text": "When bundling into the base retainer makes sense" },
+    { "type": "p", "text": "Bundling works when your traffic justifies a predictable schedule and you want a flat monthly budget. A 10,000 sq ft office extracted quarterly at $0.18 per sq ft spends $7,200 per year. Spread over twelve months that is $600 per month, or $0.06 per sq ft per month, the top of our amortized benchmark. If your routine janitorial fee is $0.10 per sq ft per visit at 2x per week, that is about 8.66 visits per month and $8,660 per month, so extraction adds roughly 7% to the monthly invoice." },
+    { "type": "p", "text": "Bundling also simplifies access logistics. The nightly contractor already holds keys, alarm codes, and an approved COI, so extraction can run on a regular service night without a second vendor onboarding. The tradeoff is negotiating leverage: once extraction is buried in the retainer, it is harder to rebid it independently against specialist carpet firms that may price large floors at $0.10-$0.12 per sq ft." },
+    { "type": "h2", "text": "When project work orders are smarter" },
+    { "type": "ul", "items": [
+      "Your space is small and needs only one or two extractions per year; project minimums are easier to manage than a monthly amortization.",
+      "Your janitorial vendor uses portable units only and a specialist with a truck-mount can deliver better results on a large floor.",
+      "Your lease has a carpet replacement planned within 18 months, making heavy restorative investment wasteful.",
+      "You want to compare specialist bids each year on the exact same measured area.",
+      "Your budget is approved quarterly and capital-like project spending is easier to justify than a higher base fee."
+    ] },
+    { "type": "p", "text": "Whichever structure you pick, check the logistics language. Extraction crews need staging space for hoses, a place to wring and dump gray water, and a cart to move chairs and bins. Vendors who arrive with a 3-shelf structural foam utility cart rated around 500 lb and a full color-coded microfiber system (red for restrooms, yellow for glass, blue for general surfaces, green for kitchens) tend to run a tighter, cross-contamination-aware operation. Note also where trash receptacles sit: heavy-base stainless open cans near break rooms are often moved during extraction and should be returned to dry floor on protective tabs so metal does not rust-stain damp carpet." },
+    { "type": "callout", "variant": "compliance", "title": "Insurance and chemical documentation for add-on work", "text": "If a specialist carpet firm performs extraction outside your janitorial contract, it needs its own certificate of insurance naming you and your landlord, and must supply Safety Data Sheets for every chemical under OSHA Hazard Communication rules. Do not assume your janitorial vendor's COI covers its subcontractors." },
+    { "type": "cta", "text": "Use the Quote Comparator to normalize bundled and project-billed proposals into the same monthly per-sq-ft figure, then check the result against the Office Cleaning Cost Calculator's deep floor care benchmark." }
+  ],
+  "faqs": [
+    { "q": "Does spot cleaning in my janitorial contract include extraction?", "a": "Usually not. Spot cleaning means treating individual stains with a spotter and blotting, sometimes with a small handheld extractor on a specific spill. Restorative hot-water extraction of traffic lanes or whole floors is almost always a separate line item unless the scope explicitly names it with a frequency." },
+    { "q": "How do I compare a bundled retainer against a per-project quote?", "a": "Convert both to annual cost. Multiply the per-event project price by events per year, then compare it to the monthly bundled increase times 12. For weekly comparison, divide monthly figures by 4.333. Also price in the cost of missed events in a bundle and the project minimums or after-hours premiums on standalone work orders." },
+    { "q": "Can my vendor charge extra for furniture moving during extraction?", "a": "Yes, and many do. Contracts commonly include moving chairs, bins, and light items but exclude desks, file cabinets, and filled bookcases. Expect $55-$95 per technician hour or a flat 10-20% surcharge for heavy furniture moves. Get the policy in writing before the event so the invoice does not surprise you." },
+    { "q": "Should extraction products be Green Seal certified?", "a": "It is a sensible requirement, especially in occupied buildings or LEED and green cleaning programs. Ask for pre-sprays and rinses certified to Green Seal GS-37 or EPA Safer Choice and low-residue formulations, which also resoil more slowly. Request Safety Data Sheets in advance to satisfy OSHA Hazard Communication requirements." },
+    { "q": "What should a missed-event credit clause say?", "a": "It should state that if a scheduled extraction is not completed within a defined window, often 14 or 30 days, the client receives a credit equal to the amortized value of that event or the published project rate times the scheduled square footage. Tie it to signed service tickets so both parties can verify completion." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-utility-service-cart-3-shelf",
+    "microfiber-wholesale-16x16-commercial-cleaning-cloths-150-pack-c",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-carpet-hot-water-extraction-quotes/",
+    "/cleaning-services-and-tasks/carpet-low-moisture-encapsulation-cost-guide/",
+    "/cleaning-services-and-tasks/carpet-low-moisture-encapsulation-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/best-cordless-commercial-backpack-vacuums/"
+  ]
+}

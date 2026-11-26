@@ -1,0 +1,281 @@
+{
+  "slug": "in-house-janitor-vs-outsourced-cost-comparison-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/in-house-janitor-vs-outsourced-cost-comparison-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template janitor outsourced comparison",
+  "title": "Payroll & Capex Worksheet for In-House vs. Outsourced Janitor",
+  "seoTitle": "Payroll & Capex Worksheet: In-House vs. Outsourced Janitor Model",
+  "metaDescription": "Capex template janitor outsourced comparison worksheet: model W-2 FICA, workers' comp, and closet equipment against $0.07-$0.15/sq ft bids.",
+  "excerpt": "Use this spreadsheet-ready commercial janitorial payroll and capital expenditure (Capex) worksheet to compare an internal W-2 custodian against fixed-fee contractor bids. Includes line-item formulas for FICA, Class 9014 workers' comp, equipment amortization, and PTO backfill.",
+  "quickAnswer": "A complete payroll and capex template for an in-house vs. outsourced janitor comparison requires 14 distinct general ledger rows: 6 direct W-2 labor and statutory burden lines (base wages at 4.33 weeks/month, FICA 7.65%, FUTA/SUTA 1.75%, Class 9014 workers' comp 5.5%–8.5%, health/retirement benefits, and PTO/sick temp backfill), 4 capital equipment and chemical lines ($3,200–$6,800 initial capex amortized over 36 months plus $160–$280/mo in chemicals and liners), and 4 outsourced comparison lines (base per-sq-ft rate, restroom/breakroom add-ons, periodic floor care at $0.03–$0.06/sq ft/mo, and consumables pass-throughs).",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "High-angle editorial photograph of a Class A corporate facility manager desk and adjacent supply alcove featuring a discreet charcoal executive housekeeping caddy cart and brushed stainless steel open-top waste receptacle, clean daylight office lighting, sharp focus, zero text or brand logos",
+    "alt": "Corporate facility manager workspace with executive housekeeping cart and stainless steel waste receptacle"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Structure a CFO-Grade Capex Template for Janitor vs. Outsourced Comparison"
+    },
+    {
+      "type": "p",
+      "text": "When presenting a facility staffing recommendation to a corporate controller or real estate committee, informal estimates inevitably fail scrutiny. A defensible capex template janitor outsourced comparison must separate recurring operating expenses (Opex), amortized capital expenditures (Capex), and pass-through occupancy consumables while normalizing both options to a 4.33-week accounting month (52 weeks divided by 12 months)."
+    },
+    {
+      "type": "p",
+      "text": "Most internal budget drafts underestimate in-house custodial costs by 32% to 45% because they enter 160 monthly labor hours instead of 173.2 hours (40 hours/week x 4.33 weeks), omit the 11% to 15% of paid annual hours lost to holidays, vacation, and sick leave, and treat initial janitorial closet purchases as a sunk building setup expense rather than amortizing equipment replacement over a realistic 36-month commercial duty cycle."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Accounting Rule: Isolate Pass-Through Consumables from Labor Models",
+      "text": "Whether an in-house janitor stocks your restrooms or an outsourced contractor provides paper and soap under an all-inclusive addendum ($0.012 to $0.025 per sq ft per visit), employees consume the exact same volume of toilet tissue, hand towels, foaming soap, and can liners. Keep consumables in Section D of your worksheet so vendor supply markups (typically 15%–25%) can be evaluated separately from labor efficiency."
+    },
+    {
+      "type": "h2",
+      "text": "Master Line-Item Payroll & Capex Budget Worksheet (20,000 Sq Ft Reference Model)"
+    },
+    {
+      "type": "p",
+      "text": "The spreadsheet template below is pre-populated with a baseline 20,000-square-foot Class A office operating 5 days per week (21.65 visits per month), featuring mixed carpet and hard flooring (1.05x flooring multiplier), four multi-stall restrooms, two breakrooms, and interior conference glass. You can substitute your local prevailing wage and square footage into the formula column to generate your facility's exact variance."
+    },
+    {
+      "type": "table",
+      "caption": "Line-Item Annual & Monthly Budget Worksheet: 20,000 Sq Ft Office (5x/Week, 21.65 Visits/Month)",
+      "headers": [
+        "GL Code / Line Item",
+        "Worksheet Formula / Rate Basis",
+        "In-House W-2 Model (Monthly / Annual)",
+        "Outsourced Vendor Model (Monthly / Annual)"
+      ],
+      "rows": [
+        [
+          "A1. Base Hourly Payroll / Base Sq Ft Contract",
+          "W-2: 173.2 hrs x $21.00/hr | Vendor: 20k sq ft @ $0.085 x 0.90 freq",
+          "$3,637/mo ($43,646/yr)",
+          "$1,530/mo ($18,360/yr base)"
+        ],
+        [
+          "A2. Floor Type & Restroom Scope Adjustments",
+          "Mixed floor (1.05x) + 4 restrooms ($22/visit) + 2 breakrooms ($18/visit)",
+          "Included in W-2 shift capacity",
+          "$1,184/mo ($14,208/yr scope add)"
+        ],
+        [
+          "A3. Employer FICA (Social Security + Medicare)",
+          "7.65% of Gross W-2 Payroll (Lines A1 + A6 overtime)",
+          "$278/mo ($3,339/yr)",
+          "$0 (Vendor tax liability)"
+        ],
+        [
+          "A4. Federal & State Unemployment (FUTA / SUTA)",
+          "1.75% blended effective wage base rate",
+          "$64/mo ($764/yr)",
+          "$0 (Vendor tax liability)"
+        ],
+        [
+          "A5. Workers' Comp Insurance (Class Code 9014)",
+          "$6.40 per $100 of custodial payroll (6.4%)",
+          "$233/mo ($2,793/yr)",
+          "$0 (Verified via vendor COI)"
+        ],
+        [
+          "A6. Group Health, Dental & 401(k) Match",
+          "$625/mo employer medical contribution + 3% match ($109/mo)",
+          "$734/mo ($8,808/yr)",
+          "$0 (Vendor benefit plan)"
+        ],
+        [
+          "A7. PTO, Holiday & Sick Day Temp Backfill",
+          "24 days/yr (192 hrs) covered via temp agency @ $38.00/hr",
+          "$608/mo ($7,296/yr)",
+          "$0 (Vendor float crew included)"
+        ],
+        [
+          "B1. Capital Equipment Amortization (36-Mo Deprec.)",
+          "$5,400 initial fleet (2 vacuums, carts, bins, extractor) / 36 mos",
+          "$150/mo ($1,800/yr)",
+          "$0 (Vendor furnishes machines)"
+        ],
+        [
+          "B2. Equipment Repair, Bags, Filters & Belts",
+          "HEPA cartridges, vacuum bags, brush rolls, cord repairs",
+          "$55/mo ($660/yr)",
+          "$0 (Vendor maintenance)"
+        ],
+        [
+          "B3. Cleaning Chemicals, Microfiber & PPE",
+          "EPA/Green Seal concentrates, mop heads, nitrile gloves, bottles",
+          "$195/mo ($2,340/yr)",
+          "$0 (Included in vendor fee)"
+        ],
+        [
+          "C1. Quarterly Deep Floor Care Reserve",
+          "Carpet extraction & VCT scrub/recoat @ $0.04/sq ft/mo",
+          "$800/mo ($9,600/yr subcontracted)",
+          "$800/mo ($9,600/yr amortized add-on)"
+        ],
+        [
+          "C2. HR Recruiting, Background Checks & Mgmt Audit",
+          "Amortized turnover ($1,800/yr) + 4 hrs/mo mgr oversight @ $55/hr",
+          "$370/mo ($4,440/yr)",
+          "$82/mo ($988/yr for 1.5 hr QBR audit)"
+        ],
+        [
+          "D1. Restroom & Breakroom Paper/Soap Consumables",
+          "Pass-through: $0.016/sq ft/visit (or direct wholesale purchase)",
+          "$420/mo ($5,040/yr direct buy)",
+          "$450/mo ($5,400/yr vendor stocked)"
+        ],
+        [
+          "TOTAL FULLY LOADED BUDGET",
+          "Sum of Sections A + B + C + D",
+          "$7,544/mo ($90,526/yr)",
+          "$4,046/mo ($48,556/yr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Section B Deep Dive: Itemizing Your Janitorial Closet Capex Schedule"
+    },
+    {
+      "type": "p",
+      "text": "When building Section B (Capital Equipment Amortization) of your worksheet, facility managers must price commercial-duty tools rated for daily institutional service rather than light residential appliances that burn out within six months. Even if you select an outsourced contractor, many Class A corporate facilities choose to purchase their own front-of-house receptacles and daytime porter carts to preserve architectural aesthetics across lobbies, breakrooms, and executive corridors."
+    },
+    {
+      "type": "p",
+      "text": "For daytime touch-ups, conference room turns, and VIP tour readiness without exposing bulky utility barrels in tenant hallways, specify the Rubbermaid Commercial Executive Quick Cart Large, which combines a 60-pound load capacity, Teflon-coated fabric shell, quiet heavy-duty casters, and a stealth charcoal aesthetic with internal dividers for spray bottles and microfiber towels. In back-of-house janitor closets where a 44-gallon round barrel serves as the primary night-shift waste collector, snapping on the Rubbermaid Commercial Brute Rim Caddy Attachment adds 9 dedicated compartments and integrated tool clips for wet floor signs, trigger sprayers, and liner rolls directly onto the 44-gallon rim. For visible breakroom and restroom entryways, the Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can provides a brushed stainless steel body, ADA-friendly semi-round wall footprint, heavy weighted base, and lift-off lid for rapid liner swaps."
+    },
+    {
+      "type": "table",
+      "caption": "36-Month In-House Custodial Capital Equipment (Capex) Amortization Schedule",
+      "headers": [
+        "Equipment Category",
+        "Recommended Commercial Specification",
+        "Est. Unit Capex (Qty)",
+        "Monthly Amortized Cost (36 Mos)"
+      ],
+      "rows": [
+        [
+          "Primary & Backup HEPA Vacuums",
+          "10-qt commercial backpack vacuum + 14-in dual-motor upright",
+          "$1,450 (2 units)",
+          "$40.28 / mo"
+        ],
+        [
+          "Mobile Carts & Barrel Caddies",
+          "High-capacity janitor cart + Executive Quick Cart + Brute Rim Caddy",
+          "$820 (3 items)",
+          "$22.78 / mo"
+        ],
+        [
+          "Waste & Recycling Receptacles",
+          "44-gal vented utility barrels, 23-gal Slim Jims & 55L stainless cans",
+          "$1,380 (12–16 units)",
+          "$38.33 / mo"
+        ],
+        [
+          "Floor Care & Restroom Machines",
+          "Compact cordless restroom floor scrubber + microfiber flat mop system",
+          "$1,750 (1 kit)",
+          "$48.61 / mo"
+        ],
+        [
+          "Total 3-Year Capex Reserve",
+          "Full single-floor 15k–25k sq ft commercial equipment package",
+          "$5,400 total capex",
+          "$150.00 / mo"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Executive Decision Checklist: Auditing Your Worksheet Inputs"
+    },
+    {
+      "type": "p",
+      "text": "Before locking in your annual facilities operating budget, run your completed worksheet through these five procurement verification checks:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Verify the 4.333 weeks-per-month factor on all weekly labor and visit rows: A 5x/week cleaning schedule equals 21.65 visits per month, and a 3x/week schedule equals 13.0 visits per month.",
+        "Confirm NCCI Class Code 9014 with your corporate insurance broker: Never apply your clerical Class 8810 workers' compensation rate (0.15%) to an internal janitor whose statutory rate is 5.5% to 8.5%.",
+        "Price realistic PTO and sick-day backfill: An internal custodian receives 20 to 25 combined paid holidays, vacation days, and sick days per year—budget at least 160 to 192 hours of temporary agency or overtime coverage.",
+        "Separate quarterly floor restoration from nightly maintenance: Outsourced base rates ($0.07 to $0.12/sq ft for 10k–25k sq ft) cover daily vacuuming and damp mopping; budget $0.03 to $0.06/sq ft/month on Line C1 for quarterly carpet extraction and VCT scrubbing in both columns.",
+        "Audit interior glass and kitchen appliances: If your office has extensive glass conference partitions ($15–$35/visit) or requires daily microwave/refrigerator sanitation ($12–$25/visit), ensure those add-ons are explicitly listed in the outsourced scope column."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step Instructions to Run Your Worksheet Comparison"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Enter Your Base W-2 Wage and 4.33-Week Monthly Hours",
+          "text": "Multiply your weekly custodian hours by 4.333 weeks per month on Line A1 and apply your exact state SUTA and NCCI Class 9014 workers' compensation percentage on Lines A4 and A5."
+        },
+        {
+          "name": "Step 2: Calculate Your 22-to-25 Day Absence Backfill Reserve",
+          "text": "Multiply total paid holidays, vacation days, and sick days by your local temporary staffing agency hourly rate on Line A7 so uninterrupted coverage is priced fairly against a contractor's guaranteed float pool."
+        },
+        {
+          "name": "Step 3: Amortize Your 36-Month Equipment Package on Line B1",
+          "text": "Sum the commercial price of your HEPA vacuums, housekeeping carts, Brute barrels, and floor machines, then divide by 36 months and add monthly chemical and filter consumables."
+        },
+        {
+          "name": "Step 4: Benchmark Against Three Normalized Contractor Proposals",
+          "text": "Insert the per-square-foot base rate, frequency multiplier, and restroom/breakroom scope add-ons from three local janitorial bids on Lines A1 and A2, keeping paper consumables isolated on Line D1."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "How to Negotiate Consumables Using Section D of Your Worksheet",
+      "text": "Ask every bidding janitorial contractor to quote paper products, hand soap, and trash liners as an optional separate line item (typically $0.012 to $0.025/sq ft/visit) rather than bundling them into the base labor fee. Often, you can purchase wholesale cases through your corporate office supplier, store them in your locked closet, and have the outsourced crew restock dispensers at zero markup."
+    },
+    {
+      "type": "cta",
+      "text": "Skip the manual spreadsheet formulas—plug your square footage, flooring mix, restroom count, and frequency into our interactive Office Cleaning Cost Calculator & Quote Comparator to generate an instant budget breakdown."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why should capital equipment be amortized over 36 months in a janitorial budget worksheet?",
+      "a": "Under daily commercial use (5 nights per week, 260 shifts per year), commercial backpack vacuums, battery floor scrubbers, and mobile carts experience brush-motor, battery, and caster wear that typically requires overhaul or replacement every 3 years (780 operating shifts). A 36-month straight-line amortization accurately reflects ongoing capital replacement rather than treating year-one purchases as a one-time expense."
+    },
+    {
+      "q": "How do I calculate the PTO and sick absence backfill line item for an in-house custodian?",
+      "a": "Sum your company's paid federal holidays (typically 10 days), paid vacation accrual (10 to 15 days), and paid sick leave (5 to 7 days). Multiply total absent days (e.g., 24 days x 8 hours = 192 hours) by the local temporary janitorial staffing agency billing rate ($35 to $45/hr) or internal overtime coverage rate (1.5x loaded W-2 wage), then divide by 12 to find the monthly reserve."
+    },
+    {
+      "q": "What is the standard outsourced cost per visit for breakroom and interior glass add-ons?",
+      "a": "In US commercial janitorial contracts, detailed breakroom and kitchenette sanitation (countertops, sink, microwave interior/exterior, refrigerator exterior, and cabinet pulls) adds $12 to $25 per visit, while streak-free interior glass cleaning for entry doors, sidelights, and conference room partitions adds $15 to $35 per visit."
+    },
+    {
+      "q": "How does OSHA HazCom compliance affect the in-house vs. outsourced budget worksheet?",
+      "a": "Under OSHA Hazard Communication Standard (29 CFR 1910.1200) and Bloodborne Pathogens Standard (29 CFR 1910.1030), employers with in-house custodians must maintain current Safety Data Sheet (SDS) binders, secondary container GHS labels, eye-wash stations, sharps/biohazard spill kits, and annual documented employee training. Outsourced vendors absorb these compliance and PPE expenses inside their contract rate."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/break-even-square-footage-for-in-house-cleaner/",
+    "/in-house-vs-outsourced-cleaning/break-even-square-footage-for-in-house-cleaner-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/break-even-square-footage-for-in-house-cleaner-budget-worksheet/",
+    "/commercial-vacuums-and-floor-machines/rubbermaid-421288-vs-bissell-bg23-sweeper/"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "slug": "carpet-hot-water-extraction-for-small-vs-large-offices",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/carpet-hot-water-extraction-for-small-vs-large-offices/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "small vs large carpet hot water extraction volume",
+  "title": "Commercial Carpet Hot-Water Extraction Pricing: Small Suites vs. Large Floors",
+  "seoTitle": "Small vs Large Carpet Hot-Water Extraction: Volume Pricing per Sq Ft",
+  "metaDescription": "Small vs large carpet hot-water extraction: why 2,000 sq ft suites pay $0.22-$0.40/sq ft while 25,000+ sq ft floors pay $0.09-$0.16. Run your numbers.",
+  "excerpt": "Hot-water extraction unit prices fall by more than half as carpeted area grows from a 2,000 sq ft suite to a 25,000+ sq ft floor plate. This guide shows where the volume savings come from, where they stop, and how to structure a quote at either end of the scale.",
+  "quickAnswer": "Expect roughly $0.22-$0.40 per sq ft per extraction event for suites under 2,500 sq ft, usually with a $250-$400 project minimum, versus $0.09-$0.16 per sq ft for carpeted areas above 25,000 sq ft. The gap comes from fixed mobilization (truck, hoses, crew travel, setup and teardown) being spread over far more square footage, plus faster truck-mounted production rates on open floor plates.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a two-person janitorial crew running truck-mount hot-water extraction wands across a large open-plan US office floor with gray carpet tiles at night, hoses snaking from a freight elevator lobby, warm overhead pendant lighting, low camera angle at carpet level showing steam and wet-to-dry contrast, no text, no logos, no watermarks",
+    "alt": "Two technicians performing hot-water carpet extraction across a large open-plan office floor at night"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why a 2,000 sq ft suite pays more per square foot than a full floor" },
+    { "type": "p", "text": "Hot-water extraction is a project service, not a routine janitorial task. Every job carries the same fixed costs regardless of size: loading the van or truck-mount unit, driving to site, parking and badging in, running hose from the street or loading dock, pre-vacuuming, pre-spraying, rinsing, setting air movers, and packing out. On a small suite those fixed hours can represent 40-60% of the labor on the ticket. On a 30,000 sq ft floor they shrink to 10-15%, because the crew spends most of its shift actually moving a wand." },
+    { "type": "p", "text": "Production rate is the second driver. A portable extractor in a cut-up suite with private offices typically covers 400-700 sq ft per hour per technician. A truck-mount on an open floor plate with cubicle aisles can push 1,000-1,500 sq ft per hour. Billed at specialty labor rates of $55-$95 per hour, that productivity spread alone moves the unit price by $0.04-$0.08 per sq ft before mobilization is even counted." },
+    { "type": "h2", "text": "Benchmark unit pricing by carpeted area" },
+    { "type": "p", "text": "The table below uses the same size brackets our calculator applies to routine cleaning, translated into per-event extraction pricing. The large-floor range lines up with the $0.03-$0.06 per sq ft per month we use for an amortized quarterly deep floor program, since three months of amortization equals $0.09-$0.18 per event." },
+    {
+      "type": "table",
+      "caption": "National per-event hot-water extraction benchmarks by carpeted square footage (USD)",
+      "headers": ["Carpeted area", "Typical $/sq ft per event", "Example job size", "Example invoice range", "Dominant method"],
+      "rows": [
+        ["Under 2,500 sq ft", "$0.22 - $0.40 (min. $250-$400)", "1,800 sq ft", "$400 - $720", "Portable extractor"],
+        ["2,500 - 9,999 sq ft", "$0.16 - $0.28", "6,000 sq ft", "$960 - $1,680", "Portable or truck-mount"],
+        ["10,000 - 24,999 sq ft", "$0.12 - $0.20", "15,000 sq ft", "$1,800 - $3,000", "Truck-mount"],
+        ["25,000+ sq ft", "$0.09 - $0.16", "40,000 sq ft", "$3,600 - $6,400", "Truck-mount, multi-crew"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "The minimum charge is the real price for tiny suites", "text": "Below roughly 1,200 sq ft, most vendors simply bill their project minimum. A 900 sq ft dental front office quoted at $0.30 per sq ft would be $270, but if the vendor minimum is $350, you pay $350, an effective rate near $0.39 per sq ft. Ask for the minimum in writing before comparing unit rates." },
+    { "type": "h2", "text": "Where economies of scale flatten out" },
+    { "type": "p", "text": "Volume discounts are not linear forever. Once a building passes roughly 60,000-80,000 carpeted sq ft, the vendor needs multiple crews, multiple nights, and sometimes a second truck-mount. Each added night carries its own mobilization, and hose runs beyond 250-300 feet from the truck lose heat and pressure, forcing either portable units on upper floors or repositioning the truck. That is why a 120,000 sq ft multi-tenant tower rarely beats about $0.08 per sq ft even when the property manager bundles every floor." },
+    { "type": "p", "text": "Layout matters as much as total area. A 12,000 sq ft law firm with 40 private offices, file rooms, and built-in credenzas behaves more like a cluster of small suites than a single large floor. Conversely, a 9,000 sq ft open call center with low-profile benching can be priced near the 10,000-24,999 bracket because the wand never stops moving." },
+    { "type": "ul", "items": [
+      "Open plan with benching or cubicles on legs: rates trend toward the low end of each bracket.",
+      "Private offices with heavy wood desks and credenzas: add 10-20% for detailing and furniture work.",
+      "Upper floors without freight elevator access: expect portable equipment and a 10-15% production penalty.",
+      "Multiple non-contiguous suites in one building: each suite may trigger setup time even on one ticket.",
+      "Night-only access windows under four hours: fewer productive hours per mobilization raise the unit rate."
+    ] },
+    { "type": "h2", "text": "Worked example: one vendor, two clients" },
+    { "type": "p", "text": "Consider a vendor charging $75 per technician hour with $180 of fixed mobilization per job (truck operating cost, travel, setup and teardown). Client A is a 2,000 sq ft insurance agency with six private offices; two technicians at 550 sq ft per hour each finish in about 1.8 hours. Labor is roughly $270, mobilization $180, chemicals about $30, for a cost near $480 and an effective $0.24 per sq ft before margin. With a 25% margin the quote lands near $0.30 per sq ft." },
+    { "type": "p", "text": "Client B is a 30,000 sq ft open-plan engineering floor. Three technicians on a truck-mount average 1,200 sq ft per hour each, finishing in about 8.3 hours. Labor runs roughly $1,875, mobilization is still about $180 (perhaps $300 with a longer hose run), chemicals near $300. Total cost near $2,475, or $0.083 per sq ft, and the marked-up quote comes in around $0.11 per sq ft. Same vendor, same chemistry, same hourly rate, yet a unit price nearly three times lower." },
+    { "type": "h2", "text": "How small offices can capture some large-floor pricing" },
+    { "type": "steps", "items": [
+      { "name": "Pool with neighboring tenants", "text": "Ask the property manager whether other tenants on your floor want extraction the same night. One mobilization across three suites can pull a 2,000 sq ft tenant from $0.32 toward $0.20 per sq ft." },
+      { "name": "Extract traffic lanes only", "text": "In many small offices 40-50% of carpet sits under desks and rarely soils. Restorative extraction of entries, corridors, and the break area, with lighter interim care elsewhere, cuts billed area substantially." },
+      { "name": "Bundle with your janitorial contract", "text": "If your nightly vendor already has keys, alarm codes, and a COI on file, adding extraction to their scope removes a separate trip and badging overhead." },
+      { "name": "Commit to an annual schedule", "text": "Vendors discount two or more booked events per year because they can route them alongside other jobs in your area." },
+      { "name": "Clear the floor yourself", "text": "Having staff lift chair mats, bins, and under-desk boxes the afternoon before reduces billable furniture time, which on small jobs can be a quarter of the labor." }
+    ] },
+    { "type": "h2", "text": "What large-floor buyers should still watch" },
+    { "type": "p", "text": "Big buildings get the low unit rate, but they also attract scope creep. Confirm whether the per-sq-ft rate applies to measured carpeted area or gross rentable area, since gross figures can include core restrooms, stairwells, and hard-floor lobbies that are not being extracted. Ask for a floor-by-floor area takeoff and spot-check one floor against your CAD drawings. Also confirm drying time commitments: large truck-mount jobs should leave carpet dry to touch within 6-8 hours with air movers, so a Friday night job is not still damp on Monday morning in a humid stairwell core." },
+    { "type": "p", "text": "Daily dry soil control determines how much extraction you really need. Facility teams that run a quiet executive sweeper in conference rooms during the day and keep hard-floor scrubbing separate from carpet zones tend to stretch extraction intervals. Compact tools such as a 6.5-inch quiet manual sweeper with soft blades and a bumper guard handle crumbs between meetings, while a 17-inch cordless auto-scrubber with quick-dry performance keeps hard-floor slurry from being tracked onto carpet edges. For small suites with VCT break rooms, a 12-inch twin-brush polisher on a 50 ft cord is often enough to keep hard surfaces from feeding soil into the carpet." },
+    { "type": "cta", "text": "Plug your carpeted square footage, layout, and visit frequency into the Office Cleaning Cost Calculator to see whether your extraction quote sits inside the national bracket, then load competing bids into the Quote Comparator to compare effective per-sq-ft rates after minimums." }
+  ],
+  "faqs": [
+    { "q": "Is a 2,000 sq ft office ever priced at large-floor extraction rates?", "a": "Rarely on a standalone basis, because mobilization dominates small jobs. It happens when the suite is pooled with other tenants the same night, when the work is added to an existing janitorial contractor's route, or when the space is fully open plan with almost no furniture moves. Even then, expect about $0.18-$0.22 per sq ft rather than the $0.09-$0.16 range a 25,000+ sq ft floor earns." },
+    { "q": "Should the extraction vendor carry separate insurance from my janitorial company?", "a": "Yes. Request a certificate of insurance naming your company and landlord as additional insureds, with general liability limits matching your lease (commonly $1 million per occurrence and $2 million aggregate) and workers compensation. Truck-mount jobs also involve vehicles parked on the property and hoses through fire doors, so confirm auto liability coverage and that the crew will not prop open rated doors without landlord approval." },
+    { "q": "How do I convert a per-event price into a monthly budget line?", "a": "Multiply the per-event price by events per year and divide by 12. A 15,000 sq ft floor at $0.15 per sq ft extracted quarterly costs $2,250 per event, $9,000 per year, or $750 per month, which is $0.05 per sq ft per month and sits inside our $0.03-$0.06 amortized deep floor benchmark. If you prefer to compare against weekly janitorial visits, divide by 4.333 weeks per month." },
+    { "q": "Are there chemical safety requirements for extraction crews in an occupied building?", "a": "OSHA's Hazard Communication Standard requires the vendor to have Safety Data Sheets for every pre-spray, rinse, and spotter on site and to train technicians on them. Ask for the SDS packet in advance if you have staff with sensitivities, and request Green Seal or EPA Safer Choice certified pre-sprays where available. Bloodborne pathogen training matters if the crew will treat bodily fluid spots in clinics or restrooms adjacent to carpet." },
+    { "q": "Does a large building need to extract every square foot every time?", "a": "No. Most large-floor programs extract high-traffic lanes, entries, elevator lobbies, and break areas quarterly while extracting low-traffic private offices once or twice a year. A tiered map can drop total annual extracted area by 30-40% while keeping visible soil under control, which often matters more to the budget than squeezing another cent off the unit rate." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-421588-executive-floor-sweeper",
+    "hoover-commercial-40v-cordless-task-floor-scrubber",
+    "koblenz-p-4000-b-heavy-duty-commercial-floor-polisher"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-carpet-hot-water-extraction/",
+    "/cleaning-services-and-tasks/carpet-hot-water-extraction-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-carpet-hot-water-extraction-quotes/",
+    "/commercial-cleaning-chemicals-and-mats/best-all-in-one-commercial-supply-closet-starter-kit/"
+  ]
+}

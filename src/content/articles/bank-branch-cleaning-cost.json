@@ -1,0 +1,72 @@
+{
+  "slug": "bank-branch-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/bank-branch-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "bank branch rates",
+  "title": "Bank Branch Rates: Monthly Janitorial Spend Benchmarks for Bank Branches and Credit Unions",
+  "seoTitle": "Bank Branch Rates: Monthly Janitorial Benchmarks for Credit Unions",
+  "metaDescription": "Bank branch rates for cleaning: a 3,500 sq ft branch runs about $3,890–$10,230/mo by frequency. See lobby and restroom math, then run our calculator.",
+  "excerpt": "Bank branches and credit unions are small footprints with outsized expectations: the lobby is the brand, and security rules shape every cleaning visit. This guide gives per-sq-ft and monthly benchmarks by branch format, plus how restroom count, stone lobby floors, and frequency move the total.",
+  "quickAnswer": "A typical 3,500 sq ft bank or credit union branch pays $0.081–$0.143 per sq ft per visit for janitorial service, or roughly $3,890–$6,484 per month at three visits a week and $6,138–$10,230 per month at five weeknight visits. Small drive-up or in-store branches often hit the $90–$135 per-visit minimum, while tile or stone lobbies add about 12% to the base.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-morning view of a suburban US bank branch lobby before opening, a janitor in a gray uniform dust-mopping a polished porcelain tile floor in front of an empty teller line with privacy partitions, ATM vestibule glass doors in the background, soft natural light through tall front windows, symmetrical wide shot from the entrance, no text, no logos, no watermarks",
+    "alt": "Janitor dust-mopping a tiled bank branch lobby in front of an empty teller line"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How bank branch rates differ from ordinary small offices" },
+    { "type": "p", "text": "On paper a bank branch looks like an easy account: 2,000 to 5,000 sq ft, a lobby, a teller line, a handful of offices, two restrooms, and a break room. In practice it prices closer to a premium retail store. The lobby is a customer-facing space judged on fingerprints, streaks, and floor shine every morning. The ATM vestibule may be open around the clock and collects grime, receipts, and weather. Security procedures mean crews arrive in a narrow window, often with an employee present, and cannot enter the vault, cash room, or teller drawers. Those constraints keep bank branch rates in the upper half of the small-building brackets." },
+    { "type": "p", "text": "Our national benchmarks use the standard size brackets: under 2,500 sq ft at $0.12–$0.20 per sq ft per visit, and 2,500–9,999 sq ft at $0.09–$0.15. Frequency multipliers adjust those rates: 1.00 at twice weekly, 0.95 at three times weekly, 0.90 at five weeknights. Monthly totals use 4.33 weeks per month. The minimum charge of $90–$135 per visit protects vendors on very small sites." },
+    { "type": "h2", "text": "Monthly benchmarks by branch format" },
+    { "type": "table", "caption": "Bank and credit union base janitorial cost by format (national averages, carpet baseline)", "headers": ["Branch format", "Sq ft", "Frequency", "Rate per sq ft per visit", "Per visit", "Monthly total"], "rows": [
+      ["In-store or drive-up micro branch", "1,200", "2x/week (1.00)", "$0.12–$0.20", "$144–$240", "$1,247–$2,078"],
+      ["Compact credit union branch", "2,200", "3x/week (0.95)", "$0.114–$0.190", "$251–$418", "$3,260–$5,434"],
+      ["Standard community bank branch", "3,500", "3x/week (0.95)", "$0.086–$0.143", "$299–$499", "$3,890–$6,484"],
+      ["Standard community bank branch", "3,500", "5x/week (0.90)", "$0.081–$0.135", "$284–$473", "$6,138–$10,230"],
+      ["Regional flagship with lending floor", "12,000", "5x/week (0.90)", "$0.063–$0.108", "$756–$1,296", "$16,367–$28,058"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "The five-night question", "text": "Most banks open five or six days a week, but many compact branches do fine with three full cleanings plus a daily lobby touch-up by staff or a day porter. Moving a 3,500 sq ft branch from 5x to 3x weekly saves roughly $2,250–$3,750 per month, so test whether lobby appearance actually suffers before committing to nightly service." },
+    { "type": "h2", "text": "Restroom density and the customer restroom decision" },
+    { "type": "p", "text": "Most branches have two restrooms, and many keep them staff-only. Opening a restroom to customers changes both soil load and liability exposure. Budget $15–$30 per restroom per visit: two restrooms at five visits a week cost $650–$1,299 per month (2 × $15–$30 × 21.65), while the same pair at three visits a week costs $390–$780. A branch with a public restroom should plan on weeknight service, because a single overnight gap after a busy Friday payday is enough to generate complaints." },
+    { "type": "p", "text": "Dispensers matter more than people expect in a branch restroom, because staff have no time to chase supplies during a teller rush. A slim touchless towel unit such as the Georgia-Pacific enMotion Impulse 8-inch fits tight single-occupant restrooms and runs on four D-cell batteries, and a dual coreless tissue dispenser with a keyed lock and roughly 3,000-sheet capacity reduces refills to once or twice a week. A touch-free sanitizer station like the GOJO PURELL ES8, with its 1,200 mL refill and energy-on-the-refill design, belongs at the teller line and the ATM vestibule entry where customers handle pens and keypads." },
+    { "type": "h2", "text": "Lobby traffic wear and flooring multipliers" },
+    { "type": "p", "text": "Branch lobbies are frequently porcelain tile, stone, or terrazzo, chosen to project permanence. That flooring raises labor: tile and grout carry a 1.12 multiplier and hardwood 1.08 in our model, while mixed carpet and hard floor is 1.05. Applying the tile multiplier to a 3,500 sq ft branch at five weeknights lifts the base from $6,138–$10,230 to about $6,875–$11,458 per month. Mixed floors, more typical when offices are carpeted and only the lobby is tile, land around $6,445–$10,742." },
+    { "type": "ul", "items": [
+      "Entry walk-off mats at both the main door and the ATM vestibule cut tracked-in grit, which is the main cause of dull lobby tile.",
+      "A quarterly deep floor program at $0.03–$0.06 per sq ft per month ($105–$210 for 3,500 sq ft) covers tile scrubbing, grout cleaning, and carpet extraction in offices.",
+      "Winter salt and sand in northern markets may justify a mid-day lobby mop or a temporary bump to five visits a week from December through March.",
+      "Interior glass on teller partitions and office sidelights at $15–$35 per visit is worth adding weekly; fingerprinted glass reads as dirty to customers even when floors are perfect."
+    ] },
+    { "type": "h2", "text": "Choosing the right weekly frequency" },
+    { "type": "steps", "items": [
+      { "name": "Measure lobby transactions", "text": "Branches with heavy cash traffic, such as those near retail corridors or with check-cashing volume, need more frequent lobby and restroom attention than branches whose customers mostly visit for appointments." },
+      { "name": "Decide on customer restroom access", "text": "Public restrooms push you toward weeknight service; staff-only restrooms often work at three visits a week." },
+      { "name": "Factor the ATM vestibule", "text": "A 24-hour vestibule may need a separate daily or every-other-day touch-up even if the rest of the branch is on a 3x schedule; price it as its own line." },
+      { "name": "Pilot, then lock in", "text": "Run a 90-day pilot at the lower frequency with inspection scores, then sign the annual agreement once you know what the branch actually needs." }
+    ] },
+    { "type": "cta", "text": "Enter your branch square footage, lobby flooring, restroom count, and frequency into the Office Cleaning Cost Calculator, then use the Quote Comparator to line up vendor bids against these bank branch benchmarks." }
+  ],
+  "faqs": [
+    { "q": "What does it cost to clean a small bank branch each month?", "a": "A 2,200 sq ft credit union branch cleaned three times a week typically runs $3,260–$5,434 per month in base janitorial, using the under-2,500 sq ft bracket of $0.12–$0.20 per sq ft per visit with a 0.95 frequency multiplier. Restrooms, glass, and periodic floor care are added on top." },
+    { "q": "Why are bank branch cleaning rates higher per square foot than large offices?", "a": "Small buildings carry fixed travel, setup, and supervision costs over fewer square feet, and branches add lobby appearance standards, ATM vestibules, and security procedures that slow crews down. That is why sub-5,000 sq ft branches price at $0.08–$0.20 per sq ft per visit while 25,000+ sq ft offices often fall to $0.05–$0.10." },
+    { "q": "How do vendors calculate monthly cost from weekly visits?", "a": "They multiply visits per week by 4.33, or 4.333 if they are precise. Five weeknights equals 21.65 visits per month and three visits equals 13. A quote that uses 4 weeks per month understates annual spend by about 8%." },
+    { "q": "Should our cleaning vendor clean the ATM?", "a": "Crews typically clean the ATM surround, screen, and keypad surface with a manufacturer-approved, non-abrasive product, but never open the machine or touch the cash or deposit modules. Spell out ATM surface cleaning in the scope and confirm the chemical with your ATM service provider." },
+    { "q": "What insurance should a bank cleaning contractor carry?", "a": "Require a certificate of insurance with at least $1 million general liability per occurrence naming the bank as additional insured, workers compensation, auto liability, and third-party crime or fidelity coverage. Many institutions also require a signed confidentiality agreement and proof of background screening for every assigned cleaner." }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser",
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser",
+    "gojo-purell-es8-touch-free-hand-sanitizer-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/bank-branch-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/bank-branch-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/financial-advisory-office-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-slim-recycling-stations-for-cubicle-corridors/"
+  ]
+}

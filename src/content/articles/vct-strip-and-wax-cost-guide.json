@@ -1,0 +1,111 @@
+{
+  "slug": "vct-strip-and-wax-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/vct-strip-and-wax-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "vct floor stripping and waxing unit price",
+  "title": "VCT Floor Stripping and Waxing Unit Price: Per-Sq-Ft, Hourly, and Minimum Charges in the US",
+  "seoTitle": "VCT Floor Stripping and Waxing Unit Price: Per Sq Ft & Hourly Rates",
+  "metaDescription": "VCT floor stripping and waxing unit price runs $0.25–$0.75/sq ft or $55–$95/hr, with $250–$500 minimums. Estimate your job in our cleaning cost calculator.",
+  "excerpt": "Office managers learn the national unit prices for VCT stripping and waxing, including per-square-foot, hourly, and minimum-charge structures. The guide explains what drives each number so you can sanity-check bids before approving a work order.",
+  "quickAnswer": "Nationally, VCT floor stripping and waxing typically costs $0.25–$0.75 per sq ft, with large open floors near the low end and small, cut-up suites near the high end. Vendors that bill hourly charge $55–$95 per technician hour, and most set a project minimum of $250–$500 regardless of square footage.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic US office break room and hallway with white-and-gray VCT tile, half the floor freshly stripped and dull, the other half glossy with new finish, a technician applying finish with a flat mop while a swing buffer rests nearby, early evening ambient light, low three-quarter camera angle, no text, no logos, no watermarks",
+    "alt": "Half-stripped and half-refinished VCT floor showing the contrast during a strip-and-wax job"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What a Strip-and-Wax Job Actually Includes" },
+    { "type": "p", "text": "Vinyl composition tile is porous and dull without a protective finish. A full strip and wax removes every layer of old acrylic finish down to bare tile, neutralizes the stripper residue, and lays down fresh coats of sealer and finish. It is the most labor-intensive routine hard-floor service an office buys, which is why unit prices run several times higher than daily janitorial rates of $0.07–$0.15 per sq ft per visit." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Clear and protect", "text": "Move chairs and light furniture, tape off carpet edges and baseboards, and post wet-floor signage." },
+        { "name": "Dust mop and apply stripper", "text": "Remove loose soil, then flood the floor with a diluted alkaline stripper and allow 8–15 minutes of dwell time." },
+        { "name": "Scrub", "text": "Run a low-speed swing machine at roughly 175 RPM with black stripping pads, or an auto-scrubber, and hand-scrape edges and corners." },
+        { "name": "Pick up slurry and rinse", "text": "Wet-vac the slurry, double rinse with clean water or a neutralizer, and verify no finish remains." },
+        { "name": "Seal and finish", "text": "Apply one sealer coat where required, then three to five thin coats of high-solids acrylic finish with 20–40 minutes of dry time between coats." },
+        { "name": "Cure and reset", "text": "Allow the finish to cure, often overnight before heavy traffic, then reset furniture." }
+      ]
+    },
+    { "type": "h2", "text": "National Unit Price Ranges" },
+    { "type": "p", "text": "The table below reflects common US bid ranges for professional VCT stripping and waxing in offices. Costs include labor, stripper, sealer, finish, pads, and equipment. They exclude major furniture moves, tile repair, and after-hours security fees." },
+    {
+      "type": "table",
+      "caption": "VCT stripping and waxing unit prices by job size (national, 2026)",
+      "headers": ["Job size", "Typical areas", "Price per sq ft", "Example job cost", "Notes"],
+      "rows": [
+        ["Under 1,000 sq ft", "Break room, small lobby", "Minimum applies", "$250–$500 flat", "Project minimum dominates"],
+        ["1,000–2,499 sq ft", "Suite corridors, kitchenettes", "$0.45–$0.75", "$450–$1,875", "High setup share"],
+        ["2,500–9,999 sq ft", "Full-floor corridors, medical suites", "$0.35–$0.55", "$875–$5,500", "Most common office range"],
+        ["10,000–24,999 sq ft", "Multi-floor common areas", "$0.28–$0.45", "$2,800–$11,250", "Crew of 3–4 per night"],
+        ["25,000+ sq ft", "Schools, warehouses with offices, large lobbies", "$0.25–$0.38", "$6,250+", "Auto-scrubbers, multi-night"]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Compare to scrub-and-recoat",
+      "text": "A scrub-and-recoat, which abrades only the top layer and adds one or two coats, usually runs $0.12–$0.25 per sq ft. National deep floor programs that combine periodic recoats with an annual strip amortize to about $0.03–$0.06 per sq ft per month."
+    },
+    { "type": "h2", "text": "Hourly Billing and How to Check It" },
+    { "type": "p", "text": "Some vendors, especially smaller floor-care specialists, bill time and materials. Specialty floor labor nationally runs $55–$95 per technician hour, compared with $35–$65 for standard janitorial labor. A trained two-person crew typically strips and refinishes 400–700 sq ft per crew hour on open VCT, dropping to 250–400 sq ft per hour in rooms with heavy furniture and many edges." },
+    { "type": "p", "text": "To check an hourly quote, divide the square footage by a realistic production rate, multiply by the hourly rate, and add materials. For a 3,000 sq ft corridor network: 3,000 divided by 500 sq ft per crew hour equals 6 crew hours, or 12 technician hours. At $65 per hour, labor is $780; add roughly $0.06–$0.10 per sq ft for chemicals and pads ($180–$300), and the job lands near $960–$1,080, or $0.32–$0.36 per sq ft. If an hourly bid implies far more hours, ask how they calculated production." },
+    {
+      "type": "table",
+      "caption": "Pricing structures vendors use for VCT strip and wax",
+      "headers": ["Structure", "Typical rate", "Best for", "Watch out for"],
+      "rows": [
+        ["Per sq ft", "$0.25–$0.75", "Defined areas with measured plans", "Inflated square footage, unmeasured closets"],
+        ["Hourly (T&M)", "$55–$95 per tech hour + materials", "Irregular spaces, small specialists", "Open-ended hours, slow crews"],
+        ["Flat project fee", "$250–$500 minimum, then quoted", "Break rooms, small lobbies", "No credit if area is smaller"],
+        ["Per room or fixture area", "$75–$200 per room", "Medical exam rooms, restrooms", "Inconsistent room sizes"]
+      ]
+    },
+    { "type": "h2", "text": "Factors That Push Price Up or Down" },
+    {
+      "type": "ul",
+      "items": [
+        "Finish build-up: floors with 10+ coats of old finish need a second stripper application and more scrubbing, adding 15%–30%.",
+        "Coat count: specifying five coats instead of three adds material and drying time, roughly $0.04–$0.08 per sq ft.",
+        "Furniture and obstacles: break rooms with tables, vending machines, and appliances slow production and require moving.",
+        "Edges and baseboards: narrow corridors and many door thresholds increase hand-detail labor.",
+        "Night or weekend timing: work that must avoid business hours may carry overtime or shift premiums.",
+        "Tile condition: loose, cracked, or lifting tiles should be replaced first; stripper can worsen adhesion problems."
+      ]
+    },
+    { "type": "h2", "text": "Equipment Choices Affect Your Price" },
+    { "type": "p", "text": "Crew equipment drives production rate. A large-floor contractor running a walk-behind auto-scrubber picks up slurry in one pass, while a small crew using mops and wet-vacs moves more slowly. For in-house maintenance between strips, compact machines help: the Karcher BD 30/4 C Bp is a cordless lithium-ion scrubber-drier with an 11-inch scrub path, 1-gallon tanks, and a 180 RPM brush, suited to daily scrubbing of break rooms and lobbies to protect finish. The Bissell BigGreen BGFS650 offers a 12-inch twin-brush head at 1,050 RPM in a 19 lb body for light polishing of boutique lobbies. A non-electric Bissell BG23 sweeper with a 9.5-inch path and dual debris bins handles quick grit pickup, since grit is the main thing that wears finish away and forces earlier stripping." },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Stripper safety and ventilation",
+      "text": "Floor strippers are strongly alkaline and covered by OSHA's Hazard Communication Standard. Vendors should keep SDS sheets on site, provide chemical-resistant gloves and eye protection, ventilate the area, and keep occupants out until floors are dry. Confirm COI coverage for slip-and-fall incidents during the job."
+    },
+    { "type": "h2", "text": "How to Request an Accurate Quote" },
+    { "type": "p", "text": "Give vendors a measured floor plan with VCT areas highlighted, note the approximate date of the last full strip, and specify coats of sealer and finish. Ask whether the price includes moving furniture, and whether they will provide a written warranty against finish failure such as powdering or peeling within 90 days. Request that the job be priced both as a standalone project and as part of an annual program; the program price is often 10%–20% lower per square foot." },
+    { "type": "cta", "text": "Enter your VCT square footage and flooring mix in the Office Cleaning Cost Calculator to estimate strip-and-wax spend, then use the Quote Comparator to line up per-sq-ft, hourly, and flat-fee bids side by side." }
+  ],
+  "faqs": [
+    { "q": "What is the average unit price to strip and wax VCT in an office?", "a": "Most US office jobs fall between $0.30 and $0.55 per sq ft. Large open floors over 25,000 sq ft can drop to about $0.25, while small break rooms and suites often hit a $250–$500 project minimum, which works out to $0.50–$0.75 or more per sq ft." },
+    { "q": "Is strip and wax included in a regular janitorial contract?", "a": "Usually not. Nightly contracts cover dust mopping and damp mopping. Strip and wax is periodic project work billed separately, unless the contract includes a deep floor program listing areas, frequency, and coats. Always check the exclusions section of the scope." },
+    { "q": "How many coats of finish should a vendor apply?", "a": "Three to five coats of acrylic finish over a sealer coat is standard for offices. High-traffic lobbies and corridors benefit from five coats. Fewer coats save money initially but wear through faster, forcing an earlier strip." },
+    { "q": "How long does a VCT strip and wax take?", "a": "A two-person crew typically completes 2,000–3,500 sq ft in a night shift on open floors. Larger areas are scheduled across multiple nights or weekends. Finish should cure for several hours, ideally overnight, before heavy traffic and furniture reset." },
+    { "q": "Why do hourly quotes vary so much?", "a": "Production rate varies with crew skill, equipment, finish build-up, and obstacles. A crew with an auto-scrubber might strip 700 sq ft per crew hour on open floors, while a mop-and-wet-vac crew in cluttered rooms might manage 300. Ask each vendor to state their assumed production rate so you can compare." }
+  ],
+  "amazonProductIds": [
+    "karcher-bd-30-4-c-bp-compact-scrubber-drier",
+    "bissell-biggreen-commercial-bgfs650-scrub-and-polish-machine",
+    "bissell-commercial-bg23-commercial-floor-sweeper"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-vct-strip-and-wax/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-included-vs-add-on-quotes/",
+    "/commercial-vacuums-and-floor-machines/proteam-proforce-1500xp-vs-windsor-sensor-s12/"
+  ]
+}

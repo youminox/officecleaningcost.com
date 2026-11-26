@@ -1,0 +1,77 @@
+{
+  "slug": "dental-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/dental-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "dental office rates",
+  "title": "Dental Office Rates: How Much Dental and Orthodontic Clinic Janitorial Service Costs",
+  "seoTitle": "Dental Office Rates: Orthodontic Clinic Janitorial Cost Per Sq Ft",
+  "metaDescription": "Dental office rates for janitorial service: $0.09-$0.20 per sq ft per visit, operatory and restroom math, and monthly budgets. Run your numbers now.",
+  "excerpt": "Dental and orthodontic practices are small footprints with dense operatories, sterilization rooms, and busy family waiting areas. This guide shows real monthly budgets by practice size and explains why a 2,400 sq ft office can cost the same as a 3,200 sq ft one.",
+  "quickAnswer": "Most US dental offices of 1,800-2,499 sq ft pay $0.12-$0.20 per sq ft per visit, and practices of 2,500-9,999 sq ft pay $0.09-$0.15, before restroom and flooring adjustments. A typical 2,400 sq ft general dentistry office cleaned five nights a week runs about $5,600-$9,350 per month for the base scope, while a 3-night schedule for a small 1,800 sq ft practice runs about $2,670-$4,450. Add $15-$30 per restroom per visit and a floor finish program for VCT operatories.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic view of a modern US dental operatory at dusk after patients have left, a janitor in gray uniform and gloves damp-mopping glossy vinyl around the base of a dental chair, the overhead patient light switched off, cabinetry and a darkened monitor arm in soft focus, warm window light mixing with cool LED downlights, low camera angle near the floor, no text, no logos, no watermarks",
+    "alt": "Janitor mopping the vinyl floor around a dental chair in an empty operatory at the end of the day"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes dental square footage expensive to clean" },
+    { "type": "p", "text": "A general dentistry office packs six to ten operatories, a sterilization room, a panoramic x-ray alcove, a lab corner, and a family-friendly waiting room into 2,000-4,000 sq ft. Orthodontic clinics run open-bay layouts with four to eight chairs in one room and a high volume of short adolescent appointments, which means heavy foot traffic, backpacks, and sports-drink spills in the lobby. Every operatory has a cabinet run, a sink, a chair base, delivery unit rails, and a stool, and the floor around the chair collects prophy paste splatter, alginate crumbs, and amalgam-free composite dust." },
+    { "type": "p", "text": "Janitorial crews do not disinfect the dental chair, delivery unit, or light handle between patients; that is clinical staff work. But the night crew owns the floors, counters outside the clinical zone, sinks, restrooms, door hardware, and waiting area, and the density of those surfaces cuts production well below the ISSA office benchmark of 3,500 sq ft per hour. Most dental accounts run 1,500-2,200 sq ft per labor hour." },
+    { "type": "h2", "text": "Monthly budgets by practice size" },
+    { "type": "p", "text": "The table applies national per-visit square-foot rates, frequency multipliers, and visits per month at 4.333 weeks. It covers the base scope only. Watch the bracket cliff: a 2,400 sq ft office prices in the under-2,500 band at $0.12-$0.20, while a 3,200 sq ft office drops to $0.09-$0.15, so both land on almost identical per-visit costs." },
+    { "type": "table", "caption": "Base monthly cleaning cost by dental or orthodontic practice size (national rates, before restrooms and flooring)", "headers": ["Practice format", "Sq ft", "Rate per sq ft per visit", "Frequency", "Per-visit cost (after frequency factor)", "Monthly base cost"], "rows": [
+      ["Solo dentist, 4 operatories", "1,800", "$0.12-$0.20", "3x/week (13 visits, x0.95)", "$205-$342", "$2,668-$4,446"],
+      ["General practice, 6 operatories", "2,400", "$0.12-$0.20", "5x/week (21.65 visits, x0.90)", "$259-$432", "$5,612-$9,353"],
+      ["Group practice, 8 operatories", "3,200", "$0.09-$0.15", "5x/week (21.65 visits, x0.90)", "$259-$432", "$5,612-$9,353"],
+      ["Orthodontic open-bay clinic", "6,000", "$0.09-$0.15", "3x/week (13 visits, x0.95)", "$513-$855", "$6,669-$11,115"]
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Use the bracket cliff in negotiations", "text": "If your office is just under 2,500 sq ft, ask vendors to quote at the 2,500-9,999 sq ft rate band. Many will, because the labor difference between 2,400 and 2,600 sq ft is a few minutes, and it can trim 20-25% off the per-square-foot rate." },
+    { "type": "h2", "text": "Restroom density and the family waiting room" },
+    { "type": "p", "text": "Dental offices usually have one patient restroom plus one staff restroom, and larger groups add a third near the operatories. Pediatric and orthodontic clinics see heavy restroom use because parents and kids arrive early and wait. At $15-$30 per restroom per visit, a two-restroom office at five nights adds $650-$1,299 per month, and three restrooms add $974-$1,949. Orthodontic clinics with a toothbrushing station near the lobby should have it priced as a restroom fixture, since it collects toothpaste and water on the floor all day." },
+    { "type": "h2", "text": "Flooring, traffic wear, and finish programs" },
+    { "type": "p", "text": "Most operatories use VCT or sheet vinyl with welded seams, which carries a 1.04 multiplier and needs a durable finish to resist chair-caster and stool scuffs. A zinc-interlocked acrylic finish at 25% solids, such as Diversey Vectra Commercial High-Gloss Floor Finish, holds up to rolling stools far better than low-solids finishes, which reduces how often the vendor has to strip and recoat. Waiting rooms are often LVT or carpet tile, which puts the whole office in the mixed category at 1.05. Daily damp mopping with a neutral pH no-rinse cleaner like Zep Neutral pH Industrial Floor Cleaner at 1:128 keeps the finish from dulling between burnishes." },
+    { "type": "table", "caption": "Worked example: 2,400 sq ft general practice, 5x/week, VCT operatories, 2 restrooms", "headers": ["Cost component", "Low", "High"], "rows": [
+      ["Base scope (from size table)", "$5,612", "$9,353"],
+      ["VCT multiplier (x1.04)", "$5,836", "$9,727"],
+      ["Restrooms (2 x $15-$30 x 21.65)", "$650", "$1,299"],
+      ["Quarterly strip, recoat, and burnish ($0.03-$0.06 x 2,400)", "$72", "$144"],
+      ["Staff breakroom add-on ($12-$25 x 21.65)", "$260", "$541"],
+      ["Estimated monthly total", "$6,818", "$11,711"]
+    ] },
+    { "type": "h2", "text": "Recommended weekly frequency for dental practices" },
+    { "type": "ul", "items": [
+      "Practices open four days per week, common in general dentistry, should schedule four nightly visits (17.33 per month) rather than five.",
+      "Orthodontic clinics that see patients two or three days a week can match cleaning to clinic days at the 3x-weekly 0.95 multiplier.",
+      "Offices with Saturday hygiene sessions should add a Saturday evening visit or an early Monday clean before the first patient.",
+      "Biweekly or monthly service is not appropriate for any office where patients are seen, because restrooms and lobby touch points accumulate contamination daily.",
+      "Breakroom degreasing with a phosphate-free product like Simple Green Pro HD can drop to weekly in small offices where staff wipe down daily."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Exclude sterilization equipment and waste", "text": "Autoclaves, ultrasonic cleaners, amalgam separators, suction lines, and sharps containers are clinical responsibilities. Make sure the vendor scope excludes them, and that any biohazard or amalgam waste goes to a licensed hauler, not the janitorial trash stream." },
+    { "type": "h2", "text": "Comparing dental cleaning bids" },
+    { "type": "p", "text": "Require each vendor to show square footage, rate per sq ft per visit, visits per month at 4.333 weeks, restroom count, flooring multiplier, and periodic floor care as separate lines. Ask how many crew hours per night they plan: a 2,400 sq ft office with six operatories needs roughly 1.2-1.6 hours. Confirm the vendor's crew is trained to stay out of the clinical zone of each operatory while still cleaning the floor around the chair base." },
+    { "type": "cta", "text": "Enter your practice square footage, operatory count, restrooms, and clinic days into the Office Cleaning Cost Calculator, then compare vendor proposals line by line in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Why do dental offices cost more per square foot than regular offices?", "a": "Operatories, sterilization rooms, and family waiting areas pack far more hard surfaces, sinks, and floor edges into each square foot. Crews typically clean 1,500-2,200 sq ft per hour in dental space versus about 3,500 sq ft per hour in open offices, and the rate reflects that labor." },
+    { "q": "How is a four-day dental schedule converted to monthly visits?", "a": "Multiply four visits per week by 4.333 weeks per month for 17.33 visits. Vendors that bill exactly 16 visits per month are undercounting, while those billing 20 are overcounting. Ask for the math on the proposal." },
+    { "q": "What insurance and training should a dental cleaning vendor have?", "a": "A COI with at least $1 million general liability naming your practice as additional insured, workers compensation, and a fidelity bond. Crew members should have OSHA Bloodborne Pathogens training and access to Safety Data Sheets for every product under the Hazard Communication Standard." },
+    { "q": "Can a dental office use green cleaning products?", "a": "Yes for lobby glass, front-desk surfaces, admin offices, and routine floor cleaning, where Green Seal or Safer Choice products work well. Restroom fixtures and high-touch hardware near operatories should still be treated with an EPA-registered disinfectant per label dwell time." },
+    { "q": "What is typically excluded from dental office cleaning contracts?", "a": "Dental chairs, delivery units, suction lines, sterilization equipment, x-ray devices, sharps and biohazard waste, amalgam waste, exterior windows, and carpet extraction outside the scheduled program. List these exclusions explicitly in the scope." }
+  ],
+  "amazonProductIds": [
+    "zep-neutral-ph-industrial-floor-cleaner-concentrate-5-gallon-pai",
+    "simple-green-pro-hd-heavy-duty-cleaner-and-degreaser-1-gallon",
+    "diversey-vectra-commercial-high-gloss-floor-finish-5-gal"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/dental-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/dental-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/law-firm-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/rubbermaid-36-inch-cone-vs-25-inch-a-frame-signs/"
+  ]
+}

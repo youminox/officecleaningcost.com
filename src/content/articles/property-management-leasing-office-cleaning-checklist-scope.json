@@ -1,0 +1,90 @@
+{
+  "slug": "property-management-leasing-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/property-management-leasing-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "property management leasing office scope tasks",
+  "title": "Property Management Leasing Office Scope Tasks: A Custom SOW Template for Apartment Clubhouse Housekeeping",
+  "seoTitle": "Property Management Leasing Office Scope Tasks: Custom SOW Template",
+  "metaDescription": "Property management leasing office scope tasks by zone, from tour path to fitness center, with labor minutes per visit. Compare vendor quotes free.",
+  "excerpt": "A leasing office scope of work has to protect the tour experience while keeping fitness, mail, and pool areas sanitary for residents. This template lays out daily, weekly, and monthly tasks by zone with labor minutes, and flags the specialty items that push hours above a standard office.",
+  "quickAnswer": "A 4,500 sq ft apartment clubhouse with a leasing office, fitness room, resident lounge, package room, and three restrooms typically needs about 150 labor minutes per visit, or roughly 2.5 crew hours, compared with about 1.3 hours a standard office of the same size would take at 3,500 sq ft per hour. Weekly detail adds about 2 hours and monthly tasks about 4 hours. Model unit upkeep, fitness equipment disinfection, and pool restrooms are the tasks that push labor above standard office rates.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic image of an apartment community clubhouse hallway in the US early morning, a housekeeper pushing a wide 36-inch cotton dust mop down a long luxury vinyl corridor past a package locker wall and a glass-fronted fitness room with treadmills, a red-and-blue dual mop bucket parked by the wall, soft daylight and recessed ceiling lights, long perspective shot from hallway end at waist height, no text, no logos, no watermarks",
+    "alt": "Housekeeper dust mopping an apartment clubhouse corridor beside package lockers and a fitness room"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why leasing offices need their own scope of work" },
+    { "type": "p", "text": "Generic office checklists fail at apartment communities because they assume one tenant, one entrance, and one restroom. A leasing office is a retail-style sales floor with a tour path, and it usually shares a building with resident amenities that operate on different hours. The fitness center may be open 24 hours on fob access, the pool restrooms are seasonal, and the package room fills every afternoon. A good statement of work (SOW) breaks the building into zones, assigns tasks and minutes per zone, and states clearly what the on-site maintenance team or porter handles instead of the janitorial vendor." },
+    { "type": "p", "text": "The template below is built for a 4,500 sq ft clubhouse: a 1,200 sq ft leasing area with a welcome desk and three offices, a resident lounge with a coffee bar, a 900 sq ft fitness room, a package and mail room, a conference or business center, and three restrooms, two of them opening onto the pool deck. The model unit is treated as a separate line. Vacant unit turns, exterior grounds, and trash valet are excluded." },
+    { "type": "h2", "text": "Daily task list by zone" },
+    { "type": "table", "caption": "Per-visit SOW tasks and labor minutes for a 4,500 sq ft apartment clubhouse", "headers": ["Zone", "Tasks", "Minutes per visit", "Notes"], "rows": [
+      ["Entry and welcome desk", "Glass doors, desk surface, brochure rack, entry mat, damp-mop", "15", "First impression for tours; clean first"],
+      ["Leasing offices (3)", "Trash, wipe desks and guest chairs, vacuum or mop", "15", "Do not handle applications or files"],
+      ["Resident lounge and coffee bar", "Wipe tables and counters, clean coffee machine exterior, sink, trash", "20", "Restock cups and stirrers if in scope"],
+      ["Fitness room", "Disinfect equipment touch points, wipe mirrors, empty trash, clean rubber floor", "30", "Neutral cleaner on rubber; no finish"],
+      ["Package and mail room", "Remove cardboard and tape debris, wipe counters, sweep or mop", "15", "Volume spikes in November and December"],
+      ["Business center or conference room", "Wipe table and keyboards, trash, vacuum", "10", "Check printer area for discarded paper"],
+      ["Restrooms (3)", "Clean and disinfect fixtures, mirrors, floors, restock", "36", "Pool restrooms need sand and water removal"],
+      ["Corridors and tour path", "Dust mop with 36-inch head, spot damp-mop", "10", "Wide head covers long halls fast"],
+      ["Per-visit total", "", "151", "About 2.5 labor hours"]
+    ] },
+    { "type": "p", "text": "On a five-visit weekly schedule that equals about 54 labor hours per month (151 minutes times 21.65 visits). On three visits a week, it falls to about 33 hours, but restrooms and the fitness room will need staff spot checks on the off days. The ISSA-style production benchmark of 3,500 sq ft per hour would predict only 1.3 hours per visit for this footprint, which is why leasing office bids that use a flat office rate often underperform." },
+    { "type": "h2", "text": "Weekly and monthly tasks" },
+    { "type": "table", "caption": "Weekly and periodic tasks for the same clubhouse", "headers": ["Task", "Frequency", "Minutes", "Monthly hours"], "rows": [
+      ["Model unit dusting, mirror and glass polish, floor refresh", "Weekly", "45", "3.2"],
+      ["Baseboards, vents, and door frames on tour path", "Weekly", "25", "1.8"],
+      ["Lounge upholstery vacuuming", "Weekly", "15", "1.1"],
+      ["Fitness room deep wipe including equipment frames and cardio consoles", "Weekly", "30", "2.2"],
+      ["Coffee bar and kitchenette refrigerator purge", "Weekly", "10", "0.7"],
+      ["High dusting of ceiling fans, light fixtures, and art", "Monthly", "60", "1.0"],
+      ["Pool restroom grout scrub", "Monthly (seasonal)", "60", "1.0"],
+      ["LVT or VCT machine scrub on tour path", "Monthly", "90", "1.5"],
+      ["Carpet extraction in offices and lounge", "Quarterly", "180", "1.0 amortized"]
+    ] },
+    { "type": "callout", "variant": "warning", "title": "The model unit is a separate line", "text": "Many vendors exclude the model unit unless it is written into the scope. Price it as a weekly line with defined tasks, because a dusty model unit costs more in lost leases than the 45 minutes it takes to keep it tour-ready." },
+    { "type": "h2", "text": "Specialty tasks that push labor above standard office rates" },
+    { "type": "ul", "items": [
+      "Fitness equipment disinfection requires an EPA-registered product left wet for its labeled dwell time on handles, seats, and consoles, which takes far longer than wiping office desks.",
+      "Pool restrooms collect sand, sunscreen, and standing water, and shower areas need grout attention that dry office restrooms never require.",
+      "Model unit staging means dusting decor, polishing mirrors and appliances, and refreshing floors without moving staged furniture.",
+      "Package rooms generate daily cardboard volume that can take as long to haul as the rest of the building's trash combined during holiday weeks.",
+      "Pet-friendly communities need pet-station adjacent entrances mopped more often, and occasional odor treatment in carpeted lounges.",
+      "Lease-up communities need post-construction dust removal before regular service starts, typically billed at a specialty rate of $55–$95 per hour."
+    ] },
+    { "type": "h2", "text": "Building your custom SOW step by step" },
+    { "type": "steps", "items": [
+      { "name": "Map zones and owners", "text": "List every room in the clubhouse and note whether the janitorial vendor, the maintenance team, or a porter owns it. Pool decks and trash corrals usually belong to maintenance." },
+      { "name": "Set hours around access", "text": "Schedule service before the leasing office opens, for example 6 to 9 a.m., so the fitness room is clean before the morning rush and no one is vacuuming during tours." },
+      { "name": "Assign minutes per task", "text": "Start with the tables above, adjust for your restroom count and fitness room size, and multiply by visits per month using 4.33 weeks." },
+      { "name": "Define seasonal changes", "text": "Write pool restroom frequency and grout scrubbing as seasonal lines that turn on and off on fixed dates." },
+      { "name": "Attach an inspection checklist", "text": "The community manager scores the tour path, restrooms, fitness room, and model unit weekly, with a one-business-day correction window." }
+    ] },
+    { "type": "h2", "text": "Equipment that matches the scope" },
+    { "type": "p", "text": "The minute estimates assume tools suited to a clubhouse. The Rubbermaid Commercial 36-inch cotton dust mop with a swivel frame and 60-inch handle clears long corridors and tour paths in a single pass before damp-mopping. The Rubbermaid HYGEN 18-inch microfiber flat mop kit, with a 2-quart onboard reservoir and no bucket to carry, suits offices, the model unit, and quick spot cleaning near the leasing desk when prospects may walk in. For restrooms, especially pool restrooms with sand and water, the Unger 15-gallon dual-bucket SmartColor system keeps clean solution separate from dirty rinse water and supports red-for-restrooms, blue-for-everything-else color coding." },
+    { "type": "cta", "text": "Convert your clubhouse zones and minutes into a monthly budget with the Office Cleaning Cost Calculator, then compare bidders on equal footing in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours should a leasing office cleaning contract include?", "a": "For a 4,500 sq ft clubhouse on five visits a week, plan about 54 hours of routine work plus roughly 13 hours of weekly and monthly detail, for a total near 67 hours per month. Monthly visit counts use 4.33 weeks (52 divided by 12, or 4.333), so five visits a week equals 21.65 visits. Bids far below that likely skip detail tasks." },
+    { "q": "Should the vendor clean fitness equipment?", "a": "Yes, but the scope should say exactly what is included: touch points such as handles, seats, and consoles, using an EPA-registered disinfectant with its full dwell time, and equipment-safe products recommended by the manufacturer. Mechanical maintenance and upholstery repair stay with the equipment service vendor." },
+    { "q": "What tasks should the leasing staff handle between visits?", "a": "Quick restroom checks, coffee bar wipe-downs, and trash removal from the welcome area during the day keep the office tour-ready on off days. Provide a small caddy with a Green Seal certified cleaner, microfiber cloths, and liners, and keep it separate from the vendor's chemical storage." },
+    { "q": "What OSHA requirements apply to clubhouse cleaning?", "a": "The vendor must follow OSHA Hazard Communication rules, with labeled bottles and safety data sheets available for every chemical. If crews may encounter blood or sharps in restrooms or the fitness room, they need bloodborne pathogens training and an exposure control plan. Wet floor signs are important near pool doors where water is already tracked inside." },
+    { "q": "Are vacant unit turns part of the leasing office scope?", "a": "No. Turn cleaning is a separate per-unit service usually priced by bedroom count and condition, and it is often handled by a different vendor or the maintenance team. Keep it out of the recurring janitorial SOW so monthly pricing stays predictable." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit",
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system",
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/property-management-leasing-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/logistics-warehouse-office-cleaning-cost/",
+    "/facility-cleaning-costs/logistics-warehouse-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/spartan-clean-by-peroxy-vs-ecos-pro-orange-plus/"
+  ]
+}

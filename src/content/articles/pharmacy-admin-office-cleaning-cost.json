@@ -1,0 +1,91 @@
+{
+  "slug": "pharmacy-admin-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/pharmacy-admin-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "pharmacy admin office rates",
+  "title": "Pharmacy Admin Office Rates: Typical Per-Visit and Weekly Cleaning Quotes for Compounding Pharmacies",
+  "seoTitle": "Pharmacy Admin Office Rates: Per-Visit & Weekly Cleaning Quotes",
+  "metaDescription": "Pharmacy admin office rates run $0.09–$0.15/sq ft per visit, about $2,600–$6,200/mo for 3,200 sq ft. Check your bid in our cost calculator.",
+  "excerpt": "Compounding pharmacy admin suites price above plain office space because restrooms see staff and courier traffic, hard floors dominate, and most owners need three or more visits a week. This guide shows the per-visit math, monthly totals by frequency, and the add-ons that move a quote.",
+  "quickAnswer": "For a typical 2,500–9,999 sq ft compounding pharmacy admin office, janitorial vendors quote roughly $0.09–$0.15 per sq ft per visit before frequency and flooring adjustments. A 3,200 sq ft suite with mixed flooring cleaned three times a week lands around $3,700–$6,200 per month for base labor, plus about $390–$780 for two restrooms and $100–$190 amortized for quarterly floor care. Under 2,500 sq ft, expect $0.12–$0.20 per sq ft with a $90–$135 per-visit minimum.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-evening view of a compounding pharmacy administrative office in a US suburban medical plaza, a janitor in navy scrubs damp-mopping light gray LVT flooring beside a glass-walled order verification desk, stainless restroom door ajar in background, cool overhead LED lighting mixed with dusk window light, eye-level 35mm wide shot, no text, no logos, no watermarks",
+    "alt": "Janitor damp-mopping vinyl flooring in a compounding pharmacy admin office after hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes Pharmacy Admin Office Rates Different From a Standard Suite" },
+    { "type": "p", "text": "A compounding pharmacy's administrative side looks like an ordinary office on a floor plan: a reception counter, a few private offices for the pharmacist-in-charge and billing staff, a prior-authorization workroom, a breakroom, and one or two restrooms. The cost difference shows up in how those rooms are used. Couriers, delivery drivers, and patients picking up compounded preparations walk through the front counter all day. Staff move between the compounding area and the admin side, carrying fine powder and packaging debris on their shoes. Hard flooring, usually LVT or VCT, covers more of the footprint than in a law firm or agency suite, because owners want surfaces that wipe clean." },
+    { "type": "p", "text": "The sterile or non-sterile compounding rooms themselves, the ISO-classified cleanroom, anteroom, and segregated compounding area, are almost always excluded from a janitorial contract. Pharmacy staff clean them under USP 797 and USP 800 procedures with their own sporicidal agents and logs. That exclusion matters for pricing: you are buying admin-office cleaning with a higher touch-point density, not cleanroom services. If a vendor quotes as though they will enter the compounding suite, ask exactly what they plan to do there and who trained them." },
+    { "type": "h2", "text": "Benchmark Rates by Suite Size" },
+    { "type": "p", "text": "Commercial janitorial pricing in the US is built on a per-sq-ft-per-visit rate that falls as square footage grows, because crews spend proportionally less time on setup, travel, and restroom work. The national brackets below are the starting point most vendors use before they adjust for floors, frequency, and add-ons." },
+    { "type": "table", "caption": "National per-visit janitorial rate brackets applied to pharmacy admin offices", "headers": ["Suite size", "Rate per sq ft per visit", "Example suite", "Base cost per visit"], "rows": [
+      ["Under 2,500 sq ft", "$0.12–$0.20", "1,800 sq ft storefront admin", "$216–$360"],
+      ["2,500–9,999 sq ft", "$0.09–$0.15", "3,200 sq ft admin + intake", "$288–$480"],
+      ["10,000–24,999 sq ft", "$0.07–$0.12", "12,000 sq ft central-fill offices", "$840–$1,440"],
+      ["25,000+ sq ft", "$0.05–$0.10", "30,000 sq ft regional pharmacy HQ", "$1,500–$3,000"]
+    ] },
+    { "type": "p", "text": "Every visit is also subject to a floor of roughly $90–$135, because a crew still has to drive to the site, disarm the alarm, and stage equipment. Very small pharmacies that only need a light pass sometimes find the minimum is their actual price." },
+    { "type": "h2", "text": "Monthly Cost by Frequency for a 3,200 sq ft Pharmacy Admin Office" },
+    { "type": "p", "text": "Take a realistic example: 3,200 sq ft with carpet in private offices and LVT in reception, the workroom, and corridors. Mixed flooring carries a 1.05 multiplier because crews need both vacuums and wet-mopping setups every visit. That gives an adjusted base of $302.40–$504.00 per visit. Frequency multipliers then reward more frequent service with a lower per-visit rate, and visits per month use 4.33 weeks (52 weeks divided by 12)." },
+    { "type": "table", "caption": "3,200 sq ft compounding pharmacy admin office, mixed flooring, base labor only", "headers": ["Frequency", "Visits per month", "Frequency multiplier", "Per visit", "Monthly base labor"], "rows": [
+      ["Weekly (1x/wk)", "4.33", "1.08", "$326.59–$544.32", "$1,414–$2,357"],
+      ["Twice weekly (2x/wk)", "8.66", "1.00", "$302.40–$504.00", "$2,619–$4,365"],
+      ["3x weekly", "13.0", "0.95", "$287.28–$478.80", "$3,735–$6,224"],
+      ["Daily weekdays (5x/wk)", "21.65", "0.90", "$272.16–$453.60", "$5,892–$9,820"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Recommended frequency", "text": "Most compounding pharmacy admin offices with walk-in pickup land on 3x weekly service, often Monday, Wednesday, and Friday evenings, with a day porter or staff-led restroom check on the off days. Pharmacies doing mail-order only and keeping the public out of the building can usually hold at 2x weekly without visible soil buildup." },
+    { "type": "h2", "text": "Restroom Density and Traffic Wear" },
+    { "type": "p", "text": "Restrooms are priced separately at roughly $15–$30 per restroom per visit because they take the most time per square foot and carry bloodborne-pathogen exposure risk. A pharmacy admin office with one staff restroom and one ADA-accessible public restroom adds $390–$780 per month at 3x weekly service. If your public restroom serves patients waiting for consultations, expect the high end, since crews restock more often and disinfect more fixtures." },
+    { "type": "p", "text": "Traffic wear concentrates in three places: the front counter queue, the corridor between compounding and shipping, and the breakroom. Those zones show scuffing on LVT and gray traffic lanes on carpet within weeks. A quarterly deep floor program, hot-water extraction for carpet and scrub-and-recoat or auto-scrub for hard floors, amortizes to $0.03–$0.06 per sq ft per month, or $96–$192 monthly for 3,200 sq ft." },
+    { "type": "ul", "items": [
+      "Front counter: high-touch glass, pen cups, card terminals, and the pickup window ledge need disinfection every visit.",
+      "Courier entry: grit tracked from loading areas abrades vinyl; walk-off matting at that door saves floor-care dollars.",
+      "Shipping and packing station: cardboard dust, tape, and cold-pack sleeves fill large bins quickly and need heavy-duty liners.",
+      "Breakroom: staff often eat at staggered times during long dispensing shifts, so microwave and sink soil is heavier than in a 9-to-5 office.",
+      "Restroom dispensers: touchless soap and electronic towel dispensers reduce contact points and refill callbacks."
+    ] },
+    { "type": "h2", "text": "Add-Ons That Change the Quote" },
+    { "type": "table", "caption": "Common add-ons for a 3,200 sq ft pharmacy admin office at 3x weekly (13 visits/month)", "headers": ["Add-on", "National unit rate", "Monthly cost"], "rows": [
+      ["Two restrooms", "$15–$30 per restroom per visit", "$390–$780"],
+      ["Breakroom sanitation", "$12–$25 per visit", "$156–$325"],
+      ["Interior glass and partitions", "$15–$35 per visit", "$195–$455"],
+      ["Consumables included", "$0.012–$0.025 per sq ft per visit", "$499–$1,040"],
+      ["Quarterly deep floor care", "$0.03–$0.06 per sq ft per month", "$96–$192"]
+    ] },
+    { "type": "p", "text": "Fully loaded, a 3x weekly program with restrooms, breakroom, and floor care runs about $4,380–$7,520 per month before consumables. Pharmacies that let the vendor supply paper and soap should compare the consumables line against their own purchasing; jumbo-roll tissue and universal 8-inch roll towels in non-proprietary dispensers such as the San Jamar Tear-N-Dry Essence often cost less than vendor-marked-up supplies." },
+    { "type": "h2", "text": "Restroom Fixtures That Lower Long-Run Cost" },
+    { "type": "p", "text": "Fixture choices influence how many minutes crews spend per restroom. The San Jamar Tear-N-Dry Essence runs on four D-cell batteries, takes universal 8-inch roll towels, and has a low-profile housing, so you are not locked into one paper supplier. The Kimberly-Clark Professional ICON automatic dispenser uses 1.2 L soap or sanitizer refills, is touchless, accepts custom faceplate trim, and carries a five-year warranty. A Bobrick B-270 ConturaSeries sanitary napkin disposal in 304 stainless with a self-closing lid and ADA-compliant reach keeps feminine hygiene waste contained, which matters for crews working under your bloodborne-pathogen exposure plan." },
+    { "type": "callout", "variant": "tip", "title": "Ask for a labor-hour breakdown", "text": "A crew working at the ISSA reference pace of about 3,500 sq ft per hour should spend roughly 55 minutes on the open floor of a 3,200 sq ft suite, plus 15–20 minutes per restroom. If a bid implies 25 minutes total, the vendor is either skipping tasks or planning to rush the front counter." },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable area", "text": "Exclude the cleanroom, anteroom, and controlled-substance vault from the square footage you give vendors." },
+      { "name": "Pick a frequency", "text": "Start at 3x weekly if patients pick up on site, 2x weekly if you are mail-order only." },
+      { "name": "List restrooms and add-ons", "text": "Count every restroom, breakroom, and glass partition so bids are comparable line by line." },
+      { "name": "Run the numbers", "text": "Plug the inputs into a calculator and compare the result to each written bid." }
+    ] },
+    { "type": "cta", "text": "Enter your pharmacy's cleanable square footage, flooring mix, and visit frequency in the Office Cleaning Cost Calculator, then load vendor bids into the Quote Comparator to see which ones fall outside the benchmark range." }
+  ],
+  "faqs": [
+    { "q": "Why do pharmacy admin office rates run higher than a regular office of the same size?", "a": "Restroom traffic from patients and couriers, a higher share of hard flooring, heavier shipping waste, and the need for 3x weekly service all push the effective monthly cost up. The per-sq-ft rate itself usually sits in the same $0.09–$0.15 bracket; frequency and add-ons create the gap." },
+    { "q": "Should the janitorial contract cover our cleanroom or compounding area?", "a": "Usually no. USP 797 and USP 800 cleaning in ISO-classified rooms is typically performed and documented by trained pharmacy staff. Your scope of work should explicitly exclude those rooms, and the vendor's crew should not enter them unless they have been trained on your SOPs and garbing procedures." },
+    { "q": "How do I convert a per-visit quote into a monthly budget?", "a": "Multiply the per-visit price by visits per month using 4.33 weeks per month. A $300 visit at 3x weekly equals 13 visits, or $3,900 per month. Twice weekly is 8.66 visits, and daily weekdays is 21.65 visits." },
+    { "q": "What insurance should a pharmacy require from its cleaning vendor?", "a": "Ask for a certificate of insurance naming your company as additional insured, with general liability, workers' compensation, and a janitorial or third-party fidelity bond. Because crews work around patient records and controlled-substance areas, many pharmacies also require signed confidentiality agreements and background checks." },
+    { "q": "Do green-certified products cost more for pharmacy offices?", "a": "Green Seal or EPA Safer Choice certified general cleaners are now priced close to conventional products, so they rarely move a bid more than a few percent. Disinfectants still need EPA registration, and the vendor should supply Safety Data Sheets under OSHA HazCom so your staff know what is being used near medication storage." }
+  ],
+  "amazonProductIds": [
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser",
+    "kimberly-clark-professional-icon-automatic-soap-and-sanitizer-di",
+    "bobrick-b-270-conturaseries-sanitary-napkin-disposal"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/pharmacy-admin-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/pharmacy-admin-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/church-admin-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-passive-odor-control-dispensers-for-restrooms/"
+  ]
+}

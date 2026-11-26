@@ -1,0 +1,89 @@
+{
+  "slug": "union-hall-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/union-hall-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "union hall office scope tasks",
+  "title": "Union Hall Office Scope Tasks: Estimating Labor Minutes and Tasks for Union Halls & Training Offices",
+  "seoTitle": "Union Hall Office Scope Tasks: Labor Minutes & Cleaning Checklist",
+  "metaDescription": "Union hall office scope tasks broken into daily, weekly, and monthly labor minutes. See which specialty tasks raise hours, then compare bids in our calculator",
+  "excerpt": "A union hall scope of work has to cover offices, a dispatch counter, a meeting hall, and training classrooms that all get dirty on different schedules. This checklist assigns realistic labor minutes to each task so you can see exactly where hours, and dollars, accumulate.",
+  "quickAnswer": "A 6,000 sq ft union hall needs roughly 105 to 130 labor minutes per routine visit for offices, restrooms, the dispatch counter, and floors, close to the ISSA benchmark of about 3,500 sq ft per hour. Specialty tasks such as post-meeting chair resets, classroom turnover after apprenticeship blocks, and shop-dust control add 60 to 180 minutes per event and are usually billed at specialty rates of $55 to $95 per hour rather than the $35 to $65 standard office rate.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up scene inside an American union apprenticeship training classroom at night, a custodian wiping a long laminate training table with a blue microfiber cloth, a yellow four-sided wet floor cone standing on freshly mopped VCT near a whiteboard wall, safety helmets stacked on a side shelf, cool LED ceiling light, low three-quarter camera angle, no text, no logos, no watermarks",
+    "alt": "Custodian wiping training tables in a union apprenticeship classroom with a wet floor cone on the freshly mopped floor"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why a Union Hall Scope Needs Its Own Labor Model" },
+    { "type": "p", "text": "Generic office checklists assume steady daily occupancy. A union hall swings between near-empty weekday mornings and a packed hall on meeting night, with apprenticeship classes filling classrooms on evenings and Saturdays. If your scope of work simply says clean all offices three times weekly, bidders will either underprice and skip the meeting hall, or overprice to protect themselves from unknown event volume. Assigning labor minutes to each task fixes that, because every bidder prices the same hours." },
+    { "type": "p", "text": "The minutes below assume a 6,000 sq ft local hall: about 1,800 sq ft of offices and dispatch counter, a 2,400 sq ft meeting hall, a 1,200 sq ft classroom, and four restrooms, with mixed carpet tile and VCT. Scale linearly for larger halls, then sanity-check against the ISSA production rate of roughly 3,500 sq ft per hour for routine office work." },
+    { "type": "h2", "text": "Daily (Per-Visit) Task List With Labor Minutes" },
+    { "type": "table", "caption": "Routine per-visit tasks for a 6,000 sq ft union hall", "headers": ["Task", "Zone", "Minutes per visit", "Notes"], "rows": [
+      ["Empty trash and recycling, replace liners", "All zones", "15 - 18", "Meeting hall cans heavier after events"],
+      ["Disinfect high-touch points (door hardware, counter, sign-in kiosk)", "Dispatch counter, entries", "10 - 12", "EPA-registered product with labeled dwell time"],
+      ["Clean and restock four restrooms", "Restrooms", "32 - 40", "8 - 10 minutes per restroom"],
+      ["Dust and wipe desks, phones, horizontal surfaces", "Offices", "12 - 15", "Do not move member files or ballots"],
+      ["Vacuum carpet tile", "Offices, classroom", "14 - 18", "Backpack vacuum for row seating"],
+      ["Dust mop and damp mop hard floors", "Corridors, meeting hall, entry", "16 - 20", "Place wet floor cones at every entry"],
+      ["Breakroom or coffee station wipe-down", "Breakroom", "6 - 7", "Coffee pots, sink, microwave exterior"],
+      ["Total routine visit", "Whole building", "105 - 130", "About 1.75 - 2.2 labor hours"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Check the math against ISSA", "text": "At 3,500 sq ft per hour, 6,000 sq ft equals about 103 minutes. The routine list above lands at 105 to 130 minutes because union halls carry more restrooms per square foot than a typical office. A bid that claims 60 minutes for this scope is skipping tasks; one that claims 4 hours on a routine visit is padding." },
+    { "type": "h2", "text": "Weekly and Monthly Tasks" },
+    { "type": "p", "text": "Weekly and monthly items are where union hall scopes drift. These tasks rotate through the schedule so the routine visit does not balloon, but they must be listed explicitly or vendors will treat them as extras." },
+    { "type": "table", "caption": "Rotating weekly and monthly tasks", "headers": ["Task", "Frequency", "Minutes per occurrence", "Why it matters in a union hall"], "rows": [
+      ["Edge vacuum and baseboard sweep", "Weekly", "20 - 25", "Job-site grit collects along walls and elevator tracks"],
+      ["Interior glass at entry and conference partitions", "Weekly", "15 - 20", "Fingerprints from members waiting at dispatch"],
+      ["Whiteboard and chalk-rail deep clean", "Weekly", "10 - 15", "Classroom marker ghosting and dust"],
+      ["High dusting (vents, picture frames, banners)", "Monthly", "30 - 40", "Historic photos and charters collect dust"],
+      ["Restroom grout and floor drain detail", "Monthly", "40 - 50", "Tile-and-grout floors carry a 1.12 labor multiplier"],
+      ["Upholstered chair and folding chair spot clean", "Monthly", "30 - 45", "Meeting hall chairs absorb spills and boot scuffs"],
+      ["VCT burnish in meeting hall", "Monthly", "45 - 60", "Restores finish after chair drag"]
+    ] },
+    { "type": "h2", "text": "Specialty Tasks That Push Hours Above Office Rates" },
+    { "type": "p", "text": "These are the items that legitimately make a union hall more expensive than a standard suite of the same size. Each should be priced per event or per occurrence, typically at specialty hourly rates of $55 to $95, so you only pay when the work actually happens." },
+    { "type": "ul", "items": [
+      "Post-meeting reset: stacking 150 to 300 folding chairs, folding tables, clearing food and coffee waste, and spot mopping. Plan 90 to 180 minutes for one or two cleaners.",
+      "Election and ratification vote cleanup: extra trash, ballot-area sanitizing, and sometimes a second visit the same night. Plan 60 to 120 minutes.",
+      "Apprenticeship classroom turnover after a weekend block: degreasing tables, clearing lunch waste, and vacuuming under fixed seating. Plan 45 to 75 minutes.",
+      "Shop-adjacent dust control: HEPA vacuuming and damp wiping in rooms bordering welding or pipe-fitting bays. Plan 30 to 60 minutes per week.",
+      "First-aid and CPR training room cleanup: manikin surfaces, practice areas, and any bodily fluid incidents under an OSHA bloodborne pathogens protocol. Plan 20 to 40 minutes per class.",
+      "Winter ice-melt neutralizing at entries: add 10 to 15 minutes per visit from December through March in cold-climate locals."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Do not let records areas creep into scope", "text": "Business-agent offices often hold grievance files, member records, and dues receipts. State in writing that cleaners do not handle papers, open file drawers, or move items on desks, and that locked offices are serviced only when the agent leaves them open. This protects both the local and the contractor." },
+    { "type": "h2", "text": "Tools That Keep Minutes Honest" },
+    { "type": "p", "text": "Labor minutes depend on tools. Color-coded microfiber prevents restroom cloths from reaching meeting-hall tables; the Rubbermaid Commercial HYGEN 16 x 16 split-microfiber cloths come 12 to a pack, are bleach safe, and are rated for 500 commercial launderings, which keeps per-visit cloth cost low. Rubbermaid Commercial 36-inch four-sided wet floor cones with bilingual English and Spanish print belong at every damp-mopped entry, since members walk in from job sites at all hours. The O-Cedar Commercial MaxiClean angle broom, with a 12-inch flagged poly head and a 48-inch handle paired with a lobby pan, pulls fine drywall dust out of baseboard edges and elevator tracks faster than a vacuum wand." },
+    { "type": "h2", "text": "Turning the Checklist Into a Bid Package" },
+    { "type": "steps", "items": [
+      { "name": "Attach the zone floor plan", "text": "Label offices, dispatch counter, meeting hall, classrooms, restrooms, and any shop bays with square footage." },
+      { "name": "List routine, rotating, and event tasks separately", "text": "Bidders price routine visits per visit, rotating tasks into the monthly figure, and events per occurrence." },
+      { "name": "Publish the event calendar", "text": "Give the expected number of meeting nights, vote nights, and class blocks per month so per-event pricing can be budgeted." },
+      { "name": "Require a labor-hour disclosure", "text": "Ask each bidder to state minutes per routine visit and crew size so you can compare against the 105 to 130 minute benchmark." },
+      { "name": "Set inspection points", "text": "Use a monthly walk-through scored against this checklist, with a cure period for missed items before any invoice deduction." }
+    ] },
+    { "type": "cta", "text": "Use your labor-minute totals in the Office Cleaning Cost Calculator to set a target monthly budget, then load each vendor's bid into the Quote Comparator to see who priced the full scope." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a typical union hall need per week?", "a": "A 6,000 sq ft hall at three routine visits per week needs about 5.3 to 6.5 hours of routine labor, plus rotating weekly tasks of roughly one hour and any event resets. Across a month that is about 13 visits, using 4.333 weeks per month, or 23 to 28 routine labor hours before events." },
+    { "q": "Which union hall tasks should be billed separately from the base contract?", "a": "Post-meeting chair and table resets, vote-night cleanup, weekend classroom turnover, and bodily fluid response in first-aid training rooms are the usual separate line items. They are irregular, labor-heavy, and best priced per event so the base monthly price stays predictable." },
+    { "q": "What OSHA requirements apply to cleaning a union training facility?", "a": "Cleaners must receive Hazard Communication training under 29 CFR 1910.1200 with Safety Data Sheets available for every chemical on site. If the hall runs first-aid or CPR training, or a crew may encounter blood, the contractor needs a bloodborne pathogens exposure control plan under 29 CFR 1910.1030, including gloves, spill kits, and hepatitis B vaccine offers for exposed workers." },
+    { "q": "Should a union hall specify Green Seal or Safer Choice products?", "a": "It is a reasonable requirement for general cleaning, especially in classrooms where apprentices spend full days. Specify Green Seal GS-37 or EPA Safer Choice products for routine surface and floor cleaning, while keeping EPA-registered disinfectants for restrooms, the dispatch counter, and high-touch points." },
+    { "q": "What scope exclusions should be written into a union hall contract?", "a": "Common exclusions are handling member records or ballots, cleaning inside shop equipment or welding booths, removing hazardous waste such as used oil or solvents, exterior window washing above ground level, and moving heavy furniture. Listing exclusions prevents disputes when a vendor declines work the local assumed was included." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/union-hall-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/research-biotech-office-cleaning-cost/",
+    "/facility-cleaning-costs/research-biotech-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-concentrated-cleaners-to-lower-supply-costs/"
+  ]
+}

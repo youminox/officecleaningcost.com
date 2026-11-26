@@ -1,0 +1,79 @@
+{
+  "slug": "financial-advisory-office-disinfection-and-compliance-pricing",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/financial-advisory-office-disinfection-and-compliance-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "financial advisory office compliance fees",
+  "title": "Financial Advisory Office Compliance Fees: Liability Coverage and EPA Disinfectant Rules for Wealth Management Firms",
+  "seoTitle": "Financial Advisory Office Compliance Fees: Bonds, Checks & EPA Rules",
+  "metaDescription": "Financial advisory office compliance fees add 5-15% to janitorial bids. See what screening, crime bonds and EPA disinfectants cost, then compare quotes.",
+  "excerpt": "Wealth management firms ask more of their janitorial vendors than most office tenants: screened crews, crime bonds, controlled after-hours access, and documented disinfectant use. This guide breaks down what each requirement adds to a bid and how to verify you are getting what you pay for.",
+  "quickAnswer": "Compliance requirements typically add 5-15 percent to a financial advisory office cleaning bid. On a 6,000 sq ft suite priced at $7,550-$12,780 per month for three nights weekly, that is roughly $380-$1,900 per month for background-checked dedicated crews, a third-party crime bond, key and alarm-code controls, and EPA-registered disinfectants with documented dwell times. Firms that insist on daytime-only or escorted access should expect specialty hourly rates of $55-$95.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic after-hours scene at the secured entrance of a US wealth management suite: a uniformed janitorial supervisor badging in at a card reader beside frosted glass doors, a quiet tower-style HEPA air purifier glowing softly in the reception corner, cool blue night lighting with warm desk lamp accents, low angle from the corridor, no text, no logos, no watermarks",
+    "alt": "Janitorial supervisor badging into a secured wealth management office after hours with an air purifier in reception"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Advisory Firms Carry a Compliance Premium" },
+    { "type": "p", "text": "Registered investment advisors and broker-dealer branch offices operate under rules that require them to protect client records and nonpublic personal information. SEC Regulation S-P, FINRA supervisory expectations, and the Gramm-Leach-Bliley Act framework do not mention janitors by name, but examiners and auditors routinely ask how a firm controls physical access to its office after hours. The cleaning crew is usually the only outside party with unsupervised nighttime access, so the vendor becomes part of the firm's information security program whether anyone writes it down or not." },
+    { "type": "p", "text": "That reality changes what a firm should demand from its vendor, and every demand has a price. Screening employees costs money, bonding costs money, keeping a stable dedicated crew costs more than rotating floaters, and documenting disinfectant use takes supervisor time. The goal is not to avoid those costs but to pay for the controls that actually reduce risk and decline the ones that add paperwork without protection." },
+    { "type": "h2", "text": "What Each Compliance Requirement Adds to a Bid" },
+    { "type": "table", "caption": "Typical cost impact of compliance requirements on a 6,000 sq ft advisory suite (3x weekly, $7,548-$12,776 base monthly)", "headers": ["Requirement", "What the vendor provides", "Typical impact", "Approx. monthly add"], "rows": [
+      ["Background-checked crew", "Criminal history screening for each assigned worker, refreshed periodically", "1-3% of contract", "$75-$385"],
+      ["Dedicated crew, no floaters", "Same named staff each visit; supervisor covers absences", "2-5%", "$150-$640"],
+      ["Third-party crime / janitorial bond", "Coverage for employee theft on client premises", "0.5-2%", "$40-$255"],
+      ["Key, fob, and alarm-code control", "Logged key custody, individual alarm codes, lost-key re-key clause", "0.5-1.5%", "$40-$190"],
+      ["Confidentiality agreement and training", "Signed NDAs, clean-desk and do-not-touch training", "0.5-1%", "$40-$130"],
+      ["EPA disinfectant documentation", "Product list, SDS binder, dwell-time logs for restrooms and touch points", "0.5-2%", "$40-$255"]
+    ] },
+    { "type": "p", "text": "Stacking every line produces a premium of roughly 5-15 percent, which on the mid-size suite benchmark works out to about $380-$1,900 per month. Firms rarely need all six at the maximum. A two-advisor RIA in a staffed Class B building may need only screening, a bond, and logged key control. A multi-family office holding original trust documents on site should expect the full stack." },
+    { "type": "callout", "variant": "compliance", "title": "Verify the certificate, not the promise", "text": "Ask for a certificate of insurance naming your firm and landlord as additional insureds, showing general liability, workers compensation, auto liability for crews that drive, and a third-party crime bond. Confirm the bond covers losses at client premises, not only the vendor's own property, since first-party employee dishonesty coverage does not protect you." },
+    { "type": "h2", "text": "EPA Disinfectant Rules That Affect Pricing" },
+    { "type": "p", "text": "Any product sold with claims to kill germs must be registered with the EPA, and the label is a legal document. The dwell time on that label, often between 30 seconds and 10 minutes, is the time a surface must stay visibly wet to achieve the stated kill claim. Crews that spray and immediately wipe are not disinfecting, they are cleaning. When a firm asks for documented disinfection of restroom fixtures, conference phones, and shared touch points, the vendor has to budget the dwell time into labor minutes, which is why disinfection programs cost more than a wipe-down." },
+    { "type": "p", "text": "OSHA also applies. Under the Hazard Communication standard, 29 CFR 1910.1200, the vendor must maintain Safety Data Sheets for every chemical and train staff on hazards. If any worker could be exposed to blood or other potentially infectious materials, such as cleaning up after an injury, OSHA's Bloodborne Pathogens standard, 29 CFR 1910.1030, requires an exposure control plan, training, and hepatitis B vaccination offered at no cost to the employee. Reputable vendors already carry these programs; ask for a copy of the training log rather than assuming." },
+    { "type": "ul", "items": [
+      "Require a written list of every chemical the crew will use in your suite, with EPA registration numbers for disinfectants.",
+      "Prefer Green Seal or EPA Safer Choice products for general cleaning and glass; restrict registered disinfectants to restrooms and high-touch points.",
+      "Ask how the vendor achieves dwell time on vertical surfaces such as door push plates and restroom partitions.",
+      "Confirm that SDS sheets are stored on site in your janitorial closet, not only at the vendor's office.",
+      "Prohibit quaternary disinfectants on hardwood, leather conference chairs, and stone unless the manufacturer approves them."
+    ] },
+    { "type": "h2", "text": "After-Hours Access and Its Cost" },
+    { "type": "p", "text": "Nighttime cleaning is cheaper than daytime cleaning because crews can move through the suite without working around staff. Many advisory firms, however, prefer that no outside party enter after the office is locked. The two alternatives are daytime porter service and escorted evening service. Daytime work drops productivity because crews must avoid occupied offices and client meetings, and escorted work requires a firm employee to stay late. Either approach usually shifts pricing from standard hourly rates of $35-$65 to specialty rates of $55-$95 for the affected hours." },
+    { "type": "p", "text": "A practical middle ground is unescorted evening access to common areas, restrooms, and the client path, with private offices and file rooms cleaned only during a scheduled monthly escorted visit. That design keeps most labor at standard rates while limiting unsupervised access to the most sensitive rooms." },
+    { "type": "h2", "text": "Supplies That Support a Documented Hygiene Program" },
+    { "type": "p", "text": "Some firms extend their hygiene program to indoor air in client-facing rooms. An Alen BreatheSmart 75i Commercial True HEPA Purifier is rated for about 1,300 sq ft, uses medical-grade HEPA filtration with a laser particle sensor, and runs quietly enough for a conference room during a client meeting. Filter changes should be assigned to either the vendor or office staff in writing, with a log." },
+    { "type": "p", "text": "Consumables also matter for audit-ready restrooms. Scott Pro Hard Roll Paper Towels on a 1.75-inch core come six rolls of 1,150 ft per case, 6,900 ft in total, and are FSC certified, which supports sustainability reporting. Scott Essential Jumbo Roll Toilet Paper provides twelve 1,000 ft rolls of 2-ply tissue on a 3.25-inch core, reducing mid-day outages. If the vendor supplies these, expect $0.012-$0.025 per sq ft per visit added to the bid." },
+    { "type": "h2", "text": "How to Evaluate Compliance Line Items in Competing Bids" },
+    { "type": "steps", "items": [
+      { "name": "List required controls in the RFP", "text": "State screening, bond, dedicated crew, key control, NDA, and disinfectant documentation as separate required items so every vendor prices the same package." },
+      { "name": "Ask for evidence", "text": "Request sample screening policy, a current COI with bond, the chemical list with EPA numbers, and OSHA training records." },
+      { "name": "Normalize to monthly", "text": "Convert every per-visit price using 4.333 weeks per month and compare compliance premiums as a percentage of base cost." },
+      { "name": "Score access design", "text": "Favor vendors who propose a realistic access model, such as common-area evening work plus monthly escorted private-office cleaning." }
+    ] },
+    { "type": "cta", "text": "Enter your suite size and frequency in the Office Cleaning Cost Calculator to establish a base cost, then load each vendor's compliance line items into the Quote Comparator to see whose premium is justified." }
+  ],
+  "faqs": [
+    { "q": "Is a janitorial bond the same as general liability insurance?", "a": "No. General liability covers bodily injury and property damage caused by negligence. A third-party crime or janitorial bond covers theft by the vendor's employees at your premises. Advisory firms should require both and verify the bond names client premises coverage." },
+    { "q": "Do SEC or FINRA rules require background checks for cleaning crews?", "a": "They do not name janitorial vendors specifically, but Regulation S-P requires safeguards for customer records, and examiners may ask how after-hours physical access is controlled. Screened, named crews with logged key custody are the most common way firms document that control." },
+    { "q": "What does EPA dwell time mean for my cleaning bill?", "a": "Dwell time is how long a disinfectant must stay wet to meet its label claims. Following it adds labor minutes on restroom fixtures and touch points, so documented disinfection programs cost more than simple wipe-downs, typically 0.5-2 percent of the contract for a small suite." },
+    { "q": "Should our cleaning vendor have a bloodborne pathogens program?", "a": "Yes, if crew members could encounter blood or bodily fluids, which is possible in any restroom. OSHA 29 CFR 1910.1030 requires an exposure control plan, annual training, and hepatitis B vaccination offered to exposed workers. Ask for the vendor's plan and training records." },
+    { "q": "How much more does daytime cleaning cost for a wealth management office?", "a": "Daytime or escorted work usually bills at specialty rates of $55-$95 per hour versus $35-$65 for standard evening work, because crews work around occupants and meetings. Limiting daytime service to restrooms and the client path keeps the premium small." }
+  ],
+  "amazonProductIds": [
+    "alen-breathesmart-75i-commercial-true-hepa-purifier",
+    "scott-pro-hard-roll-paper-towels-175-inch-core-6-case",
+    "scott-essential-jumbo-roll-toilet-paper-2-ply-12-case"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/real-estate-brokerage-cleaning-cost/",
+    "/facility-cleaning-costs/real-estate-brokerage-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/real-estate-brokerage-disinfection-and-compliance-pricing/",
+    "/janitorial-carts-mops-and-tools/o-cedar-promist-max-vs-rubbermaid-hygen-spray-mop/"
+  ]
+}

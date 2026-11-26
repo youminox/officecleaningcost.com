@@ -1,0 +1,108 @@
+{
+  "slug": "how-often-to-schedule-vct-strip-and-wax",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-vct-strip-and-wax/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar vct strip and wax",
+  "title": "Quarterly vs. Annual Calendar for VCT Strip and Wax: Frequency by Foot Traffic and Annual Spend",
+  "seoTitle": "VCT Strip and Wax Calendar: Quarterly vs Annual Frequency & Spend",
+  "metaDescription": "VCT strip and wax calendar by foot traffic: annual full strips at $0.25–$0.75/sq ft plus quarterly recoats. See annual spend and model it in our calculator.",
+  "excerpt": "Office managers learn how foot traffic determines whether VCT needs monthly burnishing, quarterly scrub-and-recoats, or a full strip once a year or less. The guide turns each calendar into annual dollars per square foot for budgeting and vendor audits.",
+  "quickAnswer": "Most offices should fully strip and wax VCT once every 12 months in medium-traffic areas, every 6 months in heavy lobbies and break rooms, and every 18–24 months in light-use rooms, with quarterly scrub-and-recoats in between. Annual spend typically runs $0.50–$1.40 per sq ft for heavy zones and $0.20–$0.45 for light zones.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic US office elevator lobby with glossy speckled VCT showing a slightly dulled traffic path from the elevator doors to a reception desk, a steel square trash receptacle beside the elevators, a janitor running a high-speed burnisher at dusk, warm lobby downlights reflecting on the floor, low-angle wide shot, no text, no logos, no watermarks",
+    "alt": "Elevator lobby VCT floor with a visible traffic path being burnished between strip-and-wax cycles"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Strip, Recoat, or Burnish: Know the Three Levels" },
+    { "type": "p", "text": "A VCT floor care calendar is really three overlapping schedules. A full strip and wax removes all finish and rebuilds it, costing $0.25–$0.75 per sq ft. A scrub-and-recoat abrades the worn top layer and adds one or two fresh coats for $0.12–$0.25 per sq ft. Burnishing with a high-speed machine restores gloss for a few cents per sq ft and is often done during routine visits. The goal of a good calendar is to use cheap burnishing and periodic recoats to push expensive full strips as far apart as possible." },
+    { "type": "p", "text": "When managers ask how often to strip and wax, the honest answer is: as rarely as your recoat program allows. Floors that only get stripped, with nothing in between, look worn within months and end up stripped more often, costing more over the year." },
+    { "type": "h2", "text": "Foot-Traffic Thresholds and Recommended Calendars" },
+    {
+      "type": "table",
+      "caption": "VCT care calendar and annual cost per sq ft by traffic level (national ranges)",
+      "headers": ["Traffic level", "Typical areas", "Full strip and wax", "Scrub-and-recoat", "Burnish", "Annual cost per sq ft"],
+      "rows": [
+        ["Heavy (1,000+ crossings/day)", "Entry vestibules, elevator lobbies, break rooms, cafeterias", "Every 6 months", "Quarterly between strips (2/yr)", "Weekly to monthly", "$0.90–$1.40"],
+        ["Medium (300–1,000)", "Main corridors, copy rooms, clinic hallways", "Every 12 months", "2–3 per year", "Monthly", "$0.50–$0.90"],
+        ["Light (under 300)", "Storage, file rooms, private offices with VCT", "Every 18–24 months", "1 per year", "Quarterly", "$0.20–$0.45"]
+      ]
+    },
+    { "type": "p", "text": "Annual costs combine strip pricing at the mid-size office range of $0.35–$0.55 per sq ft, recoats at $0.12–$0.25, and burnishing at roughly $0.01–$0.03 per pass when included in routine visits. Large buildings over 25,000 sq ft will land near the bottom of each range; small suites near or above the top." },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Amortized benchmark check",
+      "text": "National benchmarks for a quarterly deep floor program run $0.03–$0.06 per sq ft per month, or $0.36–$0.72 per year. A medium-traffic VCT calendar falls right in that window. If a vendor proposes heavy-zone frequency across your entire floor, annual cost can double without benefit."
+    },
+    { "type": "h2", "text": "Sample Annual Calendar for a 6,000 sq ft VCT Office" },
+    { "type": "p", "text": "Consider a medical or professional office with 6,000 sq ft of VCT: 1,000 sq ft heavy (lobby and break room), 3,500 sq ft medium (corridors), and 1,500 sq ft light (storage and file rooms)." },
+    {
+      "type": "table",
+      "caption": "Zoned VCT calendar and annual spend, 6,000 sq ft office",
+      "headers": ["Month", "Heavy zone (1,000 sq ft)", "Medium zone (3,500 sq ft)", "Light zone (1,500 sq ft)", "Estimated cost"],
+      "rows": [
+        ["January", "Full strip and wax", "Full strip and wax", "—", "$1,575–$2,475"],
+        ["April", "Scrub-and-recoat", "Scrub-and-recoat", "Scrub-and-recoat", "$720–$1,500"],
+        ["July", "Full strip and wax", "—", "—", "$350–$550"],
+        ["October", "Scrub-and-recoat", "Scrub-and-recoat", "—", "$540–$1,125"],
+        ["Annual total", "2 strips, 2 recoats", "1 strip, 2 recoats", "1 recoat (strip every other year)", "$3,185–$5,650"]
+      ]
+    },
+    { "type": "p", "text": "That works out to roughly $0.53–$0.94 per sq ft per year, or $265–$471 per month amortized. In alternate years, add a light-zone strip of about $525–$825. Compare this with a flat calendar of two full strips per year across the whole floor, which would cost $4,200–$6,600 in strips alone while delivering no better appearance in storage rooms." },
+    { "type": "h2", "text": "Building and Climate Factors That Shift the Calendar" },
+    {
+      "type": "ul",
+      "items": [
+        "Winter grit and ice melt: buildings in snow states should schedule a recoat or strip in late March after salt season, because calcium chloride residue dulls and softens finish.",
+        "Entry matting: 10 to 15 feet of walk-off matting can stretch heavy-zone strips from 6 months to 9 months.",
+        "Rolling loads: carts, wheelchairs, and mail carts scuff finish faster; clinics and mailrooms trend toward heavy-zone calendars.",
+        "Spills and food: break rooms and cafeterias need more frequent recoats because acidic and sugary spills etch finish.",
+        "Waste handling: dragging overloaded trash barrels across VCT scratches finish; vented cans that release liners easily reduce dragging.",
+        "Daily chemistry: harsh or high-pH daily cleaners strip finish slowly; specify neutral-pH damp mopping."
+      ]
+    },
+    { "type": "h2", "text": "Waste Station Placement Protects Finish" },
+    { "type": "p", "text": "One overlooked driver of VCT wear is how trash is handled. A Rubbermaid Commercial Brute 44-gallon vented can, made from LLDPE resin with venting channels that cut liner pull force, lets custodians lift full bags out instead of tipping and dragging the container across the floor. In narrow break rooms and copy rooms, the 23-gallon Slim Jim station at about 11 inches wide keeps waste out of traffic paths, and bag cinches prevent leaking liners from dripping onto finish. In Class A lobbies and elevator banks, a fire-safe powder-coated steel receptacle like the Safco Public Square 37-gallon unit, with a liner retainer, should sit on a protective pad so its base does not scuff a freshly waxed floor." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Measure and zone VCT areas", "text": "Mark heavy, medium, and light zones on a floor plan with square footage." },
+        { "name": "Record finish condition", "text": "Note current gloss, visible traffic lanes, and the date of the last strip so the first-year calendar starts in the right place." },
+        { "name": "Set the calendar in the contract", "text": "List months for strips and recoats per zone, number of finish coats, and burnishing frequency." },
+        { "name": "Track gloss quarterly", "text": "Use photos or a simple gloss meter to decide whether to move a zone up or down a frequency level." },
+        { "name": "Re-bid on program pricing", "text": "Ask vendors to price the full annual calendar as a program rather than individual work orders." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Scheduling around occupants",
+      "text": "Stripping uses alkaline chemicals covered by OSHA HazCom, and wet floors create slip hazards. Schedule strips on nights or weekends, require SDS sheets and signage, and confirm the vendor's COI is current before each project. Healthcare tenants should also coordinate with infection-control staff."
+    },
+    { "type": "cta", "text": "Enter your VCT square footage by zone in the Office Cleaning Cost Calculator to see your annual strip-and-wax budget, then compare vendor calendars and pricing in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How often should an office strip and wax VCT floors?", "a": "For most offices, once a year in medium-traffic corridors, twice a year in heavy lobbies and break rooms, and every 18 to 24 months in light-use rooms. Quarterly scrub-and-recoats between strips keep appearance high and push full strips further apart." },
+    { "q": "Is it cheaper to strip more often or recoat more often?", "a": "Recoating is cheaper. A scrub-and-recoat runs $0.12–$0.25 per sq ft versus $0.25–$0.75 for a full strip. A well-maintained recoat program can cut the number of full strips in half, lowering annual spend while keeping floors glossy." },
+    { "q": "How do I budget strip and wax monthly?", "a": "Add the annual cost of strips and recoats for each zone, then divide by 12. If your vendor prices weekly burnishing, convert using 4.333 weeks per month. A 6,000 sq ft zoned calendar often lands around $265–$471 per month amortized." },
+    { "q": "Can floors go too long between strips?", "a": "Yes. When finish wears through to bare tile, soil embeds in the porous VCT and the next strip needs extra scrubbing, sometimes costing 20% to 30% more. Severely neglected floors may need tile replacement in traffic paths." },
+    { "q": "Should strip and wax be in my janitorial contract or a separate agreement?", "a": "Either works, but write the calendar, zones, coats, and pricing into the contract if it's included. Separate agreements with a floor specialist are common in large buildings. In both cases, verify a current COI, OSHA HazCom compliance, and a credit clause for missed scheduled work." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-44-gallon-vented-trash-can",
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-vct-strip-and-wax-quotes/",
+    "/cleaning-services-and-tasks/vct-scrub-and-recoat-cost-guide/",
+    "/commercial-vacuums-and-floor-machines/best-lightweight-commercial-uprights-for-stairs/"
+  ]
+}

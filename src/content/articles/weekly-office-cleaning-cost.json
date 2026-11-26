@@ -1,0 +1,101 @@
+{
+  "slug": "weekly-office-cleaning-cost",
+  "pillar": "cleaning-frequency-and-schedules",
+  "path": "/cleaning-frequency-and-schedules/weekly-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weekly 1x week office cleaning cost",
+  "title": "Weekly (1x/Week) Office Cleaning Cost: Once-a-Week Pricing, the 4.33-Visit Month, and Fit",
+  "seoTitle": "Weekly 1x/Week Office Cleaning Cost: 4.33-Visit Rates by Sq Ft",
+  "metaDescription": "Weekly 1x/week office cleaning cost: a 1.08x rate over 4.33 monthly visits, about $2,104–$3,507 for 5,000 sq ft. Run the calculator or compare quotes.",
+  "excerpt": "Once-a-week janitorial service is the most common schedule for small professional offices, priced at about a 1.08x multiplier over 4.33 visits per month. This guide breaks down cost by size, the five-visit-month billing trap, how seven days of soil behaves, and what weekly crews realistically finish in one shift.",
+  "quickAnswer": "Weekly (1x/week) office cleaning typically costs $0.097–$0.162 per sq ft per visit for 2,500–9,999 sq ft offices and $0.13–$0.216 for suites under 2,500 sq ft, based on a 1.08x multiplier. At 4.33 visits per month, a 5,000 sq ft office averages about $2,104–$3,507 monthly before add-ons. Weekly fits offices of roughly 5 to 20 people with a single breakroom and staff who handle midweek trash.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic shot of a modern US law firm reception area on a Friday evening, a janitor in a charcoal uniform rolling a discreet charcoal executive housekeeping caddy cart across polished LVT flooring past a brushed stainless steel semi-round trash receptacle, warm pendant lighting, city lights visible through floor-to-ceiling glass, three-quarter camera angle at waist height, crisp detail, no text, no logos, no watermarks",
+    "alt": "Janitor with a compact executive cleaning cart servicing a law office reception area during a weekly evening visit"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How weekly cleaning is priced" },
+    { "type": "p", "text": "Weekly service carries roughly a 1.08x multiplier on the base per-square-foot rate, meaning each visit costs about 8% more than the same visit on a twice-weekly contract. The premium covers the extra soil a crew clears after seven days instead of three or four. Vendors then multiply the per-visit price by 4.33, the average number of weeks in a month (52 weeks divided by 12, or 4.333), to produce a flat monthly fee." },
+    { "type": "p", "text": "That 4.33 factor is where many buyers get confused. A month never contains 4.33 visits; it contains four or five. A flat monthly fee smooths that out so you pay the same amount in a four-Thursday February as in a five-Thursday July. Per-visit billing gives the same annual total but swings by 25% month to month." },
+    { "type": "h2", "text": "Weekly cost by office size" },
+    {
+      "type": "table",
+      "caption": "Weekly (1x/week) office cleaning cost by size: 1.08x multiplier, 4.33 visits per month",
+      "headers": ["Office size", "Effective rate per sq ft per visit", "Per visit", "Monthly (4.33 visits)", "Annual (52 visits)"],
+      "rows": [
+        ["1,000 sq ft", "$0.130–$0.216", "$130–$216 (minimum may apply)", "$561–$935", "$6,739–$11,232"],
+        ["2,000 sq ft", "$0.130–$0.216", "$259–$432", "$1,122–$1,871", "$13,478–$22,464"],
+        ["5,000 sq ft", "$0.097–$0.162", "$486–$810", "$2,104–$3,507", "$25,272–$42,120"],
+        ["12,000 sq ft", "$0.076–$0.130", "$907–$1,555", "$3,928–$6,734", "$47,174–$80,870"],
+        ["30,000 sq ft", "$0.054–$0.108", "$1,620–$3,240", "$7,015–$14,029", "$84,240–$168,480"]
+      ]
+    },
+    { "type": "p", "text": "Very small suites often hit a per-visit minimum of $90–$135. A 600 sq ft office calculates to about $78–$130 per visit, so expect the minimum to set your price rather than the square-foot rate." },
+    { "type": "h2", "text": "Per-visit discount vs. monthly total across neighboring schedules" },
+    { "type": "p", "text": "Using a 5,000 sq ft office, weekly sits at the pivot point where per-visit savings start to taper and monthly spend starts climbing fast." },
+    {
+      "type": "table",
+      "caption": "5,000 sq ft office: how weekly compares to adjacent frequencies",
+      "headers": ["Schedule", "Multiplier", "Per visit", "Monthly total", "Change vs. weekly (monthly)"],
+      "rows": [
+        ["Biweekly", "1.16", "$522–$870", "$1,133–$1,888", "about 46% less"],
+        ["Weekly", "1.08", "$486–$810", "$2,104–$3,507", "baseline"],
+        ["Twice weekly", "1.00", "$450–$750", "$3,897–$6,495", "about 85% more"],
+        ["Three times weekly", "0.95", "$428–$713", "$5,558–$9,263", "about 164% more"]
+      ]
+    },
+    { "type": "p", "text": "Stepping down to biweekly saves nearly half the monthly bill but raises each visit 7.4% and doubles soil per visit. Stepping up to twice weekly lowers each visit only 7.4% while nearly doubling spend. For most offices of 5 to 20 people, weekly plus a staff midweek routine is the most cost-efficient configuration." },
+    { "type": "h2", "text": "What seven days of soil looks like" },
+    { "type": "p", "text": "A weekly crew walks into a space with five working days of accumulated use. Private offices and conference rooms hold up well. Three zones decide whether weekly service feels adequate to occupants." },
+    { "type": "ul", "items": [
+      "Breakroom: coffee rings, microwave splatter, and sink residue harden after two to three days. A Monday or Friday visit only resets it once, so a staff wipe-down on Wednesday is essential.",
+      "Restrooms: a 10-person office produces roughly 50 people-days of restroom use between visits. Paper restock, soap levels, and a quick fixture wipe should fall to a named staff member midweek.",
+      "Trash: desk bins fill in three to four days in paper-heavy offices. Consolidating into a central receptacle prevents overflow and odor.",
+      "Entry carpet: seven days without vacuuming is tolerable with a walk-off mat; without one, grit migrates 15 to 20 feet into the suite."
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Scheduling the visit day", "text": "Thursday evening or Friday evening visits are the most common choice for weekly accounts because the office looks its best heading into Monday and client meetings early in the week. Monday morning visits are cheaper for some vendors to staff but leave the space at its worst on Friday afternoons." },
+    { "type": "h2", "text": "What a weekly crew can finish in one visit" },
+    { "type": "p", "text": "The ISSA production benchmark of about 3,500 sq ft per hour applies to routine vacuuming in open carpet. Restrooms, breakrooms, and detail dusting run slower, so a realistic weekly scope should be prioritized. A typical weekly checklist includes:" },
+    { "type": "steps", "items": [
+      { "name": "Restrooms first", "text": "Disinfect toilets, urinals, sinks, and partitions using an EPA-registered disinfectant with its labeled dwell time; restock paper and soap; mop floors." },
+      { "name": "Breakroom sanitation", "text": "Clean counters, sink, microwave interior and exterior, fridge handles, and cabinet pulls. Often itemized at $12–$25 per visit." },
+      { "name": "Trash and recycling", "text": "Empty all bins, replace liners, and haul to the building dumpster or compactor." },
+      { "name": "Floors", "text": "Vacuum carpeted traffic areas and edges, damp mop hard floors with a neutral cleaner." },
+      { "name": "Dusting and touch points", "text": "Wipe desks that are cleared, door handles, light switches, and reception counters; spot clean interior glass." }
+    ] },
+    { "type": "p", "text": "Equipment choice matters in visible spaces. In law firms, medical-adjacent suites, and Class A reception areas where a weekly visit might run into early evening, a Rubbermaid Executive Quick Cart in charcoal with quiet casters and a 60 lb capacity keeps the crew discreet. A Brute Rim Caddy snapped onto a 44-gallon barrel carries spray bottles, a wet floor sign, and liner rolls in nine compartments, saving trips. For the office side, a Simplehuman 14.5-gallon brushed stainless semi-round can with a heavy base gives a reception or breakroom a clean, ADA-friendly receptacle that holds a week of light waste without tipping." },
+    { "type": "h2", "text": "Add-ons and contract details for weekly service" },
+    { "type": "ul", "items": [
+      "Restroom detail: $15–$30 per restroom per visit, about $65–$130 per restroom per month at 4.33 visits.",
+      "Interior glass and conference partitions: $15–$35 per visit.",
+      "Consumables included: $0.012–$0.025 per sq ft per visit, or about $260–$541 per month on 5,000 sq ft. Compare against buying paper and soap directly.",
+      "Quarterly deep floor care amortized at $0.03–$0.06 per sq ft per month.",
+      "Holiday clause: specify whether a visit falling on a federal holiday is moved or skipped, and whether the flat fee is adjusted.",
+      "Certificate of insurance with general liability and workers' compensation, plus a janitorial bond if the crew holds keys or alarm codes."
+    ] },
+    { "type": "cta", "text": "Enter your square footage, restroom count, and flooring mix into the Office Cleaning Cost Calculator to see your weekly monthly figure at 4.33 visits, or upload competing bids to the Quote Comparator to normalize flat-fee and per-visit pricing side by side." }
+  ],
+  "faqs": [
+    { "q": "How much does once-a-week office cleaning cost for 3,000 sq ft?", "a": "Using the 2,500–9,999 sq ft bracket rate of $0.09–$0.15 and a 1.08x weekly multiplier, each visit runs about $292–$486. At 4.33 visits per month the average is roughly $1,263–$2,104 before restroom, breakroom, or consumables add-ons." },
+    { "q": "Why does my weekly invoice show 4.33 visits?", "a": "A year has 52 weeks, and 52 divided by 12 months equals 4.333. Flat monthly contracts use that average so you pay the same each month even though some months contain five visits and others four. Over a year you pay for exactly 52 visits." },
+    { "q": "Is weekly cleaning enough for a 20-person office?", "a": "Usually not on its own. Twenty people generate about 100 people-days of restroom and breakroom use per week, which overwhelms a single visit. Either add a second weekly visit, which lowers the per-visit multiplier to 1.0, or bring in a day porter for restrooms and breakroom midweek." },
+    { "q": "What is typically excluded from a weekly cleaning scope?", "a": "Common exclusions include carpet extraction, VCT strip and recoat, exterior windows, high dusting above about 8 feet, upholstery cleaning, and biohazard or bodily fluid cleanup. Bloodborne pathogen events require OSHA 1910.1030 trained personnel and are usually billed per incident." },
+    { "q": "Should a weekly vendor provide Green Seal certified products?", "a": "If your lease or corporate policy requires it, yes. Ask for Green Seal GS-37 or Safer Choice general cleaners and EPA-registered disinfectants, and require SDS sheets on site under OSHA HazCom. Green products rarely change weekly pricing by more than a few percent." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/cleaning-frequency-and-schedules/",
+    "/cleaning-frequency-and-schedules/twice-weekly-office-cleaning-cost/",
+    "/cleaning-frequency-and-schedules/three-times-weekly-office-cleaning-cost/",
+    "/cleaning-frequency-and-schedules/daily-5-days-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-urinal-deodorizer-screens-for-high-traffic-men-rooms/"
+  ]
+}

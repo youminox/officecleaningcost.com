@@ -1,0 +1,82 @@
+{
+  "slug": "how-often-to-schedule-electrostatic-disinfection-spraying",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-electrostatic-disinfection-spraying/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar electrostatic disinfection spraying",
+  "title": "Quarterly, Monthly, or Annual? Building an Electrostatic Disinfection Spraying Calendar and Annual Budget",
+  "seoTitle": "Quarterly & Annual Calendar for Electrostatic Disinfection Spraying",
+  "metaDescription": "Quarterly vs annual calendar for electrostatic disinfection spraying: match foot traffic to frequency and see annual spend from $1,200 to $40,000+. Calculate yours.",
+  "excerpt": "The right electrostatic spraying frequency depends on daily foot traffic, shared-surface density, and seasonal illness patterns, not on a vendor's preferred schedule. This guide maps low, medium, and heavy traffic offices to monthly, quarterly, or annual calendars and shows the annualized cost of each.",
+  "quickAnswer": "Low-traffic offices with fewer than 1 visitor per 1,000 sq ft per day usually need only quarterly or seasonal electrostatic spraying, medium-traffic offices benefit from monthly service, and heavy-traffic sites such as medical suites, call centers, and coworking floors justify biweekly or weekly spraying. At $0.04 to $0.20 per sq ft per application, a 5,000 sq ft office spends roughly $1,400 to $2,800 per year on a quarterly calendar versus $4,200 to $8,400 on a monthly one.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a busy US coworking office lobby at early evening after members leave, a technician in gloves misting shared hot desks and a reception counter with a cordless electrostatic sprayer, a charcoal executive housekeeping cart parked nearby, warm pendant lighting reflecting on polished concrete floors, no text, no logos, no watermarks",
+    "alt": "Technician misting shared hot desks in a coworking lobby with an electrostatic sprayer beside a housekeeping cart"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Start With Foot Traffic, Not the Vendor's Default" },
+    { "type": "p", "text": "Many vendors propose weekly electrostatic spraying because it maximizes recurring revenue. The better approach is to tie frequency to how many people touch shared surfaces each day. Electrostatic disinfection works on surfaces at the moment of application; once the label dwell time ends and the surface dries, there is no lasting residual protection unless the product label specifically claims it. That means frequency should track the rate at which surfaces get recontaminated, which follows foot traffic and shared-surface density." },
+    { "type": "p", "text": "A practical metric is daily occupants plus visitors per 1,000 sq ft. A 6,000 sq ft engineering firm with 18 assigned-desk employees and almost no visitors runs about 3 people per 1,000 sq ft. A 6,000 sq ft urgent care or coworking floor with 120 daily users runs 20 per 1,000 sq ft. These two offices should not be on the same calendar." },
+    { "type": "h2", "text": "Traffic Thresholds and Recommended Frequency" },
+    { "type": "table", "caption": "Electrostatic disinfection frequency by foot traffic tier", "headers": ["Traffic tier", "People per 1,000 sq ft per day", "Typical tenants", "Recommended frequency", "Applications per year"], "rows": [
+      ["Low", "Under 4", "Assigned-desk professional offices, back-office operations", "Quarterly, plus one extra in flu season", "4–5"],
+      ["Medium", "4–10", "Sales offices, open-plan tech, regional HQ with visitors", "Monthly", "12"],
+      ["Heavy", "10–20", "Coworking, call centers, training centers, schools' admin", "Biweekly (2.17x per month)", "26"],
+      ["Very heavy or clinical", "Over 20", "Medical and dental suites, fitness centers, public service counters", "Weekly (4.33x per month)", "52"]
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Seasonal flex beats a flat calendar", "text": "Many offices get better value by running a quarterly baseline and switching to monthly or biweekly spraying from November through March, when respiratory illness peaks. That adds four to six applications per year instead of eight to forty extra." },
+    { "type": "h2", "text": "Annualized Cost by Calendar" },
+    { "type": "p", "text": "Annual spend equals cost per application times applications per year. For monthly-or-faster schedules, use visits per month (1, 2.17, or 4.33) times 12. Recurring programs typically earn 10 to 25 percent discounts versus one-time calls, which the ranges below assume." },
+    { "type": "table", "caption": "Annual electrostatic disinfection spend by office size and calendar (recurring program rates)", "headers": ["Office size and rate", "Quarterly (4x)", "Monthly (12x)", "Biweekly (26x)", "Weekly (52x)"], "rows": [
+      ["2,000 sq ft at $0.10–$0.18 (min $125)", "$800–$1,440", "$2,400–$4,320", "$5,200–$9,360", "$10,400–$18,720"],
+      ["5,000 sq ft at $0.07–$0.14", "$1,400–$2,800", "$4,200–$8,400", "$9,100–$18,200", "$18,200–$36,400"],
+      ["15,000 sq ft at $0.05–$0.09", "$3,000–$5,400", "$9,000–$16,200", "$19,500–$35,100", "$39,000–$70,200"],
+      ["40,000 sq ft at $0.03–$0.06", "$4,800–$9,600", "$14,400–$28,800", "$31,200–$62,400", "$62,400–$124,800"]
+    ] },
+    { "type": "p", "text": "Note how quickly weekly programs escalate. A 15,000 sq ft office paying $9,000 to $16,200 per year on a monthly calendar would pay roughly four times as much on weekly service. Unless the traffic tier is truly heavy or clinical, weekly whole-floor spraying is rarely justified. The more efficient pattern for large floors is weekly targeted spraying of restrooms, breakrooms, and lobbies combined with a monthly whole-floor pass." },
+    { "type": "h2", "text": "Building a Practical 12-Month Calendar" },
+    { "type": "steps", "items": [
+      { "name": "Score your traffic", "text": "Count badge swipes or visitor log entries over two typical weeks and divide daily average by floor area in thousands of sq ft." },
+      { "name": "Assign a baseline tier", "text": "Use the threshold table to set the default frequency for the whole office." },
+      { "name": "Add seasonal surges", "text": "Increase frequency from November through March, and schedule one-time applications after known events such as all-hands meetings or an employee illness cluster." },
+      { "name": "Zone high-touch areas", "text": "Put restrooms, breakrooms, elevator lobbies, and shared hot desks on a faster cycle than private offices." },
+      { "name": "Lock dates in the contract", "text": "Write the calendar into the scope matrix with specific weeks so applications are not skipped or bunched at month-end." },
+      { "name": "Review quarterly", "text": "Compare service logs, absenteeism trends, and occupancy changes, then adjust the next quarter's frequency." }
+    ] },
+    { "type": "h2", "text": "Operational Details That Keep the Calendar Working" },
+    { "type": "p", "text": "Spraying only works on pre-cleaned surfaces, so the calendar must align with the routine janitorial schedule. Schedule electrostatic visits on nights when the crew has already wiped desks and emptied receptacles. Stocking matters too: a discreet Rubbermaid Executive Quick Cart with quiet casters and a 60 lb capacity lets day porters restock wipes and liners in occupied lobbies, a Brute Rim Caddy with nine compartments snapped onto a 44-gallon container keeps spray bottles and wet-floor signs organized, and brushed stainless open-top receptacles like the Simplehuman 14.5-gallon semi-round can in restrooms are easy surfaces to wipe and spray without trapping mist in lid mechanisms." },
+    { "type": "callout", "variant": "compliance", "title": "Label, HazCom, and re-entry rules", "text": "Confirm the disinfectant label allows electrostatic application and follow its dwell time and re-entry interval. Keep the Safety Data Sheet in your OSHA HazCom binder, and if staff could contact bodily fluids during spill response, the separate OSHA Bloodborne Pathogens Standard applies regardless of your spraying calendar." },
+    { "type": "h2", "text": "Signals It Is Time to Change Frequency" },
+    { "type": "ul", "items": [
+      "Occupancy has changed by more than 25 percent due to hybrid work policy shifts or new hires.",
+      "A new tenant use, such as a training room or clinic, has been added to the floor.",
+      "Absenteeism spikes during a season that was on the low-frequency baseline.",
+      "Service logs show the vendor routinely runs short visits, suggesting the area is lightly used and frequency can drop.",
+      "Your budget review shows spraying exceeding 10 to 15 percent of total janitorial spend on a low-traffic office."
+    ] },
+    { "type": "cta", "text": "Model quarterly, monthly, and weekly spraying for your square footage in the Office Cleaning Cost Calculator, then compare vendor calendars and per-application pricing in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Is quarterly electrostatic spraying enough for a typical office?", "a": "For assigned-desk professional offices with fewer than about 4 people per 1,000 sq ft per day, quarterly spraying plus one extra application during flu season is usually adequate, provided routine janitorial disinfection of high-touch points continues between visits." },
+    { "q": "How do I calculate monthly cost for biweekly spraying?", "a": "Multiply cost per application by 2.17 visits per month, based on 4.33 weeks per month divided by two. A $500 application on a biweekly calendar costs about $1,085 per month, or $13,020 per year." },
+    { "q": "Does electrostatic spraying leave lasting protection between visits?", "a": "Most disinfectants only kill organisms present during the label dwell time. Unless the product carries an EPA-approved residual claim, surfaces can be recontaminated as soon as people touch them, which is why frequency should follow foot traffic." },
+    { "q": "Should medical suites use weekly spraying?", "a": "Clinical and very heavy traffic spaces commonly use weekly or more frequent spraying, but it supplements, not replaces, the manual disinfection protocols required by infection control policies and OSHA bloodborne pathogens rules for exam and procedure areas." },
+    { "q": "Can we pause the spraying calendar during low occupancy?", "a": "Many vendors allow seasonal suspensions if written into the contract. Negotiate a clause that permits frequency changes with 30 days notice and no rate penalty, so the calendar can track hybrid occupancy shifts." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-electrostatic-disinfection-spraying-quotes/",
+    "/cleaning-services-and-tasks/day-porter-services-cost-guide/",
+    "/commercial-vacuums-and-floor-machines/best-dual-motor-commercial-upright-vacuums/"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "vct-strip-and-wax-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/vct-strip-and-wax-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge vct strip and wax",
+  "title": "Extra Charge for VCT Strip and Wax? How to Tell If It Is Included or Billed Separately",
+  "seoTitle": "Extra Charge VCT Strip and Wax: Included in Base or Billed Extra?",
+  "metaDescription": "Extra charge VCT strip and wax explained: most vendors bill $0.30-$0.60/sq ft as a separate work order. Audit your contract and compare quotes line by line.",
+  "excerpt": "Most US janitorial retainers exclude full VCT stripping and refinishing, then bill it as a project work order at $0.30 to $0.60 per sq ft. This guide shows office managers how to read scope language, spot buried exclusions, and decide whether to fold the work into the monthly price.",
+  "quickAnswer": "In roughly eight of ten US office cleaning contracts, a full VCT strip and wax is not part of the monthly base price; it is billed as a separate project at about $0.30 to $0.60 per sq ft with a $250 to $450 minimum. Vendors only fold it into the retainer when the contract explicitly lists an annual strip as a scheduled periodic task and amortizes it, typically adding $0.02 to $0.05 per sq ft per month to the base rate.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic night scene in a US office corridor with vinyl composition tile half stripped and half freshly refinished, a janitorial technician in coveralls guiding a low-speed rotary floor machine, yellow four-sided wet floor cones lining the edge, overhead fluorescent light reflecting off the new gloss, low camera angle at floor level, no text, no logos, no watermarks",
+    "alt": "Technician stripping and refinishing VCT in an office hallway at night with wet floor cones placed along the wall"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Strip and Wax Is Usually Outside the Monthly Retainer" },
+    { "type": "p", "text": "A standard US office cleaning retainer is priced around recurring production: trash, restrooms, dusting, vacuuming, and damp mopping hard floors. Using the ISSA production benchmark of roughly 3,500 sq ft per hour for routine cleaning, vendors build a monthly number from visits per month (weekly frequency times 4.333) and a per-sq-ft rate that, nationally, runs $0.05 to $0.20 per sq ft per visit depending on building size. A full VCT strip and refinish does not fit that model. It requires a separate crew, a 175 to 300 RPM rotary machine, a wet vacuum, stripper chemistry, four to six coats of finish, and a building that stays empty for six to twelve hours while coats cure." },
+    { "type": "p", "text": "Because of that, most vendors treat strip and wax as a specialty project billed at $55 to $95 per technician hour or, more commonly, a flat per-sq-ft price. If your contract is silent on stripping, assume it is excluded. Silence is not inclusion, and an auditor reviewing your janitorial spend will treat any strip invoice as legitimate if the scope never listed it." },
+    { "type": "h2", "text": "Three Contract Models You Will See in Quotes" },
+    { "type": "p", "text": "When you collect three or four bids, the strip-and-wax treatment usually falls into one of three structures. Knowing which one each vendor uses is the only way to compare totals honestly." },
+    { "type": "table", "caption": "How vendors price VCT strip and wax relative to the base cleaning contract (5,000 sq ft of VCT example)", "headers": ["Model", "How it appears on the quote", "Typical rate", "Annual cost for 5,000 sq ft VCT", "Audit risk"], "rows": [
+      ["Excluded, billed on request", "Listed under Exclusions or Additional Services", "$0.30-$0.60 per sq ft per event", "$1,500-$3,000 per strip", "Medium: price set at time of request"],
+      ["Pre-priced add-on", "Rate card attached as Exhibit B", "$0.28-$0.50 per sq ft, locked 12 months", "$1,400-$2,500 per strip", "Low: rate fixed in writing"],
+      ["Amortized into base", "Periodic schedule lists Annual strip and refinish", "+$0.02-$0.05 per sq ft per month", "$1,200-$3,000 spread over 12 invoices", "Low if schedule is enforced; high if skipped"],
+      ["Bundled deep floor program", "Quarterly scrub-and-recoat plus annual strip", "$0.03-$0.06 per sq ft per month", "$1,800-$3,600 per year", "Low: documented visit log required"]
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch for the phrase floor care as needed", "text": "Quotes that promise floor care as needed rarely include stripping. That phrase normally covers damp mopping and occasional spray buffing. If a salesperson says strip and wax is covered, make them put the frequency, the number of finish coats, and the square footage in the periodic task schedule before you sign." },
+    { "type": "h2", "text": "Clause-by-Clause Audit Checklist" },
+    { "type": "p", "text": "Pull the contract, the scope of work exhibit, and the last 12 months of invoices. Then work through these checks. Most procurement disputes about strip and wax trace back to one of the first four items." },
+    { "type": "steps", "items": [
+      { "name": "Locate the periodic task schedule", "text": "Daily and weekly tasks rarely mention stripping. Look for a separate quarterly, semiannual, or annual table. If strip and refinish is not listed there with a frequency, it is excluded." },
+      { "name": "Confirm the square footage basis", "text": "Strip pricing should use resilient-floor square footage only, not total rentable area. A 12,000 sq ft suite may have just 3,500 sq ft of VCT in corridors, breakrooms, and copy rooms. Billing on gross area inflates the invoice by 200 percent or more." },
+      { "name": "Check coat count and finish solids", "text": "A credible spec states the number of finish coats (four to six) and the solids content, such as a 25 percent solids high-gloss acrylic. Without it, a vendor can lay two thin coats and call the job complete." },
+      { "name": "Read the exclusions list", "text": "Furniture moving, baseboard detailing, after-hours security escorts, and edge work behind fixed casework are often excluded even when the strip itself is included." },
+      { "name": "Match invoices to the schedule", "text": "If the strip is amortized into your base and the work log shows no strip in 14 months, you have been paying for a service you did not receive. Request a credit or an immediate scheduled date." },
+      { "name": "Verify insurance and safety documentation", "text": "Ask for a current certificate of insurance naming you as additional insured, plus Safety Data Sheets for the stripper and finish under OSHA Hazard Communication rules." }
+    ] },
+    { "type": "h2", "text": "When Folding Strip and Wax Into the Base Makes Sense" },
+    { "type": "p", "text": "Amortizing makes the most financial sense when your VCT footprint is large, traffic is predictable, and you want flat monthly invoices for budgeting. A 20,000 sq ft medical office with 9,000 sq ft of VCT might pay $0.35 per sq ft per strip, or $3,150 per year. Spread over 12 months that is about $262 per month, or roughly $0.029 per sq ft of VCT per month. The vendor gains guaranteed work and can schedule crews efficiently, so amortized rates often land 5 to 15 percent below on-demand pricing." },
+    { "type": "p", "text": "It makes less sense for small suites under 2,500 sq ft where VCT is limited to a kitchenette and entry. There the $250 to $450 minimum dominates, and a strip every 18 to 24 months, paired with regular scrub-and-recoat, is usually cheaper than paying a monthly premium for an annual event." },
+    { "type": "ul", "items": [
+      "Fold it in when VCT exceeds about 4,000 sq ft and you strip at least annually.",
+      "Keep it as a pre-priced add-on when strip timing depends on tenant moves or renovations.",
+      "Avoid on-request pricing with no rate card; it gives the vendor full leverage when floors look bad.",
+      "Require a written work log with dates, square footage, and coats applied for any amortized program.",
+      "Tie the annual strip to a low-occupancy window such as a holiday weekend to avoid overtime premiums."
+    ] },
+    { "type": "h2", "text": "Comparing Bids That Use Different Models" },
+    { "type": "p", "text": "To compare a vendor who amortizes against one who bills separately, normalize everything to annual cost. Take each base monthly price, multiply by 12, then add projected strip events, scrub-and-recoat visits, and any furniture-moving labor. A bid that looks $180 per month cheaper can end up more expensive once a $2,400 annual strip and two $900 recoats are added back." },
+    { "type": "p", "text": "Also check consumables used during the job. Strip crews bring their own chemistry and pads, but some vendors charge separately for restocking scour pads, mop heads, and caution signage. Durable items such as 36-inch four-sided wet floor cones meeting ANSI and OSHA visibility expectations, flagged-bristle angle brooms for pre-sweeping baseboards, and non-rusting heavy-duty scour pads for edge work should be the vendor's responsibility unless your contract says otherwise." },
+    { "type": "callout", "variant": "compliance", "title": "Slip and chemical safety during stripping", "text": "Stripper solutions are high-pH and make VCT extremely slick. OSHA walking-working surfaces rules expect controlled access, so the vendor should cone and close work zones, ventilate per the SDS, and confirm staff are trained under HazCom. Ask whether the finish is Green Seal GS-40 certified if your building tracks LEED or sustainability goals." },
+    { "type": "h2", "text": "Negotiation Points That Save Money" },
+    { "type": "p", "text": "Lock the per-sq-ft strip rate for the full contract term with a cap on annual escalation of 3 to 4 percent. Ask the vendor to include one spot strip of high-traffic entry lanes per year at no added charge when the full strip is amortized. Request that scrub-and-recoat visits count toward the deep floor program so you are not paying twice for floor finish. Finally, specify that the vendor moves light furniture such as chairs and wastebaskets as part of the strip price, while heavy casework is quoted separately in advance." },
+    { "type": "cta", "text": "Plug your total square footage, VCT area, and visit frequency into the Office Cleaning Cost Calculator, then drop competing bids into the Quote Comparator to see which strip-and-wax model costs less over 12 months." }
+  ],
+  "faqs": [
+    { "q": "Is VCT strip and wax ever included in a standard janitorial contract?", "a": "Yes, but only when the scope of work lists it in the periodic task schedule with a stated frequency, usually annual. In that case the cost is amortized, often adding $0.02 to $0.05 per sq ft of VCT per month. If the contract says floor care or hard floor maintenance without naming stripping, treat it as excluded and expect a separate work order." },
+    { "q": "What is a fair extra charge for VCT strip and wax in a US office?", "a": "Nationally, most offices pay $0.30 to $0.60 per sq ft of resilient flooring per strip, with a minimum of $250 to $450 per job. Expect the high end when furniture must be moved, floors have heavy finish buildup, or work must happen on weekends. Hourly specialty billing typically runs $55 to $95 per technician hour." },
+    { "q": "How do I verify an amortized strip and wax was actually performed?", "a": "Require a dated work log showing square footage, products used, and number of finish coats, and compare it against invoices. Walk the floor afterward: a fresh strip shows uniform gloss right to the baseboards with no yellowed edges. If the log is missing for more than 12 months, request a credit equal to the amortized amount." },
+    { "q": "What documentation should the vendor provide before stripping floors?", "a": "Ask for a current certificate of insurance naming your company or landlord as additional insured, Safety Data Sheets for stripper and finish per OSHA Hazard Communication, a site-specific work plan showing closed areas and cure times, and proof that technicians are trained on chemical handling. Green Seal certified finishes are worth requesting for sustainability reporting." },
+    { "q": "How does visit frequency affect the base price if strip and wax is folded in?", "a": "The base price is calculated from visits per month, using 4.333 weeks per month, multiplied by the per-visit rate. The amortized strip is a flat monthly addition independent of visit count, so a weekly contract and a five-day contract pay the same strip premium per sq ft of VCT. Keep that line separate on the invoice so you can audit it." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-vct-strip-and-wax-quotes/",
+    "/cleaning-services-and-tasks/vct-scrub-and-recoat-cost-guide/",
+    "/cleaning-services-and-tasks/vct-scrub-and-recoat-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/best-commercial-vacuums-for-low-pile-office-carpet/"
+  ]
+}

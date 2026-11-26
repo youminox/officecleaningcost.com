@@ -1,0 +1,255 @@
+{
+  "slug": "multi-branch-in-house-floating-custodian-model-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/multi-branch-in-house-floating-custodian-model-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template multi branch floating",
+  "title": "Line-Item Annual Budget Template: Floating Custodian Route",
+  "seoTitle": "Capex Template Multi-Branch Floating Custodian Annual Budget Sheet",
+  "metaDescription": "Capex template multi-branch floating custodian budget worksheet: audit W-2 wages, duplicate closet capex, mileage reimbursement, and 4.333 wk/mo bids.",
+  "excerpt": "Use this spreadsheet-ready annual budget template to calculate the true all-in cost of an in-house floating custodian route across multiple local branches. Every line item—from FLSA inter-branch drive hours and IRS $0.70/mile reimbursement to multi-closet equipment capex and Hired & Non-Owned Auto liability—is mapped against consolidated vendor bids.",
+  "quickAnswer": "A complete capex template for a multi-branch floating custodian route covering four 3,750-square-foot branches (15,000 sq ft total, cleaned 5x/week across 21.65 route days/month at 4.333 weeks/month) totals $56,484 to $62,900 annually ($4,707 to $5,242/month). This includes $32,815 in base and inter-branch transit wages, $11,157 in payroll taxes, workers' compensation, and benefits, $5,208 in IRS mileage reimbursement ($0.70/mile), $4,820 in PTO/sick route relief, and $4,560 in amortized 4-closet equipment capex and chemical supplies. Outsourced multi-branch portfolio contracts for the same four locations average $42,084 to $51,440 annually.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "A detailed photorealistic overhead and angled shot of a regional facilities operations desk with a multi-branch route map, financial budget spreadsheet printout, calculator, and a neatly organized janitorial supply staging shelf holding hydrogen-peroxide cleaner gallon jugs, floor polish bottles, and urinal screen boxes, clean modern office lighting, no text, no logos.",
+    "alt": "Regional facility manager desk with multi-branch budget worksheet, calculator, and commercial janitorial supply bottles"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Build a Defensible Multi-Branch Floating Custodian Budget"
+    },
+    {
+      "type": "p",
+      "text": "When regional operations managers pitch an in-house floating custodian route to executive leadership, the preliminary budget almost always calculates labor by dividing combined portfolio square footage by the ISSA 3,500-square-foot-per-hour production rate and multiplying by a base hourly wage. That simplified formula works for a single contiguous building, but it fails catastrophically across a multi-branch network because it leaves out four mandatory general ledger lines: paid FLSA windshield transit time, IRS personal-vehicle mileage reimbursement, Hired and Non-Owned Auto (HNOA) insurance exposure, and the 4x capital expenditure multiplier of outfitting a separate janitor closet at every branch."
+    },
+    {
+      "type": "p",
+      "text": "To pass a corporate controller's audit, your capex template for a multi-branch floating route must separate active on-site cleaning hours from inter-branch transition hours across a standard 4.333-week accounting month (21.65 weekday routes per month, or 260 route days per year). Below is the complete line-item template modeled on a 4-branch regional pod (four 3,750-square-foot locations = 15,000 total square feet, spaced 4.5 miles apart) cleaned 5 nights per week."
+    },
+    {
+      "type": "table",
+      "caption": "12-Month Line-Item Budget Worksheet: In-House 4-Branch Floating Custodian Route vs. Consolidated Outsourced Contract (15,000 Total Sq Ft, 5x/Week)",
+      "headers": [
+        "General Ledger Budget Line Item",
+        "Monthly In-House Route (4.333 Wks/Mo)",
+        "Annual In-House Total (12 Months)",
+        "Outsourced Multi-Branch Contract Equivalent"
+      ],
+      "rows": [
+        [
+          "1. Productive On-Site Cleaning Wages (92.9 hrs/mo @ $19.50/hr incl. evening diff)",
+          "$1,811.55",
+          "$21,738.60",
+          "Included in consolidated per-branch visit fee"
+        ],
+        [
+          "2. Paid FLSA Inter-Branch Drive & Security Setup Deadhead (31.4 hrs/mo @ $19.50/hr)",
+          "$612.30",
+          "$7,347.60",
+          "$0 (Contractor uses localized neighborhood crews)"
+        ],
+        [
+          "3. Employer Payroll Taxes: FICA (7.65%), FUTA (0.6%), SUTA (2.4%)",
+          "$258.14",
+          "$3,097.68",
+          "$0 (Vendor W-2 statutory payroll responsibility)"
+        ],
+        [
+          "4. Workers' Comp Premium (NCCI Code 9015/9014 + Commuting Route Exposure @ 8.4%)",
+          "$203.60",
+          "$2,443.20",
+          "$0 (Transferred via vendor COI & Waiver of Subrogation)"
+        ],
+        [
+          "5. Employee Health Benefits Stipend & Retirement Match (15.5% of Gross)",
+          "$375.70",
+          "$4,508.40",
+          "Included in contractor labor rate"
+        ],
+        [
+          "6. PTO, Sick Leave & 4-Branch Emergency Relief Coverage (13.2 hrs/mo @ $29.25 OT)",
+          "$386.10",
+          "$4,633.20",
+          "$0 (Vendor float pool guarantees all 4 stops)"
+        ],
+        [
+          "7. IRS Standard Mileage Reimbursement (620 miles/mo @ $0.70/mile)",
+          "$434.00",
+          "$5,208.00",
+          "$0 (No mileage surcharges on contract)"
+        ],
+        [
+          "8. Hired & Non-Owned Auto (HNOA) Commercial Insurance Allocation & MVR Checks",
+          "$95.00",
+          "$1,140.00",
+          "Covered by vendor's $1M Commercial Auto policy"
+        ],
+        [
+          "9. 4-Closet Equipment Capex Amortization ($6,480 Year-1 Hardware over 36 Mos + Repairs)",
+          "$210.00",
+          "$2,520.00",
+          "Included in contractor equipment provision"
+        ],
+        [
+          "10. Multi-Branch Cleaning Chemicals, Microfiber Laundering & Deodorizers",
+          "$170.00",
+          "$2,040.00",
+          "Included (Paper & soap consumables tracked separately)"
+        ],
+        [
+          "11. Recruiting, Background Screening & Turnover Replacement Reserve (65% annual rate)",
+          "$150.60",
+          "$1,807.20",
+          "$0 (Absorbed by vendor HR department)"
+        ],
+        [
+          "TOTAL ALL-IN OPERATING & AMORTIZED CAPEX BUDGET",
+          "$4,706.99 / mo ($0.314/sq ft)",
+          "$56,483.88 / yr",
+          "$3,507 - $4,287 / mo ($42,084 - $51,440 / yr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Year-1 Multi-Closet Capital Expenditure Schedule (4 Branch Closets)"
+    },
+    {
+      "type": "p",
+      "text": "To eliminate the OSHA Hazard Communication violations, cross-branch biological contamination, and ergonomic lifting injuries caused by hauling wet mop buckets and heavy vacuums in a custodian's personal trunk, a best-practice floating route stages permanent core hardware in each branch's utility closet while assigning one portable cordless backpack vacuum and microfiber transport kit to the floating custodian. Here is the exact Year-1 capex schedule for a 4-branch network:"
+    },
+    {
+      "type": "table",
+      "caption": "Upfront Year-1 Capital Expenditure (Capex) Breakdown for a 4-Branch Floating Custodian Pod",
+      "headers": [
+        "Equipment & Initial Chemical Stock Category",
+        "Unit Qty Across 4 Branches",
+        "Upfront Year-1 Capex Outlay",
+        "36-Month Monthly Amortization"
+      ],
+      "rows": [
+        [
+          "Commercial Cordless HEPA Backpack Vacuum + Extra Lithium-Ion Battery Charger",
+          "1 Floater Kit + 1 Backup Upright",
+          "$1,480.00",
+          "$41.11 / mo"
+        ],
+        [
+          "Stationary Dual-Compartment Mop Buckets, 36-In Dust Mops & Flat Mop Frames",
+          "4 Complete Closet Sets (1 per branch)",
+          "$1,960.00 ($490 / branch)",
+          "$54.44 / mo"
+        ],
+        [
+          "Branch Utility Carts, Wet Floor Signs, Wall SDS Binders & Spill Kits",
+          "4 Complete Safety Sets (1 per branch)",
+          "$1,240.00 ($310 / branch)",
+          "$34.44 / mo"
+        ],
+        [
+          "Color-Coded Microfiber Pad Pool (80 Wet/Dust Pads + 120 Cloths + Sealed Transport Bags)",
+          "Centralized 5-Day Rotation Pool",
+          "$820.00",
+          "$22.78 / mo"
+        ],
+        [
+          "Initial 4-Branch Chemical & Restroom Deodorizer Case Inventory",
+          "4 Branch Closet Starter Packs",
+          "$980.00 ($245 / branch)",
+          "$27.22 / mo (+ $30/mo repair reserve)"
+        ],
+        [
+          "TOTAL YEAR-1 CAPEX & AMORTIZED MONTHLY HARDWARE COST",
+          "4 Branches + 1 Mobile Kit",
+          "$6,480.00 Upfront Outlay",
+          "$180.00 / mo (+ $30/mo parts = $210/mo)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Standardizing Multi-Branch Chemical Inventory to Prevent Trunk Spills"
+    },
+    {
+      "type": "p",
+      "text": "When four to eight separate branch utility closets are stocked across a metro area, chemical sprawl quickly inflates supply budgets unless procurement locks down a standardized 3-SKU commercial chemical matrix delivered directly to each branch address:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Universal Multi-Surface Peroxide Cleaner at Every Branch: Stock one case of Spartan Clean by Peroxy All-Purpose Cleaner Gallon (4-Case) inside each branch janitor closet. This Green Seal GS-37 hydrogen-peroxide surfactant cleans ceramic tile grout (1.12x flooring multiplier), breakroom countertops, and interior glass with one product, eliminating the need to drive open chemical bottles between branches.",
+        "Standardized 30-Day Restroom Deodorization Cycle: Place one box of Fresh Products Wave 3D Urinal Deodorizer Screens (10-Box) in each branch supply closet so the floating custodian replaces enzymatic anti-splash screens across all branches on the first Monday of every month, preventing mid-month odor tickets.",
+        "Consolidated Semi-Annual Hard-Floor Restoration: Stage the Zep High-Traffic Floor Polish & Stripper Bundle (2 x 1-gallon commercial VCT stripper and wet-look acrylic finish combo) at your central hub for scheduled weekend scrub-and-recoat maintenance across branch VCT corridors and breakrooms."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The $0.70/Mile IRS Reimbursement & Paid Drive Time Double-Hit",
+      "text": "Every 10 miles of daily inter-branch driving costs your janitorial budget $38.03 per day ($823.35 per month across 21.65 route days): $7.00/day in tax-free IRS mileage reimbursement ($0.70/mile) PLUS roughly 32 minutes of urban/suburban driving compensated at $26.20/hr loaded W-2 wage ($13.97/day) PLUS lost cleaning capacity that must be made up at the end of the shift."
+    },
+    {
+      "type": "h2",
+      "text": "Controller's Decision Checklist: In-House Floating Route vs. Master Vendor MSA"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Audit All 11 Line Items Using 4.333 Weeks Per Month",
+          "text": "Verify that your internal proposal multiplies weekly route hours and weekly mileage by 4.333 weeks per month (21.65 weekday routes/month for a 5x/week schedule or 13.0 routes/month for a 3x/week schedule) rather than 4.0 weeks."
+        },
+        {
+          "name": "Step 2: Require Motor Vehicle Record (MVR) & HNOA Insurance Sign-Off",
+          "text": "Confirm with corporate risk management that your commercial insurance program includes a Hired and Non-Owned Auto (HNOA) endorsement covering an employee driving their personal vehicle between branches every evening, and budget for semi-annual DMV MVR screening."
+        },
+        {
+          "name": "Step 3: Price a Single-Closet Microfiber Laundering Workflow",
+          "text": "Determine where 60 to 80 soiled microfiber mop pads and cleaning cloths from four branches will be washed every week. Never allow a floating custodian to wash commercial restroom microfibers in their personal home washing machine; either install a commercial washer/dryer at your flagship branch or contract an outsourced vendor."
+        },
+        {
+          "name": "Step 4: Compare Against a Consolidated Multi-Branch Portfolio Bid",
+          "text": "Request an all-branches portfolio bid from three regional commercial janitorial contractors. Require a single consolidated monthly invoice broken down by branch cost center so branch P&L allocations remain effortless."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to plug your exact branch sizes, inter-branch mileage, and visit frequencies into an automated cost model? Run your numbers in our Office Cleaning Cost Calculator or compare multi-site contractor bids side-by-side in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do you allocate a floating custodian's payroll and mileage across individual branch P&L cost centers?",
+      "a": "Finance teams should allocate the floating custodian's loaded monthly cost (wages, taxes, benefits, mileage reimbursement, and relief overtime) proportionally by each branch's cleanable square footage adjusted by its flooring and restroom fixture count. For example, in a 15,000-square-foot, 4-branch route costing $4,707/month, a 4,500-square-foot flagship branch absorbs 30% ($1,412/mo), while a 3,000-square-foot satellite branch absorbs 20% ($941/mo)."
+    },
+    {
+      "q": "Can an employer pay a flat monthly car allowance instead of tracking $0.70/mile IRS mileage on a custodial route?",
+      "a": "A flat monthly car allowance paid without substantiate-and-return mileage logs (non-accountable plan) is treated by the IRS as taxable W-2 wage income subject to federal income tax withholding and 7.65% employer/employee FICA taxes. Furthermore, if the net after-tax allowance falls below actual miles driven multiplied by the $0.70/mile IRS benchmark, the employer remains liable for under-reimbursement claims in states like California and Illinois."
+    },
+    {
+      "q": "What happens to the budget worksheet if one branch on a 4-branch route needs 5x/week cleaning while three branches only need 3x/week?",
+      "a": "Mixed frequencies across branches create irregular daily shift lengths for a W-2 floating custodian (e.g., 5.7 hours on Monday/Wednesday/Friday across all 4 branches, but only 1.5 hours on Tuesday/Thursday for the single flagship branch), triggering minimum-shift wage padding on off-days. Outsourced contractors easily handle mixed branch frequencies by billing 21.65 visits/month for the flagship branch (0.90 multiplier) and 13.0 visits/month for the 3x/week branches (0.95 multiplier)."
+    },
+    {
+      "q": "How should restroom paper and soap consumables be budgeted across a multi-branch network?",
+      "a": "Always budget restroom paper towels, toilet tissue, hand soap, and trash liners on a dedicated consumables line at $0.012 to $0.025 per square foot per visit ($390 to $812/month across 15,000 total square feet at 5x/week), allocated by each branch's daytime employee headcount and visitor traffic rather than raw square footage."
+    }
+  ],
+  "amazonProductIds": [
+    "spartan-clean-by-peroxy-all-purpose-cleaner-gallon-4-case",
+    "zep-high-traffic-floor-polish-and-stripper-bundle",
+    "fresh-products-wave-3d-urinal-deodorizer-screens-10-box"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/hoa-and-property-management-in-house-vs-contract/",
+    "/in-house-vs-outsourced-cleaning/hoa-and-property-management-in-house-vs-contract-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/hoa-and-property-management-in-house-vs-contract-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/best-waste-sorting-carts-for-leed-certified-buildings/"
+  ]
+}

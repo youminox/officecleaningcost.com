@@ -1,0 +1,181 @@
+{
+  "slug": "1099-subcontractors-vs-w2-cleaning-crews-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/1099-subcontractors-vs-w2-cleaning-crews-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric 1099 subcontractors vs w2 cleaning crews",
+  "title": "Weighted Bid Evaluation Rubric: Scoring 1099 Subcontractors vs. W-2 Cleaning Crews",
+  "seoTitle": "Weighted Bid Evaluation Rubric: 1099 Subcontractors vs. W-2 Crews",
+  "metaDescription": "Evaluate 1099 vs. W-2 cleaning crew bids using a 100-point rubric covering I-9 compliance, $35-$65/hr wage math, and our Quote Comparator.",
+  "excerpt": "When comparing commercial janitorial proposals, price alone will steer you straight into an under-insured 1099 labor broker. Use this 100-point weighted evaluation rubric to score bidders on direct W-2 employment verification, wage-and-hour sustainability, supervisory ratios, and commercial equipment standards.",
+  "quickAnswer": "To compare janitorial bids fairly, evaluate every vendor on a 100-point weighted rubric covering five operational pillars: Direct W-2 Employment & Tax Compliance (30 points), Loaded Hourly Wage & ISSA Production Realism (25 points), Background Screening, E-Verify & Crime Bond Eligibility (20 points), On-Site Supervision & Turnover Retention Metrics (15 points), and Commercial Equipment & High-Capacity Dispenser Support (10 points). Require a minimum score of 80 points so low-ball 1099 subcontractor brokers cannot outscore compliant W-2 providers charging $35 to $65 per labor hour.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic eye-level view of a modern US corporate facility manager reviewing a weighted vendor evaluation rubric on a laptop in an open-plan office, while a uniformed W-2 janitor in the background vacuums commercial carpet tiles with a quiet 6-quart HEPA backpack vacuum, natural office lighting, zero text, no words, no logos, no watermarks.",
+    "alt": "Corporate facility manager scoring janitorial bids while a uniformed W-2 technician vacuums office carpet with a HEPA backpack unit"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Price-Only Bid Comparisons Favor Non-Compliant 1099 Brokers"
+    },
+    {
+      "type": "p",
+      "text": "If your procurement committee evaluates commercial cleaning proposals by picking the lowest monthly number on a spreadsheet, a 1099 labor broker will beat a compliant W-2 janitorial firm every single time. By misclassifying night custodians as independent contractors, a 1099 broker strips out 16% to 24% in mandatory employer payroll burden—including 7.65% FICA, federal and state unemployment insurance, and NCCI Class Code 9014 workers' compensation premiums—while replacing hourly minimum-wage and overtime protections with an underfunded piece-rate stipend."
+    },
+    {
+      "type": "p",
+      "text": "To level the playing field during your Request for Proposal (RFP) review, facility managers must implement a structured 100-point technical scoring matrix before weighting contract price. When workforce classification, statutory insurance, and ISSA labor-hour realism (3,500 sq ft per hour baseline across 4.333 weeks per month) account for 75% of the technical score, legitimate W-2 contractors bidding within the $35 to $65 per hour benchmark ($0.07 to $0.15 per sq ft for 2,500 to 24,999 sq ft offices) rise clearly to the top."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Structure Your RFP with a 70% Technical / 30% Commercial Weighting Split",
+      "text": "In corporate facility procurement, the gold standard is a two-envelope evaluation: score the 100-point Workforce & Technical Rubric first (weighted at 70% of total award points) and score the Commercial Price Proposal second (weighted at 30%), disqualifying any bidder that fails to achieve at least 80 out of 100 technical points. This prevents an unsustainable $24/hour 1099 bid from warping your financial baseline."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric: 1099 Subcontractors vs. W-2 Crews"
+    },
+    {
+      "type": "p",
+      "text": "Distribute the five-category evaluation scorecard below to your facility, security, and procurement stakeholders. Require every bidder to fill out a mandatory Workforce Disclosure Schedule alongside their pricing table so you have objective documentation to grade each criterion."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Bid Evaluation Matrix: Workforce Classification, Wage Realism & Quality Controls",
+      "headers": [
+        "Scoring Category & Weight",
+        "Full Compliance (100% of Points)",
+        "Partial / Hybrid Model (50% of Points)",
+        "Non-Compliant / High Risk (0 Points)"
+      ],
+      "rows": [
+        [
+          "1. Direct W-2 Employment & Statutory Tax Verification (30 Pts)",
+          "30 Pts: 100% of routine night/day cleaners are direct W-2 employees verified via redacted IRS Form 941 / state UI summary and NCCI Class 9014 WC declaration page.",
+          "15 Pts: Owner-operated unit franchisee where on-site working owners carry active WC officer coverage and all additional helpers are verified W-2 employees.",
+          "0 Pts: Broker assigns nightly routine cleaning to 1099 independent contractors or sub-tier LLCs lacking independent Class 9014 payroll."
+        ],
+        [
+          "2. Loaded Hourly Wage & ISSA Production Realism (25 Pts)",
+          "25 Pts: Open-book labor buildup ($35–$65/hr) showing custodian base wage, 18%–24% tax/WC burden, and monthly hours matching ISSA 3,500 sq ft/hr across 4.333 wks/mo.",
+          "12.5 Pts: Lump-sum quote within valid market range ($0.07–$0.15/sq ft) with committed nightly labor hours, though exact internal wage breakdown is not itemized.",
+          "0 Pts: Flat piece-work pricing with no guaranteed nightly labor-hour floor, or implied hourly rate below local living wage + statutory tax burden."
+        ],
+        [
+          "3. Background Checks, E-Verify & Crime Bond Eligibility (20 Pts)",
+          "20 Pts: Documented E-Verify I-9, 7-year multi-county criminal screen, named photo badges, and $50,000+ Third-Party Employee Dishonesty Bond covering all W-2 staff.",
+          "10 Pts: State-level background check and standard fidelity bond ($10,000–$25,000), with written commitment to prohibit unbadged helpers on-site.",
+          "0 Pts: No E-Verify or background documentation; 1099 workers permitted to bring unvetted substitutes or ineligible under W-2 crime bond definitions."
+        ],
+        [
+          "4. Field Supervision, GPS Timekeeping & Retention (15 Pts)",
+          "15 Pts: Geofenced mobile clock-in/out reports shared monthly, dedicated roving W-2 account supervisor (biweekly audits), and annual crew turnover < 45%.",
+          "7.5 Pts: Manual sign-in logbooks verified by monthly supervisor walk-throughs and documented backup float crew for sick coverage.",
+          "0 Pts: No timekeeping verification, no dedicated field supervisor, or annual cleaner turnover exceeding 100%."
+        ],
+        [
+          "5. Commercial Equipment & High-Capacity Fixture Support (10 Pts)",
+          "10 Pts: Vendor supplies commercial 5-stage HEPA backpack vacuums (<= 62 dBA), OSHA 4-color microfiber, and supports high-capacity touchless restroom dispensers.",
+          "5 Pts: Standard commercial upright vacuums and commercial chemicals provided, with manual refill tracking.",
+          "0 Pts: Workers required to supply their own vacuums, mops, or household chemicals out of pocket."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating Category 2: How to Stress-Test a Bidder's Wage-and-Hour Math"
+    },
+    {
+      "type": "p",
+      "text": "To grade Category 2 (25 points), require every bidder to disclose two numbers alongside their monthly fee: (1) the committed nightly labor hours, and (2) the starting hourly W-2 wage paid to custodians assigned to your building. Let's walk through a benchmark calculation for a 16,000 sq ft corporate office with commercial carpet and ceramic tile restrooms (1.05x mixed flooring multiplier), cleaned 5x/week (21.65 visits per month based on 4.333 weeks per month at a 0.90 daily frequency multiplier), including three multi-stall restrooms ($15 to $30 per restroom visit) and a breakroom ($12 to $25 per visit)."
+    },
+    {
+      "type": "p",
+      "text": "At the ISSA baseline of 3,500 sq ft per hour for general office cleaning plus restroom and breakroom detail sanitation, this 16,000 sq ft facility requires 5.0 to 5.5 labor hours per night, or 108.25 to 119.1 hours per month. If a bidder commits to paying a competitive $20.00/hour W-2 custodian wage to retain reliable staff, adding 21% statutory employer taxes and NCCI Class 9014 workers' compensation brings raw direct labor cost to $24.20/hour. Once you add commercial equipment amortization, closed-loop chemicals, roving supervision, general liability insurance, and a sustainable 12% net profit margin, the compliant billing rate lands between $38.00 and $46.00 per hour—producing a monthly bid of $4,113 to $5,478 ($0.075 to $0.095 per sq ft per visit equivalent)."
+    },
+    {
+      "type": "p",
+      "text": "If a competing bidder quotes $2,850/month and claims they will also provide 110 hours per month ($25.90/hour billed rate), they earn 0 points in Category 2: either they are paying an illegal sub-minimum piece-rate to 1099 subcontractors, or they plan to deliver only 60 actual labor hours per month once the contract starts."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Category 5: Commercial Equipment and Restroom Dispenser Synergy"
+    },
+    {
+      "type": "p",
+      "text": "Category 5 awards 10 points to vendors whose equipment inventory and consumable replenishment protocols match modern commercial facility standards. Unlike 1099 workers who often haul battered residential upright vacuums in the trunk of a sedan, top-scoring W-2 contractors outfit their buildings with commercial-grade ergonomic equipment that coordinates seamlessly with high-capacity restroom dispensers:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "High-Productivity Quiet HEPA Vacuuming: Award full points when the vendor equips each floor specialist with the Powr-Flite BP6S Comfort Pro Backpack Vacuum (6-quart tank capacity, 5-stage HEPA filtration trapping fine office dust, lightweight 11 lb frame with an ergonomic cooling mesh harness, and whisper-quiet 62 dBA operation). The 62 dBA noise rating allows W-2 crews to start vacuuming common corridors at 5:30 PM without disturbing employees working late.",
+        "Touchless Roll Towel Waste Reduction: Pair your W-2 housekeeping SLA with the Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser (10-inch high-capacity roll towel format, adjustable touchless IR dispensing sensor, whisper-quiet motor, and ADA-compliant wall depth). Controlled sheet-length settings reduce paper towel consumption by up to 25% when consumables are billed at $0.012 to $0.025 per sq ft per visit.",
+        "Zero-Run-Out Restroom Tissue Fixtures: Install the Tork Twin Jumbo Bath Tissue Roll Dispenser T2 (dual 9-inch jumbo roll capacity with a sliding stub-roll feature, high-capacity footprint, and keyed lock). The sliding transfer door forces full consumption of the primary roll before unlocking the backup 9-inch jumbo roll, eliminating premature stub-roll waste and cutting custodian restocking time across 2x/week (8.66 visits/month) or 3x/week (13.0 visits/month) schedules."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Verification Workflow Before Awarding the Janitorial Contract"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Send the Mandatory Workforce & Wage Disclosure Worksheet with the RFP",
+          "text": "Require every bidder to fill in a standardized table listing their W-2 vs. 1099 workforce percentage, NCCI Class 9014 policy number, starting custodian hourly wage, and committed nightly labor hours across 4.333 weeks per month."
+        },
+        {
+          "name": "Verify Form 941 / State UI & Workers' Comp Alignment for Top 2 Finalists",
+          "text": "Before conducting final interviews, verify that the top two technical scorers can produce an active ACORD 25 with Waiver of Subrogation plus a workers' compensation declaration page showing sufficient Class 9014 payroll."
+        },
+        {
+          "name": "Calculate the Weighted Composite Score (70% Technical / 30% Price)",
+          "text": "Multiply each vendor's 100-point rubric score by 0.70 and combine it with their normalized pricing score (weighted at 0.30, excluding any disqualified bids under 80 technical points) to select the winning partner objectively."
+        },
+        {
+          "name": "Embed Geofenced Hour Reporting & Anti-Subcontracting Clauses in the Contract",
+          "text": "Convert the winning vendor's rubric commitments—100% W-2 staffing, minimum monthly labor hours, and monthly GPS timekeeping summaries—into enforceable Service Level Agreement (SLA) KPIs."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your janitorial proposals against verified W-2 labor and square-foot benchmarks? Calculate your facility's baseline hours in our Office Cleaning Cost Calculator or compare up to three vendor bids in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What should be the minimum passing score on the 1099 vs. W-2 bid evaluation rubric?",
+      "a": "Set 80 out of 100 points as your mandatory minimum technical score. Because Category 1 (Direct W-2 Employment & Statutory Tax Verification) carries 30 points, any broker relying on 1099 independent contractors for routine nightly cleaning automatically earns 0 points in Category 1 and cannot reach the 80-point threshold, protecting your committee from selecting an under-insured bid."
+    },
+    {
+      "q": "Why do we weight technical and workforce compliance at 70% and price at 30%?",
+      "a": "In commercial janitorial services, direct labor and statutory payroll burden account for 75% to 80% of a contractor's total cost structure. If you weight price at 50% or higher, vendors can only win by artificially compressing labor hours or shedding W-2 payroll taxes via 1099 misclassification—which invariably leads to failed inspections, security breaches, and contract re-bidding within 6 months."
+    },
+    {
+      "q": "Can a legitimate W-2 cleaning company still score well if they subcontract quarterly window or carpet extraction?",
+      "a": "Yes. Our rubric focuses the 30-point W-2 mandate on routine nightly and weekly custodial crews who hold building keycards and alarm codes. Using specialized subcontractors for periodic deep floor care ($0.03 to $0.06/sq ft/month amortized) or exterior glass is standard industry practice, provided those specialty crews work under supervision and supply their own verified W-2 Workers' Comp COI."
+    },
+    {
+      "q": "How do high-capacity dispensers like the Tork Twin Jumbo T2 and GP enMotion affect bid scoring?",
+      "a": "High-capacity fixtures like the dual 9-inch Tork Twin Jumbo T2 bath tissue dispenser and Georgia-Pacific enMotion 10-inch touchless towel dispenser prevent run-outs between visits and eliminate stub-roll waste. That allows a compliant W-2 vendor ($35 to $65/hr) to service restrooms efficiently ($15 to $30 per restroom visit) and invest more minutes in high-touch disinfection."
+    }
+  ],
+  "amazonProductIds": [
+    "powr-flite-bp6s-comfort-pro-backpack-vacuum",
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel",
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/background-checks-and-e-verify-in-janitorial-bids/",
+    "/comparing-quotes-and-contracts/background-checks-and-e-verify-in-janitorial-bids-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/background-checks-and-e-verify-in-janitorial-bids-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/best-multifold-commercial-paper-towels-in-bulk/"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "slug": "high-rise-exterior-window-cleaning-for-small-vs-large-offices",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/high-rise-exterior-window-cleaning-for-small-vs-large-offices/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "small vs large high rise exterior window cleaning volume",
+  "title": "Multi-Story Window Cleaning Pricing: Small Suites vs. Large Office Buildings",
+  "seoTitle": "Small vs Large Office High-Rise Window Cleaning: Volume Pricing",
+  "metaDescription": "Small vs large offices: high-rise window cleaning rates fall from $1.25+ to $0.25 per sq ft of glass as volume grows. Compare bids in our Quote Comparator.",
+  "excerpt": "Mobilization, rigging, and minimum charges hit small multi-story tenants far harder than large building owners. See how unit pricing shifts from 2,000 sq ft suites to 25,000+ sq ft buildings and how smaller occupants can capture volume economics.",
+  "quickAnswer": "A 2,000 sq ft suite on an upper floor often pays an effective $1.25 to $2.00 per sq ft of glass because a $750 to $1,500 mobilization minimum is spread over only a few hundred square feet of windows. A 25,000+ sq ft building typically pays $0.25 to $0.45 per sq ft of glass, since rigging and setup are amortized across thousands of square feet and drops are continuous.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic aerial-perspective photo of a mid-rise US office tower with a single swing-stage platform cleaning one section of upper-floor glass while lower floors reflect a city skyline, soft late-afternoon light, wide drone-style angle, no text, no logos, no watermarks",
+    "alt": "Swing-stage window cleaning platform on one section of a mid-rise office tower facade"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Size Changes the Unit Price So Dramatically" },
+    { "type": "p", "text": "Exterior window cleaning above the second floor carries large fixed costs that have nothing to do with how much glass gets cleaned. Rope access crews must inspect anchors, rig lines, set ground barricades, and stage equipment on the roof. Lift-based crews pay a delivery and pickup fee whether the lift runs for one hour or eight. Those fixed costs, typically $500 to $1,500 per mobilization, are why vendors publish minimums. For a large building, fixed costs disappear into thousands of square feet of glass. For a small suite on the seventh floor, they dominate the invoice." },
+    { "type": "table", "caption": "Effective unit pricing for multi-story exterior window cleaning by office size (exterior only, rope or lift access)", "headers": ["Office profile", "Floor area", "Approx. exterior glass", "Typical per-visit price", "Effective $/sq ft of glass", "Annual at 2 visits"], "rows": [
+      ["Single upper-floor suite", "2,000 sq ft", "600 sq ft", "$750 - $1,200", "$1.25 - $2.00", "$1,500 - $2,400"],
+      ["Small full floor", "8,000 sq ft", "2,200 sq ft", "$1,100 - $1,600", "$0.50 - $0.73", "$2,200 - $3,200"],
+      ["Mid-size building", "15,000 sq ft (3 floors)", "5,000 sq ft", "$1,750 - $2,750", "$0.35 - $0.55", "$3,500 - $5,500"],
+      ["Large building", "25,000 - 60,000 sq ft", "8,000 - 18,000 sq ft", "$2,400 - $7,200", "$0.30 - $0.40", "$4,800 - $14,400"],
+      ["Campus or tower", "100,000+ sq ft", "30,000+ sq ft", "$7,500+", "$0.25 - $0.35", "$15,000+"]
+    ] },
+    { "type": "p", "text": "The pattern mirrors janitorial pricing. Nightly cleaning runs $0.12 to $0.20 per sq ft for spaces under 2,500 sq ft and $0.05 to $0.10 per sq ft above 25,000 sq ft. Window cleaning follows the same curve, only steeper, because its fixed setup costs are proportionally larger." },
+    { "type": "h2", "text": "The Small-Suite Problem: Paying for One Drop" },
+    { "type": "p", "text": "Small tenants in multi-tenant buildings rarely contract exterior windows directly. Glass is usually a common-area or building-system item handled by the landlord and recovered through operating expenses. When a small tenant does contract it, perhaps for a ground-floor-plus-mezzanine retail office or a building with no landlord program, the vendor must still rig a full drop to reach a narrow slice of facade. Two technicians may spend 90 minutes rigging for 45 minutes of actual washing. That is why a 2,000 sq ft suite can see an effective rate several times higher than its landlord pays for the whole tower." },
+    { "type": "callout", "variant": "tip", "title": "How small tenants capture volume pricing", "text": "Ask your landlord whether exterior glass is already in the building's operating expense pool. If not, coordinate with neighboring tenants on the same elevation to share one mobilization, or ask the building's existing window contractor to add your suite during the next scheduled building-wide cleaning at a marginal per-sq-ft rate." },
+    { "type": "h2", "text": "Large Buildings: Where Economies of Scale Come From" },
+    { "type": "ul", "items": [
+      "Continuous drops: once rigged, a rope access crew descends drop after drop around the building with minimal repositioning.",
+      "Equipment amortization: a building maintenance unit or permanent davits eliminate per-visit rigging rental.",
+      "Crew efficiency: larger jobs justify three- to four-person crews with a dedicated ground safety person, increasing glass per labor hour.",
+      "Multi-year contracts: owners can lock rates for three years with annual escalators of 3 to 4 percent.",
+      "Bundled scopes: window cleaning combined with facade rinse, sealant inspection, or signage cleaning shares mobilization."
+    ] },
+    { "type": "p", "text": "Large buildings do face their own cost drivers. Curtain walls with sunshades and fins slow descents, plazas and drop zones require pedestrian control, and tall towers may need weather-delay contingencies. But on a per-square-foot-of-glass basis, they still win decisively." },
+    { "type": "h2", "text": "Negotiating by Size Tier" },
+    { "type": "steps", "items": [
+      { "name": "Confirm who owns the glass", "text": "Read your lease. In most multi-tenant office leases, exterior windows are a landlord responsibility recovered through CAM or operating expense charges." },
+      { "name": "Get the glass takeoff", "text": "Ask vendors to quote total square feet of glass so you can compute the effective rate and compare it to the size-tier table above." },
+      { "name": "Separate mobilization from unit rate", "text": "Require bids to list mobilization and per-sq-ft rate separately. Small sites negotiate mobilization; large sites negotiate the unit rate." },
+      { "name": "Pool volume", "text": "Small owners and tenants can bundle multiple properties or elevations on the same day; large owners can bundle a portfolio across a region." },
+      { "name": "Verify compliance overhead", "text": "Every bidder should provide a certificate of insurance, fall-protection training records, and confirmation of OSHA anchor certification responsibilities." }
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Anchor certification affects small and large sites alike", "text": "Rope-descent work requires the building owner to certify anchorages in writing before work begins. A small building without current certification may face a one-time inspection charge of several hundred to a few thousand dollars, which can outweigh the window cleaning itself in year one." },
+    { "type": "h2", "text": "Pairing Window Days With Large-Floor Maintenance" },
+    { "type": "p", "text": "On large buildings, window weekends are an efficient time to run lobby and floor programs because access control and staffing are already in place. A Powr-Flite P202-3, a 20-inch, 2000 RPM burnisher with dust control, restores shine on large VCT lobbies after foot traffic from contractors. In tighter spaces such as restrooms or small suites, a cordless Tennant i-mop Lite with a 14.5-inch path and 0.8-gallon tank scrubs without cords across doorways. For daytime touchups in a lobby while crews move equipment, a Rubbermaid Commercial 421288 dual-rotor mechanical sweeper picks up grit quietly with its 7.5-inch path." },
+    { "type": "cta", "text": "Model your office size in the Office Cleaning Cost Calculator to see where you fall on the volume curve, then use the Quote Comparator to normalize window cleaning bids to an effective rate per square foot of glass." }
+  ],
+  "faqs": [
+    { "q": "Why does my small office pay more per square foot for window cleaning?", "a": "Fixed costs such as rigging, lift delivery, barricades, and anchor checks are spread over far less glass. A $1,000 mobilization on 600 sq ft of glass adds about $1.67 per sq ft before any washing labor." },
+    { "q": "Is exterior window cleaning a tenant or landlord cost?", "a": "In most multi-tenant office leases, exterior glass is a landlord responsibility recovered through operating expenses. Single-tenant net leases may shift it to the tenant. Review the maintenance and repair clauses before contracting directly." },
+    { "q": "What unit rate should a 25,000+ sq ft building expect?", "a": "Typically $0.25 to $0.45 per sq ft of glass for routine exterior cleaning by rope access or BMU, with lower rates on multi-year contracts and simple facades." },
+    { "q": "How should I compare window cleaning with nightly janitorial costs?", "a": "Convert both to monthly cost per sq ft of floor area. Janitorial uses 4.333 weeks per month for frequency math; spread the annual window cost over 12 months. Window cleaning usually equals $0.01 to $0.04 per sq ft per month." },
+    { "q": "What safety documents should any size building request?", "a": "A certificate of insurance naming owner and manager as additional insured, workers compensation proof, OSHA fall-protection training records, anchor certification status, and Safety Data Sheets for all cleaning chemicals under Hazard Communication." }
+  ],
+  "amazonProductIds": [
+    "powr-flite-p202-3-20-inch-2000-rpm-high-speed-burnisher",
+    "tennant-i-mop-lite-compact-auto-scrubber",
+    "rubbermaid-commercial-421288-dual-action-mechanical-sweeper"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-high-rise-exterior-window-cleaning/",
+    "/cleaning-services-and-tasks/high-rise-exterior-window-cleaning-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-high-rise-exterior-window-cleaning-quotes/",
+    "/commercial-vacuums-and-floor-machines/hoover-mpwr-40v-cordless-backpack-review/"
+  ]
+}

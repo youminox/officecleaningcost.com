@@ -1,0 +1,91 @@
+{
+  "slug": "loading-dock-and-service-corridor-cleaning-cost",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/loading-dock-and-service-corridor-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "office loading dock corridor cleaning",
+  "title": "Office Loading Dock & Corridor Cleaning: Service Corridor and Receiving Dock Sweeping Pricing",
+  "seoTitle": "Office Loading Dock Corridor Cleaning: Sweeping & Scrub Pricing",
+  "metaDescription": "Office loading dock corridor cleaning typically costs $1,500–$2,850/month for 4,000 sq ft. See labor-hour math, scrub cycles, and compare bids in our tool.",
+  "excerpt": "Receiving docks and back-of-house corridors should be priced by labor hours, not office square-foot rates, or you will overpay by half. Learn the daily, weekly, and quarterly task cycles, what each costs, and how to keep dock grit out of the tenant floors.",
+  "quickAnswer": "A 1,800 sq ft office receiving dock plus a 2,200 sq ft VCT service corridor needs about 1.5 labor hours per daily visit, or $53 to $98 per visit at $35–$65/hr. Adding a weekly auto-scrub of the dock, quarterly degreasing, and amortized corridor floor care brings a realistic all-in budget to roughly $1,500–$2,850 per month at 5x/week.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic photo of an office building receiving dock and adjoining back-of-house service corridor at dawn, sealed concrete dock floor freshly swept, steel roll-up door partly open, dock bumpers and yellow bollards, a janitor in gray uniform using a long-reach litter grabber near a compactor, cool blue morning light with sodium fixture glow, low three-quarter angle, zero text, zero logos, zero watermarks",
+    "alt": "Freshly swept office receiving dock and service corridor with roll-up door, bollards, and janitor picking up litter"
+  },
+  "blocks": [
+    { "type": "p", "text": "The loading dock and the service corridor behind it are where pallets, hand trucks, courier carts, and food-service deliveries enter an office building. They take the heaviest wheeled traffic in the property, yet they are often the last line in a janitorial scope and the first one cut when budgets tighten. That is a false economy: grit and cardboard fiber that stays on the dock is rolled straight into the freight elevator and onto tenant floors on cart wheels." },
+    { "type": "p", "text": "The good news is that this work is low-detail. There are no desks to dust or keyboards to disinfect, so the right way to price it is by labor hours, not by the per-square-foot office rates that vendors apply to finished suites." },
+    { "type": "h2", "text": "Why Office Square-Foot Rates Overcharge for Back-of-House Space" },
+    { "type": "p", "text": "National rates for 2,500–9,999 sq ft offices run $0.09 to $0.15 per sq ft per visit. Applied to a 4,000 sq ft dock-and-corridor zone, that is $360 to $600 per visit. Those rates bake in restroom sanitation, breakroom work, trash at every desk, and detail dusting. A dock has none of that. The actual task load is a push-broom pass, litter pickup around the compactor, a corridor dust-and-damp mop, and staging trash for the hauler, which together take about 1.5 hours. If a bid applies office rates to this space, you are paying three to six times the labor actually delivered." },
+    { "type": "h2", "text": "Daily, Weekly, and Quarterly Cost Breakdown" },
+    { "type": "p", "text": "The model below assumes an 1,800 sq ft sealed-concrete dock platform and apron, plus a 2,200 sq ft VCT service corridor (flooring multiplier 1.04) running from the dock to the freight elevator. Daily tasks use the $35–$65 standard hourly benchmark; machine scrubbing and degreasing use the $55–$95 specialty rate." },
+    {
+      "type": "table",
+      "caption": "Monthly cost model: 1,800 sq ft dock + 2,200 sq ft VCT service corridor, 5x/week",
+      "headers": ["Cost Component", "Labor / Basis", "Low Monthly", "High Monthly"],
+      "rows": [
+        ["Daily sweep, litter pickup, corridor mop, trash staging", "1.5 hr × 21.65 visits", "$1,137", "$2,111"],
+        ["Weekly dock auto-scrub", "1.0 specialty hr × 4.33", "$238", "$411"],
+        ["Quarterly degrease / pressure wash (amortized)", "4–6 specialty hr per quarter", "$73", "$190"],
+        ["Corridor VCT scrub-and-recoat program", "2,200 sq ft × $0.03–$0.06", "$66", "$132"],
+        ["Total all-in budget", "—", "$1,514", "$2,844"],
+        ["Same space at office sq-ft rates (5x/week)", "4,000 × $0.09–$0.15 × 0.9 × 21.65", "$7,015", "$11,691"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "Labor-hour pricing saves 75% or more", "text": "The hourly model lands near $1,500–$2,850 per month, while applying office square-foot rates to the same 4,000 sq ft yields $7,015–$11,691. Always ask vendors to break back-of-house areas out of the suite rate and quote them in hours." },
+    { "type": "h2", "text": "What the Daily Dock Route Should Include" },
+    {
+      "type": "ul",
+      "items": [
+        "Push-broom the dock platform and leveler plates, including the gap at the dock bumpers where shrink wrap and strapping collect.",
+        "Walk the apron and dumpster enclosure with a long-reach grabber to pick up cups, packaging, and cigarette butts before they blow into the drain.",
+        "Break down and stage stray cardboard for the recycling baler or compactor; do not operate the baler unless the vendor has documented training.",
+        "Dust mop then damp mop the service corridor with a neutral cleaner, focusing on wheel tracks near the freight elevator threshold.",
+        "Spot-clean door kick plates, corner guards, and wall protection rails where cart impacts leave black marks.",
+        "Check and log any oil, hydraulic, or grease spills from delivery vehicles for the property engineer instead of mopping them into the drain."
+      ]
+    },
+    { "type": "h2", "text": "Tools Matched to Dock and Corridor Surfaces" },
+    { "type": "p", "text": "The dust pass on a long corridor is where most labor minutes go, so a wide flat mop pays off. An 18-inch aluminum flat mop with washable microfiber dusting and wet pads, such as the Bona Commercial System kit, covers a 6-foot corridor in three passes instead of five with a string mop and leaves less residual water on VCT. The telescoping handle also suits workers of different heights, which matters on a route that may involve 2,000+ sq ft of continuous mopping." },
+    { "type": "p", "text": "For the apron and dumpster enclosure, a 36-inch steel-claw grabber like the Unger Nifty Nabber lets the crew clear litter without bending, which reduces strain over a five-day schedule and keeps hands away from broken glass. Color-coded 16x16 microfiber cloths in a 300 GSM weight, such as the Microfiber Wholesale four-color pack, let you dedicate one color to dock surfaces so cloths that touched compactor handles never migrate to tenant breakrooms." },
+    { "type": "callout", "variant": "compliance", "title": "Drains, spills, and stormwater", "text": "Many docks sit on stormwater drains that discharge to the municipal system. Mop water and degreaser rinse must go to a sanitary sink or a containment unit, not the dock drain. Ask the vendor to confirm in writing that pressure-wash runoff is captured, since local stormwater rules can impose fines on the property owner." },
+    { "type": "h2", "text": "Scoping and Negotiation Steps" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Separate the zone in the bid form", "text": "List the dock, apron, compactor area, and service corridor as distinct lines with square footage and floor type so you can price them by hours." },
+        { "name": "Specify the time window", "text": "Docks are busiest from early morning through mid-afternoon. Schedule the daily route after the last delivery window to avoid re-soiling and forklift conflicts." },
+        { "name": "Set a machine-scrub cycle", "text": "Define a weekly auto-scrub and a quarterly degrease, and require the vendor to state whether the scrubber is their equipment or the building's." },
+        { "name": "Clarify exclusions", "text": "Exclude hazardous material spills, compactor interior cleaning, and grease trap service; those belong to specialty contractors with their own pricing." },
+        { "name": "Benchmark the bids", "text": "Enter each vendor's dock line into the Quote Comparator to spot proposals that silently apply suite rates to back-of-house space." }
+      ]
+    },
+    { "type": "h2", "text": "Budget Tips for Property Managers" },
+    { "type": "p", "text": "If your day porter is already on site, shifting the dock litter walk to the porter's afternoon route can cut 15 to 20 minutes off the night crew's visit, saving roughly $190–$470 per month at 5x/week. Another lever is frequency: a dock serving a single-tenant building with two daily deliveries may only need a full route 3x/week (13 visits per month), dropping the daily line from $1,137–$2,111 to $683–$1,268. Keep the corridor damp mop on the daily list, though, because that is where soil transfers to the freight elevator." },
+    { "type": "cta", "text": "Model your dock and corridor square footage and visit frequency in the Office Cleaning Cost Calculator, then run competing proposals through the Quote Comparator to confirm back-of-house space is priced by labor hours." }
+  ],
+  "faqs": [
+    { "q": "Why are loading docks priced differently from office suites?", "a": "Suite rates cover detail work such as restrooms, breakrooms, and desk trash. A dock needs sweeping, litter pickup, and floor care only, roughly 1.5 hours for 4,000 sq ft. Pricing it at $0.09–$0.15 per sq ft per visit inflates the cost several times over, so ask for labor-hour pricing instead." },
+    { "q": "Does the janitorial vendor clean up fluid leaks from delivery trucks?", "a": "Small drips of water or soda, yes. Oil, hydraulic fluid, or anything requiring an absorbent spill kit should be excluded from routine scope and reported to the property engineer. Under OSHA HazCom, workers must be trained on the specific chemicals they handle, and unidentified spills fall outside a standard janitorial contract." },
+    { "q": "What OSHA risks apply to dock cleaning crews?", "a": "The main hazards are dock-edge falls, forklift traffic, and sharp debris. Vendors should train crews to stay clear of open dock doors without restraints engaged, wear high-visibility vests during active hours, and follow the Bloodborne Pathogens Standard if needles or bodily fluids are found near dumpster enclosures." },
+    { "q": "How often should a service corridor be machine scrubbed?", "a": "Heavy cart traffic usually justifies a monthly machine scrub and a scrub-and-recoat every quarter on VCT. Amortized, that costs about $0.03–$0.06 per sq ft per month, or $66–$132 for a 2,200 sq ft corridor. Daily damp mopping in between keeps the finish from wearing through." },
+    { "q": "Should the dock be in the main contract or a separate vendor?", "a": "Usually the main contract, since the night crew is already on site and avoids a separate $90–$135 per-visit minimum. Require a COI that names the owner as additional insured and confirm the general liability policy has no exclusion for exterior or dock-area work." }
+  ],
+  "amazonProductIds": [
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "microfiber-wholesale-16x16-commercial-cleaning-cloths-150-pack-c",
+    "unger-nifty-nabber-36-inch-commercial-trash-picker-grabber"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/parking-garage-elevator-lobby-cleaning-cost/",
+    "/office-cleaning-cost-guides/short-term-pop-up-office-cleaning-cost/",
+    "/office-cleaning-cost-guides/subleased-office-cleaning-cost-guide/",
+    "/restroom-and-breakroom-dispensers/kimberly-clark-icon-dispenser-vs-gojo-es8/"
+  ]
+}

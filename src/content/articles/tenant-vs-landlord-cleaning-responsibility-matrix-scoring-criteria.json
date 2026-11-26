@@ -1,0 +1,197 @@
+{
+  "slug": "tenant-vs-landlord-cleaning-responsibility-matrix-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/tenant-vs-landlord-cleaning-responsibility-matrix-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric tenant vs landlord cleaning responsibility matrix",
+  "title": "Proposal Scoring Matrix & Evaluation Rubric for Lease-Aligned Janitorial Bids",
+  "seoTitle": "Weighted Evaluation Rubric: Tenant vs. Landlord Cleaning Matrix Bids",
+  "metaDescription": "Score janitorial bids with a weighted evaluation rubric for your tenant vs. landlord cleaning matrix ($35–$65/hr). Compare quotes in our free calculator.",
+  "excerpt": "Choosing a commercial cleaning vendor in a leased office building requires more than picking the lowest monthly price. Use this 100-point weighted evaluation rubric to score vendor bids on lease scope alignment, landlord COI compliance, USF pricing accuracy, and restroom consumable efficiency.",
+  "quickAnswer": "A rigorous weighted evaluation rubric for a tenant vs landlord cleaning responsibility matrix allocates 30 points to Lease Boundary & Scope Alignment (eliminating CAM overlap), 25 points to Transparent USF & Labor Pricing ($35 to $65/hr standard labor at 3,500 sq ft/hr ISSA production rates), 20 points to Landlord COI & Building Access Compliance, 15 points to Quarterly Floor & Add-On Integration ($0.03 to $0.06/sq ft/mo), and 10 points to Dispenser & Consumable Controls ($0.012 to $0.025/sq ft/visit). Any vendor scoring below 75/100 or failing mandatory landlord insurance requirements should be disqualified.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic scene inside a modern US corporate facility management office showing a procurement committee reviewing three janitorial vendor bid binders and a printed scoring matrix on a glass conference table, commercial office interior background, crisp daylight, DSLR 35mm lens, zero text or logos",
+    "alt": "Facility procurement managers evaluating commercial cleaning proposals with a weighted scoring matrix"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Multi-Tenant Lease Suites Need a Specialized Bid Scoring Rubric"
+    },
+    {
+      "type": "p",
+      "text": "Evaluating janitorial proposals for a leased commercial office is fundamentally different from procuring cleaning services for an owner-occupied standalone building. In a leased environment, every vendor bid must interface seamlessly with your landlord's property management rules, Common Area Maintenance (CAM) boundary lines, freight elevator hours, and base-building insurance thresholds. If a contractor submits a low monthly price ($0.06 per sq ft per visit) but fails to account for the landlord's mandatory $2,000,000 umbrella Certificate of Insurance (COI) endorsement or prices your suite on inflated Rentable Square Footage (RSF), that seemingly cheap proposal will collapse prior to contract launch."
+    },
+    {
+      "type": "p",
+      "text": "Applying a standardized weighted evaluation rubric tenant vs landlord cleaning responsibility matrix allows corporate procurement officers, office managers, and multi-site facility directors to grade competing proposals objectively—including bids comparing the building's incumbent janitorial company against independent third-party contractors."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Target Scoring Thresholds for Commercial Office Janitorial Bids",
+      "text": "Across a 100-point scale, qualified commercial cleaning finalists should score 82 points or higher. Furthermore, apply two mandatory Pass/Fail gates before calculating weighted scores: (1) Verified issuance of a landlord-compliant Certificate of Insurance (COI) naming both the Landlord LLC and Property Management Firm as Additional Insureds, and (2) Transparent separation of Usable Square Footage (USF) pricing from landlord-covered CAM spaces."
+    },
+    {
+      "type": "h2",
+      "text": "100-Point Weighted Evaluation Rubric for Lease-Aligned Cleaning Proposals"
+    },
+    {
+      "type": "p",
+      "text": "Distribute the table below to your RFP evaluation committee to grade up to four finalists side-by-side. Multiply each vendor's 1-to-5 raw score in each category by the assigned category weight to produce a final 100-point composite score."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Evaluation Rubric for Tenant vs. Landlord Matrix Janitorial Proposals",
+      "headers": [
+        "Evaluation Criterion",
+        "Weight (Points)",
+        "1-Point (Unacceptable / High Risk)",
+        "3-Point (Acceptable Industry Baseline)",
+        "5-Point (Best-in-Class Procurement Standard)"
+      ],
+      "rows": [
+        [
+          "1. Lease Matrix Scope Alignment & Zero CAM Overlap",
+          "30 pts (Weight x 6)",
+          "Generic one-page quote; includes lobbies/corridors already billed in landlord CAM",
+          "Separates interior suite from common core; lists basic trash and floor duties",
+          "Line-item mapped to Lease Exhibit C; isolates breakroom ($12–$25), glass ($15–$35), and private restrooms ($15–$30)"
+        ],
+        [
+          "2. USF Pricing Accuracy & ISSA Labor Realism",
+          "25 pts (Weight x 5)",
+          "Prices on bloated lease RSF; hides hourly rate; forgets 4.33 weeks/month math",
+          "Uses net USF; quotes within $0.07–$0.15/sq ft bracket; states monthly total",
+          "Discloses exact cleanable USF by flooring multiplier (1.0x–1.12x), man-hours at 3,500 sq ft/hr, and $35–$65/hr loaded wage"
+        ],
+        [
+          "3. Landlord COI, Security & Building Rules Compliance",
+          "20 pts (Weight x 4)",
+          "Cannot meet landlord umbrella insurance limits; uses unvetted 1099 subcontractors",
+          "Meets standard COI limits; agrees to building sign-in and freight elevator windows",
+          "Pre-approved by property manager; W-2 background-checked crew; works within non-overtime HVAC hours"
+        ],
+        [
+          "4. Quarterly Deep Floor Care & Surrender Protection",
+          "15 pts (Weight x 3)",
+          "Excludes carpet extraction and VCT maintenance entirely; leaves tenant exposed at move-out",
+          "Offers on-call deep cleaning at $55–$95/hr specialty rates upon tenant request",
+          "Includes scheduled quarterly extraction/scrubbing amortized at $0.03–$0.06/sq ft/month with photo logs for lease surrender"
+        ],
+        [
+          "5. Restroom Dispenser & Consumable Cost Controls",
+          "10 pts (Weight x 2)",
+          "Charges flat $0.025/sq ft/visit consumable fee even when core restrooms are landlord-run",
+          "Bills actual case usage plus 15% markup for in-suite paper and hand soap",
+          "Audits private vs. common fixtures; supports high-capacity coreless and touchless dispensers with transparent unit pricing"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Deep Dive: How to Verify Criterion 1 & Criterion 2 (55% of Total Score)"
+    },
+    {
+      "type": "p",
+      "text": "Together, Lease Matrix Alignment (30 points) and USF Pricing Realism (25 points) make up over half of the evaluation rubric because they directly determine whether your company overpays or experiences chronic service failures."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Auditing ISSA Production Rates Against Suite Density: When a bidder proposes cleaning a 10,500 USF Modified Gross suite three nights per week (13.0 visits per month using the 4.33 weeks/month factor and a 0.95x frequency multiplier), divide 10,500 sq ft by the ISSA commercial office benchmark of 3,500 sq ft per hour. Each visit requires roughly 3.0 base labor hours. At a sustainable fully loaded US commercial billing rate of $35 to $65 per hour, base cleaning should fall between $105 and $195 per visit ($0.010 to $0.0185 per sq ft for high-efficiency open plans, or $0.07 to $0.12 per sq ft when dense private offices, glass partitions, and multiple restrooms are factored in). Any bid quoting 1.2 labor hours per visit is a lowball trap that guarantees skipped vacuuming.",
+        "Grading Flooring Surface Multipliers: Award a 5-point score in Criterion 2 only if the bidder adjusts labor hours for your actual architectural finishes: 1.00x for commercial carpet tiles, 1.04x for VCT/LVT vinyl, 1.08x for engineered hardwood, 0.95x for open polished concrete, 1.05x for mixed carpet and hard floors, and 1.12x for ceramic tile and grout.",
+        "Grading Above-Standard Add-On Separation: In a Full-Service Gross building where you are scoring supplemental proposals, verify that the vendor prices breakroom sanitation ($12 to $25 per visit), interior conference glass ($15 to $35 per visit), and private en-suite restrooms ($15 to $30 per visit) relative to their minimum per-visit charge ($90 to $135)."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Criterion 5: Dispenser Hardware & Consumable Compatibility (10 Points)"
+    },
+    {
+      "type": "p",
+      "text": "When your tenant responsibility matrix includes private en-suite restrooms, reception lobbies, or NNN full-building restrooms, the vendor's approach to consumable supply ($0.012 to $0.025 per sq ft per visit) and hardware standardization determines both your monthly supply spend and employee satisfaction. Top-scoring vendors (4 to 5 raw points) support non-proprietary or high-efficiency commercial fixtures that curb waste and custodian labor:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Compact En-Suite Coreless Tissue Dispensers: In boutique executive washrooms or tight ADA stall layouts where wall clearance is restricted, specify the Georgia-Pacific Compact Vertical Coreless Toilet Paper Dispenser (holding 2 coreless rolls totaling up to 3,000 sheets in an ADA-slim vertical chassis with a keyed lock and zero cardboard core waste).",
+        "High-Traffic Suite Coreless Systems: For larger tenant-controlled multi-stall restrooms in NNN or full-floor leases, the Scott Pro High-Capacity Coreless Standard Roll Dispenser (Kimberly-Clark, 4-roll coreless capacity, ADA compliant, keyed/keyless latch) prevents mid-week empty spindles between twice-weekly or three-times-weekly service visits.",
+        "Reception & Elevator Threshold Sanitizer Stations: Where the tenant suite meets the landlord's elevator lobby, installing the GOJO PURELL ES8 Touch-Free Hand Sanitizer Dispenser (1200 mL refill capacity, Energy-on-the-Refill technology that replaces the battery with every fresh cartridge, ADA compliant with At-a-Glance refill visibility) eliminates dead-battery complaints during facility walkthroughs."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Landlord Slop-Sink & Chemical Storage Verification",
+      "text": "Before awarding final points in Criterion 3 (Building Rules Compliance), confirm with the property manager whether an outside vendor is permitted to store vacuum cleaners, mop buckets, and OSHA HazCom chemicals inside the floor's base-building janitor closet. In 40% of Class A multi-tenant buildings, the base-building contractor holds exclusive lock rights to the corridor slop sink, forcing independent tenant vendors to store equipment inside a tenant IT/coat closet and draw water from the tenant's breakroom sink."
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Vendor Walkthrough & Verification Protocol"
+    },
+    {
+      "type": "p",
+      "text": "Never score janitorial proposals from emailed spreadsheets alone. Require every finalist to complete this structured four-step verification sequence:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Conduct a Joint Boundary Walkthrough with Lease Exhibit C in Hand",
+          "text": "Walk the demised suite perimeter with each bidder. Physically point out which doors cross into landlord CAM territory, where water and drain access is located, and which interior glass walls or kitchen appliances require nightly versus weekly servicing."
+        },
+        {
+          "name": "Step 2: Require the Standardized Bid Breakdown Sheet",
+          "text": "Reject lump-sum monthly quotes. Require every bidder to submit: (a) Net cleanable USF, (b) Nightly man-hours and effective hourly billing rate ($35–$65/hr), (c) Per-visit rate based on 4.33 weeks/month, and (d) Separate line items for consumables and quarterly deep floor care ($0.03–$0.06/sq ft/month)."
+        },
+        {
+          "name": "Step 3: Pre-Clear the Finalist's Sample COI with Property Management",
+          "text": "Send the top-scoring vendor's sample Certificate of Insurance to your landlord's property manager 10 business days before contract commencement to verify Additional Insured wording, Waiver of Subrogation endorsements, and umbrella limits."
+        },
+        {
+          "name": "Step 4: Benchmark the Incumbent vs. Challenger Score Gap",
+          "text": "If the building's incumbent janitorial vendor scores within 5 points of an outside challenger and prices within 5% of the independent bid, the operational convenience of unified building security and slop-sink access often favors the incumbent. If the price gap exceeds 12% or the incumbent refuses transparent USF math, award the contract to the top-scoring independent vendor."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Want to score your actual vendor proposals against 2026 national square-foot and hourly benchmarks? Enter up to three bids into our interactive Quote Comparator or calculate your baseline in the Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should we weight the building's incumbent cleaning vendor against outside bidders in our scoring rubric?",
+      "a": "Do not give the building's incumbent contractor automatic bonus points on pricing, as incumbents frequently pad tenant-direct quotes by 15% to 25%. Instead, let the incumbent earn legitimate points under Criterion 3 (Building Compliance & Slop-Sink Access) and Criterion 1 (Avoiding $90 to $135 minimum visit fees on small supplemental scopes). If an outside vendor still outscores the incumbent by 6+ points on transparent USF pricing and scope rigor, choose the independent contractor."
+    },
+    {
+      "q": "What is a disqualifying score on the 100-point tenant vs. landlord janitorial rubric?",
+      "a": "Any vendor scoring below 75 out of 100 total points—or scoring a 1 out of 5 on either Lease Scope Alignment (Criterion 1) or Landlord COI Compliance (Criterion 3)—should be eliminated from consideration. A vendor that cannot produce a landlord-approved Certificate of Insurance will be denied loading-dock and after-hours elevator access by building security on day one."
+    },
+    {
+      "q": "How do we verify that a bidder's proposed labor hours match ISSA cleaning standards?",
+      "a": "Take your suite's net cleanable Usable Square Footage (USF) and divide by the ISSA general office production standard of 3,500 sq ft per hour to establish baseline vacuuming, trash, and dusting hours. Then add 15 to 20 minutes per private en-suite restroom ($15 to $30/visit) and 15 minutes per breakroom ($12 to $25/visit). Multiply total per-visit hours by your monthly visit count (e.g., 21.65 visits/month for 5x/week or 8.66 visits/month for 2x/week) and check that the implied hourly rate sits between $35 and $65/hour."
+    },
+    {
+      "q": "Why should quarterly deep floor care represent 15% of a lease-aligned bid evaluation?",
+      "a": "Nearly all commercial office leases contain a Surrender & Restoration clause requiring tenants to return carpets and hard floors in good condition at lease expiration. Scoring vendors on an amortized quarterly deep floor care program ($0.03 to $0.06/sq ft/month for hot-water carpet extraction and VCT scrub-and-recoat) prevents landlords from seizing thousands of dollars from your security deposit at move-out."
+    }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser",
+    "gojo-purell-es8-touch-free-hand-sanitizer-dispenser",
+    "scott-pro-high-capacity-coreless-standard-roll-dispenser"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/negotiating-free-first-month-or-deep-clean-credit/",
+    "/comparing-quotes-and-contracts/negotiating-free-first-month-or-deep-clean-credit-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/negotiating-free-first-month-or-deep-clean-credit-scoring-criteria/",
+    "/commercial-vacuums-and-floor-machines/bissell-biggreen-bg10-vs-rug-doctor-mighty-pro-x3/"
+  ]
+}

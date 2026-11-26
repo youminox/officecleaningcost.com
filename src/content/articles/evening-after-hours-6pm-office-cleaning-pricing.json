@@ -1,0 +1,72 @@
+{
+  "slug": "evening-after-hours-6pm-office-cleaning-pricing",
+  "pillar": "cleaning-frequency-and-schedules",
+  "path": "/cleaning-frequency-and-schedules/evening-after-hours-6pm-office-cleaning-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "evening after-hours (6 pm–10 pm) cleaning rates",
+  "title": "Evening After-Hours (6 PM–10 PM) Cleaning Rates: Hourly Pricing and Crew Budgets for US Offices",
+  "seoTitle": "Evening After-Hours (6 PM–10 PM) Cleaning Rates & Crew Budgets",
+  "metaDescription": "Evening after-hours (6–10 PM) office cleaning bills $35–$65/hr at ~3,500 sq ft per labor hour. See crew sizing tables and model yours in our calculator.",
+  "excerpt": "The 6 pm to 10 pm window is the default US janitorial shift and the baseline most bids are built on. Learn how hourly rates, the four-hour window, per-visit minimums, and building access rules shape your monthly evening cleaning budget.",
+  "quickAnswer": "Evening after-hours office cleaning between 6 pm and 10 pm typically bills at $35–$65 per labor hour, with crews producing about 3,500 sq ft per hour in an emptied office. A 20,000 sq ft office cleaned five nights a week needs about 124 labor hours a month, or roughly $4,330–$8,040, while small suites often hit the $90–$135 per-visit minimum instead.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening scene inside an emptied US suburban office at dusk, two janitorial cleaners working a row of workstations, one emptying a stainless semi-round receptacle and one pushing a charcoal executive housekeeping cart, warm overhead lighting mixed with blue twilight through floor-to-ceiling windows, medium shot from hallway, no text, no words, no logos, no watermarks",
+    "alt": "Two evening janitorial cleaners servicing workstations in an emptied office at dusk with a charcoal housekeeping cart"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why 6 pm to 10 pm is the pricing baseline" },
+    { "type": "p", "text": "Ask ten US janitorial contractors for a standard office bid and nine will assume an evening crew starting after the last employees leave. That is because the 6 pm to 10 pm block hits a practical sweet spot: the office is mostly empty, the crew can work at full production, and the labor pool of part-time cleaners holding second jobs is deepest. Contractors build their pricing models around the ISSA benchmark of roughly 3,500 sq ft per labor hour and bill in the national $35–$65 per hour band, with the spread driven by metro wage levels, union status, scope depth, and supervision." },
+    { "type": "p", "text": "Because evening is the baseline, it is also the easiest shift to benchmark. If you want to know whether a daytime or overnight proposal is fair, convert it to monthly labor hours and compare against the evening figure for the same square footage." },
+    { "type": "h2", "text": "Evening crew budgets by office size" },
+    { "type": "table", "caption": "Evening crew sizing at 3,500 sq ft per labor hour, 5 nights per week (21.65 visits/month)", "headers": ["Cleanable area", "Labor hours per night", "Crew that fits a 4-hour window", "Monthly labor hours", "Monthly labor at $35–$65/hr"], "rows": [
+      ["8,000 sq ft", "2.3", "1 cleaner", "49.5", "$1,733–$3,218"],
+      ["20,000 sq ft", "5.7", "2 cleaners, about 2.9 hr each", "123.7", "$4,330–$8,041"],
+      ["45,000 sq ft", "12.9", "4 cleaners, about 3.2 hr each", "278.4", "$9,744–$18,096"],
+      ["90,000 sq ft", "25.7", "7 cleaners plus a working lead", "556.6", "$19,481–$36,179"]
+    ] },
+    { "type": "p", "text": "The four-hour window acts as a hard constraint. One cleaner at 3,500 sq ft per hour can cover about 14,000 sq ft between 6 pm and 10 pm, so anything larger needs a multi-person crew or a later finish time. Once a crew stretches past 10 pm, some contractors start paying night differentials, which shifts the job into overnight pricing. Ask bidders to show the crew count and hours per person so you can confirm the job actually fits the window you are paying for." },
+    { "type": "h2", "text": "Small offices and the per-visit minimum" },
+    { "type": "p", "text": "Most contractors enforce a per-visit minimum of roughly $90–$135 to cover travel, supervision, and insurance overhead. A 3,000 sq ft suite needs under an hour of labor, which at $35–$65 would be $30–$56, so the minimum sets the price. In that case, consider whether fewer visits, for example three nights a week at 13 visits per month, delivers acceptable results at a lower monthly total. Weekly service carries a 1.08 frequency multiplier in our pricing model, while five-night service drops to 0.90 because routes become more efficient." },
+    { "type": "callout", "variant": "benchmark", "title": "Typical evening add-ons", "text": "Restroom servicing usually adds $15–$30 per restroom per visit, breakroom sanitation $12–$25, interior glass and conference partitions $15–$35, and vendor-supplied paper and soap about $0.012–$0.025 per sq ft per visit. Two restrooms and a breakroom on a five-night schedule add roughly $910–$1,840 per month." },
+    { "type": "h2", "text": "Building a defensible evening crew budget" },
+    { "type": "steps", "items": [
+      { "name": "Confirm the true start time", "text": "If staff routinely stay until 6:45 pm, the crew loses nearly an hour of full-speed work. Set the start at the point where occupancy falls under about 10%." },
+      { "name": "Calculate hours per night", "text": "Divide cleanable area by 3,500 sq ft per hour, then adjust for flooring: tile and grout run about 12% slower, VCT about 4%, polished concrete about 5% faster." },
+      { "name": "Fit the crew to the window", "text": "Divide nightly hours by the available window, usually 3.5–4 hours after setup and teardown, and round up to whole cleaners." },
+      { "name": "Convert to monthly cost", "text": "Multiply nightly hours by 21.65 for five nights, 13 for three nights, or 8.66 for two nights, then by the quoted bill rate." },
+      { "name": "Add supervision and quality checks", "text": "Crews of four or more need a working lead or roving supervisor. Expect that cost to be embedded in the bill rate or shown as a separate line." }
+    ] },
+    { "type": "h2", "text": "Security and access considerations after 6 pm" },
+    { "type": "p", "text": "Evening crews work unsupervised by your staff, so access control becomes a contract issue. Issue individual badges rather than shared keys, restrict badge access to the hours on the schedule, and require the contractor to report terminated employees within 24 hours. Alarm arming responsibility should be explicit: who sets it, by what time, and who pays for false-alarm fines, which many US municipalities charge at $50–$250 after a few free incidents. Background checks and E-Verify are standard requests for offices holding client financial or health data." },
+    { "type": "p", "text": "Overlap with late workers creates a second issue. Crews should be trained to skip occupied offices and return later, never move papers on desks, and avoid running vacuums near someone on a call. A cart that looks professional and runs quietly reduces friction with executives who stay late." },
+    { "type": "h2", "text": "HVAC and lighting costs of an evening program" },
+    { "type": "p", "text": "Cleaning from 6 pm to 10 pm typically keeps lights on and may hold HVAC in occupied mode for up to four extra hours. For a 20,000 sq ft office on its own meter, that runs roughly $100 per month for each nightly hour of extension. Many facility teams let HVAC drop into setback at 6 pm while leaving lights on, since crews are moving and tolerate a few degrees of drift. In multi-tenant buildings that charge $50–$95 per hour for after-hours HVAC, negotiate lights-only service for cleaning or schedule crews zone by zone with occupancy-sensor lighting." },
+    { "type": "callout", "variant": "compliance", "title": "Lone-worker and chemical safety at night", "text": "OSHA's General Duty Clause expects employers to address hazards for employees working alone. Ask the contractor for its lone-worker check-in procedure, and confirm OSHA HazCom training, labeled secondary containers, and Bloodborne Pathogens training for restroom cleanup." },
+    { "type": "h2", "text": "Equipment suited to the evening shift" },
+    { "type": "p", "text": "Evening crews often cross paths with late-staying executives, so equipment should be quiet and presentable. The Rubbermaid Commercial Executive Quick Cart Large carries up to 60 lb on Teflon-coated surfaces, rolls on quiet casters, and has a discreet charcoal look that does not stand out in a Class A reception area. The Brute Rim Caddy snaps onto a 44-gallon barrel and adds nine compartments plus tool clips for spray bottles, wet-floor signs, and liner rolls, cutting trips back to the janitor closet. At the receptacle level, the Simplehuman 14.5-gallon stainless semi-round open can has a weighted base and an ADA-friendly opening, making liner changes fast and preventing tip-overs in breakrooms." },
+    { "type": "cta", "text": "Run your square footage, flooring type, and nightly frequency through the Office Cleaning Cost Calculator to get an evening budget, then load competing proposals into the Quote Comparator to check each bid's crew size and implied hours." }
+  ],
+  "faqs": [
+    { "q": "What is a fair hourly rate for evening office cleaning?", "a": "Most US markets fall between $35 and $65 per labor hour for general evening office cleaning. Lower figures are common in smaller metros with non-union labor; higher figures reflect high-cost cities, union contracts, or heavier scopes. Always compare monthly labor hours as well as rates." },
+    { "q": "How many hours a month does five-night evening cleaning take?", "a": "Multiply nightly hours by 21.65, which is five visits times 4.333 weeks. At 3,500 sq ft per hour, a 15,000 sq ft office needs about 4.3 hours a night, or roughly 93 hours a month." },
+    { "q": "Who is responsible if an evening cleaner damages property or something goes missing?", "a": "That is why you require a certificate of insurance with general liability coverage, typically $1 million per occurrence, plus a janitorial or fidelity bond covering employee theft. Name your company and landlord as additional insured, and keep a written incident reporting procedure in the contract." },
+    { "q": "Do evening crews need green-certified chemicals?", "a": "Not legally in most jurisdictions, but many leases and corporate sustainability policies require Green Seal or EPA Safer Choice products. Evening crews can use slightly stronger disinfectants because the office is empty, but EPA-registered products still need their full label dwell time to work." },
+    { "q": "What is typically excluded from evening cleaning bids?", "a": "Quarterly carpet extraction, VCT strip-and-recoat, exterior windows, high dusting, and kitchen appliance interiors are usually excluded or priced as add-ons. Amortized deep floor care runs about $0.03–$0.06 per sq ft per month. Ask for exclusions in writing before you sign." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/cleaning-frequency-and-schedules/",
+    "/cleaning-frequency-and-schedules/when-to-choose-evening-after-hours-6pm-office-cleaning/",
+    "/cleaning-frequency-and-schedules/overnight-graveyard-shift-cleaning-pricing/",
+    "/cleaning-frequency-and-schedules/when-to-choose-overnight-graveyard-shift-cleaning/",
+    "/restroom-and-breakroom-dispensers/best-stub-roll-toilet-paper-dispensers-zero-waste/"
+  ]
+}

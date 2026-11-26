@@ -1,0 +1,74 @@
+{
+  "slug": "restroom-consumable-restocking-service-for-small-vs-large-offices",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/restroom-consumable-restocking-service-for-small-vs-large-offices/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "small vs large restroom consumable restocking service volume",
+  "title": "Small vs Large Offices: How Volume Changes Restroom Consumable Restocking Service Pricing",
+  "seoTitle": "Small vs Large Restroom Consumable Restocking: Volume Pricing Compared",
+  "metaDescription": "Small vs large restroom restocking volume pricing: 2,000 sq ft suites pay $0.045-$0.068/sq ft at minimums; 30,000 sq ft floors get near $0.017. Compare quotes.",
+  "excerpt": "Restroom paper, soap, and liner replenishment gets cheaper per square foot as buildings grow, but the savings come from minimums, routing, and bulk product terms rather than a magic discount. This guide compares a 2,000 sq ft suite, a 10,000 sq ft floor, and a 30,000 sq ft building with real unit math.",
+  "quickAnswer": "A 2,000 sq ft suite buying standalone restock visits pays the $90-$135 minimum, or $0.045-$0.068 per sq ft per visit, while the same suite bundled into cleaning pays about $0.020-$0.040. A 30,000 sq ft building with negotiated bulk consumables and routed restroom labor can reach $0.017-$0.023 per sq ft per visit, because it hits the low end of the $0.012-$0.025 consumables range and $15-$22 per restroom labor.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic split-composition style scene in a US office building: in the foreground a small tenant suite single-user restroom with a wall dispenser being refilled by a custodian, and in the background through an open corridor a large multi-stall corporate restroom with a fully stocked janitor cart carrying cased paper and soap refills, soft daylight mixed with LED fixtures, medium-wide shot from corridor level, no text, no logos, no watermarks",
+    "alt": "Custodian restocking a small suite restroom while a larger multi-stall office restroom and stocked supply cart sit in the background"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Where economies of scale actually come from" },
+    { "type": "p", "text": "Buyers often assume a larger building simply earns a percentage discount on restroom replenishment. In practice, scale lowers unit cost through three specific mechanisms. First, per-visit minimums stop mattering once the computed price clears $90-$135. Second, a crew that services ten restrooms in one route spends far less travel and setup time per restroom than a crew servicing one. Third, large accounts buy paper, soap, and liners by the pallet and can lock product pricing for the contract term. Small suites can capture some of the same savings, but only by structuring the contract deliberately." },
+    { "type": "h2", "text": "Side-by-side unit math: 2,000 vs 10,000 vs 30,000 sq ft" },
+    { "type": "p", "text": "The table uses national benchmarks: consumables at $0.012-$0.025 per sq ft per visit and restroom labor at $15-$30 per restroom per visit. The large-building row reflects the negotiated low end that volume buyers commonly achieve. Monthly figures use 4.33 weeks per month." },
+    { "type": "table", "caption": "Restroom replenishment unit cost by building size", "headers": ["Profile", "Schedule", "Per visit", "Effective rate per sq ft per visit", "Monthly cost"], "rows": [
+      ["2,000 sq ft suite, 1 restroom, standalone restock visits", "2x per week (8.66 visits)", "$90-$135 (minimum applies)", "$0.045-$0.068", "$779-$1,169"],
+      ["2,000 sq ft suite, 1 restroom, bundled with cleaning", "2x per week (8.66 visits)", "$39-$80", "$0.020-$0.040", "$338-$693"],
+      ["10,000 sq ft floor, 4 restrooms, bundled", "Weeknights (21.65 visits)", "$180-$370", "$0.018-$0.037", "$3,897-$8,011"],
+      ["30,000 sq ft building, 10 restrooms, negotiated volume", "Weeknights (21.65 visits)", "$510-$700", "$0.017-$0.023", "$11,042-$15,155"]
+    ] },
+    { "type": "p", "text": "For the 30,000 sq ft building, the negotiated per-visit figure combines consumables at $0.012-$0.016 per sq ft ($360-$480) with routed restroom labor at $15-$22 per restroom ($150-$220). Compare that with the list-rate range of $510-$1,050 a building of the same size would pay without negotiating, and the value of volume leverage becomes obvious: up to roughly $7,600 per month." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: the small-suite penalty", "text": "A small suite buying standalone restock visits pays roughly two to three times the per-square-foot rate of a large building. The single biggest fix is bundling restocking into the cleaning visit you already pay for, which drops the 2,000 sq ft example from $779-$1,169 to $338-$693 per month." },
+    { "type": "h2", "text": "Small suites under 2,500 sq ft: how to avoid paying minimums" },
+    { "type": "ul", "items": [
+      "Bundle restocking into every scheduled cleaning visit rather than ordering separate replenishment trips.",
+      "Install high-capacity dispensers, such as two-roll coreless tissue and hardwound towel units, so stock lasts between 2x per week visits.",
+      "Ask whether your landlord has a building-wide supply contract; joining it can give a small tenant large-account product pricing.",
+      "Keep a sealed one-week par stock in a locked closet so a shortage does not trigger a minimum-charge emergency visit.",
+      "Choose pass-through billing if usage is low; paying for product at cost plus a 10-20% markup can beat a per-sq-ft included rate in a lightly staffed suite."
+    ] },
+    { "type": "h2", "text": "Large buildings over 25,000 sq ft: how to capture the full discount" },
+    { "type": "p", "text": "Large buildings have leverage but often fail to use it. Request a separate consumables price tied to fixed product specs, and ask bidders to quote restroom labor per route rather than per restroom. Standardize dispensers across every floor so one product SKU serves all restrooms; mixed dispenser brands from past tenant build-outs force the vendor to stock multiple products and raise both cost and stock-out risk." },
+    { "type": "p", "text": "Large floors also bring larger hard-floor areas around restroom cores and elevator lobbies, which is where crews lose time during restock rounds. A Rubbermaid Commercial 36-inch cotton dust mop with a 360-degree swivel frame and 60-inch handle lets a porter sweep a wide restroom corridor in a single pass before damp mopping. For wood-look or engineered flooring in executive restroom vestibules, the Bona Commercial System mop kit pairs an 18-inch aluminum base with a telescoping handle and two washable microfiber pads, one for dusting and one for wet cleaning, with a wood-safe profile. On the cart, a CloroxPro Clorox Disinfecting Wipes bucket (700 count, EPA List N, bleach-free, refillable) covers door pulls, flush valves, and dispenser levers at each stop." },
+    { "type": "h2", "text": "Choosing a contract structure by size" },
+    { "type": "steps", "items": [
+      { "name": "Measure occupants and restrooms", "text": "Record peak in-office headcount and the number of restrooms and dispensers. Usage scales with people; labor scales with fixtures." },
+      { "name": "Pick the pricing unit that fits", "text": "Small suites usually do best with bundled per-restroom labor and pass-through supplies. Large buildings usually do best with per-sq-ft consumables at a negotiated rate plus routed labor." },
+      { "name": "Benchmark against the minimum", "text": "If your computed per-visit price is below $90-$135, restructure so restocking happens during a visit that already clears the minimum." },
+      { "name": "Lock product specs and pricing", "text": "Specify ply, roll size, towel format, soap type, and liner size and gauge, and fix pricing for at least 12 months with an index-based escalator after that." },
+      { "name": "Audit quarterly", "text": "Compare case usage against headcount. A jump in usage per occupant usually signals waste, theft, or a dispenser problem rather than real demand." }
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Same compliance obligations at any size", "text": "A two-person suite and a 30-story tower carry the same baseline duties: vendor crews trained under the OSHA Bloodborne Pathogens Standard, Safety Data Sheets on site under OSHA Hazard Communication, ADA-compliant dispenser mounting heights, and a current certificate of insurance. Small tenants should not accept a vendor that skips these to hit a low price." },
+    { "type": "cta", "text": "Enter your square footage, restroom count, and schedule in the Office Cleaning Cost Calculator to see whether minimums are inflating your restocking cost, then run small-suite and building-wide bids through the Quote Comparator on a per-sq-ft basis." }
+  ],
+  "faqs": [
+    { "q": "Why does a small office pay more per square foot for restroom supplies?", "a": "Mostly because of fixed costs. Each visit has travel, supervision, and insurance overhead, captured in a $90-$135 minimum. Spread across 2,000 sq ft, that overhead dominates the price. Spread across 30,000 sq ft, it nearly disappears. Small offices also buy product in smaller lots without contract pricing." },
+    { "q": "How do I compare a per-restroom quote with a per-sq-ft quote?", "a": "Convert both to a monthly total. Multiply the per-visit charge by visits per month at 4.33 weeks per month (2x per week = 8.66 visits, weeknights = 21.65). Then divide by square footage and visits to get an effective per-sq-ft rate you can line up across vendors." },
+    { "q": "Can a small tenant join a building-wide restroom supply program?", "a": "Often yes, especially in multi-tenant buildings where the landlord services common-area restrooms. Ask property management whether in-suite restrooms can be added to the base building janitorial contract or supply agreement. You typically gain large-account product pricing and avoid a separate minimum." },
+    { "q": "Do large buildings need more frequent restocking visits?", "a": "Usually yes, because higher occupant counts drain dispensers faster. Buildings above about 5 occupants per 1,000 sq ft often add a midday day porter at $35-$65 per hour to recheck high-use restrooms. That cost is spread across many occupants, so it still keeps the per-sq-ft rate low." },
+    { "q": "Should green-certified products be required in both small and large offices?", "a": "If your lease, LEED operations plan, or corporate sustainability policy requires them, yes. Green Seal or EPA Safer Choice certified paper and soap typically add only a small premium, and large buildings can often negotiate it away entirely through volume purchasing." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle",
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "cloroxpro-clorox-disinfecting-wipes-commercial-bucket-700-count"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-restroom-consumable-restocking-service/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-restroom-consumable-restocking-service-quotes/",
+    "/janitorial-carts-mops-and-tools/best-lockable-janitor-carts-for-schools-and-clinics/"
+  ]
+}

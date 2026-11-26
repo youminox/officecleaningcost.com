@@ -1,0 +1,75 @@
+{
+  "slug": "vct-scrub-and-recoat-for-small-vs-large-offices",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/vct-scrub-and-recoat-for-small-vs-large-offices/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "small vs large vct scrub and recoat volume",
+  "title": "Small vs Large VCT Scrub and Recoat Volume: How Economies of Scale Change Unit Pricing",
+  "seoTitle": "Small vs Large VCT Scrub and Recoat Volume Pricing: Suites vs Floors",
+  "metaDescription": "Small vs large VCT scrub and recoat volume pricing: 2,000 sq ft suites pay $0.22-$0.30/sq ft, 25,000+ sq ft floors $0.10-$0.15. Model yours in our calculator.",
+  "excerpt": "A 2,000 sq ft suite and a 25,000 sq ft floor can pay unit rates that differ by more than double for the same VCT scrub and recoat. Learn where the scale breaks happen and how small tenants can capture large-building pricing.",
+  "quickAnswer": "For VCT scrub and recoat, small suites around 2,000 sq ft typically pay $0.22 to $0.30 per sq ft or a $200 to $400 minimum, mid-size floors of 5,000 to 10,000 sq ft pay $0.15 to $0.22, and buildings with 25,000+ sq ft of VCT pay $0.10 to $0.15. The gap comes from fixed mobilization cost, equipment productivity, and edge-to-open-area ratio.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic split composition concept shot inside a US office building: in the foreground a technician with a 36-quart yellow side-press mop bucket recoating a small VCT breakroom, in the background through a glass partition a long wide VCT corridor gleaming under fresh finish, warm evening light mixed with overhead LEDs, eye-level camera, no text, no logos, no watermarks",
+    "alt": "Small VCT breakroom being recoated beside a long freshly finished office corridor showing scale differences"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Unit Price Falls as VCT Area Grows" },
+    { "type": "p", "text": "Every scrub and recoat job carries fixed costs that do not change with square footage: loading the van, driving to the site, setting up cones and the scrubber, mixing chemistry, and cleaning equipment afterward. Those steps eat roughly 1.5 to 2.5 crew-hours whether the floor is 800 sq ft or 18,000 sq ft. On a small suite, that overhead is spread over very few square feet, so the per-sq-ft price climbs. On a large floor, the same overhead becomes a rounding error." },
+    { "type": "p", "text": "The second driver is equipment productivity. Large open corridors let a crew run a 17-inch to 20-inch scrubber-dryer in long straight passes and lay finish with a wide flat mop or applicator. Small suites force rotary machines into tight rooms and require more hand edging along casework, door frames, and baseboards. Edge work can run three to five times slower per sq ft than open-field scrubbing." },
+    { "type": "h2", "text": "Unit Pricing Across Building Sizes" },
+    { "type": "p", "text": "The table below shows how VCT scrub and recoat pricing typically moves across the same size brackets used for routine janitorial pricing. Routine cleaning drops from $0.12 to $0.20 per sq ft per visit for small offices to $0.05 to $0.10 for large ones, and floor care follows a similar curve." },
+    { "type": "table", "caption": "VCT scrub and recoat unit price by VCT area, with one quarterly visit annualized", "headers": ["VCT area", "Per sq ft rate", "Per-visit cost (midpoint area)", "Annual cost at 4 visits", "Monthly equivalent per sq ft"], "rows": [
+      ["Under 2,500 sq ft (2,000 example)", "$0.22-$0.30 or $200-$400 min", "$440-$600", "$1,760-$2,400", "$0.073-$0.10"],
+      ["2,500-9,999 sq ft (6,000 example)", "$0.15-$0.22", "$900-$1,320", "$3,600-$5,280", "$0.05-$0.073"],
+      ["10,000-24,999 sq ft (15,000 example)", "$0.12-$0.18", "$1,800-$2,700", "$7,200-$10,800", "$0.04-$0.06"],
+      ["25,000+ sq ft (30,000 example)", "$0.10-$0.15", "$3,000-$4,500", "$12,000-$18,000", "$0.033-$0.05"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Where the price breaks happen", "text": "The steepest drop occurs between about 1,500 and 5,000 sq ft of VCT, where the job moves off the minimum charge. A second, smaller break appears around 10,000 sq ft, where vendors can justify a ride-on or larger walk-behind scrubber and a three-person crew." },
+    { "type": "h2", "text": "Small Suites: What 2,000 sq ft Offices Should Expect" },
+    { "type": "p", "text": "Small professional offices, such as a law suite, insurance agency, or dental front office, often have VCT only in the entry, breakroom, and copy room. The total may be 600 to 1,500 sq ft. Here the minimum dominates: a $300 job on 1,000 sq ft is $0.30 per sq ft, and a $300 job on 600 sq ft is $0.50. That is not overcharging; it is mobilization math. Small tenants should focus on reducing frequency through good daily care and combining visits rather than haggling over the unit rate." },
+    { "type": "ul", "items": [
+      "Bundle scrub and recoat with carpet extraction so one mobilization covers both.",
+      "Schedule semiannually instead of quarterly if traffic is light and daily damp mopping uses a well-wrung 24-oz blend mop head.",
+      "Use a 24-inch microfiber dust mop daily to remove grit before it abrades finish.",
+      "Ask the landlord whether the building floor care vendor can add your suite to a common-area visit at their volume rate."
+    ] },
+    { "type": "h2", "text": "Large Floors: What 25,000+ sq ft Buildings Should Expect" },
+    { "type": "p", "text": "Large buildings, including corporate campuses, schools converted to offices, and multi-floor medical buildings, gain leverage from volume but face different cost drivers. Logistics become the limiting factor: freight elevator scheduling, staged work across several nights, and coordination with security. A vendor may quote $0.12 per sq ft for open corridors but $0.18 for heavily furnished departments in the same building. Ask for zone-based pricing so you are not paying blended rates that hide the cheaper open areas." },
+    { "type": "p", "text": "Large facilities also benefit from a fixed deep floor program. At $0.03 to $0.06 per sq ft per month, a building with 30,000 sq ft of VCT budgets $900 to $1,800 monthly and receives guaranteed quarterly scrub and recoat plus spot work on entry lanes." },
+    { "type": "h2", "text": "How Small Tenants Capture Volume Pricing" },
+    { "type": "steps", "items": [
+      { "name": "Join a building-wide program", "text": "Ask property management whether common-area floor care can include tenant suites at the building rate, billed back by square footage." },
+      { "name": "Coordinate with neighbors", "text": "Two or three adjacent tenants scheduling the same night can split mobilization and each pay closer to mid-size rates." },
+      { "name": "Lengthen intervals wisely", "text": "Improve entry matting and daily care so recoats happen twice a year instead of four times." },
+      { "name": "Use multi-year terms", "text": "A two-year commitment with fixed dates gives the vendor predictable work and justifies a lower rate." }
+    ] },
+    { "type": "h2", "text": "Comparing Bids Fairly Across Sizes" },
+    { "type": "p", "text": "Always ask bidders to state the VCT square footage they priced, the coat count, and whether the minimum applies. When two vendors give the same total but one measured 1,400 sq ft and the other 2,000, they are pricing different jobs. Confirm that routine cleaning visits, calculated at weekly frequency times 4.333 weeks per month, are separate from periodic floor care on the invoice." },
+    { "type": "callout", "variant": "compliance", "title": "Same safety standards at every size", "text": "Small jobs still require coned wet areas, OSHA HazCom Safety Data Sheets for scrub solution and finish, and a certificate of insurance. A 36-quart side-press bucket with a built-in caution icon and pour spout reduces splash and slip risk in tight rooms." },
+    { "type": "cta", "text": "Enter your total and VCT square footage into the Office Cleaning Cost Calculator to see where you fall on the scale curve, then compare floor care proposals in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Why does my small office pay more per square foot for scrub and recoat?", "a": "Fixed mobilization costs, including travel, setup, equipment cleaning, and the two-person crew, are spread over fewer square feet. Most vendors set a $200 to $400 minimum, so a 1,000 sq ft VCT area effectively pays $0.20 to $0.40 per sq ft, while large floors pay $0.10 to $0.15." },
+    { "q": "At what size do VCT scrub and recoat prices drop the most?", "a": "The biggest drop happens once VCT area moves past roughly 1,500 to 2,500 sq ft and the job is no longer controlled by the minimum charge. A second break occurs near 10,000 sq ft, when larger scrubbers and bigger crews become efficient." },
+    { "q": "Should large buildings use one blended rate or zone pricing?", "a": "Zone pricing is usually better. Open corridors and lobbies scrub quickly at $0.10 to $0.12 per sq ft, while furnished departments can justify $0.15 to $0.18. A blended rate can hide overcharges on the easy areas, so ask for line items by zone." },
+    { "q": "How should I budget scrub and recoat alongside routine cleaning?", "a": "Price routine cleaning using visits per month, which is weekly frequency times 4.333, multiplied by your per-visit rate. Budget scrub and recoat separately as an amortized deep floor line, typically $0.03 to $0.06 per sq ft per month for quarterly service, so you can audit each component." },
+    { "q": "What compliance documents apply to small floor care jobs?", "a": "The same as large jobs: a certificate of insurance naming you as additional insured, Safety Data Sheets under OSHA Hazard Communication, and proper wet floor signage. If restroom-adjacent floors are involved, confirm bloodborne pathogen training where contamination may be present." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-24-inch-microfiber-dust-mop-kit",
+    "rubbermaid-commercial-super-stitch-blend-mop-head-24-oz",
+    "alpine-commercial-36-quart-side-press-mop-bucket"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-vct-scrub-and-recoat/",
+    "/cleaning-services-and-tasks/vct-scrub-and-recoat-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-vct-scrub-and-recoat-quotes/",
+    "/commercial-vacuums-and-floor-machines/best-heated-commercial-carpet-spotters/"
+  ]
+}

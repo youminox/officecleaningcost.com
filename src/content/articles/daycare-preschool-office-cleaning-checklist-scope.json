@@ -1,0 +1,73 @@
+{
+  "slug": "daycare-preschool-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/daycare-preschool-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "daycare preschool office scope tasks",
+  "title": "Daycare Preschool Office Scope Tasks: Daily and Weekly Checklist for Admin Suite Cleaning Crews",
+  "seoTitle": "Daycare Preschool Office Scope Tasks: Daily & Weekly Crew Checklist",
+  "metaDescription": "Daycare preschool office scope tasks for daily, weekly, and monthly crews, with labor minutes per area. Check vendor bids against it in our Quote Comparator.",
+  "excerpt": "A daycare or preschool admin suite needs a scope that separates lobby, office, staff lounge, and family restroom tasks and spells out which ones require disinfection rather than simple cleaning. This checklist gives crews a nightly, weekly, and monthly task list and explains which specialty tasks add labor hours.",
+  "quickAnswer": "A daycare or preschool admin scope should include nightly disinfection of the entry vestibule, check-in counter, door hardware, and family restrooms with changing tables, plus trash, vacuuming, and damp mopping; weekly dusting, glass, and staff lounge detail; and monthly baseboards, vents, and grout. Expect about 45 to 60 minutes per visit for a 1,500 sq ft admin suite, roughly 30 to 50 percent above the 3,500 sq ft per hour open-office benchmark, because disinfection dwell time and stroller-traffic floor care add minutes.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic view of a US preschool family restroom with a wall-mounted baby changing station and low child-height sink, a cleaner in nitrile gloves scrubbing the sink basin with a green scour pad while a yellow four-sided caution cone stands on the freshly mopped tile floor, bright even LED lighting, slightly elevated corner camera angle, no text, no words, no logos, no watermarks",
+    "alt": "Cleaner scrubbing a child-height sink in a preschool family restroom with a caution cone on the floor"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Scope the Admin Suite Separately From Classrooms" },
+    { "type": "p", "text": "The fastest way to get a confusing daycare cleaning bid is to hand a vendor the whole building and say 'clean it.' Child care classrooms, nap rooms, diapering areas, and food prep spaces are governed by state licensing sanitation rules, and many of those tasks, such as sanitizing toys and cots or cleaning diapering surfaces after each use, must be done by staff during the day. The admin suite is different: the vestibule, parent lobby, director and enrollment offices, staff lounge, records room, and the front restrooms. That is where an after-hours janitorial crew delivers the most value." },
+    { "type": "p", "text": "Write the admin scope as its own document with a floor plan, room list, and task frequencies. It makes bids comparable and prevents a crew from wandering into classrooms where licensing expectations, product restrictions, and liability are very different." },
+    { "type": "h2", "text": "Nightly Tasks and Labor Minutes by Area" },
+    { "type": "table", "caption": "Nightly scope for a 1,500 sq ft daycare admin suite with 2 restrooms (one with changing table)", "headers": ["Area", "Nightly tasks", "Est. minutes", "Why it takes longer than an office"], "rows": [["Secured entry vestibule", "Disinfect push plates, door pulls, keypad and intercom surround; clean inside and outside door glass; vacuum or mop entry mat area", "6–9", "Every family touches it twice a day; glass at child height gets hand and face prints"], ["Parent lobby and check-in", "Disinfect kiosk, counter, pens, and bench seating; empty trash; vacuum carpet and mop LVT; spot clean walls at stroller height", "10–14", "Stroller wheels and playground sand concentrate here"], ["Director and enrollment offices", "Empty trash and recycling, dust clear surfaces, disinfect phones and door levers, vacuum", "6–8", "Light traffic; candidates for 2x or 3x weekly service"], ["Staff lounge and kitchenette", "Clean and disinfect counters, sink, microwave, fridge and cabinet handles; scrub sink basin; empty trash; mop", "8–11", "Shift-based use from early morning to evening"], ["Family restroom with changing table", "Disinfect changing table surface, toilet, child-height sink, grab bars, dispensers; scrub sink; restock; mop", "10–13", "Diaper-area surfaces require full disinfectant dwell time"], ["Adult staff restroom", "Disinfect fixtures and touch points, restock, mop", "6–8", "Standard restroom cleaning"], ["Total", "All nightly tasks", "46–63 minutes", "Compared with about 26 minutes for 1,500 sq ft of open office at 3,500 sq ft per hour"]] },
+    { "type": "callout", "variant": "benchmark", "title": "Labor benchmark", "text": "At standard janitorial labor of $35 to $65 per hour, the 46 to 63 minutes above equals about $27 to $68 in labor before overhead, restroom pricing, and supplies. If a vendor quotes only 30 minutes nightly for this suite, ask which rows they intend to skip." },
+    { "type": "h2", "text": "Weekly and Monthly Checklist" },
+    { "type": "ul", "items": [
+      "Weekly: high dusting of door frames, shelves, cubby tops, framed artwork, and wall-mounted displays in the lobby.",
+      "Weekly: interior glass on office sidelights and the lobby viewing window into classrooms, priced at $15–$35 per visit if not included.",
+      "Weekly: detail clean of staff lounge appliances, including microwave interior and fridge door gaskets.",
+      "Weekly: edge vacuuming along baseboards and under benches and the check-in counter.",
+      "Weekly: wipe light switches, thermostats, and fire alarm pull station covers in all admin rooms.",
+      "Monthly: wipe baseboards and kick plates throughout the suite and corridor to classrooms.",
+      "Monthly: dust HVAC grilles and ceiling-mounted fixtures within reach.",
+      "Monthly: scrub restroom grout lines and the floor drain area; tile and grout carries a 1.12 flooring multiplier for this reason.",
+      "Quarterly: carpet extraction in the lobby and offices or scrub-and-recoat on VCT, amortized at $0.03–$0.06 per sq ft per month."
+    ] },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Office Rates" },
+    { "type": "table", "caption": "Daycare admin specialty tasks and pricing approach", "headers": ["Specialty task", "Added time", "How it is usually priced"], "rows": [["Changing table disinfection with full dwell time", "3–5 min per table per visit", "Included in restroom rate at the $25–$30 upper end"], ["Child-height glass on doors and viewing windows", "5–10 min per visit", "Included in vestibule tasks or billed as interior glass add-on"], ["Stroller parking area and wet-weather mat care", "5–15 min per visit in winter", "Seasonal add-on or deep floor program"], ["Lost-and-found and cubby bench wipe-down", "4–6 min per visit", "Included if written into scope"], ["Bodily fluid cleanup in admin areas", "15–30 min per incident", "Call-out fee or specialty rate of $55–$95 per hour"]] },
+    { "type": "h2", "text": "Building and Enforcing the Checklist" },
+    { "type": "steps", "items": [
+      { "name": "List rooms and touch points", "text": "Walk the admin suite and count door handles, push plates, kiosks, counters, changing tables, and sinks. This touch-point count drives the disinfection minutes in every bid." },
+      { "name": "Separate clean, sanitize, and disinfect", "text": "Use precise wording. Floors and offices get cleaned; food contact counters get cleaned then sanitized; restroom fixtures, changing tables, and door hardware get disinfected with an EPA-registered product per label dwell time." },
+      { "name": "Assign weekly tasks to a named night", "text": "Put glass, high dusting, and appliance detail on Friday so the center opens Monday at its best and your director knows when to inspect." },
+      { "name": "Require cones and closed doors during wet work", "text": "Even after hours, staff may be finishing paperwork. Wet floor cones at restroom doors and the lobby prevent slip claims." },
+      { "name": "Inspect with a room scorecard", "text": "Score lobby, restrooms, lounge, and offices weekly for the first month and monthly after that. Tie repeated low scores to a credit or re-clean clause." }
+    ] },
+    { "type": "h2", "text": "Tools That Keep the Scope on Time" },
+    { "type": "p", "text": "The Rubbermaid Commercial 36-inch four-sided caution cone is stackable, has bilingual English and Spanish print on all sides, and supports ANSI/OSHA-style hazard marking at restroom doors and the lobby during mopping. The O-Cedar Commercial MaxiClean angle broom and lobby pan, with a 12-inch flagged poly head and 48-inch handle, picks up playground sand and cereal along baseboards and under benches faster than unpacking a vacuum for small spills. 3M Scotch-Brite commercial heavy-duty scour pads, in a 20-pack of 6 by 9 inch non-rusting synthetic pads, handle the staff lounge sink and porcelain in the family restroom without the rust stains steel wool leaves." },
+    { "type": "callout", "variant": "compliance", "title": "Keep the SDS binder current", "text": "OSHA Hazard Communication requires the vendor to provide Safety Data Sheets for every chemical used on site. Licensing inspectors may also ask what products are used in a child care building, so keep a current list with EPA registration numbers in the director's office." },
+    { "type": "cta", "text": "Turn this checklist into a monthly budget with the Office Cleaning Cost Calculator, then use the Quote Comparator to line up each vendor's tasks, minutes, and price before you sign." }
+  ],
+  "faqs": [
+    { "q": "Should the janitorial vendor clean classrooms in a daycare too?", "a": "It can, but scope it separately. Classroom sanitation in licensed child care involves toy and surface sanitizing schedules, nap mat care, and product restrictions set by state rules. Many centers keep daytime sanitizing with trained staff and contract the vendor for floors, restrooms, and trash in classrooms after hours, priced as a separate section." },
+    { "q": "How many visits per month does a daily daycare admin schedule include?", "a": "Five weekday visits times 4.33 weeks equals 21.65 visits per month. Contracts should invoice on that average so the per-visit price stays verifiable, and holiday closures should be addressed explicitly as either credited or used for deep floor work." },
+    { "q": "What insurance should a daycare require from its cleaning contractor?", "a": "Ask for a COI naming the center and landlord as additional insureds with general liability commonly at $1 million per occurrence and $2 million aggregate, workers compensation, and a janitorial bond or crime coverage. Confirm that background-checked staff are assigned and that substitutes meet the same standard." },
+    { "q": "Do daycare restrooms require bloodborne pathogens procedures?", "a": "Any cleanup involving blood, or bodily fluids that may contain blood, triggers OSHA bloodborne pathogens requirements for the employer of the person cleaning. Vendors should provide trained workers, gloves, spill kits, and a written procedure, and the contract should state whether incident cleanup is included or billed per call." },
+    { "q": "What tasks are commonly left out of daycare admin scopes?", "a": "Toy sanitizing, cot and crib cleaning, kitchen hood and equipment cleaning, carpet extraction, VCT stripping, exterior windows, and playground equipment are usually excluded. List anything you need with a frequency, or the vendor will treat it as an extra." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/daycare-preschool-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/fitness-gym-office-cleaning-cost/",
+    "/facility-cleaning-costs/fitness-gym-office-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-executive-suite-stainless-restroom-upgrades/"
+  ]
+}

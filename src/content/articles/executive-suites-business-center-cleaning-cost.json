@@ -1,0 +1,83 @@
+{
+  "slug": "executive-suites-business-center-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/executive-suites-business-center-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "executive suites business center rates",
+  "title": "Executive Suites Business Center Rates: Regus-Style Crew Pricing and Restroom Cost Breakdown",
+  "seoTitle": "Executive Suites Business Center Rates: Crew & Restroom Pricing",
+  "metaDescription": "Executive suites business center rates average $0.081–$0.135/sq ft per visit for 2,500–9,999 sq ft centers. See restroom and glass math, then run the calculator.",
+  "excerpt": "Executive suite and Regus-style business centers sell polish: clients walk past reception glass, conference rooms, and shared restrooms every day. This guide benchmarks per-square-foot and monthly cleaning costs, explains restroom and glass add-ons, and recommends frequency by center size.",
+  "quickAnswer": "A 2,500–9,999 sq ft executive suite center typically pays $0.09–$0.15 per sq ft per visit at base, or about $0.081–$0.135 after the 0.9 five-night multiplier. A 9,000 sq ft center on mixed flooring lands near $16,600–$27,600 per month for base cleaning, plus roughly $970–$1,950 for three shared restrooms and $325–$760 for nightly interior glass.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior of an upscale US executive suites business center reception after hours, polished LVT floor reflecting pendant lights, glass-walled conference room behind a curved reception desk, a cleaning crew member flat-mopping near the lobby seating, warm ambient evening lighting, low wide-angle camera from the entry, no text, no logos, no watermarks",
+    "alt": "Cleaning crew member mopping the reception area of an upscale executive suites business center at night"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes Executive Suites a Distinct Pricing Category" },
+    { "type": "p", "text": "Regus-style business centers, executive suites, and serviced offices combine three environments under one lease: a hospitality-grade reception and lounge, a block of small private offices rented by the month, and shared amenities such as conference rooms, a cafe or kitchen, and common restrooms. The operator's revenue depends on members renewing, and members judge the space by the first ten feet past the door. That makes appearance standards higher than a typical tenant office, even though occupancy density is moderate." },
+    { "type": "p", "text": "Cleaning cost therefore depends less on raw headcount and more on surface mix: glass partitions, hard-floor lobbies, upholstered lounge furniture, and dozens of small offices with individual trash cans. Crews spend more time per square foot moving between rooms than they would on an open-plan floor." },
+    { "type": "h2", "text": "Benchmark Rates by Center Size" },
+    { "type": "p", "text": "These figures apply national size-bracket rates, the mixed-flooring multiplier of 1.05 where noted, and frequency multipliers. Visits per month assume 4.33 weeks: 13 visits for three nights per week and 21.65 for five nights." },
+    { "type": "table", "caption": "Executive suites base cleaning cost by center size (before restrooms and add-ons)", "headers": ["Center profile", "Base rate / sq ft / visit", "Frequency & multiplier", "Per visit", "Per month"], "rows": [
+      ["2,000 sq ft micro-center, carpet", "$0.12–$0.20", "3x/wk × 0.95", "$228–$380", "$2,964–$4,940"],
+      ["9,000 sq ft center, carpet", "$0.09–$0.15", "5x/wk × 0.90", "$729–$1,215", "$15,783–$26,305"],
+      ["9,000 sq ft center, mixed flooring", "$0.09–$0.15 × 1.05", "5x/wk × 0.90", "$765–$1,276", "$16,572–$27,620"],
+      ["18,000 sq ft flagship, carpet", "$0.07–$0.12", "5x/wk × 0.90", "$1,134–$1,944", "$24,551–$42,088"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Minimum visit charges", "text": "Small satellite centers under 2,500 sq ft often hit a vendor's minimum per-visit charge of $90–$135. If your calculated per-visit price falls below that floor, expect the minimum to apply, which makes three-night service more cost-effective than five nights for very small locations." },
+    { "type": "h2", "text": "Restroom Pricing in Shared-Amenity Centers" },
+    { "type": "p", "text": "Most executive suite centers rely on common restrooms, either inside the suite or shared on the building floor. When restrooms sit inside the leased premises, they belong in the janitorial contract at $15–$30 per restroom per visit. A 9,000 sq ft center with three restrooms on five-night service pays $974–$1,949 per month for restroom care. Centers that market wellness rooms, showers, or mothers' rooms should list them separately, since showers require tile-and-grout labor at the 1.12 flooring multiplier." },
+    { "type": "p", "text": "If the building's base janitorial covers core restrooms, confirm the boundary in writing. Double-paying for restrooms already covered by the landlord's common-area maintenance is one of the most common overcharges in serviced-office contracts." },
+    { "type": "h2", "text": "Traffic Wear: Reception, Conference, and Kitchen Zones" },
+    { "type": "ul", "items": [
+      "Reception and lounge: hard floors such as LVT or stone take grit from street shoes; daily neutral-pH damp mopping and walk-off mat vacuuming protect the finish.",
+      "Conference rooms: heavy rolling-chair use on carpet tile, whiteboard residue, and food from catered meetings; reset after every visit.",
+      "Cafe or kitchen: coffee machines, sinks, and shared refrigerators need daily sanitation at the $12–$25 per visit breakroom rate, or $260–$541 per month on five nights.",
+      "Private offices: low individual traffic but high count; each office adds trash, dusting, and vacuum time regardless of occupancy.",
+      "Interior glass: sidelights and glass-front offices are the signature finish of the category; nightly spot-cleaning at $15–$35 per visit adds $325–$758 per month."
+    ] },
+    { "type": "h2", "text": "Recommended Frequency" },
+    { "type": "steps", "items": [
+      { "name": "Under 2,500 sq ft", "text": "Three nights per week with daily reception touch-up by on-site staff. The 0.95 multiplier and minimum charges make this the efficient choice." },
+      { "name": "2,500 to 9,999 sq ft", "text": "Five nights per week. Member-facing lobbies and conference rooms cannot sit uncleaned overnight after a full day of meetings." },
+      { "name": "10,000 sq ft and above", "text": "Five nights plus a two- to four-hour day porter covering restrooms, kitchen, and conference resets between bookings, billed at $35–$65 per hour." },
+      { "name": "Centers with weekend access", "text": "Add a Saturday or Sunday visit if members badge in on weekends, moving toward the seven-day 0.87 multiplier." }
+    ] },
+    { "type": "h2", "text": "Sample Monthly Budget for a 9,000 sq ft Center" },
+    { "type": "table", "caption": "All-in monthly estimate: 9,000 sq ft executive suite, mixed flooring, five nights", "headers": ["Line item", "Basis", "Low", "High"], "rows": [
+      ["Base cleaning", "$0.085–$0.142 × 9,000 × 21.65", "$16,572", "$27,620"],
+      ["Restrooms (3)", "$15–$30 × 3 × 21.65", "$974", "$1,949"],
+      ["Kitchen/cafe", "$12–$25 × 21.65", "$260", "$541"],
+      ["Interior glass", "$15–$35 × 21.65", "$325", "$758"],
+      ["Deep floor program", "$0.03–$0.06 × 9,000", "$270", "$540"],
+      ["Total", "", "$18,401", "$31,408"]
+    ] },
+    { "type": "p", "text": "Equipment choices influence how quickly crews move through dozens of small offices. A backpack vacuum such as the Powr-Flite BP6S Comfort Pro, with a 6 qt chamber, 5-stage HEPA filtration, an 11 lb weight, and a 62 dBA output, lets one technician cover private offices without dragging an upright through doorways. CloroxPro disinfecting wipes in the 700-count refillable bucket, bleach-free and on EPA List N, speed high-touch wiping of door levers and conference tables. For lobby LVT, Zep Neutral pH Industrial Floor Cleaner concentrate in a 5-gallon pail dilutes at 1:128, requires no rinse, and will not dull finished vinyl or sealed stone." },
+    { "type": "callout", "variant": "tip", "title": "Price private offices by count", "text": "Ask vendors to state how many private offices their price assumes. When the operator converts open coworking space into more private offices, cleaning time rises even though square footage stays flat." },
+    { "type": "cta", "text": "Enter your center's square footage, restroom count, and flooring mix into the Office Cleaning Cost Calculator, then compare vendor bids line by line in the Quote Comparator to spot missing glass, kitchen, or restroom pricing." }
+  ],
+  "faqs": [
+    { "q": "How do I convert an executive suite cleaning quote into an annual budget?", "a": "Multiply the per-visit price by visits per month, then by 12. With 4.333 weeks per month, five-night service equals about 21.65 visits monthly, or roughly 260 visits per year. A $800 per-visit quote equals about $17,320 per month and $207,840 per year." },
+    { "q": "What certificate of insurance should a business center require from its cleaning vendor?", "a": "Require general liability of at least $1 million per occurrence, statutory workers' compensation, and a janitorial bond, with the operator and landlord named as additional insureds. Because members store laptops and personal items in private offices, a bond covering theft is particularly useful." },
+    { "q": "Are member offices cleaned if they are locked?", "a": "Usually only if the operator provides keys or access credentials and the member has agreed. Many contracts treat locked offices as skipped for that visit. Document the policy in the scope so members are not surprised and the vendor is not blamed." },
+    { "q": "Which OSHA rules apply to cleaning a serviced office?", "a": "OSHA's Hazard Communication Standard requires labeled containers, accessible Safety Data Sheets, and chemical training. If restroom cleaning may involve blood or bodily fluids, the vendor needs a bloodborne pathogens exposure control plan and PPE for its staff." },
+    { "q": "Is green cleaning worth requesting for an executive suite?", "a": "Many members ask about sustainability, and Green Seal or Safer Choice cleaners usually add little to the cost. They also reduce lingering odors in small, enclosed private offices. Pair them with EPA-registered disinfectants for restrooms and shared kitchen surfaces." }
+  ],
+  "amazonProductIds": [
+    "powr-flite-bp6s-comfort-pro-backpack-vacuum",
+    "cloroxpro-clorox-disinfecting-wipes-commercial-bucket-700-count",
+    "zep-neutral-ph-industrial-floor-cleaner-concentrate-5-gallon-pai"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/executive-suites-business-center-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/executive-suites-business-center-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/medical-clinic-cleaning-cost/",
+    "/commercial-cleaning-chemicals-and-mats/best-budget-deskside-and-restroom-supply-bundle/"
+  ]
+}

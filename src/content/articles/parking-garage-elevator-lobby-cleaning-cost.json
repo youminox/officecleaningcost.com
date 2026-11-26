@@ -1,0 +1,90 @@
+{
+  "slug": "parking-garage-elevator-lobby-cleaning-cost",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/parking-garage-elevator-lobby-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "office parking garage lobby cleaning",
+  "title": "Office Parking Garage Lobby Cleaning: Parking Deck Vestibule & Pay-Station Cleaning Costs",
+  "seoTitle": "Office Parking Garage Lobby Cleaning: Deck Vestibule & Kiosk Costs",
+  "metaDescription": "Office parking garage lobby cleaning costs $56–$104 per daily visit for a 6-level deck. See per-level labor math, winter salt add-ons, and compare quotes.",
+  "excerpt": "Parking deck elevator lobbies and pay stations are the first and last interior surfaces your tenants touch each day. This guide prices them level by level, explains the winter salt premium, and shows how to scope kiosk disinfection without voiding equipment warranties.",
+  "quickAnswer": "Cleaning the elevator lobbies of a six-level office parking deck, including a 600 sq ft ground lobby and two pay stations, takes about 1.6 labor hours per visit, or roughly $56 to $104 per visit at $35–$65/hr. That works out to $1,212–$2,252 per month at 5x/week or $1,698–$3,154 at 7x/week, with a 20–30% winter premium in salt-belt markets.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic photo of an office parking garage elevator lobby on an upper deck level, glazed vestibule with stainless elevator doors, porcelain tile floor with a yellow four-sided wet floor cone, a janitor wiping a pay-station touchscreen kiosk with a microfiber cloth, concrete deck and parked cars visible through glass, overcast evening light blended with cool LED ceiling fixtures, medium shot from vestibule entrance, zero text, zero logos, zero watermarks",
+    "alt": "Janitor wiping a parking deck pay-station kiosk inside a tiled elevator lobby with a wet floor cone"
+  },
+  "blocks": [
+    { "type": "p", "text": "For most office tenants, the parking deck elevator lobby is the true front door. It is where they wait in the morning with coffee in hand and where they return at night, and in many buildings it receives less cleaning attention than the restroom on the 14th floor. Exhaust film on the glass, salt rings on the tile, overflowing trash cans, and greasy pay-station touchscreens shape tenant perception of the entire property." },
+    { "type": "p", "text": "Pricing these spaces correctly means accounting for travel time between levels, seven-day garage operations, and seasonal soil loads, none of which appear in a standard per-square-foot office bid." },
+    { "type": "h2", "text": "The Labor Model: Pricing Lobby by Lobby" },
+    { "type": "p", "text": "The model below uses a six-level parking deck with one elevator bank. Each upper-level vestibule averages 220 sq ft of tile with glass enclosure walls; the ground-level lobby is 600 sq ft and contains two pay-station kiosks. Travel by stair between levels is folded into each lobby's minutes. Costs use the $35–$65 standard hourly benchmark." },
+    {
+      "type": "table",
+      "caption": "Per-visit labor model: six-level office parking deck elevator lobbies",
+      "headers": ["Area", "Minutes per Visit", "Cost at $35/hr", "Cost at $65/hr"],
+      "rows": [
+        ["Upper-level vestibules (5 × 12 min): sweep, spot mop, trash, call buttons, glass spot-clean", "60", "$35.00", "$65.00"],
+        ["Ground-level lobby (600 sq ft): full mop, glass doors, benches, directory", "25", "$14.58", "$27.08"],
+        ["Pay stations (2 × 5 min): screen, keypad, card reader bezel, ticket slot", "10", "$5.83", "$10.83"],
+        ["Total per visit (95 min / ~1.6 hr)", "95", "$55.42", "$102.92"],
+        ["Monthly at 5x/week (21.65 visits)", "—", "$1,200–$1,212", "$2,228–$2,252"],
+        ["Monthly at 7x/week (30.33 visits)", "—", "$1,681–$1,698", "$3,122–$3,154"],
+        ["Winter salt premium (+20–30%, Dec–Mar)", "—", "+$240–$364/mo", "+$446–$676/mo"]
+      ]
+    },
+    { "type": "p", "text": "Rounded to a 1.6-hour visit, the per-visit range is $56–$104, which is why the quick answer uses $1,212–$2,252 for weekday service. If the vendor also wipes down the elevator cab interior on each pass, add roughly $8–$15 per cab per visit for stainless polishing and floor care." },
+    { "type": "callout", "variant": "benchmark", "title": "Why not square-foot pricing?", "text": "The combined lobby area is about 1,700 sq ft. At under-2,500 sq ft office rates of $0.12–$0.20 per sq ft with a tile multiplier of 1.12, that would suggest $228–$381 per visit. The real labor is closer to 1.6 hours, so insist on minutes-based pricing for garage lobbies." },
+    { "type": "h2", "text": "Seven-Day Coverage and Frequency Decisions" },
+    { "type": "p", "text": "Office garages often serve weekend retail, event, or residential parkers, and the lobbies stay open even when tenant floors are dark. A common approach is full service 5x/week on weekday nights and a lighter weekend touch: trash and a quick ground-lobby spot mop of about 30 minutes, costing $18–$33 per visit, or roughly $155–$285 per month across 8.66 weekend days. That hybrid usually beats full 7x/week service by $300–$600 per month." },
+    {
+      "type": "ul",
+      "items": [
+        "Low-use decks (under 300 daily parkers): 3x/week full lobby route, daily trash check by security or a day porter.",
+        "Standard office decks (300–900 parkers): 5x/week full route plus weekend ground-lobby touch.",
+        "Mixed-use or event decks: 7x/week full route, with post-event callouts billed at the specialty rate of $55–$95/hr.",
+        "Salt-belt markets: authorize a mid-day mop of the ground lobby on snow days with a monthly not-to-exceed cap.",
+        "All decks: monthly deep scrub of tile grout in the ground lobby, about 3 specialty hours or $165–$285."
+      ]
+    },
+    { "type": "h2", "text": "Pay-Station and Touchscreen Disinfection" },
+    { "type": "p", "text": "Pay stations are among the most-touched surfaces in the property and among the most fragile. Most kiosk manufacturers prohibit spraying liquid directly onto the screen or card reader and specify cleaners such as 70% isopropyl alcohol. Require the vendor to apply cleaner to a cloth first, wipe from top to bottom, and avoid pushing moisture into the ticket slot or bill acceptor. A split-microfiber cloth rated for hundreds of commercial launderings, such as the Rubbermaid Commercial HYGEN damp/wet cloth, holds enough solution for a full kiosk without dripping and can be color-coded so kiosk cloths never cross over to restroom fixtures." },
+    { "type": "callout", "variant": "warning", "title": "Protect equipment warranties", "text": "Ammonia-based glass cleaners and bleach can cloud anti-glare coatings and degrade touchscreen bezels. Put the kiosk manufacturer's approved-cleaner list in the scope of work and ask the vendor to show the matching SDS in their HazCom binder." },
+    { "type": "h2", "text": "Floors, Finish, and Slip Safety" },
+    { "type": "p", "text": "Garage lobbies are wet more often than any other interior space: rain blows through open deck edges, cars drip snowmelt, and tenants track it all to the elevator. Every wet-mop pass should be marked with a 36-inch, four-sided caution cone such as the Rubbermaid Commercial yellow cone, which is visible from every approach direction in a tight vestibule and stacks on the cart between levels. Where the ground lobby has VCT rather than porcelain tile, a dedicated finish applicator system like the Rubbermaid Commercial flat mop kit keeps recoat coats thin and even, which matters because heavy finish builds up and becomes slippery when wet." },
+    { "type": "h2", "text": "Scope Checklist for Garage Lobby Bids" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Count every lobby and kiosk", "text": "List each level, its square footage, floor type, and number of trash receptacles, plus pay stations and elevator cabs, so bids are comparable." },
+        { "name": "Assign garage ownership", "text": "Clarify whether the garage operator, the building, or a parking management firm pays for lobby cleaning; many garage operating agreements already include it." },
+        { "name": "Exclude the deck surface", "text": "Sweeping or power-washing the parking deck itself is a separate sweeper-truck service. Keep it out of the janitorial scope to avoid vague pricing." },
+        { "name": "Set seasonal triggers", "text": "Write a winter salt premium and storm callout rate into the contract rather than negotiating it in January." },
+        { "name": "Require incident reporting", "text": "Crews should log graffiti, vandalism, and biohazards with photos so security and the property manager can act quickly." }
+      ]
+    },
+    { "type": "cta", "text": "Enter your deck's lobby count, square footage, and weekly visits into the Office Cleaning Cost Calculator, and use the Quote Comparator to see which vendor priced travel time and weekend coverage realistically." }
+  ],
+  "faqs": [
+    { "q": "Who usually pays for parking garage lobby cleaning?", "a": "It depends on the garage arrangement. If a parking operator manages the deck, lobby cleaning may be in their management agreement. If the building self-operates, the cost typically flows through common area maintenance charges. Confirm before bidding so you do not pay twice." },
+    { "q": "How should crews handle needles or bodily fluids found in stairwells?", "a": "Vendors must train workers under OSHA's Bloodborne Pathogens Standard (29 CFR 1910.1030), provide puncture-resistant gloves and a sharps container on the cart, and document exposure procedures. Large biohazard events should be escalated to a specialty remediation contractor at specialty rates, not handled in the routine scope." },
+    { "q": "What does the winter salt premium cover?", "a": "It covers extra mopping passes, salt neutralizer application, more frequent walk-off mat vacuuming, and additional trash runs during snow events. A 20–30% uplift for December through March is typical in salt-belt markets, or about $240–$676 per month on the six-level model, depending on visit frequency and rate." },
+    { "q": "How is the monthly price calculated for 7-day service?", "a": "Multiply the per-visit price by 7 × 4.33, or 30.33 visits per month. A $75 visit becomes $2,275 per month. If the vendor used 28 or 30 visits, ask them to restate the bid so it matches the annual visit count of 364 to 365." },
+    { "q": "Are green-certified cleaners effective on garage soil?", "a": "For routine glass, tile, and touch points, Green Seal GS-37 certified general-purpose and glass cleaners perform well. Heavy exhaust film or salt crust may need a stronger degreaser or neutralizer used periodically; those products should still appear in the vendor's SDS binder and be applied according to dwell times on the label." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-finish-applicator-flat-mop-kit",
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/short-term-pop-up-office-cleaning-cost/",
+    "/office-cleaning-cost-guides/subleased-office-cleaning-cost-guide/",
+    "/office-cleaning-cost-guides/summer-vacation-lull-cleaning-schedule-cost/",
+    "/restroom-and-breakroom-dispensers/best-touchless-hand-sanitizer-stations-for-lobbies/"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "slug": "physical-therapy-clinic-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/physical-therapy-clinic-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "physical therapy clinic scope tasks",
+  "title": "Physical Therapy Clinic Scope Tasks: A Custom SOW Template for PT and Rehab Office Housekeeping",
+  "seoTitle": "Physical Therapy Clinic Scope Tasks: Custom SOW Template",
+  "metaDescription": "Physical therapy clinic scope tasks for gym, treatment rooms, and restrooms with labor minutes near 2,200 sq ft/hr. Compare vendor SOWs in the Quote Comparator.",
+  "excerpt": "A physical therapy statement of work needs to cover gym equipment, vinyl treatment tables, rubber flooring, and ADA restrooms that a generic office checklist never mentions. This template lays out daily, weekly, and monthly tasks with labor minutes so a clinic director can write an enforceable SOW.",
+  "quickAnswer": "A 5,000 sq ft physical therapy clinic usually needs 125 to 165 labor minutes per nightly visit, a production rate of roughly 1,800 to 2,400 sq ft per hour compared with about 3,500 sq ft per hour for a standard office. The tasks that add hours are terminal disinfection of treatment tables and equipment grips, rubber gym floor care, ADA restroom detailing, and moving or working around heavy equipment.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic medium shot of a US physical therapy clinic treatment bay at night, a cleaner disinfecting the vinyl surface of a high-low mat table, foam rollers and resistance bands neatly stacked on a rack, yellow wet floor cone on rubber flooring, angle broom leaning against a wall, cool clinical lighting, slightly elevated camera angle, no text, no logos, no watermarks",
+    "alt": "Cleaner disinfecting a mat table in a physical therapy treatment bay with a wet floor cone nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why PT clinics need a custom statement of work" },
+    { "type": "p", "text": "A physical therapy clinic has more patient-contact surfaces per square foot than almost any other outpatient facility. Every mat table, handrail, cable handle, dumbbell, stability ball, and treadmill console is touched by skin, often sweaty skin, many times a day. Generic office cleaning contracts cover floors, trash, and restrooms and leave equipment ambiguous. The result is predictable: staff assume the night crew wipes equipment, the crew assumes staff do, and nobody owns it. A custom SOW fixes that by naming every surface, assigning it to clinical staff or the vendor, and attaching a time standard." },
+    { "type": "p", "text": "Time standards also justify the price. PT clinics typically clean at about 1,800 to 2,400 sq ft per hour, well below the ISSA office benchmark of 3,500 sq ft per hour, because crews work around fixed equipment, perform two-step disinfection on vinyl and metal surfaces, and handle both soft and hard flooring in the same visit." },
+    { "type": "h2", "text": "Nightly SOW template with labor minutes" },
+    { "type": "table", "caption": "Nightly labor minutes for a 5,000 sq ft outpatient physical therapy clinic", "headers": ["Zone", "Vendor nightly tasks", "Minutes"], "rows": [
+      ["Reception and waiting room", "Vacuum carpet, wipe chair arms and check-in counter, disinfect door push plates, empty trash", "15 - 18"],
+      ["Open gym (approx. 2,500 sq ft)", "Vacuum rubber floor edges, damp-mop with neutral cleaner, wipe parallel bars, handrails, and stair trainer rails", "40 - 50"],
+      ["Mat and treatment tables (8)", "Terminal disinfection of vinyl surfaces, height-adjust levers, and table bases with compatible product", "16 - 24"],
+      ["Exercise equipment touch points", "Treadmill consoles and handles, bike seats, cable grips, dumbbell rack rails", "12 - 16"],
+      ["Private treatment rooms (4)", "Trash, wipe counters and door hardware, mop or vacuum floor", "12 - 16"],
+      ["Restrooms (2) and changing area", "Clean fixtures, grab bars, benches, restock, disinfect floor", "20 - 26"],
+      ["Offices, documentation stations, breakroom", "Trash, vacuum, breakroom counters, sink, microwave", "10 - 15"],
+      ["Total per visit", "", "125 - 165"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Staffing check", "text": "At 125 to 165 minutes per visit, a 5,000 sq ft clinic needs roughly 2.1 to 2.8 labor hours each night. On a three-night schedule that is about 27 to 36 hours per month using 13 visits; at five nights it is 45 to 60 hours using 21.65 visits. A bid staffing one technician for an hour is not covering this scope." },
+    { "type": "h2", "text": "Weekly tasks for gym and treatment areas" },
+    { "type": "ul", "items": [
+      "Detail baseboards, cove base, and the space under mat tables and equipment with an angle broom and damp microfiber; budget 25 to 30 minutes.",
+      "Wipe and disinfect weight plates, kettlebells, and medicine balls on a rotating schedule if the clinic assigns them to the vendor; 20 to 30 minutes.",
+      "Scrub restroom and changing-area grout and shower floors to prevent mildew and odor; 20 to 30 minutes.",
+      "High dust light fixtures, air diffusers, and tops of mirrors and equipment racks; 15 to 20 minutes.",
+      "Scour breakroom sinks and ice-pack freezer handles with non-rusting synthetic pads; 10 minutes.",
+      "Clean interior glass, mirrors along the gait-training wall, and entry doors; 15 minutes."
+    ] },
+    { "type": "h2", "text": "Monthly and quarterly tasks" },
+    { "type": "p", "text": "Monthly work covers deep cleaning of rubber flooring with an auto-scrubber or deck brush and neutral cleaner, wiping wall-mounted cable columns and pulleys top to bottom, washing trash receptacles, and descaling restroom fixtures. Quarterly tasks typically include vinyl floor scrub-and-recoat in treatment rooms, carpet hot-water extraction in the waiting area, and upholstery cleaning on waiting-room chairs. Amortized, a quarterly floor program costs $0.03 to $0.06 per sq ft per month, which is $150 to $300 per month for a 5,000 sq ft clinic." },
+    { "type": "h2", "text": "Specialty tasks that push labor above office rates" },
+    { "type": "p", "text": "Four items drive most of the extra time. First, terminal disinfection of tables and equipment, which requires keeping surfaces wet for the product's label dwell time and then wiping residue so vinyl does not crack or become slippery. Second, rubber floor care, which needs a neutral cleaner and a damp, not wet, pass to avoid pooling in seams. Third, ADA restroom detailing, including grab bars, fold-down shower seats, and emergency pull cords. Fourth, working around fixed and heavy equipment: crews cannot run a wide mop through a gym full of machines, so edges and corners are done by hand." },
+    { "type": "p", "text": "Simple tools make a measurable difference. An O-Cedar MaxiClean angle broom with a 12-inch flagged-poly head and 48-inch handle pulls grit from beneath equipment frames before mopping. A 36-inch, four-sided Rubbermaid wet floor cone with bilingual print belongs at every gym entrance during damp mopping because therapists often stay late charting. 3M Scotch-Brite heavy-duty scour pads, 6 x 9 inch and non-rusting, handle breakroom sinks and porcelain without leaving metal fragments." },
+    { "type": "callout", "variant": "compliance", "title": "Assign every surface in writing", "text": "List each equipment category and mark it as vendor, clinical staff, or shared. Specify the disinfectant, its EPA registration, and dwell time, and require OSHA HazCom training and SDS access. Note that the vendor does not handle linens, ultrasound gel bottles, electrodes, dry-needling sharps, or any patient records, which keeps the SOW consistent with HIPAA and bloodborne pathogen controls." },
+    { "type": "h2", "text": "Steps to finalize your PT SOW" },
+    { "type": "steps", "items": [
+      { "name": "Inventory the floor plan", "text": "Count tables, machines, restrooms, showers, and flooring zones, and measure the gym separately from offices." },
+      { "name": "Set frequencies per task", "text": "Assign each task to nightly, weekly, monthly, or quarterly and note which nights each rotating task occurs." },
+      { "name": "Attach time standards", "text": "Use the minutes above to set expected staffing and compare it with each vendor's proposed hours." },
+      { "name": "Define quality inspections", "text": "Schedule a monthly scored walk-through with the clinic manager and include a credit clause for repeated misses." },
+      { "name": "Include insurance and vetting terms", "text": "Require a current COI, background checks, and a confidentiality agreement before keys and alarm codes are issued." }
+    ] },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to price your SOW at the right frequency, then upload competing vendor proposals to the Quote Comparator to check staffing hours and scope coverage line by line." }
+  ],
+  "faqs": [
+    { "q": "Who should disinfect PT equipment, staff or the cleaning vendor?", "a": "Best practice is shared responsibility. Clinical staff wipe tables and handheld equipment between patients, and the vendor performs a nightly terminal disinfection of tables, rails, and machine grips. Put the split in writing so nothing falls through the gap." },
+    { "q": "What disinfectants are safe for vinyl treatment tables?", "a": "Use an EPA-registered disinfectant approved by the table manufacturer, often a neutral quaternary or hydrogen peroxide product, and wipe residue after the dwell time. Harsh alcohol or bleach products used repeatedly can dry and crack vinyl upholstery." },
+    { "q": "How many hours per week should a PT clinic cleaning crew spend?", "a": "A 5,000 sq ft clinic typically needs about 2.1 to 2.8 hours per visit. At three nights per week that is roughly 6.3 to 8.4 hours weekly, and at five nights about 10.5 to 14 hours, before weekly and monthly rotating tasks." },
+    { "q": "Do PT clinics need HIPAA language in janitorial contracts?", "a": "Yes. Cleaners work around documentation stations, schedules, and printed records after hours. Include a confidentiality clause, require shredding bins to stay locked, and prohibit vendors from handling patient files or logged-in screens." },
+    { "q": "What should a PT clinic cleaning COI include?", "a": "Commercial general liability, commonly $1 million per occurrence, workers compensation, a janitorial bond or crime policy, and additional insured status for the clinic and landlord. Request an updated COI at every renewal." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/physical-therapy-clinic-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/chiropractic-clinic-cleaning-cost/",
+    "/facility-cleaning-costs/chiropractic-clinic-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/georgia-pacific-compact-coreless-vs-scott-pro-4-roll/"
+  ]
+}

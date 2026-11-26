@@ -1,0 +1,83 @@
+{
+  "slug": "bank-branch-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/bank-branch-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "bank branch scope tasks",
+  "title": "Bank Branch Scope Tasks: A Custom SOW Template for Bank and Credit Union Housekeeping",
+  "seoTitle": "Bank Branch Scope Tasks: SOW Template for Credit Union Cleaning",
+  "metaDescription": "Bank branch scope tasks for a custom SOW: daily lobby, teller line, and ATM vestibule duties, labor minutes, and secure-zone rules. Compare vendor quotes.",
+  "excerpt": "A bank branch SOW has to do two jobs at once: keep a customer-facing lobby spotless and keep crews out of secure areas. This template lists daily, weekly, and monthly tasks with labor minutes, flags the specialty work that pushes hours above standard office rates, and shows what to exclude in writing.",
+  "quickAnswer": "A 3,500 sq ft bank branch typically needs about 2.5 crew-hours per nightly cleaning, compared with roughly 1 hour for a generic office of the same size at 3,500 sq ft per hour. ATM vestibule care, teller line detailing, lobby hard-floor work, and opening or closing walk-throughs with a key holder account for most of the difference, roughly $1,137–$2,111 per month at five weeknights.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic after-hours scene in an American credit union branch, a cleaner sweeping a wide 36-inch cotton dust mop across a terrazzo lobby while a branch manager waits near the closed teller line holding a key ring, red and blue dual mop bucket parked by the ATM vestibule doors, warm recessed lighting with dark windows, three-quarter angle from behind the customer desk, no text, no logos, no watermarks",
+    "alt": "Cleaner dust-mopping a credit union lobby while a manager waits near the teller line"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes bank branch scope tasks different" },
+    { "type": "p", "text": "Most small-office SOWs are written around production: vacuum, empty trash, clean restrooms, done. A bank branch adds a layer of choreography. Cleaners usually work under a dual-control or escorted-entry policy, so someone from the branch must disarm the alarm, walk the crew in, and remain until the building is secured. Crews must stay out of the vault, cash room, teller drawers, and any area with unsecured customer documents. Shred consoles are off-limits. Meanwhile, the lobby, teller line, and ATM vestibule are held to a retail-grade appearance standard. A good SOW turns those constraints into explicit tasks and exclusions so labor hours are planned instead of discovered." },
+    { "type": "h2", "text": "Nightly task list with labor minutes (3,500 sq ft branch)" },
+    { "type": "p", "text": "The example assumes a 3,500 sq ft branch with a 1,200 sq ft tile lobby, 1,800 sq ft of carpeted offices, a five-window teller line, a 24-hour ATM vestibule, six offices and loan desks, two restrooms, and a break room. Minutes reflect a trained single cleaner with the right tools." },
+    { "type": "table", "caption": "Nightly bank branch labor minutes by task", "headers": ["Task", "Scope detail", "Nightly minutes", "Generic office equivalent"], "rows": [
+      ["ATM vestibule", "Glass doors, ATM surround and keypad surface, receipt litter, floor mop", "15", "Not present"],
+      ["Lobby hard floor", "Dust mop then damp mop 1,200 sq ft of tile", "20", "8"],
+      ["Teller line, customer side", "Counter fronts, pen holders, deposit slip stand, partition glass spot-clean", "15", "Not present"],
+      ["Offices and loan desks", "6 stations: clear-surface wipe only, trash, chair arms", "18", "12"],
+      ["Carpet vacuum", "1,800 sq ft of offices and waiting area", "15", "15"],
+      ["Restrooms", "2 rooms full clean and restock", "20", "16"],
+      ["Break room", "Counters, sink, microwave, fridge exterior, floor", "12", "10"],
+      ["Trash and recycling", "15 non-confidential containers only", "15", "10"],
+      ["Entry and drive-up window glass", "Interior side, fingerprints and smudges", "10", "Entry door only, 3"],
+      ["Escorted entry and exit", "Alarm, walk-through, sign-in log, lock-up", "10", "Not required"],
+      ["Total", "", "150 (2.5 hrs)", "About 60–74 (1.0–1.2 hrs)"]
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Never let the SOW blur secure-zone boundaries", "text": "State in writing that crews do not enter vaults, cash rooms, safe deposit areas, or teller drawers, do not empty shred consoles, and do not move any paper from desks. Confidential destruction belongs to a certified shredding vendor under the bank's information security program, not the janitorial crew." },
+    { "type": "h2", "text": "Where the extra labor hours come from" },
+    { "type": "p", "text": "The 1.5-hour nightly gap between a bank branch and a generic office is mostly specialty work. The vestibule alone takes 15 minutes because receipts, weather, and fingerprints accumulate around the clock. The teller line requires careful detailing of glass and counter fronts without touching anything behind the line. Hard lobby floors need a dust-mop and damp-mop sequence rather than a quick vacuum pass. And escort time is real: a 10-minute walk-in and lock-up routine adds up. At $35–$65 per labor hour, the extra 1.5 hours costs about $52.50–$97.50 per visit, or $1,137–$2,111 per month across 21.65 weeknight visits." },
+    { "type": "p", "text": "Tools shorten the list. A wide 36-inch cotton dust mop such as the Rubbermaid Commercial frame with its 60-inch handle and 360-degree swivel clears a 1,200 sq ft lobby in a few passes. A microfiber spray mop with a 2-quart onboard tank, like the Rubbermaid HYGEN 18-inch kit, handles the vestibule and teller-line apron without a bucket in the customer area. For restrooms and the break room, a dual-compartment 15-gallon system like the Unger SmartColor keeps dirty rinse water away from clean solution, which matters when the same cleaner moves from restroom to break room floor." },
+    { "type": "h2", "text": "Weekly and monthly tasks for the SOW" },
+    { "type": "ul", "items": [
+      "Weekly: full interior glass on teller partitions, office sidelights, and entry vestibule, including frames and kick plates.",
+      "Weekly: detail-dust customer seating, brochure racks, coin counter exterior, and lobby furniture legs.",
+      "Weekly: disinfect door hardware, elevator buttons if present, and drive-up window trays during the visit when the window is closed.",
+      "Weekly: vacuum carpet edges and under office desks where accessible without moving files.",
+      "Monthly: dust high ledges, vents, and light fixtures within ladder reach; wipe baseboards.",
+      "Monthly: machine-scrub lobby tile or auto-scrub the vestibule; spot-extract carpet at entries.",
+      "Quarterly: grout cleaning in lobby and restrooms; carpet hot-water extraction; upholstery cleaning for customer chairs. Amortized at $0.03–$0.06 per sq ft per month, that is about $105–$210 per month for 3,500 sq ft."
+    ] },
+    { "type": "h2", "text": "Building the SOW document step by step" },
+    { "type": "steps", "items": [
+      { "name": "Map zones and access levels", "text": "Mark every room as public, staff, or secure. Cleaning tasks are only listed for public and staff zones; secure zones are named as exclusions." },
+      { "name": "List tasks with frequency and minutes", "text": "Use the nightly table and the weekly and monthly lists above, adjusting counts to your floor plan." },
+      { "name": "Define the access protocol", "text": "Specify the cleaning window, who escorts, sign-in log requirements, and what happens if the escort is late, including whether the vendor bills wait time." },
+      { "name": "Set quality standards", "text": "Lobby glass free of fingerprints at opening, vestibule floor free of litter, restrooms stocked to par. Tie inspections to a 1–5 score with a 24-hour remedy for anything below 3." },
+      { "name": "Attach compliance documents", "text": "Certificate of insurance, background screening certification, chemical list with SDS sheets, and the vendor's OSHA training records." }
+    ] },
+    { "type": "h2", "text": "Common exclusions to write into a bank SOW" },
+    { "type": "p", "text": "Typical exclusions include: entering secure areas, handling any paper or media, emptying shred consoles, opening ATMs or night depository equipment, cleaning computer interiors, moving desk contents, exterior windows, parking lot sweeping, snow removal, and biohazard cleanup beyond an initial spill-kit response. Listing them protects both parties and keeps the bid focused on the work that actually happens." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to translate this scope into a monthly budget for your branch, and load vendor proposals into the Quote Comparator to check whether each bid staffs enough nightly minutes." }
+  ],
+  "faqs": [
+    { "q": "How long does it take to clean a bank branch each night?", "a": "A 3,500 sq ft branch with a tile lobby, ATM vestibule, and two restrooms usually takes about 2.5 crew-hours. Smaller drive-up branches may need under an hour, but they often still pay the $90–$135 per-visit minimum." },
+    { "q": "Should janitorial crews empty shred bins at a bank?", "a": "No. Confidential material should be handled only by a certified document destruction vendor under the institution's information security program. Write this exclusion explicitly into the SOW so new crew members never treat a shred console as ordinary trash." },
+    { "q": "Does the bank need to have someone present during cleaning?", "a": "Many institutions require an employee to disarm the alarm and remain on site, or at least to open and close the building, under their security procedures. If so, the SOW should state the cleaning window and how late escorts are handled, since vendors may bill wait time at $35–$65 per hour." },
+    { "q": "What chemicals are appropriate for teller lines and ATM keypads?", "a": "Use a neutral cleaner or an EPA-registered disinfectant approved by the equipment manufacturer, applied to a cloth rather than sprayed directly onto keypads or screens. Crews need Hazard Communication training under OSHA 29 CFR 1910.1200 and access to safety data sheets for every product." },
+    { "q": "How do I check whether a vendor priced enough labor?", "a": "Multiply the nightly minutes in your SOW by visits per week and 4.333 to get monthly hours, then compare with the labor hours the vendor states. If a bid shows half the hours your scope requires, either tasks will be skipped or the vendor will request change orders later." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit",
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system",
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/bank-branch-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/financial-advisory-office-cleaning-cost/",
+    "/facility-cleaning-costs/financial-advisory-office-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-fire-safe-steel-trash-bins-for-class-a-lobbies/"
+  ]
+}

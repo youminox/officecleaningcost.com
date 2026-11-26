@@ -1,0 +1,97 @@
+{
+  "slug": "bike-storage-room-and-garage-vestibule-cost",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/bike-storage-room-and-garage-vestibule-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "office bike room vestibule cleaning cost",
+  "title": "Office Bike Room & Vestibule Cleaning Cost: Ground-Floor Bike Room and Garage Vestibule Rates",
+  "seoTitle": "Office Bike Room Vestibule Cleaning Cost: Rates & Labor Math",
+  "metaDescription": "Office bike room vestibule cleaning cost runs $30–$55 per visit as an add-on vs $90–$135 standalone. See labor-minute math and test it in our calculator.",
+  "excerpt": "Bike rooms and garage vestibules are small, high-grit zones that vendors either bundle cheaply or bill at punitive standalone minimums. This guide shows the task-minute math, the add-on versus standalone price gap, and how to write the scope so tire grit stops reaching your lobby.",
+  "quickAnswer": "Cleaning a typical 650 sq ft office bike room plus a 300 sq ft garage vestibule takes about 0.85 labor hours per visit, which prices at $30 to $55 per visit when added to an existing janitorial contract ($35–$65/hr). Bought standalone, the same space usually triggers the $90–$135 per-visit minimum, so 3x/week service lands at $1,170–$1,755 per month instead of $387–$718.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic photo of a ground-floor office building bike storage room with sealed gray concrete floor, wall-mounted steel bike racks holding commuter bicycles, a yellow side-press mop bucket and damp mop near the glass vestibule door leading to the parking garage, early morning cool daylight mixed with LED strip lighting, wide-angle eye-level view, zero text, zero logos, zero watermarks",
+    "alt": "Clean office bike storage room with wall racks, sealed concrete floor, and mop bucket near the glass garage vestibule door"
+  },
+  "blocks": [
+    { "type": "p", "text": "Bike rooms and the glass vestibules that connect a parking garage to a ground-floor lobby are among the most mispriced spaces in a US office janitorial contract. They are small, so procurement teams rarely itemize them, yet they collect more tracked-in grit, tire rubber, road salt, and water per square foot than almost any other interior zone. When they are left out of the scope, the dirt simply migrates to the elevator lobby and carpeted tenant corridors, where it costs far more to remove." },
+    { "type": "p", "text": "This breakdown treats the bike room and vestibule as their own line item, using labor-minute math against the national billing benchmark of **$35 to $65 per hour** and the ISSA-style production standard of roughly 3,500 sq ft per hour for routine office work. Run your own room sizes through the [Office Cleaning Cost Calculator](/office-cleaning-cost-calculator/) once you have the dimensions." },
+    { "type": "h2", "text": "Why Bike Rooms and Vestibules Don't Fit Standard Square-Foot Pricing" },
+    { "type": "p", "text": "National office rates for spaces under 2,500 sq ft run $0.12 to $0.20 per sq ft per visit. Applied to a 950 sq ft combined bike room and vestibule with a polished concrete multiplier of 0.95, that produces $108 to $181 per visit, which is roughly what a vendor charges when they must send a crew just for that space. But a bike room has no desks, no keyboards, no breakroom, and usually no restroom. The real work is floor-focused and takes well under an hour, so square-foot pricing overstates the cost whenever the room can ride along with an existing night crew." },
+    { "type": "p", "text": "The opposite mistake is also common: a building assumes the bike room is covered under the lobby line, the vendor assumes it is not, and the room gets a quick sweep once a week. Grit then grinds into the vestibule walk-off mat until the mat is saturated and stops capturing soil at all. Industry soil studies regularly cite that most soil entering a building is tracked in on shoes and wheels, and bike tires carry it deeper into the building than footwear does." },
+    { "type": "h2", "text": "Task-by-Task Labor Minutes and Per-Visit Cost" },
+    { "type": "p", "text": "The table below models a 650 sq ft bike room with sealed concrete, 24 wall-mounted rack positions, and a repair stand, connected to a 300 sq ft garage vestibule with two sets of glass doors and a recessed walk-off mat. Costs use the $35–$65 standard hourly benchmark." },
+    {
+      "type": "table",
+      "caption": "Per-visit labor model: 650 sq ft bike room + 300 sq ft garage vestibule",
+      "headers": ["Task", "Minutes per Visit", "Cost at $35/hr", "Cost at $65/hr"],
+      "rows": [
+        ["Dust mop / push-broom bike room floor", "10", "$5.83", "$10.83"],
+        ["Damp mop and spot-scrub tire marks", "12", "$7.00", "$13.00"],
+        ["Wipe rack hooks, repair stand, pump", "6", "$3.50", "$6.50"],
+        ["Empty trash and recycling", "3", "$1.75", "$3.25"],
+        ["Vestibule glass doors and sidelights (both sides)", "8", "$4.67", "$8.67"],
+        ["Vacuum walk-off mat", "5", "$2.92", "$5.42"],
+        ["Mop vestibule hard floor and threshold", "7", "$4.08", "$7.58"],
+        ["Total per visit (51 min / 0.85 hr)", "51", "$29.75", "$55.25"],
+        ["Monthly at 3x/week (13 visits)", "—", "$387", "$718"],
+        ["Monthly at 5x/week (21.65 visits)", "—", "$644", "$1,196"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "Add-on vs. standalone gap", "text": "As an add-on, 3x/week service costs about $387–$718 per month. If the same scope triggers a $90–$135 per-visit minimum because it is bid separately, the monthly figure jumps to $1,170–$1,755 (13 visits). Bundling the bike room into the main night-crew route is the single biggest saving available." },
+    { "type": "h2", "text": "Frequency: Matching Visits to Ridership and Weather" },
+    { "type": "p", "text": "Ridership drives soil load, and ridership swings hard with season and weather. A building with 40 daily bike commuters in May may see eight in January, but those eight bring in wet salt brine that is far more damaging to vestibule floors than dry summer dust. Set a base frequency and a written weather trigger rather than paying for daily service all year." },
+    {
+      "type": "ul",
+      "items": [
+        "Under 15 daily riders, dry climate: 2x/week bike room, 3x/week vestibule glass and mat.",
+        "15 to 40 daily riders: 3x/week full scope, with a mid-week vestibule spot-mop by the day porter.",
+        "40+ riders or a shower/locker room adjacent: 5x/week, plus restroom pricing of $15–$30 per visit for the locker area.",
+        "Snow-belt winter months: add a wet-weather trigger that authorizes a second daily vestibule mop at the hourly rate, capped at a monthly not-to-exceed figure.",
+        "Monthly deep scrub of the bike room floor with an auto-scrubber or deck brush: roughly 1.5 specialty hours at $55–$95/hr, or $83–$143 per event."
+      ]
+    },
+    { "type": "h2", "text": "Equipment That Keeps Labor Minutes Low" },
+    { "type": "p", "text": "Most of the cost in this space is floor time, so the tools matter. A 24-oz cotton-synthetic blend wet mop such as the Rubbermaid Commercial Super Stitch Blend releases trapped grit back into the bucket better than all-cotton heads and survives repeated laundering, which matters when the mop is dragging across abrasive concrete. Pair it with a 36-quart side-press bucket like the Alpine Commercial unit; the side-press wringer and 3-inch casters let one worker move water from the bike room to the vestibule without carrying a bucket over a threshold, and the pour spout keeps dirty water out of the floor drain grate." },
+    { "type": "p", "text": "For the vestibule glass, an 18-inch squeegee and microfiber washer on an 8-ft telescopic pole, such as the Unger Professional kit, lets the worker clear transoms and upper sidelights without a ladder. That is a safety and a speed issue: removing a ladder setup from the route trims two to three minutes per visit, which across 13 monthly visits is about half a labor hour." },
+    { "type": "h2", "text": "Writing the Scope So It Actually Gets Done" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Measure and name the spaces", "text": "List the bike room, vestibule, and any locker or shower room as separate scope lines with square footage and floor type, so the vendor cannot fold them silently into the lobby." },
+        { "name": "Define the tire-mark standard", "text": "State that visible black tire scuffs on walls up to 48 inches and on the floor are removed each visit, using a neutral or mildly alkaline cleaner listed on the vendor's SDS binder." },
+        { "name": "Set the walk-off mat cycle", "text": "Require vacuuming every visit and a rotation or extraction schedule; a saturated mat in the vestibule pushes soil straight into the elevator lobby." },
+        { "name": "Exclude bicycle handling", "text": "Specify that crews do not move, lift, or unlock bicycles. Abandoned bikes are tagged by property management, not the janitorial vendor, which avoids liability disputes." },
+        { "name": "Add a weather trigger with a cap", "text": "Authorize extra vestibule mopping on snow or rain days at the contract hourly rate, with a monthly not-to-exceed so the line never surprises accounting." }
+      ]
+    },
+    { "type": "callout", "variant": "warning", "title": "Watch for sharps and bodily fluids", "text": "Garage-adjacent vestibules occasionally collect discarded needles or are used by unhoused individuals overnight. Confirm the vendor trains crews under the OSHA Bloodborne Pathogens Standard (29 CFR 1910.1030), carries a sharps container on the cart, and has a written escalation path to building security." },
+    { "type": "h2", "text": "Budget Tips From Real Contract Negotiations" },
+    { "type": "p", "text": "Ask the incumbent vendor to price the bike room as minutes added to the existing route rather than as a new location. Most vendors will accept an hourly add-on because the crew is already in the building. If you are rebidding the whole building, list the bike room as a separate line in the bid form so you can compare proposals line by line in the [Quote Comparator](/compare-cleaning-quotes/)." },
+    { "type": "p", "text": "Also consider who pays. In multi-tenant buildings, bike rooms are typically a common-area amenity whose cleaning flows through operating expense reimbursements. In a single-tenant lease, the tenant usually controls and pays for it directly. Either way, the cost per rider is small: at $500 per month and 25 daily riders, cleaning costs about $0.92 per rider per working day (21.65 days per month), which is a useful figure when facilities leadership questions the line." },
+    { "type": "cta", "text": "Plug your bike room and vestibule square footage, floor type, and visit frequency into the Office Cleaning Cost Calculator, then paste vendor bids into the Quote Comparator to see whether you are paying add-on or standalone pricing." }
+  ],
+  "faqs": [
+    { "q": "Should a bike room be priced per square foot or per hour?", "a": "When it rides along with an existing night crew, price it per labor hour. A 950 sq ft bike room and vestibule takes about 0.85 hours, or $30–$55 per visit at $35–$65/hr. Square-foot pricing at $0.12–$0.20 per sq ft only makes sense when a crew must make a separate trip, and in that case the $90–$135 per-visit minimum usually controls anyway." },
+    { "q": "What insurance should the vendor carry for garage vestibule work?", "a": "Request a certificate of insurance (COI) showing commercial general liability, typically $1 million per occurrence and $2 million aggregate, workers' compensation, and a janitorial bond. Name the building owner and property manager as additional insureds, since slip-and-fall claims in wet vestibules are among the most common janitorial liability events." },
+    { "q": "How do I calculate the monthly cost from a per-visit price?", "a": "Multiply the per-visit price by visits per month using 4.33 weeks per month. A $40 add-on visit 3x/week is $40 × 13 = $520 per month; at 5x/week it is $40 × 21.65 = $866. Check that the vendor did not use four weeks, which understates the annual bill by about 8 percent and leads to change-order disputes later." },
+    { "q": "What chemicals are appropriate for tire marks and road salt?", "a": "Tire scuffs respond to a mildly alkaline general-purpose cleaner, while white salt residue requires a neutralizer or acidic ice-melt remover followed by a clean-water rinse. Under OSHA HazCom (29 CFR 1910.1200), the vendor must keep current Safety Data Sheets for each product on site. Green Seal GS-37 certified cleaners work for routine passes if the building has a sustainability policy." },
+    { "q": "Is the walk-off mat included in standard cleaning?", "a": "Vacuuming a vestibule mat is normally included, but extraction, rotation, or mat rental is usually a scope exclusion. Ask whether mats are owned by the building or rented from a uniform service; rented mats are swapped on the rental company's schedule, which may not match bike-season soil loads." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-super-stitch-blend-mop-head-24-oz",
+    "alpine-commercial-36-quart-side-press-mop-bucket",
+    "unger-professional-18-inch-window-squeegee-and-scrubber-kit"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/loading-dock-and-service-corridor-cleaning-cost/",
+    "/office-cleaning-cost-guides/parking-garage-elevator-lobby-cleaning-cost/",
+    "/office-cleaning-cost-guides/short-term-pop-up-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/gojo-tfx-vs-rubbermaid-autofoam-1100ml/"
+  ]
+}

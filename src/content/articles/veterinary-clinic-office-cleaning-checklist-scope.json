@@ -1,0 +1,81 @@
+{
+  "slug": "veterinary-clinic-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/veterinary-clinic-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "veterinary clinic office scope tasks",
+  "title": "Veterinary Clinic Office Scope Tasks: Estimating Labor Minutes and Daily, Weekly, and Monthly Work",
+  "seoTitle": "Veterinary Clinic Office Scope Tasks: Labor Minutes & Checklist",
+  "metaDescription": "Veterinary clinic office scope tasks by room, with labor minutes per visit and production rates near 1,800 sq ft/hr. Compare scopes in our Quote Comparator.",
+  "excerpt": "A veterinary clinic scope of work has to account for hair, odor, wet kennel corridors, and exam-room turnover that a standard office checklist ignores. This guide breaks the work into daily, weekly, and monthly tasks with labor minutes so a practice manager can see why the hours exceed office benchmarks.",
+  "quickAnswer": "A typical 4,000 sq ft veterinary clinic needs about 115 to 150 labor minutes per nightly visit, which is a production rate near 1,600 to 2,100 sq ft per hour versus the ISSA office benchmark of about 3,500 sq ft per hour. The tasks that push hours up are exam-room floor disinfection with full dwell time, hair removal from baseboards and casework toe-kicks, kennel-corridor mopping, and odor control in grout and drains.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a US veterinary exam room at night, stainless exam table and vinyl floor, a cleaner in nitrile gloves wiping cabinet toe-kicks with a color-coded microfiber cloth while a yellow four-sided wet floor cone stands in the doorway, soft even LED lighting, shallow depth of field, no text, no logos, no watermarks",
+    "alt": "Cleaner wiping exam room casework in a veterinary clinic with a wet floor cone at the door"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why a generic office checklist fails in a veterinary clinic" },
+    { "type": "p", "text": "Most janitorial checklists are written for carpeted cubicle floors with a breakroom and two restrooms. Drop that checklist into a small-animal practice and the gaps show up within a week: hair rolls collect under exam-room cabinets, the lobby smells like the last nervous dog, the kennel hallway stays tacky, and the night crew finishes early because nobody told them to disinfect floors with proper dwell time. A veterinary scope must be written room by room, with time standards attached, so both the clinic and the vendor know what a complete visit looks like." },
+    { "type": "p", "text": "The labor math matters because it drives the bid. The ISSA production benchmark for general office space is about 3,500 sq ft per hour. Veterinary clinics typically clean at 1,600 to 2,100 sq ft per hour because so much of the floor is hard surface that needs a two-step clean-then-disinfect process, and because hair forces technicians to detail edges that an office crew would skip." },
+    { "type": "h2", "text": "Nightly task list with labor minutes by room" },
+    { "type": "p", "text": "The following time standards assume a trained technician, a backpack HEPA vacuum, a microfiber flat-mop system, and a ready-to-use or properly diluted veterinary-label disinfectant. Adjust the counts to match your floor plan." },
+    { "type": "table", "caption": "Nightly labor minutes for a 4,000 sq ft, three-doctor veterinary clinic", "headers": ["Area (count)", "Core nightly tasks", "Minutes each", "Minutes total"], "rows": [
+      ["Lobby and reception (1)", "Vacuum hair from bench bases, dust-mop, disinfect floor, wipe counter, glass at dog height, empty pet-waste station", "18 - 22", "18 - 22"],
+      ["Exam rooms (5)", "Remove trash, vacuum edges and toe-kicks, wipe door hardware and cabinet fronts, wet-disinfect floor with dwell", "6 - 9", "30 - 45"],
+      ["Treatment and lab area (1)", "Floor clean and disinfect around islands, wipe non-clinical counters, empty non-regulated trash", "15 - 20", "15 - 20"],
+      ["Kennel corridor and wards (1)", "Dry-pick debris, mop with disinfectant, wipe wall splash zones to 36 in, deodorize floor drains", "15 - 20", "15 - 20"],
+      ["Restrooms (3)", "Clean and disinfect fixtures, restock, mop, check drains", "8 - 10", "24 - 30"],
+      ["Offices and break room (1 zone)", "Trash, vacuum, breakroom counters and sink, microwave, fridge handles", "10 - 13", "10 - 13"],
+      ["Setup, trash run, lockup", "Cart prep, dilution check, haul liners to dumpster, alarm set", "-", "3 - 5"],
+      ["Total per visit", "", "", "115 - 155"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Converting minutes to a staffing plan", "text": "At 115 to 155 minutes per visit, a 4,000 sq ft clinic needs roughly 2.0 to 2.6 labor hours per night, or about 41 to 56 hours per month at five nights using 21.65 visits. Any bid that staffs one person for 75 minutes is either skipping disinfection dwell time or skipping rooms." },
+    { "type": "h2", "text": "Weekly tasks that belong in the scope" },
+    { "type": "ul", "items": [
+      "High dusting of supply diffusers, return grilles, and light lenses, where dander and hair accumulate fastest; budget 20 to 30 minutes per week.",
+      "Detail cleaning of baseboards and cove base in exam rooms and the lobby with a flagged-bristle angle broom and damp microfiber; 20 to 25 minutes.",
+      "Machine or hand scrubbing of restroom and kennel grout lines to pull urine residue out of porous joints; 25 to 40 minutes.",
+      "Wiping lobby chairs, benches, and the underside of the reception counter where dogs rub and mark; 10 to 15 minutes.",
+      "Disinfecting trash receptacles and replacing liners in pet-waste stations; 10 minutes.",
+      "Spot-cleaning walls and door kick plates in high-traffic corridors to remove muddy paw and leash marks; 10 to 15 minutes."
+    ] },
+    { "type": "h2", "text": "Monthly and quarterly specialty work" },
+    { "type": "p", "text": "Monthly tasks include cleaning behind movable equipment the clinic agrees to roll out, descaling restroom fixtures, washing interior windows and partitions, and deep-cleaning floor drains in kennel and treatment areas with an enzyme product. Quarterly work is usually priced as a separate program: VCT scrub-and-recoat to restore the finish that claws wear down, tile and grout extraction, and hot-water extraction on any carpeted administrative offices. Amortized, a quarterly floor program costs $0.03 to $0.06 per sq ft per month, or $120 to $240 per month on a 4,000 sq ft practice." },
+    { "type": "h2", "text": "Specialty tasks that push labor above office rates" },
+    { "type": "p", "text": "Four tasks explain most of the gap between a veterinary bid and a corporate office bid of the same square footage. First, disinfectant dwell time: a quaternary or accelerated hydrogen peroxide product only works if the floor stays visibly wet for the full label contact time, often one to ten minutes, which forces the technician to sequence rooms rather than rush through them. Second, hair management: hair clings to vinyl, migrates under casework, and clogs mop heads, so crews swap microfiber pads more often and vacuum before every wet step. Third, odor control in grout and drains, which requires scrubbing rather than mopping. Fourth, wet-floor safety: clinics have staff moving animals at night, so cones and staggered mopping are mandatory." },
+    { "type": "p", "text": "Tools reduce minutes. Color-coded split-microfiber cloths like the Rubbermaid HYGEN damp/wet cloths, rated for 500 commercial launderings and bleach safe, let crews keep red cloths for restrooms and blue for exam casework without cross-contamination. A 36-inch, four-sided wet floor cone with bilingual print protects staff walking dogs through freshly mopped corridors. An O-Cedar MaxiClean angle broom with a 12-inch flagged-poly head and lobby pan pulls hair out of baseboard corners faster than a vacuum wand." },
+    { "type": "callout", "variant": "compliance", "title": "Exclusions to write into the scope", "text": "List what the vendor must not touch: sharps containers, regulated medical waste, the controlled-substance safe and drug logs, surgical instruments, anesthesia machines, oxygen lines, animal cages with patients present, and any lab analyzers. Clear exclusions protect the practice under DEA rules and state veterinary board sanitation standards and keep the vendor out of liability it cannot insure." },
+    { "type": "h2", "text": "How to build the scope document" },
+    { "type": "steps", "items": [
+      { "name": "Walk the clinic at closing time", "text": "Count exam rooms, restrooms, wards, drains, and flooring types and note which zones are still occupied by overnight patients." },
+      { "name": "Assign minutes per room", "text": "Use the table above as a starting point and adjust for room size, flooring, and client volume." },
+      { "name": "Separate daily, weekly, monthly, and quarterly tasks", "text": "Put each in its own section so the vendor can show proof of completion on a rotating schedule." },
+      { "name": "Specify chemicals and PPE", "text": "Name the disinfectant, required dwell time, glove type, and SDS location to satisfy OSHA HazCom." },
+      { "name": "Attach the exclusion list and inspection form", "text": "Agree on a monthly walk-through scored against the scope rather than relying on complaints." }
+    ] },
+    { "type": "cta", "text": "Plug your clinic's square footage and nightly frequency into the Office Cleaning Cost Calculator to see what a properly staffed scope should cost, then compare vendor proposals side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a veterinary clinic need per night?", "a": "Plan on about one labor hour for every 1,600 to 2,100 sq ft of clinic space, so a 4,000 sq ft practice needs roughly 2.0 to 2.6 hours per visit. Practices with boarding wards, multiple restrooms, or tile and grout floors trend toward the high end." },
+    { "q": "Should the janitorial crew clean exam tables?", "a": "Clinic staff normally disinfect exam tables between patients during the day. The night crew can wipe the table base, pedestal, and surrounding casework, but the patient contact surface is best left to clinical staff who follow the practice's infection control protocol and know which products are compatible with the table finish." },
+    { "q": "What OSHA requirements apply to cleaners in a vet clinic?", "a": "The Hazard Communication Standard applies fully, so every technician needs training on the chemicals used and access to Safety Data Sheets. The Bloodborne Pathogens Standard targets human blood, but many practices require vendors to follow comparable glove, spill, and sharps-avoidance procedures because of zoonotic risk and occasional human injuries." },
+    { "q": "How do I verify the vendor is actually doing the weekly and monthly tasks?", "a": "Require a rotating task log signed at each visit, date-stamped photos of high dusting and grout work, and a monthly joint inspection scored against the written scope. Tie any recurring failures to a credit clause in the contract so missed work has a financial consequence." },
+    { "q": "Is green-certified chemistry compatible with veterinary disinfection?", "a": "Partially. Green Seal or Safer Choice cleaners work well for offices, breakrooms, and glass, but exam rooms, wards, and kennel corridors need an EPA-registered disinfectant whose label covers the pathogens your practice sees. Many clinics run a two-tier program to limit fragrance and residue while still controlling infection risk." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/veterinary-clinic-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/physical-therapy-clinic-cleaning-cost/",
+    "/facility-cleaning-costs/physical-therapy-clinic-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-jumbo-commercial-toilet-paper-dispensers/"
+  ]
+}

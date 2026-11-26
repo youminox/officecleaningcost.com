@@ -1,0 +1,75 @@
+{
+  "slug": "high-speed-floor-burnishing-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/high-speed-floor-burnishing-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge high speed floor burnishing",
+  "title": "Is High-Speed Propane & Electric Floor Burnishing Included in Standard Cleaning or Billed Extra?",
+  "seoTitle": "Extra Charge for Floor Burnishing? Included vs Add-On Contract Audit",
+  "metaDescription": "Extra charge for high speed floor burnishing? Learn when it sits in the base retainer vs. $0.02–$0.06 per sq ft work orders. Audit bids in the Comparator.",
+  "excerpt": "Whether burnishing is included in your monthly janitorial retainer or billed as a separate work order depends on contract language, building size and how the vendor runs its night crew. This audit guide shows how to read the scope, spot hidden charges and decide which model costs less.",
+  "quickAnswer": "Burnishing is usually included in the base retainer only when the contract names it with a frequency, typically in buildings over 10,000 sq ft with a nightly crew, where it adds roughly $0.01–$0.02 per sq ft per month to the bundled rate. Smaller offices and contracts that say only floors mopped as needed almost always bill it extra, at $0.02–$0.06 per sq ft per visit with a $90–$135 minimum. If the word burnish and a frequency are not in the scope, assume it is an add-on.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a US facility manager's desk in a modern office with a printed janitorial service contract, a highlighter and reading glasses, while through the glass office wall a technician runs an electric burnisher across a glossy corridor floor, warm late-afternoon light, shallow depth of field focused on the papers, no readable text, no logos, no watermarks",
+    "alt": "Facility manager reviewing a janitorial contract while a technician burnishes the corridor outside"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Burnishing Falls Into a Gray Zone" },
+    { "type": "p", "text": "Janitorial contracts split work into routine tasks covered by the monthly retainer and periodic or project tasks billed by work order. Trash, restrooms, dusting and vacuuming are obviously routine. Strip-and-refinish is obviously a project. High-speed burnishing sits between: it is fast enough to fit inside a nightly route, but it requires a dedicated machine, pads and sometimes a propane engine that a basic crew does not carry. That ambiguity is where surprise invoices come from." },
+    { "type": "p", "text": "Vendors are not being deceptive when they bill it separately. A bid for a 4,000 sq ft office at $0.09–$0.15 per sq ft per visit is built around vacuums, mops and restroom supplies. Adding a burnisher, operator training and the extra 30–60 minutes per visit changes the cost model. The buyer's job is to make sure the decision is explicit before signing, not discovered on the first invoice." },
+    { "type": "h2", "text": "Contract Language Decoder" },
+    { "type": "table", "caption": "How common scope phrases translate to included or billed-extra burnishing", "headers": ["Scope language", "Likely treatment", "Typical cost exposure", "What to ask"], "rows": [
+      ["Hard floors dust mopped and damp mopped nightly", "Burnishing not included", "$0.02–$0.06 per sq ft per visit as add-on", "Request a burnish unit rate and minimum"],
+      ["Hard floors spray-buffed as needed", "Low-speed buff only, vendor discretion", "Often nothing until a separate burnish is requested", "Define as needed with a minimum frequency"],
+      ["High-speed burnish corridors and lobbies weekly", "Included in retainer", "Built in at about $0.01–$0.02 per sq ft per month", "Confirm zones, machine type and completion log"],
+      ["Periodic floor care per attached schedule", "Included only if schedule lists burnishing", "Varies; check exhibit", "Read the exhibit; exhibits govern"],
+      ["Restorative floor care billed at T and M", "Billed extra at hourly rates", "$55–$95 per technician hour", "Get a not-to-exceed cap per event"],
+      ["Quarterly deep floor program", "Recoat or extraction included, burnish may not be", "$0.03–$0.06 per sq ft per month amortized", "Ask whether routine burnish is inside or outside"]
+    ] },
+    { "type": "h2", "text": "When Including It in the Retainer Makes Sense" },
+    { "type": "p", "text": "Bundling works best when the vendor already has a crew on site most nights and there is enough hard floor to justify keeping a burnisher in the janitor closet. In a 15,000 sq ft office with 8,000 sq ft of VCT burnished weekly at a $0.02 add-on rate, the burnish costs about $160 per visit, or roughly $693 per month at 4.33 visits. Folded into a nightly contract running $0.07–$0.12 per sq ft per visit, that is a modest increase that buys predictability and removes minimum charges entirely." },
+    { "type": "ul", "items": [
+      "More than about 5,000 sq ft of hard floor in visible areas such as lobbies, corridors and breakrooms.",
+      "Nightly or at least 3x weekly service so the burnish rides an existing visit.",
+      "A building that permits the vendor to store a machine on site.",
+      "A desire for one fixed monthly invoice and fewer purchase orders."
+    ] },
+    { "type": "h2", "text": "When Paying Per Work Order Costs Less" },
+    { "type": "p", "text": "Small suites, carpet-dominant offices and clients on 1x or 2x weekly service usually save by ordering burnishing as needed. A 2,500 sq ft office with 800 sq ft of VCT might only need a burnish monthly. As a work order that is one $90–$135 minimum per month, about $1,080–$1,620 a year. Baking a weekly burnish into the retainer for the same space could cost more and deliver shine nobody notices. The trade-off is administrative: someone has to remember to order it, approve it and confirm it happened." },
+    { "type": "callout", "variant": "warning", "title": "Watch for silent frequency creep", "text": "Some contracts allow the vendor to perform periodic floor work as needed and bill it monthly. Without a cap or pre-approval clause, burnishing can quietly go from monthly to weekly. Require written work-order approval for any task outside the fixed scope." },
+    { "type": "h2", "text": "Audit Your Current Contract in Five Steps" },
+    { "type": "steps", "items": [
+      { "name": "Find the scope exhibit", "text": "The task-frequency schedule attached to the contract controls over the proposal letter. Search it for burnish, buff, high-speed and floor machine." },
+      { "name": "Match invoices to scope", "text": "Pull six months of invoices and flag any floor-care line items. If burnishing appears as an extra while the exhibit lists it, you are being double billed." },
+      { "name": "Check frequency and zones", "text": "Confirm the contract states which areas, how often and with what equipment. Lobby weekly and corridors monthly is auditable; floors as needed is not." },
+      { "name": "Request completion evidence", "text": "Ask for a dated service log or photo checklist for every burnish visit, whether included or billed." },
+      { "name": "Price both models at renewal", "text": "Ask the vendor to quote burnishing as an included line and as a per-visit add-on, then compare annual totals using 4.33 weeks per month." }
+    ] },
+    { "type": "h2", "text": "Burnishing Is Not the Only Bundling Question" },
+    { "type": "p", "text": "The same included-versus-extra audit applies to consumables, which national bids price at about $0.012–$0.025 per sq ft per visit when the vendor supplies them. If the vendor stocks enMotion dispensers, confirm whether the contract covers the matching Georgia-Pacific enMotion 10-inch rolls at 800 feet each, six per case, or whether you buy them. Likewise check whether toilet paper such as Angel Soft Professional Series 2-ply, 450 sheets per roll in an 80-roll case, and 40x48 inch 45-gallon high-density liners like the Boardwalk 16-micron star-seal bags are in the retainer or billed at cost plus markup. Clear consumables language and clear floor-care language together eliminate most invoice disputes." },
+    { "type": "cta", "text": "Upload or paste your current proposal and a competitor's into the Quote Comparator to see whether burnishing and consumables are in or out, or run the Office Cleaning Cost Calculator to model your monthly cost with floor care bundled versus billed per visit." }
+  ],
+  "faqs": [
+    { "q": "Is high-speed burnishing part of standard office cleaning?", "a": "Not by default. Standard nightly scopes cover dust mopping and damp mopping. Burnishing is included only when the contract names it with a frequency and zones. If the scope is silent, expect to pay $0.02–$0.06 per sq ft per visit or the $90–$135 minimum." },
+    { "q": "How much does bundling burnishing add to a monthly contract?", "a": "For a weekly burnish on route, roughly $0.01–$0.02 per sq ft of hard floor per month. On 8,000 sq ft burnished weekly at $0.02 per visit, that is about $693 per month on a 4.33 weeks-per-month basis." },
+    { "q": "What clauses protect me from surprise floor-care invoices?", "a": "A written pre-approval requirement for any work outside the fixed scope, a not-to-exceed amount for time-and-materials work, a stated hourly rate for specialty floor care, and an exclusions list that names restorative work such as scrub-and-recoat and strip-and-refinish." },
+    { "q": "Should a burnishing add-on vendor provide separate insurance documents?", "a": "If the work is done by a subcontractor, yes. Require a certificate of insurance from whoever operates the machine, with general liability and workers compensation, and confirm OSHA HazCom training and Safety Data Sheets for floor chemicals. Propane units also require documented CO monitoring under the OSHA 50 ppm limit." },
+    { "q": "Can green cleaning requirements affect whether burnishing is included?", "a": "Sometimes. Tenants that require Green Seal certified floor finishes or battery-only equipment may push the vendor toward specialty products and machines that are priced as add-ons. Spell out those requirements in the RFP so every bidder prices them into the same line." }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-10-inch-high-capacity-paper-towel-rolls",
+    "angel-soft-professional-series-2-ply-embossed-toilet-paper-80-ca",
+    "boardwalk-40x48-high-density-45-gallon-commercial-trash-liners-2"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-high-speed-floor-burnishing-quotes/",
+    "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-cost-guide/",
+    "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/best-compact-walk-behind-auto-scrubbers-for-offices/"
+  ]
+}

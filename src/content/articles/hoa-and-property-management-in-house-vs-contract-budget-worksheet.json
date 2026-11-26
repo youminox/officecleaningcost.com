@@ -1,0 +1,243 @@
+{
+  "slug": "hoa-and-property-management-in-house-vs-contract-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/hoa-and-property-management-in-house-vs-contract-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template hoa property management",
+  "title": "CFO Financial Breakdown Model: Maintenance Techs vs. Janitors CapEx & OpEx Worksheet",
+  "seoTitle": "CapEx Template HOA Property Management: Techs vs. Janitors CFO Model",
+  "metaDescription": "CapEx template HOA property management guide: audit W-2 payroll burden, floor care amortization ($0.03-$0.06/sq ft), and test bids in our quote calculator.",
+  "excerpt": "Use this line-by-line CFO budget worksheet and CapEx template to audit the total cost of using in-house maintenance technicians versus contract janitors in HOA and commercial property portfolios. Includes exact payroll burden multipliers, 4.33-week monthly frequency conversions, and quarterly floor restoration amortization.",
+  "quickAnswer": "A complete CapEx template for HOA property management must separate upfront equipment capital outlays ($1,800 to $4,500 for commercial carts, floor machines, and dispensers amortized over 36 months) from recurring monthly operating expenses (OpEx) calculated across 4.33 weeks per month. For a 15,000 sq ft mixed-flooring property cleaned 5x/week (21.65 visits/month), shifting custodial duties from W-2 maintenance technicians to a fixed-fee janitorial vendor ($0.07–$0.12/sq ft base plus $0.03–$0.06/sq ft/month deep floor care) yields $28,000 to $46,000 in annual net savings.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "High-angle commercial interior photograph of an immaculate Class A property management lobby with glossy VCT vinyl and ceramic tile flooring, a discreet charcoal executive housekeeping caddy cart positioned near an architectural reception desk, warm recessed LED lighting, sharp detail, zero text or logos",
+    "alt": "Class A property management lobby with glossy VCT floor and discreet charcoal executive housekeeping cart"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why HOA Reserve Studies and Commercial Budgets Misclassify Cleaning CapEx and OpEx"
+    },
+    {
+      "type": "p",
+      "text": "When HOA treasurers, community association managers, and commercial real estate controllers build annual operating budgets, custodial expenses are frequently scattered across four or five disconnected general ledger (GL) accounts. Technician wages sit inside 'Maintenance Payroll,' paper towels and trash liners hide under 'General Building Supplies,' VCT floor stripping chemicals get coded to 'Repairs & Maintenance,' and outsourced HVAC invoices caused by technician time starvation land in 'Mechanical Subcontractors.' Without a unified CapEx template for HOA property management, boards systematically underestimate their true cost per cleanable square foot by 35% to 55%."
+    },
+    {
+      "type": "p",
+      "text": "To make an apples-to-apples financial decision between maintenance techs vs janitors—or between hiring a dedicated W-2 custodian and signing an outsourced janitorial service agreement—controllers must normalize every cost stream into a monthly run rate using the commercial standard of 4.33 weeks per month (52 weeks divided by 12 months). Under this math, a 5-day-per-week cleaning schedule equals exactly 21.65 visits per month, a 3-day-per-week schedule equals 13.0 visits per month, and a 7-day-per-week schedule equals 30.33 visits per month."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "The 4.0-Week Budgeting Error That Breaks HOA Annual Operating Budgets",
+      "text": "Nearly 40% of volunteer HOA treasurers multiply weekly cleaning labor or per-visit vendor quotes by 4.0 weeks instead of 4.33 weeks when drafting annual budgets. Across 12 months, a 4.0-week calculation only funds 48 weeks of service, leaving a 4-week (8.3%) unbudgeted cash shortfall every November and December. Always multiply weekly custodial hours or 5x/week visit costs by 4.33 weeks (21.65 visits/month)."
+    },
+    {
+      "type": "h2",
+      "text": "Line-by-Line CFO Budget Worksheet: In-House Techs vs. In-House Janitor vs. Outsourced Vendor"
+    },
+    {
+      "type": "p",
+      "text": "The spreadsheet ledger below models a benchmark 15,000-square-foot commercial property / HOA amenity complex featuring mixed flooring (commercial carpet tiles at 1.00 multiplier, VCT vinyl corridors at 1.04 multiplier, and ceramic tile restrooms at 1.12 multiplier, blended at the 1.05 mixed flooring multiplier), 4 multi-stall restrooms, 1 resident clubhouse kitchen/breakroom, and interior glass partitions, serviced 5 days per week (21.65 visits per month)."
+    },
+    {
+      "type": "table",
+      "caption": "Master CFO General Ledger Worksheet: 15,000 Sq Ft Property Common Area (5x/Week = 21.65 Visits/Month)",
+      "headers": [
+        "GL Account / Budget Line Item",
+        "Option 1: In-House Maintenance Tech Split (115 Hrs/Mo Custodial)",
+        "Option 2: Dedicated W-2 In-House Custodian (108.3 Hrs/Mo)",
+        "Option 3: Outsourced Commercial Vendor (Turnkey Fixed Contract)"
+      ],
+      "rows": [
+        [
+          "5100 - Base Direct Custodial Labor (4.33 Wks/Mo)",
+          "$3,910.00 (115 hrs @ $34.00/hr tech base)",
+          "$2,274.30 (108.3 hrs @ $21.00/hr janitor base)",
+          "$2,554.70 ($0.085/sq ft x 1.05 mix x 0.90 5x/wk = $1,204/wk)"
+        ],
+        [
+          "5110 - Employer FICA, FUTA & SUTA Payroll Taxes (9.45%)",
+          "$369.50",
+          "$214.92",
+          "$0.00 (Absorbed by vendor)"
+        ],
+        [
+          "5120 - Workers' Comp Insurance (Code 9015 @ 6.2% vs Code 9014 @ 4.8%)",
+          "$242.42",
+          "$109.17",
+          "$0.00 (Covered under vendor COI + Waiver)"
+        ],
+        [
+          "5130 - Health Benefits, 401(k) Match & Uniform Allowance (18%)",
+          "$703.80",
+          "$341.15 (Part-time pro-rata stipend)",
+          "$0.00 (Absorbed by vendor)"
+        ],
+        [
+          "5140 - PTO, Sick Leave & 8 Holidays Overtime Backfill (8.8% Load)",
+          "$516.12 (Covered at 1.5x tech overtime rate)",
+          "$265.00 (Temp agency or overtime backfill)",
+          "$0.00 (Vendor includes guaranteed floaters)"
+        ],
+        [
+          "5210 - Restroom Sanitation Scope (4 Restrooms @ $20/visit Benchmark)",
+          "Included in 115 tech hours above",
+          "Included in 108.3 janitor hours above",
+          "Bundled in base contract (or $325/mo line item)"
+        ],
+        [
+          "5220 - Breakroom ($18/visit) & Interior Glass Partitions ($22/visit)",
+          "Included in 115 tech hours above",
+          "Included in 108.3 janitor hours above",
+          "$280.00/mo (2x/wk deep glass + daily breakroom wipe)"
+        ],
+        [
+          "5300 - Paper, Soap & Liner Consumables ($0.015/sq ft/visit Benchmark)",
+          "$540.00/mo (Retail/hardware store purchase leakage)",
+          "$487.00/mo (Direct wholesale ordering)",
+          "$487.12/mo (Vendor-managed at $0.015/sq ft/visit)"
+        ],
+        [
+          "5400 - EPA Disinfectants, Urinal Screens & Microfiber Replenishment",
+          "$185.00/mo",
+          "$145.00/mo",
+          "$0.00 (Included in vendor base fee)"
+        ],
+        [
+          "5500 - Quarterly Deep Floor Care Amortization ($0.04/sq ft/mo Benchmark)",
+          "$820.00/mo (Machine rental + tech weekend overtime)",
+          "$690.00/mo (Machine rental + stripper/wax chemicals)",
+          "$600.00/mo ($0.04/sq ft/mo amortized VCT & carpet care)"
+        ],
+        [
+          "5600 - Capital Equipment Amortization (36-Mo Depreciation Schedule)",
+          "$145.00/mo (Carts, vacuums, buffers, high-wear attrition)",
+          "$135.00/mo (36-mo straight-line CapEx reserve)",
+          "$0.00 (Vendor furnishes all rolling stock)"
+        ],
+        [
+          "5700 - Displaced Mechanical Work-Order Subcontractor Bleed",
+          "$1,450.00/mo (8.5 hrs/mo outsourced HVAC/plumbing repairs)",
+          "$0.00/mo (Techs stay 100% on mechanical tickets)",
+          "$0.00/mo (Techs stay 100% on mechanical tickets)"
+        ],
+        [
+          "5800 - Property Manager Supervision, Scheduling & SDS Audit Time",
+          "$360.00/mo (6 hrs/mo @ $60/hr PM loaded time)",
+          "$300.00/mo (5 hrs/mo recruiting, payroll & QA)",
+          "$90.00/mo (1.5 hrs/mo monthly vendor walkthrough)"
+        ],
+        [
+          "TOTAL ALL-IN MONTHLY FACILITY RUN RATE",
+          "$9,241.84 / month ($0.616/sq ft/mo)",
+          "$4,961.54 / month ($0.331/sq ft/mo)",
+          "$4,336.82 / month ($0.289/sq ft/mo)"
+        ],
+        [
+          "TOTAL ANNUALIZED BUDGET IMPACT (12 MONTHS)",
+          "$110,902.08 / year",
+          "$59,538.48 / year",
+          "$52,041.84 / year"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Capital Expenditure (CapEx) & Chemical Inventory Schedule for In-House or Hybrid Closets"
+    },
+    {
+      "type": "p",
+      "text": "Even when an HOA or commercial building outsources overnight janitorial operations, the property management budget should retain a modest, highly standardized janitor's closet CapEx and chemical reserve for daytime executive tours, periodic VCT corridor restoration, and odor control between vendor visits. If the board elects to keep floor restoration or daytime porter touch-ups in-house, controllers should budget for commercial-grade equipment rather than disposable consumer tools:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Semi-Annual VCT Floor Strip & Finish Restoration: In high-traffic service corridors, mailrooms, and community kitchens with VCT vinyl tile (1.04 multiplier), the Zep High-Traffic Floor Polish & Stripper Bundle provides a matched 2 x 1-gallon commercial system combining heavy-duty alkaline floor stripper with a high-solids acrylic wet-look finish. Budgeting this kit alongside quarterly or semi-annual scrub-and-recoat intervals preserves vinyl tile integrity and avoids premature flooring replacement.",
+        "Daytime Class A Lobby & Tour Staging: Standard open-shelf janitorial carts look out of place during daytime leasing tours or HOA board meetings. The Rubbermaid Commercial Executive Quick Cart Large features a discreet charcoal stealth profile with a Teflon-coated fabric shell, quiet-rolling casters, and a 60 lb load capacity, allowing a daytime facility coordinator or maintenance porter to carry glass cleaner, microfiber cloths, and spot-extraction tools invisibly through occupied lobbies.",
+        "30-Day Enzymatic Restroom Deodorization: To prevent urine salt crystallization in drain traps and cut splash contamination on restroom tile, stock Fresh Products Wave 3D Urinal Deodorizer Screens (10-Box) on a recurring 30-day cycle. Each enzymatic screen matches a monthly inspection cadence, simplifying consumable line-item forecasting."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "7-Point CFO Procurement & Audit Checklist Before Signing a Janitorial Contract"
+    },
+    {
+      "type": "p",
+      "text": "Before transitioning custodial lines from in-house maintenance payroll to an external janitorial vendor, property controllers and HOA boards should run every bidder through a standardized financial and compliance gate:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Verify Net Cleanable Square Footage & Flooring Mix Multipliers",
+          "text": "Confirm that vendor bids price only net cleanable common areas (excluding mechanical vaults and tenant-leased suites) and transparently state any surface surcharges (1.12 for ceramic tile/grout, 1.08 for hardwood, 1.04 for VCT, or 0.95 for polished concrete)."
+        },
+        {
+          "name": "2. Audit Implied Labor Hours Against the 3,500 Sq Ft/Hr ISSA Benchmark",
+          "text": "Ask every bidder to disclose exact nightly man-hours on site. Divide your cleanable square footage by their proposed nightly hours: if a vendor bids 1.5 hours per night on a 15,000 sq ft building (an impossible 10,000 sq ft/hr pace), they are under-bidding and will skip detail vacuuming and restroom disinfection."
+        },
+        {
+          "name": "3. Lock In 4.33-Week Monthly Fixed Billing Without Extra 5-Week Month Surcharges",
+          "text": "Ensure the flat monthly contract price averages all 52 weeks across 12 equal monthly invoices (21.65 visits/month for 5x/week service) so months with 22 or 23 weekdays do not trigger surprise invoice spikes."
+        },
+        {
+          "name": "4. Separate Consumables ($0.012–$0.025/Sq Ft/Visit) Into an Auditable Line Item",
+          "text": "Require paper towels, jumbo bath tissue, hand soap, and can liners to be billed either as a transparent pass-through with a capped handling fee or at a fixed per-square-foot-per-visit rate ($0.012 to $0.025/sq ft/visit)."
+        },
+        {
+          "name": "5. Amortize Quarterly Deep Floor Care ($0.03–$0.06/Sq Ft/Month) Into Operating Dues",
+          "text": "Avoid special assessments or end-of-year budget shocks by embedding quarterly carpet hot-water extraction and semi-annual VCT scrub-and-recoat services directly into the monthly operating ledger at $0.03 to $0.06 per square foot per month."
+        },
+        {
+          "name": "6. Collect COI, Workers' Comp Waiver of Subrogation & W-9 Before Key Handover",
+          "text": "Do not issue master fobs or alarm codes until the vendor's insurance broker delivers a Certificate of Insurance directly to the management office showing active Workers' Compensation, $1M/$2M General Liability, and an Employee Dishonesty Bond."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Target Cost-Per-Square-Foot Guardrails for CFO Budget Reviews",
+      "text": "For a 10,000 to 24,999 sq ft HOA or commercial property cleaned 5x/week (21.65 visits/month), total turnkey janitorial operating expenditure—including nightly labor ($0.07–$0.12/sq ft base with 0.90 frequency discount), restrooms, paper consumables ($0.012–$0.025/sq ft/visit), and amortized quarterly floor care ($0.03–$0.06/sq ft/mo)—should land between $0.24 and $0.36 per cleanable square foot per month ($2.88 to $4.32/sq ft annually). Any internal maintenance tech model exceeding $0.40/sq ft/month represents immediate savings opportunity."
+    },
+    {
+      "type": "cta",
+      "text": "Build your board-ready budget presentation in 60 seconds: plug your property's square footage, flooring breakdown, restroom count, and frequency into our Office Cleaning Cost Calculator & Quote Comparator to generate an itemized monthly and annual ledger."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should an HOA or commercial property manager classify floor stripping, waxing, and carpet extraction in the budget?",
+      "a": "Routine quarterly carpet hot-water extraction and semi-annual VCT strip-and-wax maintenance should be budgeted under recurring Operating Expenses (OpEx) as an amortized monthly line item at $0.03 to $0.06 per cleanable square foot per month. Reserve accounts (CapEx) should only be tapped for full flooring replacement or structural refinishing at the end of the floor's 10-to-15-year useful life."
+    },
+    {
+      "q": "What is the standard payroll burden percentage to apply when modeling in-house W-2 maintenance techs or custodians?",
+      "a": "For full-time W-2 maintenance technicians, CFOs should apply a 34% to 42% total payroll burden on top of base hourly wages to account for employer FICA (7.65%), FUTA/SUTA (1.8%), property maintenance workers' compensation (4.5%–7.2%), health/retirement benefits (12%–16%), and PTO/holiday overtime backfill (8.8%). Part-time W-2 custodians without medical benefits typically carry a 24% to 29% burden."
+    },
+    {
+      "q": "How do you audit whether a commercial cleaning quote is priced fairly for a 15,000 sq ft property?",
+      "a": "First, check the per-visit rate against the 10,000–24,999 sq ft national benchmark ($0.07 to $0.12/sq ft) adjusted by your frequency multiplier (0.90 for 5x/week) and flooring multiplier (1.05 for mixed floors). Second, verify that nightly proposed labor hours equal at least 4.3 to 5.0 hours per visit (15,000 sq ft divided by the 3,500 sq ft/hr ISSA benchmark plus 15 minutes per restroom)."
+    },
+    {
+      "q": "Should an HOA buy its own janitorial carts and floor buffers if it hires an outsourced cleaning vendor?",
+      "a": "No, for routine nightly cleaning, the outsourced vendor should supply and maintain all commercial backpack vacuums, high-capacity janitorial carts, and floor machines within their contracted rate. However, keeping a single discreet daytime caddy cart (such as an executive quick cart) and a box of enzymatic urinal screens on site is smart practice for emergency daytime spills between vendor visits."
+    }
+  ],
+  "amazonProductIds": [
+    "zep-high-traffic-floor-polish-and-stripper-bundle",
+    "fresh-products-wave-3d-urinal-deodorizer-screens-10-box",
+    "rubbermaid-commercial-executive-quick-cart-large"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/coworking-community-team-plus-overnight-vendor/",
+    "/in-house-vs-outsourced-cleaning/coworking-community-team-plus-overnight-vendor-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/coworking-community-team-plus-overnight-vendor-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/best-restroom-detailing-kit-for-in-house-custodians/"
+  ]
+}

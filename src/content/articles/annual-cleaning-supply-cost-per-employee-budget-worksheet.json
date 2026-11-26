@@ -1,0 +1,215 @@
+{
+  "slug": "annual-cleaning-supply-cost-per-employee-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/annual-cleaning-supply-cost-per-employee-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template annual supply per",
+  "title": "Tax, Equipment & Labor Ledger: Capex Template for Annual Supply Spend per Employee",
+  "seoTitle": "Capex Template Annual Supply per Employee: Tax & Equipment Ledger",
+  "metaDescription": "Use our capex template annual supply per employee ledger to model sales tax, dispenser depreciation, and $0.012-$0.025/sq ft consumables in our calculator.",
+  "excerpt": "Build an audit-ready janitorial supply budget with our line-item ledger covering dispenser capital expenditure, state sales tax on consumables, inventory shrinkage, and procurement labor. Compare your true all-in per-employee ledger against outsourced contract quotes.",
+  "quickAnswer": "A complete capex template for annual supply spend per employee must capture five ledger layers for a benchmark 100-person, 15,000 sq ft office: base consumables ($95 to $135/employee), state and local sales tax at 6% to 9.5% ($6.50 to $11.80/employee), dispenser and machine capex amortization ($12 to $22/employee), 8% to 15% shrinkage and freight ($10 to $18/employee), and internal purchasing labor ($14 to $25/employee)—totaling $137.50 to $211.80 per employee annually.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up architectural view of a sleek Class A commercial office restroom featuring a wall-mounted automated touchless paper towel dispenser and a dual jumbo roll bath tissue dispenser installed on large-format porcelain tile under warm recessed vanity lighting, shot with a 50mm lens",
+    "alt": "Commercial office restroom outfitted with touchless roll paper towel dispenser and twin jumbo bath tissue dispenser"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Structuring a CFO-Ready Capex Template for Annual Supply per Employee"
+    },
+    {
+      "type": "p",
+      "text": "When facility managers present an in-house janitorial budget to corporate finance, quoting raw distributor catalog prices for toilet paper and floor cleaner guarantees a mid-year budget overrun. A rigorous capex template annual supply per employee ledger must account for the accounting mechanics that separate end-user businesses from commercial janitorial contractors: sales and use tax treatment, restroom dispenser retrofit capex, LTL freight and fuel surcharges, inventory shrinkage, and internal procurement labor burden."
+    },
+    {
+      "type": "p",
+      "text": "In most US jurisdictions, an employer purchasing paper towels, soap, liners, and cleaning equipment for use in its own offices is the final consumer and must pay 6.0% to 9.5% state and local sales tax on every invoice. Additionally, transitioning an older office suite from wasteful folded-towel caddies and single-roll tissue holders to controlled-use commercial dispensers requires upfront hardware capital expenditure plus handyman installation labor. Below is the master spreadsheet template modeled for a 100-employee, 15,000-square-foot commercial office operating on a 5x/week weekday schedule (21.65 visits per month based on 4.33 weeks/month)."
+    },
+    {
+      "type": "table",
+      "caption": "Master Capex & Opex Ledger Template: Annual Cleaning Supply Spend per Employee (100 Employees / 15,000 Sq Ft Office, 5x/Week Service)",
+      "headers": [
+        "GL Account / Ledger Line Item",
+        "Annual Facility Total (100 Staff)",
+        "Annual Cost per Employee",
+        "Monthly Cost per Employee",
+        "Accounting & Procurement Notes"
+      ],
+      "rows": [
+        [
+          "5110 - Hard Roll Paper Towels & Jumbo Tissue",
+          "$6,800 – $8,400",
+          "$68.00 – $84.00",
+          "$5.67 – $7.00",
+          "Based on 14 cases roll towels + 11 cases 2-ply jumbo bath tissue"
+        ],
+        [
+          "5120 - Can Liners (8-Micron Desk + 1.5-Mil Heavy)",
+          "$1,450 – $1,950",
+          "$14.50 – $19.50",
+          "$1.21 – $1.63",
+          "24x33 coreless desk rolls + 33-gal breakroom/restroom bags"
+        ],
+        [
+          "5130 - Touchless Foam Hand Soap & Sanitizer Refills",
+          "$950 – $1,400",
+          "$9.50 – $14.00",
+          "$0.79 – $1.17",
+          "Sealed 1.2L cassettes across 4 restrooms and 1 breakroom"
+        ],
+        [
+          "5140 - Dilution Chemicals, Microfiber & PPE",
+          "$1,650 – $2,250",
+          "$16.50 – $22.50",
+          "$1.38 – $1.88",
+          "Quaternary disinfectant, neutral VCT cleaner, glass spray, gloves"
+        ],
+        [
+          "5150 - State & Local Sales Tax (7.75% Avg) + Freight",
+          "$1,150 – $1,680",
+          "$11.50 – $16.80",
+          "$0.96 – $1.40",
+          "Sales tax on taxable goods + fuel/delivery fees on LTL drops"
+        ],
+        [
+          "5160 - Inventory Shrinkage, Pilferage & Damage (8%)",
+          "$868 – $1,120",
+          "$8.68 – $11.20",
+          "$0.72 – $0.93",
+          "Unaccounted roll disappearance, water-damaged floor cartons"
+        ],
+        [
+          "6210 - Dispenser & Vacuum Capex (36-Mo Amortization)",
+          "$1,350 – $2,100",
+          "$13.50 – $21.00",
+          "$1.13 – $1.75",
+          "Touchless towel/tissue dispensers, vacuums, carts, D-cell batteries"
+        ],
+        [
+          "6410 - Internal Ordering, Dock & AP Labor Burden",
+          "$1,680 – $2,520",
+          "$16.80 – $25.20",
+          "$1.40 – $2.10",
+          "3.5 hrs/mo at $40–$60/hr burdened admin/facilities rate"
+        ],
+        [
+          "Total All-In Ledger Supply Spend per Employee",
+          "$15,898 – $21,420",
+          "$158.98 – $214.20",
+          "$13.25 – $17.85",
+          "Equals $0.0163–$0.0220/sq ft/visit across 324,750 monthly sq-ft-visits"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Dispenser Hardware Capex: Proprietary vs Universal Systems"
+    },
+    {
+      "type": "p",
+      "text": "Line item 6210 in the capex template annual supply per employee worksheet is where strategic hardware choices dictate the next five years of paper expenditure. Facility directors retrofitting restrooms in a 15,000-square-foot office (typically four multi-stall restrooms totaling 12 toilets/urinals and 8 lavatory sinks, which would carry a $15 to $30 per restroom per visit fee under an outsourced contract) must choose between proprietary leased automated dispensers and universal non-proprietary commercial dispensers."
+    },
+    {
+      "type": "p",
+      "text": "Proprietary touchless systems restrict paper feed length and sheet delay via infrared sensors, cutting paper towel tonnage by up to 28%, but lock the building into brand-specific refill SKUs. Universal electronic and twin jumbo dispensers cost slightly more upfront when purchased outright, yet allow the procurement team to competitively bid any manufacturer's 8-inch hardwound roll towel or 9-inch jumbo tissue roll every fiscal year."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser: Featuring touchless infrared activation, a whisper-quiet motor, adjustable sheet length settings, and ADA-compliant depth for 10-inch roll towels, this dispenser prevents cross-contamination and curbs multi-sheet grabbing in Class A office restrooms.",
+        "Tork Twin Jumbo Bath Tissue Roll Dispenser T2: Built to house two 9-inch jumbo bath tissue rolls with an integrated stub-roll transfer gate and keyed security lock, this high-capacity fixture ensures zero paper waste by requiring the first roll to finish completely before the backup roll drops into position.",
+        "San Jamar Tear-N-Dry Essence Electronic Towel Dispenser: Accepting any universal non-proprietary 8-inch roll towel and running on 4 standard D-cell batteries in a low-profile impact-resistant housing, this unit delivers automated hands-free dispensing while freeing the buyer from single-brand paper lock-in."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Tax Treatment, Depreciation Rules, and Battery Maintenance Costs"
+    },
+    {
+      "type": "p",
+      "text": "From a corporate tax accounting perspective, consumable supplies (Accounts 5110 through 5140) are 100% deductible in the current tax year as ordinary and necessary business operating expenses under IRS Section 162. Rolling janitorial equipment (commercial vacuums, auto-scrubbers for polished concrete at a 0.95x multiplier or VCT at 1.04x, and locking housekeeping carts) and permanent wall-mounted restroom dispensers generally qualify for immediate expensing under the IRS de minimis safe harbor election (up to $2,500 per invoice item for businesses without an Applicable Financial Statement, or $5,000 with an AFS), though management accounting still amortizes them over 36 months to prevent monthly P&L distortion."
+    },
+    {
+      "type": "p",
+      "text": "One hidden maintenance cost that must live inside Account 6210 is alkaline D-cell battery replacement for automated touchless towel and soap dispensers. Each electronic towel dispenser requires 4 commercial D-cell batteries every 60 to 90 cases of paper (roughly once every 10 to 14 months in a high-traffic restroom). Across 8 towel dispensers and 8 automatic soap dispensers in a 15,000-square-foot facility, preventative battery swaps and spare dispenser lock keys add $180 to $260 per year ($1.80 to $2.60 per employee). Skipping scheduled battery swaps results in jammed towel sensors and emergency facility work tickets."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "ADA Protrusion & Mounting Height Compliance in Restroom Retrofits",
+      "text": "When installing new commercial towel and soap dispensers on your capex ledger, ensure handyman crews adhere to ADA Standards for Accessible Design (Section 307 and 308). Wall-mounted dispensers mounted between 27 inches and 80 inches above the finished floor cannot protrude more than 4 inches into circulation paths unless recessed, and the operable towel-dispensing mouth must sit no higher than 48 inches above the floor for unobstructed forward or side reach."
+    },
+    {
+      "type": "h2",
+      "text": "Decision Checklist: Auditing In-House Ledger vs Turnkey Contractor Pass-Through"
+    },
+    {
+      "type": "p",
+      "text": "Once you populate every row of the capex template annual supply per employee ledger, compare your total annual spend ($15,898 to $21,420 in our 100-person, 15,000-square-foot benchmark) against your outsourced contractor's consumables add-on rate ($0.012 to $0.025 per square foot per visit). Because contractor per-square-foot consumable quotes are calibrated across standard density assumptions, high-headcount tech suites and call centers often spend more in-house than the flat square-foot tier, whereas low-density executive suites spend significantly less."
+    },
+    {
+      "type": "p",
+      "text": "When comparing an outsourced contractor's consumables proposal against your internal worksheet, always request a line-item breakdown showing exact case counts rather than a blind flat percentage add-on. Use the four-step audit checklist below before locking in your upcoming fiscal year facilities budget."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Separate Restroom Paper from Chemical & Equipment Overhead",
+          "text": "Outsourced janitorial base rates ($0.07–$0.12/sq ft for 10,000–24,999 sq ft offices) already include all cleaning chemicals, microfiber mops, HEPA vacuums, and carts. Subtract Lines 5140 and Vacuum Capex from your in-house ledger when comparing against a contractor's paper-and-soap add-on."
+        },
+        {
+          "name": "Verify Sub-Metered Breakroom and Restroom Fixture Counts",
+          "text": "Count total toilet compartments, urinals, lavatory sinks, and kitchenette sinks ($12–$25/visit breakroom benchmark; $15–$30/visit restroom benchmark) to standardize dispenser refill schedules."
+        },
+        {
+          "name": "Audit Quarterly Floor Care Chemical Allocations",
+          "text": "If your team performs quarterly VCT scrub-and-recoat or carpet hot-water extraction in-house (benchmarked at $0.03–$0.06/sq ft/month amortized), budget an extra $8.50 to $14.00 per employee annually for high-solids floor finish, stripper pads, and defoamer."
+        },
+        {
+          "name": "Test Par-Level Reorder Thresholds",
+          "text": "Set minimum closet par levels at 3 weeks of usage (using 4.33 weeks/month math) so custodians trigger consolidated monthly purchase orders instead of high-fee emergency overnight shipments."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Download-ready numbers in seconds: enter your headcount, square footage, and weekly cleaning schedule in our interactive Office Cleaning Cost Calculator & Quote Comparator to benchmark your annual supply ledger."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the biggest hidden line item in a capex template for annual supply spend per employee?",
+      "a": "Internal procurement labor burden (Account 6410) and inventory shrinkage/pilferage (Account 5160) are the two largest hidden costs. Together with state sales tax and LTL delivery surcharges, these indirect line items add $36.98 to $53.20 per employee per year—increasing the raw catalog cost of paper and chemicals by 32% to 38%."
+    },
+    {
+      "q": "How should facility managers amortize touchless paper towel and tissue dispensers on an annual budget?",
+      "a": "Commercial wall-mounted dispensers—such as automated 10-inch or universal 8-inch roll towel fixtures and twin 9-inch jumbo tissue holders—should be amortized over a 36-to-60-month useful life on internal operating ledgers, even if expensed immediately for tax purposes under the IRS de minimis safe harbor. Remember to include $1.80 to $2.60 per employee annually for scheduled D-cell battery replacements."
+    },
+    {
+      "q": "Do commercial janitorial contractors include cleaning chemicals and vacuums in their base square-foot rate?",
+      "a": "Yes. Standard US commercial janitorial contracts ($0.07 to $0.12/sq ft for 10,000–24,999 sq ft buildings, adjusted by frequency multipliers such as 0.90x for 5x/week service) include all liquid disinfectants, glass and floor cleaners, microfiber pads, HEPA vacuums, and janitorial carts. Only consumable paper towels, bath tissue, hand soap, and trash can liners are billed separately or via the $0.012–$0.025/sq ft/visit consumables add-on."
+    },
+    {
+      "q": "How do Green Seal or EPA Safer Choice chemical mandates impact the annual supply budget worksheet?",
+      "a": "Specifying Green Seal (GS-37) or UL EcoLogo certified concentrated cleaners for LEED O+M compliance typically changes the chemical line item (Account 5140) by less than $1.50 per employee per year when dispensed through closed-loop wall proportioners. In many cases, concentrated hydrogen-peroxide multi-surface cleaners replace three separate retail sprays, actually reducing net chemical spend."
+    }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel",
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2",
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/managing-custodian-absences-and-pto-coverage/",
+    "/in-house-vs-outsourced-cleaning/managing-custodian-absences-and-pto-coverage-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/managing-custodian-absences-and-pto-coverage-budget-worksheet/",
+    "/commercial-vacuums-and-floor-machines/sanitaire-force-sc5845d-quietclean-review/"
+  ]
+}

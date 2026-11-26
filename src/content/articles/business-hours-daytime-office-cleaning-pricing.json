@@ -1,0 +1,90 @@
+{
+  "slug": "business-hours-daytime-office-cleaning-pricing",
+  "pillar": "cleaning-frequency-and-schedules",
+  "path": "/cleaning-frequency-and-schedules/business-hours-daytime-office-cleaning-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "business-hours daytime office cleaning rates",
+  "title": "Business-Hours Daytime Office Cleaning Rates: Hourly Pricing, Crew Budgets, and the Productivity Penalty",
+  "seoTitle": "Business-Hours Daytime Office Cleaning Rates: Hourly & Crew Budgets",
+  "metaDescription": "Business-hours daytime office cleaning rates run $35–$55/hr at 2,600–3,000 sq ft per labor hour. See crew budgets, then run your numbers in our calculator.",
+  "excerpt": "Daytime janitorial crews bill at the low-to-middle of the $35–$65 hourly band, but interruptions cut their production rate by roughly 15–25% versus an empty building. This guide shows how to budget daytime crew hours, what security and HVAC issues change the math, and which contract terms protect you.",
+  "quickAnswer": "Business-hours daytime office cleaning typically bills at $35–$55 per labor hour in the US, slightly below evening rates because daytime labor is easier to recruit and carries no night differential. Because occupied offices slow crews to roughly 2,600–3,000 sq ft per hour (versus the ISSA 3,500 sq ft/hour empty-building benchmark), a 20,000 sq ft office cleaned five days a week needs about 155 labor hours a month, or roughly $5,400–$8,500.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic midday scene in a bright open-plan US corporate office with occupied workstations, a uniformed janitorial day porter quietly wiping a glass conference partition while employees work in the background, a compact gray three-shelf cleaning cart parked beside a column, natural window daylight, eye-level 35mm lens, shallow depth of field, no text, no words, no logos, no watermarks",
+    "alt": "Day porter wiping a glass conference partition in an occupied open-plan office while employees work nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Where daytime office cleaning rates land in 2026" },
+    { "type": "p", "text": "Most US janitorial contractors quote general office cleaning in a $35–$65 per labor hour band. Business-hours daytime work usually sits in the lower two-thirds of that range, $35–$55, for two practical reasons. First, daytime shifts are easier to staff: contractors draw from a broader labor pool, see lower turnover, and do not pay the $1–$3 per hour night differential many crews expect after 10 pm. Second, daytime scopes skew toward lighter, repetitive tasks such as restroom checks, trash pulls, breakroom resets, and high-touch wipe-downs rather than heavy floor work." },
+    { "type": "p", "text": "The catch is production rate. The ISSA 612 benchmark of roughly 3,500 sq ft per labor hour assumes an empty building where a cleaner can move room to room without waiting. In an occupied office, crews pause for meetings, reroute around people on calls, skip desks that are in use, and come back later. In practice that pushes daytime productivity down to about 2,600–3,000 sq ft per hour. A lower hourly rate multiplied by more hours often lands close to the evening total, which is why you should always compare monthly labor dollars, not hourly rates alone." },
+    { "type": "table", "caption": "Shift comparison for a 20,000 sq ft office cleaned 5x per week (21.65 visits/month at 4.33 weeks)", "headers": ["Shift", "Typical bill rate", "Production rate", "Hours per visit", "Labor hours per month", "Monthly labor cost"], "rows": [
+      ["Business-hours daytime (8 am–5 pm)", "$35–$55/hr", "~2,800 sq ft/hr", "7.1", "154.6", "$5,411–$8,503"],
+      ["Evening after-hours (6 pm–10 pm)", "$35–$65/hr", "~3,500 sq ft/hr", "5.7", "123.7", "$4,330–$8,041"],
+      ["Overnight third shift (10 pm–6 am)", "$40–$72/hr", "~4,000 sq ft/hr", "5.0", "108.3", "$4,330–$7,794"]
+    ] },
+    { "type": "h2", "text": "Why daytime crews clean fewer square feet per hour" },
+    { "type": "p", "text": "The productivity penalty is not laziness; it is friction built into an occupied workplace. When you review a daytime bid, ask the contractor which of these drag factors they priced in, because each one adds minutes per visit that show up on the invoice." },
+    { "type": "ul", "items": [
+      "Occupied desks and offices: cleaners skip and return to 10–30% of workstations, adding travel time.",
+      "Conference room bookings: rooms in use cannot be reset until meetings end, forcing a second pass.",
+      "Noise restrictions: backpack and upright vacuums above roughly 65 dBA are often barred from open-plan areas between 9 am and 4 pm, pushing carpet work into narrow windows.",
+      "Chemical limits: strong-odor products and aerosol sprays are swapped for low-odor or Green Seal GS-37 certified chemicals, which may need longer dwell times.",
+      "Elevator and loading-dock competition: trash runs share freight elevators with deliveries and movers.",
+      "Interruptions from staff: spill calls, restocking requests, and supply questions that are helpful but unplanned."
+    ] },
+    { "type": "h2", "text": "Building a daytime crew budget step by step" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage", "text": "Use the rentable area minus mechanical rooms, IT closets, and storage the crew will not touch. A 22,000 sq ft lease often has about 20,000 sq ft of cleanable space." },
+      { "name": "Apply a daytime production rate", "text": "Divide cleanable area by 2,600–3,000 sq ft per hour. At 2,800 sq ft per hour, 20,000 sq ft equals about 7.1 labor hours per visit." },
+      { "name": "Convert visits to monthly hours", "text": "Multiply visits per week by 4.33 weeks per month. Five visits a week equals 21.65 visits, so 7.1 hours becomes roughly 155 labor hours." },
+      { "name": "Price the labor and the minimums", "text": "Multiply hours by the quoted bill rate. Very small offices often fall below the $90–$135 per-visit minimum most contractors enforce, so check whether the minimum, not hours, sets your price." },
+      { "name": "Add restroom and breakroom line items", "text": "Restrooms typically add $15–$30 per visit each and breakroom sanitation $12–$25 per visit. Two restrooms and one breakroom at 21.65 visits adds about $910–$1,840 per month." },
+      { "name": "Layer amortized deep floor care", "text": "Quarterly carpet extraction or VCT scrub-and-recoat amortizes to about $0.03–$0.06 per sq ft per month, or $600–$1,200 for 20,000 sq ft, and is usually scheduled after hours even in daytime contracts." }
+    ] },
+    { "type": "table", "caption": "Daytime crew configurations by office size (5x per week, 2,800 sq ft per labor hour)", "headers": ["Cleanable area", "Daily labor hours", "Typical crew", "Monthly hours", "Monthly labor at $35–$55/hr"], "rows": [
+      ["8,000 sq ft", "2.9", "1 part-time porter, mid-morning and mid-afternoon blocks", "61.9", "$2,167–$3,405"],
+      ["20,000 sq ft", "7.1", "1 full-shift day porter", "154.6", "$5,411–$8,503"],
+      ["45,000 sq ft", "16.1", "2 day porters with staggered starts", "347.9", "$12,177–$19,135"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Sanity-check benchmark", "text": "If a daytime bid implies more than 3,500 sq ft per labor hour on a full general-cleaning scope, the contractor is likely underpricing hours and will cut tasks later. If it implies less than 2,200 sq ft per hour, ask what extra scope or idle time is baked in." },
+    { "type": "h2", "text": "Security, access, and HVAC considerations" },
+    { "type": "p", "text": "Daytime cleaning eliminates most of the after-hours security overhead: no alarm codes to issue, no after-hours key or badge audits, and no lone-worker check-in procedure. Crews work while managers and reception are present, which reduces theft risk and makes it easier to resolve quality complaints on the spot. Many facility managers count this as a soft saving worth $50–$150 per month in reduced access administration and fewer alarm false-trips." },
+    { "type": "p", "text": "The bigger financial lever is HVAC and lighting. When cleaning happens inside the occupied schedule, the building automation system can drop into setback at 6 pm instead of running until 10 pm or later. In a multi-tenant Class A building, that can also avoid landlord after-hours HVAC override charges, which commonly run $50–$95 per hour per zone. A separate disruption-versus-savings analysis covers when that saving outweighs the productivity penalty." },
+    { "type": "callout", "variant": "compliance", "title": "HazCom and bloodborne pathogen rules still apply in daylight", "text": "Under OSHA's Hazard Communication Standard, every chemical the crew uses must have an accessible Safety Data Sheet and labeled secondary containers, which matters more when employees share the space. Restroom and first-aid cleanup falls under the Bloodborne Pathogens Standard, so require proof of annual BBP training and an exposure control plan from the contractor." },
+    { "type": "h2", "text": "Equipment that keeps daytime work contained and quiet" },
+    { "type": "p", "text": "Daytime crews need equipment that stays tidy in front of employees and visitors. The Rubbermaid Commercial High-Capacity Janitorial Cleaning Cart combines a 34-gallon zippered vinyl bag, about 40% more storage than standard carts, a locking cabinet door that keeps chemicals away from curious hands, and 8-inch wheels that roll quietly over carpet transitions. For central waste collection, the Rubbermaid Commercial Brute 44-Gallon Vented Trash Can uses venting channels that cut liner pull force roughly in half, so porters can swap bags quickly without wrestling a vacuum seal next to someone's desk. In tight copy rooms and breakrooms, the 11-inch-wide Slim Jim 23-Gallon station fits beside counters, and its bag cinches keep liners from slipping into view." },
+    { "type": "h2", "text": "Contract terms to lock in for daytime service" },
+    { "type": "ul", "items": [
+      "Defined quiet hours and the specific tasks allowed in each, such as no vacuuming open-plan areas 9 am to 4 pm.",
+      "A named day porter with a backup, plus a requirement to notify you before substitutions.",
+      "A certificate of insurance naming your company and landlord as additional insured, with at least $1 million per occurrence general liability and a janitorial bond.",
+      "Green Seal or EPA Safer Choice chemical requirements for occupied-space work, with SDS binders on site.",
+      "Clear scope exclusions, such as interior windows above 8 feet, carpet extraction, and IT equipment, priced as add-ons.",
+      "Monthly hours reporting so you can verify the crew is delivering the labor you are paying for."
+    ] },
+    { "type": "cta", "text": "Plug your cleanable square footage, visit frequency, and restroom count into the Office Cleaning Cost Calculator to see a daytime budget, then paste competing bids into the Quote Comparator to test each contractor's implied production rate." }
+  ],
+  "faqs": [
+    { "q": "Is daytime office cleaning cheaper than night cleaning?", "a": "Hourly rates are usually lower, around $35–$55 versus up to $65 for evening work, but daytime crews clean only about 2,600–3,000 sq ft per hour. For a 20,000 sq ft office five days a week, that means about 155 daytime hours versus 124 evening hours, so monthly totals often overlap. Daytime becomes cheaper overall when it lets you avoid after-hours HVAC charges or security costs." },
+    { "q": "How do I calculate monthly hours for a daytime cleaning contract?", "a": "Divide cleanable square footage by the production rate, then multiply by visits per month. Use 4.333 weeks per month, so 5 visits a week equals about 21.65 visits. For example, 12,000 sq ft divided by 2,800 sq ft per hour is 4.3 hours per visit, or about 93 hours per month." },
+    { "q": "What insurance should a daytime janitorial vendor carry?", "a": "Request a certificate of insurance showing commercial general liability of at least $1 million per occurrence and $2 million aggregate, workers' compensation at statutory limits, auto liability if they drive to your site, and a janitorial or fidelity bond for theft. Ask to be named additional insured, and confirm the landlord's lease requirements, which are often stricter." },
+    { "q": "Which chemicals are appropriate when employees are present?", "a": "Use low-odor, fragrance-free products certified to Green Seal GS-37 or EPA Safer Choice for general cleaning, and EPA-registered disinfectants with short dwell times, such as hydrogen peroxide formulas, for restrooms. Avoid aerosols and quaternary products with strong odors in open-plan spaces. OSHA HazCom requires labeled containers and Safety Data Sheets regardless of shift." },
+    { "q": "What tasks are usually excluded from a daytime contract?", "a": "Common exclusions include carpet hot-water extraction, VCT stripping and recoating, high dusting above 8 feet, exterior windows, and electronics cleaning. Floor work is typically scheduled on weekends or evenings and billed separately or amortized at about $0.03–$0.06 per sq ft per month. Get every exclusion in writing so add-on charges are predictable." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-high-capacity-janitorial-cleaning-cart",
+    "rubbermaid-commercial-brute-44-gallon-vented-trash-can",
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta"
+  ],
+  "related": [
+    "/cleaning-frequency-and-schedules/",
+    "/cleaning-frequency-and-schedules/when-to-choose-business-hours-daytime-office-cleaning/",
+    "/cleaning-frequency-and-schedules/evening-after-hours-6pm-office-cleaning-pricing/",
+    "/cleaning-frequency-and-schedules/when-to-choose-evening-after-hours-6pm-office-cleaning/",
+    "/restroom-and-breakroom-dispensers/best-medical-clinic-touchless-restroom-dispensers/"
+  ]
+}

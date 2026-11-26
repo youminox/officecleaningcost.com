@@ -1,0 +1,89 @@
+{
+  "slug": "insurance-agency-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/insurance-agency-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "insurance agency scope tasks",
+  "title": "Insurance Agency Scope Tasks: Daily, Weekly & Monthly Janitorial Checklist With Labor Hours",
+  "seoTitle": "Insurance Agency Scope Tasks: Janitorial Checklist & Labor Hours",
+  "metaDescription": "Insurance agency scope tasks by daily, weekly, and monthly frequency, with minutes per task for a 4,000 sq ft office. Price your scope in our calculator.",
+  "excerpt": "A written scope of work is the only reliable way to compare janitorial bids for an insurance agency. This checklist breaks tasks into daily, weekly, and monthly frequencies and shows which items push labor hours above a standard office.",
+  "quickAnswer": "A 4,000 sq ft insurance agency needs about 1.1 hours of base production cleaning per visit at the ISSA benchmark of 3,500 sq ft per hour, plus roughly 0.9 to 1.2 hours for restrooms, the lobby, breakroom, and entry glass, for a total of 2.0 to 2.4 crew hours per visit. Specialty items such as carpet extraction, hardwood refinishing, and air purifier filter service are billed separately at $55–$95 per hour.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening view of a mid-size American independent insurance agency office, a janitor using an 18-inch microfiber flat mop on engineered hardwood flooring in the client reception area beside a curved reception counter, a compact white HEPA air purifier humming in the corner of a glass-walled conference room, soft recessed lighting, three-quarter angle from a hallway at waist height, no text, no logos, no watermarks",
+    "alt": "Cleaner flat-mopping hardwood reception floor in an insurance agency with a conference room air purifier in the background"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Insurance Agencies Need a Written Task Scope, Not a Square-Foot Quote" },
+    { "type": "p", "text": "Two vendors can quote the same 4,000 sq ft agency at the same per-sq-ft rate and deliver very different results, because one assumes the lobby glass, conference table, and restroom partitions are cleaned every visit and the other cleans them once a month. A task-by-task scope fixes that problem. It also protects the agency: insurance offices hold signed applications, claim documents, driver license copies, and payment records, so the scope should spell out what the crew touches and what it never touches." },
+    { "type": "p", "text": "The checklist below is built for a typical independent agency layout: a 450 sq ft client reception area with engineered hardwood or LVT, an open CSR and producer area on carpet tiles, three to four private offices, a 10-person conference room with glass partitions, a breakroom, a copy and mail alcove, and two single-user restrooms. Adjust times up or down as your floor plan differs." },
+    { "type": "h2", "text": "Daily and Every-Visit Tasks" },
+    { "type": "table", "caption": "Every-visit scope and estimated labor minutes for a 4,000 sq ft insurance agency", "headers": ["Area", "Task", "Minutes per visit"], "rows": [
+      ["Reception and lobby", "Dust-mop and damp-mop hardwood or LVT entry; vacuum walk-off mat; disinfect counter, pen cups, and door push plates", "14–18"],
+      ["Reception and lobby", "Spot-clean entry door glass and sidelights; straighten client seating; wipe brochure rack", "6–8"],
+      ["Open CSR and producer area", "Empty desk-side trash and recycling; replace liners; vacuum carpet traffic lanes", "22–28"],
+      ["Private offices", "Empty trash; vacuum open carpet; dust clear horizontal surfaces without moving papers", "12–16"],
+      ["Conference room", "Wipe table and chair arms; clean whiteboard if erased; vacuum; spot glass partitions", "8–10"],
+      ["Restrooms (2)", "Disinfect toilets, sinks, and fixtures; refill tissue, towels, and soap; mop floor; empty sanitary bins", "20–26"],
+      ["Breakroom", "Wipe counters and sink; clean microwave inside and out; wipe fridge handles; mop floor", "10–14"],
+      ["Copy and mail alcove", "Wipe copier exterior and touch panel; damp-dust toner residue on counter; empty recycling", "4–6"]
+    ] },
+    { "type": "p", "text": "Those ranges total about 96 to 126 minutes, or 1.6 to 2.1 crew hours per visit. That sits above the 1.1 hours a pure production rate of 3,500 sq ft per hour suggests, because restrooms, the breakroom, and the client lobby are detail work, not open-floor vacuuming. Expect a realistic bid for this layout to assume 2.0 to 2.4 hours once you add travel within the suite, cart setup, and a final walkthrough." },
+    { "type": "callout", "variant": "warning", "title": "Write the confidential-document rule into the scope", "text": "State plainly that crews do not open locked shred consoles, file drawers, or cabinets; do not move or discard loose paper on desks; and only empty containers clearly marked as trash or recycling. Agencies have lost signed applications to well-meaning crews who tidied a desk. The exclusion costs nothing and prevents a privacy incident you would have to report." },
+    { "type": "h2", "text": "Weekly Tasks" },
+    { "type": "ul", "items": [
+      "Detail vacuum carpet edges, under producer desks where chairs can be rolled out, and behind client chairs in reception (20–30 minutes).",
+      "Damp-wipe chair bases, cubicle partition tops, window sills, and low ledges (15–20 minutes).",
+      "Clean interior glass on conference partitions and the entry door on both sides, streak-free (15–25 minutes).",
+      "Disinfect light switches, door levers, phone handsets where staff permit, and shared keyboard trays at reception (10–15 minutes).",
+      "Descale restroom faucets and polish stainless partitions or grab bars (10 minutes per restroom).",
+      "Wipe breakroom cabinet fronts, small appliance exteriors, and the coffee station drip area (10 minutes)."
+    ] },
+    { "type": "p", "text": "Weekly items add roughly 1.5 to 2.2 hours per week. On twice-weekly service, most vendors split them across the two visits so each visit runs about 2.8 to 3.4 hours in total." },
+    { "type": "h2", "text": "Monthly and Quarterly Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "These are the items that separate an agency scope from a basic office scope. Several are specialty tasks that vendors bill at $55 to $95 per hour rather than the $35 to $65 standard hourly benchmark, because they require trained technicians, extra equipment, or after-hours scheduling around client appointments." },
+    { "type": "table", "caption": "Periodic tasks, frequency, and labor or pricing basis", "headers": ["Task", "Frequency", "Labor estimate", "Typical billing basis"], "rows": [
+      ["High dusting of vents, light fixtures, and tops of filing cabinets", "Monthly", "1.0–1.5 hours", "Included in base scope"],
+      ["Hardwood or LVT reception floor deep clean with wood-safe neutral cleaner", "Monthly", "0.5–0.75 hours", "Included or $55–$95 per hour"],
+      ["Hot-water extraction of carpet traffic lanes and lobby", "Quarterly", "3–5 hours with truck or portable unit", "$0.03–$0.06 per sq ft per month amortized"],
+      ["Upholstered client chair cleaning", "Quarterly", "1–2 hours", "$55–$95 per hour"],
+      ["Air purifier pre-filter wipe and filter change logging", "Monthly check, filter per maker schedule", "5–10 minutes per unit", "Included if listed; filters billed at cost"],
+      ["Wall spot washing around light switches and reception counter", "Monthly", "0.5 hours", "Included in base scope"]
+    ] },
+    { "type": "p", "text": "Floor tools matter on agency reception floors because many independent agencies install engineered hardwood to look upscale. An 18-inch microfiber flat mop such as the Bona Commercial System kit, with a telescoping handle, separate dusting and wet pads, and a wood-safe cleaner, lets the crew clean the lobby with minimal moisture so seams do not cup. The hardwood flooring multiplier of 1.08 reflects that slower, low-moisture method." },
+    { "type": "p", "text": "Conference rooms and private offices often run portable air purifiers to control dust and odors from paper and toner. A Medify MA-50 with True HEPA H13 filtration is rated for about 1,100 sq ft of coverage with a 36 dBA minimum noise level, making it suited to a conference room or open CSR pod, while a Winix 5500-2 with True HEPA and washable AOC carbon covers about 360 sq ft and fits a single private office or the breakroom. If the agency wants the crew to vacuum pre-filters and log filter changes, list that explicitly with a frequency, or nobody will do it." },
+    { "type": "h2", "text": "Turning the Checklist Into a Labor-Hour Budget" },
+    { "type": "steps", "items": [
+      { "name": "Total the every-visit minutes", "text": "Add each area's minutes for your layout. For the sample agency, that is about 96 to 126 minutes per visit." },
+      { "name": "Spread weekly tasks across visits", "text": "Divide weekly-task hours by visits per week. At twice weekly, 1.5 to 2.2 hours adds about 0.75 to 1.1 hours per visit." },
+      { "name": "Amortize monthly tasks", "text": "Divide monthly hours by visits per month. With 8.66 visits, 2.0 to 2.75 monthly hours adds about 15 to 19 minutes per visit." },
+      { "name": "Separate specialty work", "text": "Keep carpet extraction, upholstery, and floor refinishing as their own priced lines so you can approve or defer them." },
+      { "name": "Check the bid against your hours", "text": "If a vendor's per-visit price implies far fewer hours than your checklist, ask which tasks they dropped before you compare prices." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Use a sign-off log at reception", "text": "Keep a simple visit log in the supply closet listing every-visit, weekly, and monthly tasks with initials and dates. It gives the office manager evidence for credit requests and helps a new crew member learn which desks hold confidential files." },
+    { "type": "cta", "text": "Enter your agency's square footage, flooring mix, restroom count, and frequency in the Office Cleaning Cost Calculator to translate this scope into a monthly price range, then use the Quote Comparator to check whether each vendor's bid actually covers your task list." }
+  ],
+  "faqs": [
+    { "q": "How many hours per visit should a crew spend cleaning a 4,000 sq ft insurance agency?", "a": "Plan on 2.0 to 2.4 crew hours for every-visit tasks, and about 2.8 to 3.4 hours per visit on twice-weekly service once weekly detail tasks are spread across visits. The ISSA production benchmark of 3,500 sq ft per hour covers only open-floor work; restrooms, breakrooms, and the client lobby add the rest." },
+    { "q": "Which agency cleaning tasks are typically excluded from a standard scope?", "a": "Common exclusions are carpet extraction, upholstery cleaning, exterior windows, hardwood screen-and-recoat, shred console handling, electronics cleaning beyond exterior wipe-down, and moving furniture or files. Each should appear as an explicit exclusion or a separately priced line so there is no dispute later." },
+    { "q": "Do crews need special training for agency restrooms?", "a": "Restroom work falls under OSHA bloodborne pathogen awareness for anyone who may contact bodily fluids, and every chemical used must have a Safety Data Sheet available under the Hazard Communication Standard. Ask the vendor to confirm training records and the EPA-registered disinfectant and dwell time they use on fixtures." },
+    { "q": "Should the cleaning crew service our air purifiers?", "a": "They can vacuum or wipe pre-filters and exterior housings monthly and log replacement dates, but replacing HEPA and carbon filters should follow the manufacturer schedule with filters supplied by the agency or billed at cost. Write the task, frequency, and who buys filters into the scope." },
+    { "q": "How often should insurance agency carpets be deep cleaned?", "a": "Quarterly hot-water extraction of the lobby and main traffic lanes is typical, with the full open area extracted twice a year. Amortized, that runs about $0.03 to $0.06 per sq ft per month, or $120 to $240 per month for a 4,000 sq ft agency." }
+  ],
+  "amazonProductIds": [
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/insurance-agency-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/tech-startup-office-cleaning-cost/",
+    "/facility-cleaning-costs/tech-startup-office-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-portable-microfiber-charging-buckets-for-crews/"
+  ]
+}

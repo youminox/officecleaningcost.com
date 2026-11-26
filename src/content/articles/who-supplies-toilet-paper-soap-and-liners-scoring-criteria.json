@@ -1,0 +1,185 @@
+{
+  "slug": "who-supplies-toilet-paper-soap-and-liners-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/who-supplies-toilet-paper-soap-and-liners-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric who supplies toilet paper soap and liners",
+  "title": "Procurement Scorecard & Rubric: Auditing Contractor Claims on Vendor-Supplied Consumables",
+  "seoTitle": "Vendor-Supplied Consumables Scorecard & RFP Evaluation Rubric",
+  "metaDescription": "Evaluate vendor-supplied consumables bids with our 100-point weighted rubric, audit $0.012-$0.025/sq ft allowances, and test quotes in our Quote Comparator.",
+  "excerpt": "When janitorial bidders bundle paper towels, toilet tissue, soap, and trash liners into their proposals, opaque pricing can hide 35% markups and sub-grade paper specs. Use this 100-point weighted evaluation rubric to score contractor consumable schedules with precision.",
+  "quickAnswer": "A rigorous 100-point evaluation rubric for vendor-supplied consumables scores janitorial bidders across five weighted criteria: Open-Book Unbundled Pricing vs. Flat Sq-Ft Markup (30 points), Commercial SKU Specification & Ply/Micron Integrity (25 points), Universal Dispenser Compatibility & Ownership (20 points), Inventory Par-Level & Pilferage Controls (15 points), and Unconditional 30-Day Opt-Out Flexibility (10 points). Proposals scoring below 75 points should have consumables carved out of the contract in favor of direct client purchasing.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic high-angle shot of a facility procurement specialist in a modern US Class A office restroom inspecting a brushed stainless steel touchless soap dispenser and sanitary disposal fixture with a digital tablet scorecard showing color-coded rating bars without readable text, bright architectural vanity lighting, clean ceramic tile background.",
+    "alt": "Facility procurement specialist scoring commercial restroom dispenser hardware and consumable specs on a digital tablet rubric"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Consumable Schedules Require a Separate RFP Scoring Matrix"
+    },
+    {
+      "type": "p",
+      "text": "During a commercial janitorial Request for Proposal (RFP), mixing consumable supply charges directly into the base nightly cleaning price makes accurate bid comparison impossible. Suppose Bidder A quotes $0.095 per sq ft per visit 'all-inclusive of paper, soap, and liners' for a 15,000 sq ft office cleaned 5x weekly (21.65 visits per month based on 4.33 weeks per month), while Bidder B quotes $0.078 per sq ft per visit for base labor ($35 to $65/hr equivalent) plus an open-book consumable budget of $340 per month. On the surface, both bids look similar—until you realize Bidder A's embedded $0.017/sq ft/visit consumable surcharge equals $5,520 per month ($66,249 per year) for $340 worth of toilet paper and trash bags."
+    },
+    {
+      "type": "p",
+      "text": "Applying a dedicated weighted evaluation rubric who supplies toilet paper soap and liners forces every bidding Building Service Contractor (BSC) to unbundle their consumable math from their nightly cleaning labor. Whether your facility ultimately chooses vendor-supplied restocking or direct client procurement, scoring each bidder on a 100-point scale exposes hidden markups, sub-standard single-ply substitutions, and captive dispenser traps before contract signature."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 75-Point Decision Rule: Bundle vs. Self-Supply",
+      "text": "Award a vendor-supplied consumables addendum only if the winning janitorial contractor scores 75 or more points out of 100 on the Consumables Evaluation Rubric AND their projected monthly cost-plus spend falls within 15% of your direct-purchase baseline ($3.25 to $5.80 per daily onsite employee per month). If all bidders score below 75, carve consumables out of the contract and buy direct."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric for Vendor-Supplied Consumables"
+    },
+    {
+      "type": "p",
+      "text": "Instruct every RFP respondent to complete a standardized Schedule B Consumables Worksheet listing their exact wholesale case costs, markup percentage, product specifications (ply, roll footage, sheet count, liner micron gauge, and EcoLogo/Green Seal certifications), and dispenser ownership terms. Score each submission using the five weighted criteria below."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Procurement Evaluation Rubric: Vendor-Supplied Paper, Soap & Trash Liners",
+      "headers": [
+        "Evaluation Criterion",
+        "Weight (Points)",
+        "Tier 1: Best-in-Class (100% of Pts)",
+        "Tier 2: Acceptable with Edits (60% of Pts)",
+        "Tier 3: High Risk / Carve Out (0-20% of Pts)"
+      ],
+      "rows": [
+        [
+          "1. Pricing Transparency & Markup Model",
+          "30 pts",
+          "Open-book distributor invoice pass-through + capped 12%-15% handling fee; zero delivery or restocking labor surcharges; fully unbundled from base $/sq ft rate",
+          "Fixed per-case schedule locked for 12 months within 18%-22% of wholesale; or headcount-indexed monthly allowance with quarterly true-up",
+          "Opaque lump-sum bundled rate or flat $0.012-$0.025/sq ft/visit surcharge with no reconciliation to actual case usage"
+        ],
+        [
+          "2. Product Spec Integrity (Ply, Micron & Green Certs)",
+          "25 pts",
+          "Lists exact brand SKUs, 2-ply tissue footage (1,000 ft jumbo), towel sheet count (4,000/case), liner thickness (15-17 micron HD / 1.2 mil LD), EcoLogo/EPA compliance",
+          "Names commercial grade tiers and case counts, but reserves right to substitute 'equivalent house brands' without prior client approval",
+          "No SKU specs disclosed; delivers lightweight short-footage rolls, single-ply scratchy tissue, or thin 6-micron liners that rupture"
+        ],
+        [
+          "3. Dispenser Hardware Compatibility & Title",
+          "20 pts",
+          "100% compatible with universal or building-owned 304 stainless/commercial fixtures; any vendor-installed dispensers transfer title to client at $0 buyout",
+          "Uses proprietary touchless dispensers at $0 install cost, but caps refill case pricing to match universal commercial benchmarks",
+          "Captive proprietary dispenser lease with uncapped refill pricing and removal/wall-damage penalty upon contract termination"
+        ],
+        [
+          "4. Closet Inventory, Par-Level & Pilferage Controls",
+          "15 pts",
+          "Digital or signed delivery receiving slips, laminated 2-week min / 4-week max par cards, locked reserve cage protocol, monthly burn-rate audit against headcount",
+          "Monthly case tally listed on invoice and supervisor visual closet check, but no signed receiving log or headcount variance alert",
+          "Drops unverified loose cases in unlocked shared closets with zero delivery receipts or burn-rate tracking"
+        ],
+        [
+          "5. Unbundling & Opt-Out Flexibility",
+          "10 pts",
+          "Unconditional client right to cancel or self-supply any or all consumable SKUs on 30 days' written notice with zero base-rate penalty",
+          "Allows switch to client-supplied consumables at annual contract anniversary or upon 60 days' notice",
+          "Ties base janitorial labor discount ($35-$65/hr) to mandatory 36-month exclusive purchase of contractor's consumables"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Auditing Criterion 3: Hardware Durability, Dispenser Specs & Cart Logistics"
+    },
+    {
+      "type": "p",
+      "text": "A contractor's score on Criterion 3 (20 points) and Criterion 4 (15 points) depends heavily on how their consumables interact with your building's permanent restroom fixtures and nightly janitorial cart logistics. High-traffic Class A restrooms require commercial-grade dispensing and disposal hardware that resists vandalism, prevents cross-contamination, and accommodates high-capacity refills so night technicians can complete restroom rounds within the $15 to $30 per-visit benchmark."
+    },
+    {
+      "type": "p",
+      "text": "When auditing a bidder's proposed restroom and cart setup, verify that their consumables fit premier commercial hardware. For touchless hand hygiene, the Kimberly-Clark Professional ICON Automatic Soap & Sanitizer Dispenser offers a 1.2 L high-capacity refill cassette, dependable touchless sensor activation, interchangeable designer trim faceplates, and a 5-year warranty—eliminating leaky bulk-pour soap reservoirs that corrode chrome counters. Inside restroom stalls, pairing waxed liners with the Bobrick B-270 ConturaSeries Sanitary Napkin Disposal (engineered from 304 satin stainless steel with a 1.0-gallon capacity, self-closing top lid, and ADA-compliant reach profile) ensures odor containment and hygienic liner removal without staff touching interior surfaces. Finally, inspect how the night crew transports open consumables from the supply closet: a contractor staging a Rubbermaid Commercial Traditional Janitorial Cart 6173 (equipped with a 25-gallon zippered vinyl collection bag, 300 lb load capacity across three organized shelves, 8-in non-marking rear wheels, and a dedicated front bucket platform) can carry a full evening's allotment of jumbo tissue, folded towels, soap cassettes, and 55-gallon liners in a single pass—rather than wasting billable $35 to $65/hr labor walking back and forth to the supply closet."
+    },
+    {
+      "type": "h2",
+      "text": "How to Verify Contractor Consumable Claims in 4 Practical Steps"
+    },
+    {
+      "type": "p",
+      "text": "Before finalizing your RFP award scorecard, subject the top two finalists' consumable proposals to a physical sample and invoice verification check."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Demand Physical Box Samples and Wholesale Spec Sheets",
+          "text": "Require finalists to bring one sample roll of bath tissue, one sleeve of hand towels, one soap cartridge, and three trash liner gauges to the pre-award walkthrough. Check the manufacturer spec sheet for exact sheet dimensions, basis weight, and micron/mil rating."
+        },
+        {
+          "name": "Step 2: Normalize Both Bids to a 65-Person / 15,000 Sq Ft Usage Model",
+          "text": "Multiply each bidder's per-case prices by a fixed monthly baseline (e.g., 2 cases jumbo bath tissue, 4 cases multifold towels, 1 case foam soap refills, 1 case 55-gal liners, 1 case small desk liners) so no bidder can game the total by under-estimating monthly case quantities."
+        },
+        {
+          "name": "Step 3: Audit Dispenser Key Ownership and Buyout Clauses",
+          "text": "Confirm in writing that all wall dispensers either belong to the building owner outright or transfer title at $0 upon contract termination, and that duplicate dispenser keys remain hanging in the facility manager's key lockbox."
+        },
+        {
+          "name": "Step 4: Verify Quarterly Floor & Restroom Add-On Alignment",
+          "text": "Check that restroom cleaning ($15 to $30/visit), breakroom sanitation ($12 to $25/visit), and amortized quarterly floor care ($0.03 to $0.06/sq ft/month) contain zero duplicate charges for restocking labor or contractor cleaning chemicals."
+        }
+      ]
+    },
+    {
+      "type": "ul",
+      "items": [
+        "85 to 100 Points (Approve Vendor-Supplied Open-Book Program): Contractor provides full wholesale distributor invoice transparency, caps handling at 12% to 15%, stocks certified EcoLogo/EPA paper and 17-micron heavy-duty liners, and honors a 30-day self-supply opt-out.",
+        "75 to 84 Points (Approve Only After Schedule B Redline): Acceptable unit case rates, but requires contract edits to lock in exact SKU sheet counts, remove delivery drop fees, or waive dispenser buyout charges.",
+        "Under 75 Points (Carve Out Consumables & Buy Direct): Bidder relies on inflated per-square-foot flat fees ($0.012 to $0.025/sq ft/visit), proprietary dispenser lock-in, or unverified lump-sum billing."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Include Consumable Stock-Outs in Monthly Inspection KPIs",
+      "text": "Whenever a contractor scores high enough to manage your vendor-supplied consumables program, add 'Zero Empty Dispensers During Business Hours' and 'Maintain 1.5-Week Closet Par Buffer' directly to your monthly Janitorial Inspection Scorecard. Deduct 5 KPI points for any unexcused stock-out caused by late contractor ordering."
+    },
+    {
+      "type": "cta",
+      "text": "Test vendor-supplied consumables bids against direct client procurement across your exact square footage and cleaning frequency in our Office Cleaning Cost Calculator and Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do we prevent a janitorial bidder from low-balling estimated monthly case usage to win the RFP?",
+      "a": "Never let bidders invent their own monthly case quantities during an RFP. Instead, supply a mandatory 'Fixed Consumable Basket' in your RFP bid sheet (for example, 3 cases of 12-roll 1,000-ft 2-ply jumbo bath tissue, 5 cases of 4,000-count multifold towels, 2 cases of 1.2 L foam soap refills, and 2 cases of 200-count 17-micron 55-gallon liners) and score bidders strictly on their extended unit price for that exact basket."
+    },
+    {
+      "q": "Should vendor-supplied consumables be subject to the same annual CPI escalation cap as base cleaning labor?",
+      "a": "If consumables are billed on a fixed per-case price schedule, apply your contract's 3.0% to 4.0% annual CPI escalation cap (or Producer Price Index pulp/paper cap) after Month 12, coupled with a 30-day right to switch to direct client purchasing if distributor prices spike. If consumables are billed on an open-book cost-plus-15% basis, lock the 15% handling markup percentage for the entire 36-month contract term."
+    },
+    {
+      "q": "What is the difference between high-density (micron) and low-density (mil) trash liners on a procurement scorecard?",
+      "a": "High-density polyethylene (HDPE) liners—measured in microns, such as 12-micron to 17-micron rolls—offer high tensile and puncture resistance for heavy, wet breakroom and restroom paper loads without sharp edges. Low-density (LLDPE) liners—measured in mils, typically 0.9 mil to 1.5 mil—stretch around jagged boxes, plastic containers, and central copy-room waste without zipper-tearing. A Tier 1 consumable schedule specifies exact micron or mil gauges for each receptacle size."
+    },
+    {
+      "q": "Can a contractor refuse to load client-supplied paper or soap into dispensers they previously installed?",
+      "a": "Only if those dispensers are still legally owned by the contractor under an active proprietary loan agreement. That is why Criterion 3 of our 100-point rubric penalizes proprietary loaner agreements heavily and awards full points only when wall fixtures are universal or owned outright by the facility."
+    }
+  ],
+  "amazonProductIds": [
+    "kimberly-clark-professional-icon-automatic-soap-and-sanitizer-di",
+    "bobrick-b-270-conturaseries-sanitary-napkin-disposal",
+    "rubbermaid-commercial-traditional-janitorial-cart-6173"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/janitorial-inspection-scorecards-and-kpis/",
+    "/comparing-quotes-and-contracts/janitorial-inspection-scorecards-and-kpis-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/janitorial-inspection-scorecards-and-kpis-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/best-breakroom-wall-mounted-soap-and-towel-pair/"
+  ]
+}

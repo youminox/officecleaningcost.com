@@ -1,0 +1,79 @@
+{
+  "slug": "how-often-to-schedule-vct-scrub-and-recoat",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-vct-scrub-and-recoat/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar vct scrub and recoat",
+  "title": "Quarterly or Annual? Building a VCT Scrub and Recoat Calendar by Foot Traffic",
+  "seoTitle": "Quarterly vs Annual Calendar for VCT Scrub and Recoat + Yearly Spend",
+  "metaDescription": "Quarterly, annual, or monthly calendar for VCT scrub and recoat by foot traffic, with annual spend from $0.25-$1.80/sq ft. Model it in our calculator.",
+  "excerpt": "Foot traffic, not habit, should decide whether VCT gets scrubbed and recoated monthly, quarterly, or once a year. This guide maps traffic thresholds to a practical calendar and shows the annualized cost of each schedule.",
+  "quickAnswer": "Low-traffic VCT under about 100 daily foot passes needs scrub and recoat once or twice a year, medium traffic of 100 to 500 passes needs it quarterly, and heavy traffic above 500 passes, such as main lobbies and cafeterias, needs it monthly or bimonthly. At $0.12 to $0.30 per sq ft per visit, that translates to roughly $0.15 to $0.50 per sq ft per year for low traffic, $0.50 to $1.00 for medium, and $1.00 to $1.80 for heavy zones.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic US office building main entrance on a winter morning with a heavy-duty cross-rib entrance mat inside glass doors, a busy VCT lobby floor showing traffic-lane dulling leading toward elevators, a utility service cart parked by the wall, soft overcast daylight, elevated camera angle looking down the traffic path, no text, no logos, no watermarks",
+    "alt": "Office lobby VCT floor showing a dulled traffic lane from the entrance mat to the elevators"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Traffic Should Drive the Calendar" },
+    { "type": "p", "text": "Floor finish wears in proportion to the grit carried across it. Each footstep grinds tracked-in sand against the top coat, creating micro-scratches that scatter light and make VCT look dull. Once wear reaches the base coats, the only fix is a full strip at $0.30 to $0.60 per sq ft. A scrub and recoat timed before that point removes the scratched top layers and lays fresh finish for $0.12 to $0.30 per sq ft. The goal of a calendar is simple: recoat just before wear reaches the base layers, never after." },
+    { "type": "p", "text": "Treating the whole building on one schedule wastes money. A quiet back corridor and the main lobby may share the same tile, but they see completely different traffic. Zoning the floor by traffic level and scheduling each zone separately is the single most effective budgeting move." },
+    { "type": "h2", "text": "Traffic Thresholds and Recommended Frequency" },
+    { "type": "table", "caption": "VCT scrub and recoat frequency and annualized cost by traffic level (national rates)", "headers": ["Traffic level", "Approx. daily foot passes", "Typical areas", "Recommended frequency", "Annual cost per sq ft", "Annual cost on 3,000 sq ft"], "rows": [
+      ["Low", "Under 100", "Back corridors, storage, private office wings", "Annual to semiannual", "$0.15-$0.50", "$450-$1,500"],
+      ["Medium", "100-500", "Department corridors, breakrooms, copy rooms", "Quarterly", "$0.50-$1.00", "$1,500-$3,000"],
+      ["Heavy", "500-1,500", "Main lobbies, elevator banks, cafeterias", "Bimonthly (6x/yr)", "$0.90-$1.50", "$2,700-$4,500"],
+      ["Extreme", "1,500+", "Building entries in wet climates, transit-facing lobbies", "Monthly", "$1.40-$1.80", "$4,200-$5,400"]
+    ] },
+    { "type": "p", "text": "These figures assume the rate drops toward $0.12 to $0.15 per sq ft when visits are frequent and the finish is in good shape, because each scrub requires less work. Heavy and extreme zones are usually small in area, so even a monthly schedule rarely dominates the total floor budget." },
+    { "type": "callout", "variant": "benchmark", "title": "Amortized program benchmark", "text": "Most deep floor programs that combine quarterly scrub and recoat with periodic carpet extraction amortize to $0.03 to $0.06 per sq ft per month across the whole building. If your blended number is far above that, check whether low-traffic zones are being recoated too often." },
+    { "type": "h2", "text": "A Sample 12-Month Calendar" },
+    { "type": "p", "text": "Here is a practical calendar for a 12,000 sq ft office with 4,000 sq ft of VCT split into 800 sq ft of heavy lobby, 2,000 sq ft of medium corridors and breakrooms, and 1,200 sq ft of low-traffic wings. It avoids holiday peaks, front-loads work before winter, and times the full strip with a low-occupancy week." },
+    { "type": "steps", "items": [
+      { "name": "January", "text": "Lobby scrub and recoat after holiday slush and salt season peaks; inspect entry matting." },
+      { "name": "March", "text": "Lobby plus all medium corridors and breakrooms; first quarterly visit." },
+      { "name": "May", "text": "Lobby only; spot-burnish elevator banks." },
+      { "name": "July", "text": "Full strip of the lobby during summer low occupancy; medium zones scrub and recoat; low-traffic wings annual recoat." },
+      { "name": "September", "text": "Lobby plus medium zones before fall rain and leaf debris." },
+      { "name": "November", "text": "Lobby plus medium zones ahead of winter; replace worn entrance mats." }
+    ] },
+    { "type": "p", "text": "Annual cost at mid-range rates: the lobby gets five scrub and recoat visits at about $0.20 per sq ft ($800) plus one strip at about $0.45 ($360). Medium zones get four visits at $0.17 ($1,360). Low zones get one visit at $0.20 ($240). Total is roughly $2,760 per year, or $230 per month, about $0.019 per sq ft of total office area per month." },
+    { "type": "h2", "text": "Signals That Your Calendar Is Wrong" },
+    { "type": "ul", "items": [
+      "Visible gray traffic lanes before the next scheduled visit means the zone needs higher frequency.",
+      "Floor still glossy at recoat time suggests you can stretch the interval by one cycle.",
+      "Yellowing at edges and corners points to finish buildup; schedule a strip rather than more recoats.",
+      "Black heel marks and scuffs that will not burnish out indicate the top coat is worn through.",
+      "Powdering or flaking finish usually means incompatible daily cleaners or poor rinse during the last visit."
+    ] },
+    { "type": "h2", "text": "Daily Practices That Stretch Intervals" },
+    { "type": "p", "text": "Matting is the cheapest floor care investment you can make. A 4x6 cross-rib olefin entrance mat with a vinyl back traps a large share of rain, snow, and grit in the first few steps, which directly extends recoat intervals in lobbies. Pair that with daily dust mopping, neutral-pH damp mopping, and regular burnishing in medium and heavy zones." },
+    { "type": "p", "text": "Operational details also matter. Heavy-based stainless receptacles that do not tip and drag reduce scuffing near breakrooms, and a 3-shelf utility cart with non-marking 4-inch casters keeps restocking from scarring corridors. These choices sound minor, but scuffing and spills are what make floors look tired between scheduled visits." },
+    { "type": "h2", "text": "Writing the Calendar Into Your Contract" },
+    { "type": "p", "text": "List each zone, its square footage, frequency, and the target months in the periodic task schedule. Specify that the vendor provides a dated work log after each visit, and that skipped visits are credited at the per-visit rate. Keep routine cleaning separate: routine visits are calculated from weekly frequency times 4.333 weeks per month, while scrub and recoat is either billed per event or amortized as a fixed monthly line." },
+    { "type": "callout", "variant": "compliance", "title": "Safety and documentation", "text": "Each visit should include coned wet zones, Safety Data Sheets for scrub and finish products under OSHA HazCom, and a current certificate of insurance. Ask for Green Seal certified finishes if your building reports on sustainability." },
+    { "type": "cta", "text": "Model your zones and frequencies in the Office Cleaning Cost Calculator to see annual and monthly floor care spend, then compare vendor calendars side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How often should office VCT be scrubbed and recoated?", "a": "It depends on traffic. Low-traffic areas need it once or twice a year, medium-traffic corridors and breakrooms quarterly, and heavy lobbies and elevator banks every one to two months. Zoning the building by traffic level avoids paying to recoat quiet areas too often." },
+    { "q": "What does a quarterly VCT scrub and recoat program cost per year?", "a": "At $0.12 to $0.25 per sq ft per visit, four visits cost about $0.50 to $1.00 per sq ft of VCT per year. For 3,000 sq ft of medium-traffic VCT, budget $1,500 to $3,000 annually, or $125 to $250 per month if amortized." },
+    { "q": "Can more frequent recoating reduce the need for full stripping?", "a": "Yes. Recoating before wear reaches the base coats keeps the finish healthy, often stretching full strips from every 12 months to every 18 to 36 months. Because strips cost $0.30 to $0.60 per sq ft, avoiding even one strip can offset several recoat visits." },
+    { "q": "How do I combine floor care frequency with routine cleaning in a budget?", "a": "Calculate routine cleaning from weekly visits times 4.333 weeks per month times your per-visit rate. Add scrub and recoat as a separate amortized line, typically $0.03 to $0.06 per sq ft per month for a building-wide program, so each component can be audited independently." },
+    { "q": "What should the contract say about scheduled floor care visits?", "a": "List zones, square footage, frequencies, target months, coat counts, and finish specs. Require a dated work log, credits for skipped visits, a certificate of insurance, and OSHA HazCom Safety Data Sheets. Exclusions such as furniture moving should be stated explicitly." }
+  ],
+  "amazonProductIds": [
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can",
+    "rubbermaid-commercial-utility-service-cart-3-shelf",
+    "apache-mills-cross-rib-4x6-heavy-duty-commercial-entrance-mat"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/vct-scrub-and-recoat-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-vct-scrub-and-recoat-quotes/",
+    "/cleaning-services-and-tasks/high-speed-floor-burnishing-cost-guide/",
+    "/commercial-vacuums-and-floor-machines/sandia-sniper-6-gallon-vs-mytee-lite-8070/"
+  ]
+}

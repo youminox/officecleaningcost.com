@@ -1,0 +1,75 @@
+{
+  "slug": "exterior-ground-floor-window-washing-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/exterior-ground-floor-window-washing-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge exterior ground floor window washing",
+  "title": "Is Ground-Floor Window Washing Included in Your Cleaning Contract or an Extra Charge?",
+  "seoTitle": "Extra Charge for Ground-Floor Window Washing? Included vs Add-On Audit",
+  "metaDescription": "Extra charge or included? Audit how vendors bill ground-floor exterior window washing, from $90 minimums to per-pane work orders. Compare bids in our tool.",
+  "excerpt": "Janitorial contracts are notoriously vague about exterior glass, which is why ground-floor window washing shows up as a surprise work order. Learn the contract language, pricing structures, and audit steps that separate genuinely included service from billable add-ons.",
+  "quickAnswer": "Standard janitorial contracts usually include interior and exterior entry-door glass and sidelights but exclude full exterior storefront elevations, which are billed as add-on work orders at roughly $4 to $8 per pane with a $90 to $135 minimum. When exterior washing is folded into the monthly retainer, expect the base rate to rise by about $0.005 to $0.015 per sq ft per month, and confirm the frequency in writing.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic over-the-shoulder view of a US property manager reviewing a printed janitorial scope document at a lobby reception desk, freshly washed floor-to-ceiling ground-floor glass storefront behind her with a window cleaner working outside, bright overcast daylight, shallow depth of field, no readable text, no logos, no watermarks",
+    "alt": "Property manager reviewing a cleaning contract while a window cleaner washes lobby glass outside"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Where the Confusion Starts: Vague Glass Language" },
+    { "type": "p", "text": "The most common phrase in a janitorial scope is some variation of clean glass and entry doors. To the building owner, that sounds like all glass. To the vendor, it means the fingerprint-prone glass that the night crew can reach from the floor with a spray bottle and microfiber: entry doors, sidelights, interior partitions, and maybe the lobby side of the storefront. Exterior storefront elevations, transoms above eight feet, and anything requiring a water-fed pole or ladder sit outside that interpretation. When the property manager asks why the outside of the lobby glass looks dirty, the vendor responds with a separate proposal, and the dispute begins." },
+    { "type": "p", "text": "Resolving this does not require a new vendor. It requires a scope that names the glass, the side, the height, and the frequency, and a pricing structure that matches how the vendor actually staffs the work." },
+    { "type": "h2", "text": "Three Ways Vendors Price Exterior Ground-Floor Glass" },
+    { "type": "table", "caption": "Included vs add-on pricing structures for ground-floor exterior window washing (national ranges)", "headers": ["Structure", "How it appears on the invoice", "Typical cost", "Best fit", "Audit risk"], "rows": [
+      ["Included in base retainer", "No separate line; scope lists exterior storefront at stated frequency", "Adds $0.005 - $0.015 per sq ft per month to base rate", "Medium-traffic offices wanting monthly glass", "Frequency drift; visits silently skipped"],
+      ["Scheduled add-on line", "Fixed monthly or quarterly line item", "$110 - $225 per visit for 20 - 30 panes", "Buildings with predictable quarterly needs", "Low if visit logs are required"],
+      ["Project work order", "Separate invoice per request", "$4 - $8 per pane, $90 - $135 minimum, or $55 - $95 per tech hour", "Low-traffic sites washing 1 - 2 times a year", "Price creep and inconsistent per-pane counts"],
+      ["Subcontracted specialist", "Pass-through with vendor markup", "Specialist price plus 10% - 20% markup", "Mixed-height buildings with some lift work", "Hidden markup; separate COI needed"]
+    ] },
+    { "type": "p", "text": "For a 15,000 sq ft office with 28 storefront panes, folding monthly exterior washing into the retainer at $0.01 per sq ft per month adds $150 per month, or $1,800 per year. Buying the same service as a monthly add-on at $5.50 per pane costs $154 per visit, or about $1,850 per year. The economics are nearly identical; the difference is accountability. A dedicated line item creates a paper trail. An embedded rate makes skipped visits invisible." },
+    { "type": "callout", "variant": "warning", "title": "Watch for the double-bill pattern", "text": "If the base scope includes entry doors and sidelights on both sides, and a separate window work order also counts those same door panes, you are paying twice. Ask every vendor to list pane counts by elevation and to exclude door glass already covered by nightly janitorial service." },
+    { "type": "h2", "text": "Contract Audit Checklist" },
+    { "type": "steps", "items": [
+      { "name": "Pull the current scope and last 12 invoices", "text": "Highlight every reference to glass, windows, doors, partitions, and storefront. Note whether each says interior, exterior, or both, and whether a frequency is given." },
+      { "name": "Walk the building with a pane map", "text": "Number each exterior ground-floor pane by elevation. Mark door glass, sidelights, transoms, and anything above eight feet. This becomes Exhibit A to the contract." },
+      { "name": "Match invoices to the map", "text": "Compare any window work orders to your pane count. A vendor billing 40 panes on a 28-pane storefront is either counting doors twice or rounding up." },
+      { "name": "Request a split quote", "text": "Ask the vendor to price exterior washing two ways: embedded in the monthly rate and as a per-visit add-on. A legitimate vendor will show the math behind both." },
+      { "name": "Write frequency and verification into the scope", "text": "State exterior storefront glass, ground floor, all elevations, washed monthly, with dated photos submitted within 24 hours. Tie payment to the photo log." },
+      { "name": "Confirm insurance for pole and ladder work", "text": "If the janitorial vendor subcontracts the glass, require a separate certificate of insurance from the subcontractor naming owner and manager as additional insured." }
+    ] },
+    { "type": "h2", "text": "Scope Language That Prevents Disputes" },
+    { "type": "ul", "items": [
+      "Define included glass precisely: interior and exterior entry doors and sidelights nightly; exterior storefront panes on all ground-floor elevations up to 10 feet monthly.",
+      "Exclude explicitly: hard-water stain restoration, sticker and paint removal, screen cleaning, frames and mullion detailing, and glass above 10 feet, each priced on a published rate card.",
+      "Set a rate card for extras: per-pane price, per-tech hourly rate, and visit minimum, valid for the contract term.",
+      "Require advance written approval for any work order above a stated threshold, such as $250.",
+      "Specify chemistry: neutral or Green Seal certified glass detergents where the lease or sustainability policy requires them, with Safety Data Sheets on file under OSHA Hazard Communication."
+    ] },
+    { "type": "h2", "text": "When an Add-On Is the Smarter Choice" },
+    { "type": "p", "text": "Embedding exterior glass in the retainer makes sense when the building needs monthly or more frequent washing and the vendor's crew already has the equipment. For a low-traffic office washing twice a year, embedding inflates the monthly rate for service that happens only in two months, and it complicates rebids. Here an add-on work order at a locked per-pane rate is cleaner. Similarly, if a portion of the glass sits above ground floor and needs a lift, keep that as a separate specialty line so the base janitorial rate is not distorted by occasional equipment rentals." },
+    { "type": "p", "text": "Pay attention to how the vendor's crew is equipped. A night crew pushing a Rubbermaid Commercial 6173 traditional janitorial cart, with its 25-gallon vinyl bag and front bucket platform, is set up for interior glass, trash, and floors, not exterior pole work. If the scope suddenly includes exterior storefront, ask whether the crew will carry water-fed poles and squeegees or whether a separate truck crew will visit. The answer tells you whether the service will really happen at the stated frequency. Exterior work also generates debris at entries; a Brute 5-caster dolly rated to 250 lb and a hands-free Slim Jim 18-gallon step-on bin at the vestibule help porters keep the entry presentable between washes." },
+    { "type": "callout", "variant": "tip", "title": "Negotiating leverage", "text": "Vendors often price exterior storefront work aggressively when it is bundled into a multi-year janitorial renewal. Ask for the first two monthly washes at no charge as a trial, with the per-pane rate locked for the contract term." },
+    { "type": "cta", "text": "Upload or enter your current janitorial bids into the Quote Comparator to see which vendors include exterior ground-floor glass, then confirm the full monthly cost in the Office Cleaning Cost Calculator." }
+  ],
+  "faqs": [
+    { "q": "Does standard office cleaning include washing the outside of windows?", "a": "Usually not beyond entry doors and sidelights. Most janitorial scopes cover glass the night crew can reach from the floor. Exterior storefront elevations are typically an add-on or work order unless the scope explicitly lists them with a frequency." },
+    { "q": "What is a fair extra charge for ground-floor exterior window washing?", "a": "National ranges run about $4 to $8 per pane or $55 to $95 per technician hour, with per-visit minimums of $90 to $135. A 25-pane storefront typically costs $110 to $200 per visit depending on soil load and access." },
+    { "q": "How do I verify that included window washing is actually happening?", "a": "Require dated before-and-after photos by elevation within 24 hours of each visit, and tie payment to the log. For weekly door-glass work, reconcile against 4.333 visits per month on the invoice." },
+    { "q": "Who needs to carry insurance if the window work is subcontracted?", "a": "Both the prime janitorial contractor and the window subcontractor should provide certificates of insurance with general liability and workers compensation, naming the owner and property manager as additional insured. Confirm the subcontractor trains staff on OSHA ladder safety." },
+    { "q": "Should hard-water stain removal be part of routine washing?", "a": "No. Mineral stain restoration uses abrasive pads or acid-based compounds and takes several times longer per pane. It should be a separately priced project with a test pane approved before full treatment." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-traditional-janitorial-cart-6173",
+    "rubbermaid-commercial-brute-5-caster-trash-can-dolly",
+    "rubbermaid-commercial-slim-jim-step-on-front-step-18-gallon-bin"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-exterior-ground-floor-window-washing-quotes/",
+    "/cleaning-services-and-tasks/high-rise-exterior-window-cleaning-cost-guide/",
+    "/cleaning-services-and-tasks/high-rise-exterior-window-cleaning-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/best-commercial-vacuums-with-50-foot-cords/"
+  ]
+}

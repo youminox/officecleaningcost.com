@@ -1,0 +1,76 @@
+{
+  "slug": "coworking-space-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/coworking-space-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "coworking space rates",
+  "title": "Coworking Space Rates: Typical Per-Visit and Weekly Cleaning Quotes for Shared Offices",
+  "seoTitle": "Coworking Space Rates: Cleaning Cost per Sq Ft & Monthly Quotes",
+  "metaDescription": "Coworking space rates for cleaning: $0.08–$0.19/sq ft per visit, monthly totals by size, and restroom math. Run your exact numbers in our calculator.",
+  "excerpt": "Coworking operators pay more per square foot than a conventional tenant suite because members turn over desks, kitchens, and phone booths all day. This guide shows the per-visit and monthly math by size bracket, how restroom density and traffic wear move the number, and which weekly frequency fits each membership model.",
+  "quickAnswer": "Most coworking and shared offices pay $0.08–$0.19 per sq ft per visit for janitorial service, landing near the top of each size bracket because of hot-desk turnover and shared kitchens. A 6,000 sq ft space cleaned five nights a week typically runs $10,500–$17,500 per month before restroom and kitchen add-ons, while a 2,000 sq ft boutique space cleaned three times weekly runs about $2,950–$4,950 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening scene inside a US coworking space, a janitorial technician in a navy uniform wiping down a row of shared hot desks with a microfiber cloth, phone booths with glass doors and a communal kitchen bar in soft focus behind, warm pendant lighting mixed with cool exterior dusk light through tall industrial windows, polished concrete floor, wide-angle shot from waist height, no text, no logos, no watermarks",
+    "alt": "Janitorial technician wiping shared hot desks in an open coworking space at dusk"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why coworking space rates sit above standard office pricing" },
+    { "type": "p", "text": "A conventional corporate suite has assigned desks, a predictable headcount, and one kitchenette that the same 40 people use every day. A coworking floor of the same size may badge in 150 different members in a week, host two evening events, and run a coffee bar that never really closes. Every one of those differences shows up in the janitorial bid. Vendors price coworking at the upper half of each square-foot bracket because their crews touch more surfaces per 1,000 sq ft, empty more waste streams, and restock restrooms faster than a standard office would ever require." },
+    { "type": "p", "text": "The national benchmarks below use the same size brackets our calculator uses: under 2,500 sq ft at $0.12–$0.20 per sq ft per visit, 2,500–9,999 sq ft at $0.09–$0.15, 10,000–24,999 sq ft at $0.07–$0.12, and 25,000+ sq ft at $0.05–$0.10. Higher frequencies earn a volume discount (a 0.90 multiplier at five nights a week, 0.87 at seven), while lower frequencies carry a premium because soil accumulates between visits. Per-visit minimums of $90–$135 still apply to very small flex suites." },
+    { "type": "h2", "text": "Benchmark monthly cost by coworking footprint" },
+    { "type": "p", "text": "The table converts per-visit rates into monthly totals using the frequency visit counts our estimator applies (13 visits for three times weekly, 21.65 for weeknights, 30.33 for seven days, all derived from 4.33 weeks per month). These are base janitorial totals on carpet tile, before restroom fixtures, kitchen sanitation, or consumables." },
+    { "type": "table", "caption": "Coworking base janitorial cost by size and frequency (national averages, carpet baseline)", "headers": ["Space profile", "Sq ft", "Frequency", "Adjusted rate per sq ft per visit", "Per visit", "Monthly total"], "rows": [
+      ["Boutique neighborhood cowork", "2,000", "3x/week (0.95)", "$0.114–$0.190", "$228–$380", "$2,964–$4,940"],
+      ["Single-floor flex office", "6,000", "3x/week (0.95)", "$0.086–$0.143", "$513–$855", "$6,669–$11,115"],
+      ["Single-floor flex office", "6,000", "5x/week (0.90)", "$0.081–$0.135", "$486–$810", "$10,522–$17,537"],
+      ["Regional coworking hub", "15,000", "5x/week (0.90)", "$0.063–$0.108", "$945–$1,620", "$20,459–$35,073"],
+      ["Multi-floor flagship, 24/7 access", "30,000", "7x/week (0.87)", "$0.044–$0.087", "$1,305–$2,610", "$39,581–$79,161"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Where a fair coworking bid usually lands", "text": "For 2,500–24,999 sq ft coworking floors, competitive bids cluster in the upper 60% of the bracket range. A 6,000 sq ft space quoted at the bottom of the range ($486 per weeknight visit) usually means the vendor has priced a standard office scope and will either skip phone booths and kitchen resets or come back with change orders within 90 days." },
+    { "type": "h2", "text": "Restroom density: the hidden multiplier in shared offices" },
+    { "type": "p", "text": "Coworking operators often convert one large restroom core into several single-occupant, gender-neutral rooms, and many add a shower for cyclists plus a wellness or lactation room. That layout is great for members and expensive for janitorial labor, because each room needs its own fixture clean, mirror, dispenser check, and floor pass. Our benchmarks price restrooms at $15–$30 per room per visit." },
+    { "type": "ul", "items": [
+      "4 single-occupant restrooms cleaned 5x/week: 4 × $15–$30 × 21.65 visits = $1,299–$2,598 per month.",
+      "6 restrooms plus 1 shower room cleaned 5x/week: 7 × $15–$30 × 21.65 = $2,273–$4,547 per month.",
+      "Shared kitchen or coffee bar sanitation at $12–$25 per visit: $260–$541 per month per kitchen at weeknight frequency.",
+      "Consumables included at $0.012–$0.025 per sq ft per visit: for 6,000 sq ft at 5x/week that adds $1,559–$3,248 per month, which many operators prefer so the vendor carries stockout risk."
+    ] },
+    { "type": "p", "text": "Dispenser choice changes the restocking math. A compact touchless unit such as the Georgia-Pacific enMotion Impulse 8-inch towel dispenser fits shallow single-occupant rooms and controls sheet length, and a dual coreless tissue dispenser such as the Georgia-Pacific compact vertical model holds up to 3,000 sheets behind a keyed lock with an ADA-friendly slim profile. Higher-capacity, controlled dispensing reduces mid-day runouts, which in coworking translate directly into member complaints and Slack messages to the community manager." },
+    { "type": "h2", "text": "Traffic wear and flooring choices" },
+    { "type": "p", "text": "Coworking design favors polished concrete in circulation zones, LVT in kitchens, and carpet tile in quiet zones. Each surface carries a labor multiplier: polished concrete at 0.95, carpet at 1.00, mixed carpet and hard floor at 1.05, and LVT at 1.04. A 6,000 sq ft mixed-floor space at weeknight frequency therefore moves from $10,522–$17,537 to roughly $11,048–$18,414 per month. Traffic is concentrated: the entry, the coffee bar, and the path to the restrooms take most of the wear, so a quarterly deep floor program at $0.03–$0.06 per sq ft per month ($180–$360 for 6,000 sq ft) is cheaper than replacing matted carpet tile around the kitchen every two years." },
+    { "type": "p", "text": "Daily soil load is also driven by events. A Thursday happy hour for 80 guests can generate as much trash and floor soil as three ordinary days. Ask vendors to price event turnovers as a separate line, typically billed at $35–$65 per labor hour, rather than baking a vague contingency into the monthly rate." },
+    { "type": "h2", "text": "Recommended weekly frequency by membership model" },
+    { "type": "steps", "items": [
+      { "name": "Count real daily occupancy, not memberships", "text": "Pull badge data for four weeks. A space with 300 members but 70 average daily check-ins cleans like a 70-person office, while a dedicated-desk floor at 90% occupancy needs full weeknight service." },
+      { "name": "Match frequency to occupancy density", "text": "Under 1 occupant per 200 sq ft on an average day, three nights a week plus a day porter on peak days is usually enough. Above 1 per 150 sq ft, schedule 5x/week; spaces open on weekends with real traffic should move to 7x/week." },
+      { "name": "Add a day porter for the kitchen and restrooms", "text": "A two to four hour mid-day porter shift at $35–$65 per hour often costs less than escalating to 7x night service and fixes the 2 p.m. trash overflow members actually notice." },
+      { "name": "Separate event and deep-clean lines", "text": "Price event turnovers, carpet extraction, and glass partitions individually so you can scale them up or down without renegotiating the base contract." }
+    ] },
+    { "type": "h2", "text": "How to read a coworking cleaning quote line by line" },
+    { "type": "p", "text": "Ask every bidder to break out base janitorial (per sq ft per visit), restrooms (per room), kitchens (per station), consumables, and periodic work. Confirm the frequency math uses about 4.33 weeks per month; a bid that multiplies weekly cost by 4 understates annual cost by roughly 8%, while one that uses 4.5 overstates it. Check that the scope names phone booths, wellness rooms, and the café bar explicitly, and that chemical choice is spelled out, for example a neutral-pH concentrate like Fabuloso Professional diluted at 1:64 for daily floors and counters, with a separate EPA-registered disinfectant for restroom and high-touch surfaces." },
+    { "type": "cta", "text": "Plug your square footage, restroom count, flooring mix, and frequency into the Office Cleaning Cost Calculator to see your coworking benchmark, then load vendor bids into the Quote Comparator to spot under-scoped or overpriced lines." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean a 5,000 sq ft coworking space?", "a": "At five nights a week, 5,000 sq ft falls in the $0.09–$0.15 bracket, adjusted by the 0.90 frequency multiplier to $0.081–$0.135 per sq ft per visit. That is $405–$675 per visit, or about $8,768–$14,614 per month over 21.65 visits. Add $15–$30 per restroom per visit and $12–$25 per kitchen per visit for a realistic all-in figure." },
+    { "q": "Why do coworking cleaning quotes run higher than my old corporate office?", "a": "Shared desks require nightly disinfection instead of a weekly dusting, kitchens are used by far more people, and many coworking layouts multiply single-occupant restrooms. Event nights and extended access hours also push vendors into premium labor windows. The result is pricing near the top of the size bracket rather than the middle." },
+    { "q": "How is monthly cost calculated from a weekly schedule?", "a": "Multiply visits per week by 4.33 (more precisely 4.333, or 52 weeks divided by 12). A five-night schedule equals 21.65 visits per month, three nights equals 13, and seven nights equals 30.33. Insist that vendors show this math so you can compare bids on the same basis." },
+    { "q": "Should the cleaning vendor supply paper, soap, and liners?", "a": "Many operators choose a consumables-included contract at $0.012–$0.025 per sq ft per visit because the vendor then owns stockouts. If you buy supplies yourself, standardize dispensers so restocking is fast, and require the vendor to report par levels weekly so you are not running out of tissue on a Monday morning." },
+    { "q": "What insurance should a coworking cleaning vendor carry?", "a": "Require a certificate of insurance naming both you and the building landlord as additional insureds, with commercial general liability of at least $1 million per occurrence, workers compensation, auto, and a janitorial bond or third-party crime coverage, since crews work around member laptops and personal property after hours." }
+  ],
+  "amazonProductIds": [
+    "fabuloso-professional-all-purpose-cleaner-concentrate-1-gallon-4",
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser",
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/coworking-space-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/coworking-space-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/bank-branch-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-janitorial-utility-carts-for-supply-restocking/"
+  ]
+}

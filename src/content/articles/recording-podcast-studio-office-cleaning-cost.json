@@ -1,0 +1,75 @@
+{
+  "slug": "recording-podcast-studio-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/recording-podcast-studio-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "recording podcast studio office rates",
+  "title": "Recording Podcast Studio Office Rates: What Media and Production Office Janitorial Service Costs",
+  "seoTitle": "Recording Podcast Studio Office Rates: Media Office Cleaning Costs",
+  "metaDescription": "Recording podcast studio office rates run $0.09-$0.15 per sq ft per visit for 2,500-9,999 sq ft. See monthly budgets by studio size and use the calculator.",
+  "excerpt": "Podcast and production offices combine ordinary desk space with acoustic booths, control rooms, and green rooms that cannot be cleaned like a normal suite. This guide shows per-sq-ft and monthly benchmarks by studio size, how session schedules and fragile surfaces affect pricing, and what frequency actually makes sense.",
+  "quickAnswer": "Media, podcast, and production offices in the 2,500-9,999 sq ft range typically price at $0.09-$0.15 per sq ft per visit, and smaller boutique studios under 2,500 sq ft at $0.12-$0.20. A 4,000 sq ft studio with mixed floors cleaned three times weekly usually costs $4,670-$7,780 per month, with specialty tasks like acoustic panel care and equipment-safe dusting billed at $55-$95 per hour.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening view through the glass of a podcast recording booth in a modern US media office, custodian in dark uniform carefully dusting a desk around boom-arm microphones and headphones with a microfiber cloth, gray acoustic foam panels on walls, warm dimmable LED lighting with a red on-air light switched off, shot from the control room at console height, no text, no logos, no watermarks",
+    "alt": "Custodian dusting around microphones inside a podcast recording booth of a media production office"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes a Media and Podcast Office Different to Clean" },
+    { "type": "p", "text": "A podcast or video production office usually blends three zones: a standard open office for producers and editors, sound-isolated recording booths and control rooms, and guest-facing spaces such as a green room, lounge, or reception. The open office cleans like any tech suite. The booths do not. Acoustic foam and fabric-wrapped panels cannot be sprayed or wiped wet, microphones and mixing consoles cannot tolerate liquid near them, and session schedules mean the crew may only get access late at night or between bookings. Those constraints lower production rates and push studios toward the upper half of the national bracket." },
+    { "type": "p", "text": "Restroom density is moderate. Most studios have one restroom per 10-15 staff, but guests, hosts, and freelance crews increase use on recording days. Traffic wear concentrates in reception, the green room, and corridors where rolling cases and light stands travel, which scuffs hardwood and LVT faster than foot traffic alone." },
+    { "type": "h2", "text": "Benchmark Rates by Studio Size" },
+    { "type": "p", "text": "The figures below apply the national square-foot brackets, the frequency multipliers (2x/week at 1.00, 3x/week at 0.95, 5x/week at 0.90), and flooring factors of 1.00 for carpet, 1.05 for mixed floors, and 1.08 for hardwood. Monthly totals use 4.33 weeks per month and exclude restroom, breakroom, and glass add-ons." },
+    { "type": "table", "caption": "Estimated media, podcast, and production office cleaning cost (national baseline)", "headers": ["Studio profile", "Sq ft / floor", "Frequency", "Per visit", "Visits / month", "Monthly base"],
+      "rows": [
+        ["Boutique podcast suite, 2 booths", "1,800 / carpet", "2x/week", "$216-$360", "8.66", "$1,871-$3,118"],
+        ["Independent studio, 3 booths + control room", "4,000 / mixed", "3x/week", "$359-$599", "13.0", "$4,668-$7,781"],
+        ["Video production office with edit bays", "6,500 / hardwood", "2x/week", "$632-$1,053", "8.66", "$5,471-$9,119"],
+        ["Network production floor with studios", "12,000 / mixed", "5x/week", "$794-$1,361", "21.65", "$17,186-$29,461"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "Add-ons that studios almost always need", "text": "Glass is everywhere in media offices: control-room windows, booth doors, and conference partitions. Budget $15-$35 per visit for interior glass, $12-$25 per visit for the breakroom or green-room kitchenette, and $15-$30 per restroom per visit. On a 4,000 sq ft studio at 3x/week, glass and breakroom together add roughly $351-$780 per month (13 visits x $27-$60)." },
+    { "type": "h2", "text": "Session Schedules and Access Windows" },
+    { "type": "p", "text": "Studios rarely keep office hours. Live shows, late-night edits, and time-zone guest bookings mean the crew must work around a booking calendar. The cleanest arrangement is a fixed nightly window after the last session, with the vendor given read access to the studio calendar so booths in use are skipped and logged rather than interrupted. If the vendor must split visits or return when a session ends, expect a 10-20% premium or a specialty hourly rate for the extra trip. Weekend production days in some studios also call for a midday restroom and green-room refresh, which is usually priced as a separate day porter block." },
+    { "type": "ul", "items": [
+      "Booths and control rooms: dry methods only, HEPA vacuum with a quiet motor, and no aerosol sprays near microphones or consoles.",
+      "Edit bays: dust monitors and keyboards with approved electronics wipes; never move cabling or drives.",
+      "Green room and reception: guest-ready detailing, glass, and fresh consumables before morning bookings.",
+      "Corridors and load paths: scuff removal from rolling cases, light stands, and carts.",
+      "Gear storage: trash removal and floor care only, with no handling of equipment."
+    ] },
+    { "type": "h2", "text": "Recommended Frequency by Studio Type" },
+    { "type": "steps", "items": [
+      { "name": "Boutique podcast suites", "text": "Twice weekly covers most suites with fewer than 10 staff. Add a pre-booking green-room touch-up if you host high-profile guests." },
+      { "name": "Busy independent studios", "text": "Three times weekly balances cost and presentation when multiple shows record daily and clients tour the space." },
+      { "name": "Production offices with edit bays", "text": "Two to three times weekly; edit staff generate little floor soil, but kitchen and restroom use climbs during crunch weeks." },
+      { "name": "Network or agency production floors", "text": "Daily weekday service at the 0.90 multiplier, plus weekend day porter coverage when live shows run." }
+    ] },
+    { "type": "h2", "text": "Restroom Supplies Suited to Design-Forward Studios" },
+    { "type": "p", "text": "Guests notice restrooms, and studios want fixtures that look good and do not run out mid-taping. A Bobrick B-262 ClassicSeries surface-mounted dispenser in satin 304 stainless steel holds about 400 C-fold towels behind a tumbler lock and suits architectural finishes. A GOJO TFX touch-free foam dispenser takes a 1,200 mL refill rated for 2,000+ handwashes, with a skylight view window and ADA-compliant depth. A San Jamar Classic Oceans twin 9-inch jumbo tissue dispenser holds two rolls on a universal core behind a translucent cover, so the crew can check levels at a glance and avoid running out before a weekend shoot." },
+    { "type": "callout", "variant": "tip", "title": "Price the booths separately", "text": "Ask bidders to quote general office area per square foot and acoustic booths as a per-booth line. That makes it easy to add or remove booths as your studio grows and keeps specialty labor from being spread across the whole floor plan." },
+    { "type": "cta", "text": "Enter your studio square footage, booth count, and session-driven frequency in the Office Cleaning Cost Calculator, then compare vendor proposals side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean a 4,000 sq ft podcast studio?", "a": "At $0.09-$0.15 per sq ft per visit with a mixed-floor factor of 1.05 and the 3x/week multiplier of 0.95, a 4,000 sq ft studio runs about $359-$599 per visit. Over 13 visits per month that is $4,668-$7,781, before restroom, glass, and breakroom add-ons." },
+    { "q": "Can janitors clean acoustic foam panels?", "a": "Only with dry methods. Acoustic foam and fabric-wrapped panels should be vacuumed gently with a soft brush attachment or lint-rolled, never sprayed or wiped wet. Deep cleaning or replacement of stained panels is usually excluded from the janitorial scope and handled by an acoustics vendor." },
+    { "q": "Why do studios pay more per square foot than regular offices?", "a": "Booths, control rooms, and edit bays require slower, equipment-safe methods, and access windows are constrained by session schedules. Those factors cut production below the 3,500 sq ft per hour ISSA benchmark and push pricing to the upper half of the bracket or into specialty hourly rates of $55-$95." },
+    { "q": "What should a studio cleaning contract say about equipment?", "a": "State that technicians will not unplug, move, or clean microphones, consoles, cameras, or cabling except for approved surface dusting, and that liquid cleaners stay out of booths. Require the vendor's general liability policy to cover damage to client property and name your company as additional insured on the certificate of insurance." },
+    { "q": "How do I calculate monthly cost for twice-weekly studio cleaning?", "a": "Multiply the per-visit price by 8.66 visits (2 visits x 4.33 weeks per month). A boutique 1,800 sq ft suite at $216-$360 per visit costs $1,871-$3,118 per month. Add restroom and breakroom add-ons on the same visit count." }
+  ],
+  "amazonProductIds": [
+    "san-jamar-classic-oceans-twin-9-inch-jumbo-tissue-dispenser",
+    "gojo-tfx-touch-free-foam-hand-soap-dispenser",
+    "bobrick-b-262-classicseries-surface-mounted-folded-towel-dispens"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/recording-podcast-studio-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/recording-podcast-studio-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/travel-hospitality-admin-office-cleaning-cost/",
+    "/commercial-cleaning-chemicals-and-mats/waterhog-classic-vs-apache-mills-cross-rib-mat/"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "slug": "recording-podcast-studio-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/recording-podcast-studio-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "recording podcast studio office scope tasks",
+  "title": "Recording Podcast Studio Office Scope Tasks: Daily and Weekly Checklist for Media Crews",
+  "seoTitle": "Recording Podcast Studio Office Scope Tasks: Daily & Weekly Checklist",
+  "metaDescription": "Recording podcast studio office scope tasks by zone and frequency, with booth labor at 2,000-2,500 sq ft/hr. Build your scope, then run the cost calculator.",
+  "excerpt": "Media and podcast offices need a scope that treats booths, control rooms, and edit bays differently from the open office. This checklist lays out daily, weekly, and monthly tasks by zone, estimated labor minutes, and the specialty work that lifts studio labor above standard office rates.",
+  "quickAnswer": "A podcast and production office scope should split the space into open office, recording booths and control rooms, edit bays, and guest areas, with dry, quiet, equipment-safe methods in the booths. Expect booth and control-room production of roughly 2,000-2,500 sq ft per hour versus the 3,500 sq ft ISSA benchmark, so a 4,000 sq ft studio typically needs 1.4-1.8 labor hours per visit plus restroom and glass time.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic late-night shot of a video edit bay in a media production office, janitorial technician gently wiping dual monitors with a microfiber cloth while a quiet tower HEPA air purifier runs beside a leather couch, acoustic fabric panels and soft amber desk lamps, cables neatly bundled, low-angle perspective from the doorway, no text, no logos, no watermarks",
+    "alt": "Technician wiping monitors in a podcast and video edit bay with an air purifier running nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Zone the Studio Before You Write a Single Task" },
+    { "type": "p", "text": "The most common failure in studio cleaning contracts is a single office checklist applied to every room. A technician who mops an open office with a wet microfiber pad will do the same in a booth unless the scope says otherwise, and a spray bottle near a condenser microphone or mixing console is a costly mistake. Before pricing, divide the floor plan into four zones: open office and conference, recording booths and control rooms, edit bays and gear rooms, and guest areas such as reception, green room, and restrooms. Each zone gets its own methods, frequencies, and do-not-touch list." },
+    { "type": "p", "text": "Zoning also clarifies labor. Open office areas run close to the ISSA benchmark of 3,500 sq ft per hour. Booths, control rooms, and edit bays drop to about 2,000-2,500 sq ft per hour because the crew works around equipment, uses low-noise tools, and avoids liquids. Guest areas take extra detail time for presentation. A realistic scope reflects those differences in the hours it budgets." },
+    { "type": "h2", "text": "Daily (Per Visit) Tasks by Zone" },
+    { "type": "ul", "items": [
+      "Open office: empty trash and recycling, HEPA-vacuum carpet, damp-mop hard floors, wipe desks that are cleared, disinfect door handles and shared phones.",
+      "Booths and control rooms: quiet HEPA vacuum of carpet and rugs, dry microfiber dusting of tables and chair arms, trash removal, no liquids within arm's reach of equipment.",
+      "Edit bays: trash removal, floor care, wipe of clear desk surfaces only; leave drives, notes, and cables untouched.",
+      "Green room and reception: straighten seating, wipe tables and counters, clean interior glass and booth door glass, refresh tissue cubes and water station.",
+      "Restrooms: clean and disinfect fixtures, restock paper and soap, mop floors.",
+      "Kitchenette: wipe counters, sink, microwave, coffee machine exterior, and refrigerator handles; load or run dishwasher if requested."
+    ] },
+    { "type": "h2", "text": "Weekly and Monthly Scope With Labor Estimates" },
+    { "type": "table", "caption": "Studio scope by frequency for a 4,000 sq ft podcast office with 3 booths, control room, and 2 restrooms", "headers": ["Task", "Zone", "Frequency", "Est. minutes", "Specialty?"],
+      "rows": [
+        ["Trash, recycling, liner swap", "All", "Every visit", "12-15", "No"],
+        ["Open office vacuum and damp mop", "Open office", "Every visit", "25-30", "No"],
+        ["Quiet HEPA vacuum and dry dusting", "Booths + control room", "Every visit", "15-20", "Yes"],
+        ["Interior glass and booth doors", "Guest + booths", "Every visit", "10-15", "No"],
+        ["Restroom sanitation (2 rooms)", "Restrooms", "Every visit", "15-20", "No"],
+        ["Soft-brush vacuum of acoustic panels", "Booths", "Monthly", "30-45", "Yes"],
+        ["Electronics-safe wipe of monitors and keyboards", "Edit bays", "Weekly", "15-20", "Yes"],
+        ["High dusting of light grids and vents", "Studios", "Monthly", "30-40", "Yes"],
+        ["Upholstery vacuum, green room seating", "Guest", "Weekly", "10-15", "No"],
+        ["Carpet extraction / hard floor scrub", "All", "Quarterly", "180-240", "Yes"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "Turning minutes into dollars", "text": "Per-visit tasks above total roughly 77-100 minutes, or 1.3-1.7 labor hours, which matches the 1.4-1.8 hours used for a 4,000 sq ft studio once travel between zones is added. At $35-$65 standard hourly rates that is about $49-$117 in direct labor before overhead, supplies, and margin, consistent with per-visit bids of $359-$599 at the 3x/week frequency once management, insurance, and profit are layered on." },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Some studio tasks require training, equipment, or caution beyond routine janitorial work. List them explicitly so they are priced at specialty rates of $55-$95 per hour or as fixed add-ons rather than quietly skipped." },
+    { "type": "steps", "items": [
+      { "name": "Acoustic panel care", "text": "Monthly soft-brush vacuuming of foam and fabric-wrapped panels to remove dust without crushing cells or staining fabric. Replacement and spot cleaning of stains go to the acoustics vendor." },
+      { "name": "Light grid and high dusting", "text": "Ceiling grids, LED panels, and vents collect dust that shows on camera. This requires ladders or extension tools and care around rigging, so treat it as monthly specialty work." },
+      { "name": "Electronics-safe surface cleaning", "text": "Monitors, keyboards, and control surfaces need approved wipes applied to the cloth, never sprayed. Document which surfaces staff want cleaned and which are off-limits." },
+      { "name": "Set and green-screen floor care", "text": "Cyc walls and painted studio floors scuff easily. Use only the cleaning method the set designer specifies, often a dry mop or a damp pass with plain water." },
+      { "name": "Post-production event resets", "text": "Live audience tapings or launch events generate heavy trash, spills, and glass smudges. Price as a per-event reset block." }
+    ] },
+    { "type": "h2", "text": "Air Quality Equipment the Crew Should Maintain" },
+    { "type": "p", "text": "Many studios run portable purifiers because sealed booths have limited fresh air. The scope should state that the crew wipes housings weekly and reports filter status, but never runs a purifier during a session. The Medify MA-50 uses True HEPA H13 filtration rated for about 1,100 sq ft, starts at a 36 dBA low setting, and has four fan speeds, making it workable for a control room or larger booth between takes. The Winix 5500-2 pairs True HEPA with a washable AOC carbon layer for a 360 sq ft green room or edit bay, though its PlasmaWave feature can be switched off where desired. The Alen BreatheSmart 75i covers around 1,300 sq ft with medical-grade HEPA, a laser particle sensor, and a whisper-quiet run mode suited to open production floors." },
+    { "type": "callout", "variant": "warning", "title": "Write a hard no-liquids rule for booths", "text": "State in the scope that no spray bottles, mop buckets, or wet pads enter recording booths or control rooms, and that any spill near equipment is reported immediately rather than cleaned by the technician. One damaged console or microphone can cost more than a year of service." },
+    { "type": "h2", "text": "Exclusions and Handoffs" },
+    { "type": "p", "text": "Exclude equipment cleaning beyond approved surfaces, cable management, moving furniture or sets, acoustic panel replacement, HVAC filter changes, and handling of client property in gear rooms. Agree on a handoff routine: the studio manager flags booths in use on a shared calendar, and the crew logs skipped rooms so they are serviced on the next visit without billing disputes." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to translate your studio's zones and frequency into a monthly budget, then check vendor scopes against this checklist in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a 4,000 sq ft podcast studio take per visit?", "a": "Roughly 1.4-1.8 labor hours including restrooms, glass, and booth work. Open office areas clean near the 3,500 sq ft per hour ISSA benchmark, while booths and control rooms drop to about 2,000-2,500 sq ft per hour because of quiet tools and equipment-safe methods." },
+    { "q": "Should the cleaning crew clean microphones and headphones?", "a": "Generally no. Microphones, pop filters, and headphones are usually sanitized by studio staff using manufacturer-approved methods between guests. The janitorial scope should cover surrounding desk surfaces with dry or cloth-applied methods only and exclude the gear itself." },
+    { "q": "How often should acoustic panels be cleaned?", "a": "Monthly soft-brush vacuuming is typical for busy studios, quarterly for lightly used booths. Never use liquids or steam on foam or fabric-wrapped panels. Treat it as specialty work priced at $55-$95 per hour or a per-booth fee." },
+    { "q": "What chemicals are safe in a recording studio?", "a": "Use fragrance-free, Green Seal certified general cleaners in open areas, an EPA-registered disinfectant for restrooms and high-touch points, and approved electronics wipes applied to a cloth for screens. Request safety data sheets for every product as part of the vendor's OSHA HazCom compliance." },
+    { "q": "How do session schedules affect the cleaning scope?", "a": "Give the vendor access to the booking calendar and agree that occupied booths are skipped and logged, not interrupted. If the vendor has to return for skipped rooms, define whether that happens on the next scheduled visit at no charge or as a billable return trip." }
+  ],
+  "amazonProductIds": [
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/recording-podcast-studio-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/travel-hospitality-admin-office-cleaning-cost/",
+    "/facility-cleaning-costs/travel-hospitality-admin-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/waterhog-fashion-4x6-vs-crown-water-trap-4x8/"
+  ]
+}

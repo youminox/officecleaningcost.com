@@ -1,0 +1,84 @@
+{
+  "slug": "private-school-admin-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/private-school-admin-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "private school admin office scope tasks",
+  "title": "Private School Admin Office Scope Tasks: Nightly vs. Periodic Duty Roster for Admin and Faculty Wings",
+  "seoTitle": "Private School Admin Office Scope Tasks: Nightly vs. Periodic Roster",
+  "metaDescription": "Private school admin office scope tasks split into nightly, weekly, monthly, and summer duties with labor minutes. Price your roster in our calculator.",
+  "excerpt": "A private school admin and faculty wing needs a duty roster that separates nightly essentials from periodic and summer project work. This checklist assigns every task a frequency and labor estimate, and shows which specialty areas, such as the nurse's office, faculty workrooms, and admissions lobby, raise labor above standard office rates.",
+  "quickAnswer": "A private school admin wing scope should split work into nightly tasks (trash, restrooms, faculty lounge, high-touch disinfection, entry and corridor floors), weekly tasks (full vacuuming, dusting, glass), monthly tasks (high dusting, vents, baseboards), and summer projects (VCT strip-and-refinish, carpet extraction). A 12,000 sq ft wing needs about 3.4 hours of base labor per night at the ISSA benchmark of 3,500 sq ft per hour, plus 1.5-2 hours for six restrooms, the lounge, and the nurse's office.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening view of a private school faculty workroom with a large copier, a long laminate worktable, and wall-mounted wooden faculty cubbies, a custodian in gloves wiping the copier control panel with a blue microfiber cloth while a yellow four-sided wet floor cone stands on the freshly mopped vinyl floor in the foreground, cool overhead lighting, low camera angle, no text, no logos, no visible print on the cone, no watermarks",
+    "alt": "Custodian wiping a copier in a private school faculty workroom beside a wet floor safety cone"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Building a Duty Roster Around the School Day" },
+    { "type": "p", "text": "Admin and faculty wings in private schools have a narrow cleaning window. Faculty often work until 5 or 6 pm, evening events can run until 8 or 9 pm, and the front office opens before morning drop-off. A useful scope therefore separates what must happen every night in that window from what can rotate through the week, what happens monthly, and what is reserved for breaks and summer when rooms are empty. Without that structure, crews either rush everything nightly and do none of it well, or quietly drop the periodic tasks no one checks." },
+    { "type": "p", "text": "Labor planning starts with the ISSA production benchmark of roughly 3,500 sq ft per labor hour for routine office cleaning. For a 12,000 sq ft wing, that is about 3.4 hours of base labor per night before restrooms, the faculty lounge, and specialty rooms. The roster below shows where the remaining time goes." },
+    { "type": "h2", "text": "Nightly Tasks: The Non-Negotiables" },
+    { "type": "ul", "items": [
+      "Empty trash and recycling in every office, workroom, and the lounge; replace liners and remove cardboard from copier rooms.",
+      "Clean and disinfect all restrooms, including toilets, urinals, sinks, partitions at touch height, mirrors, and floors, then restock paper and soap.",
+      "Sanitize the faculty lounge: counters, sinks, microwave interiors, refrigerator handles, coffee stations, and lunch tables.",
+      "Disinfect high-touch points: front desk counters, visitor sign-in kiosk, attendance window, door hardware, light switches, copier panels, and phones.",
+      "Vacuum the admissions lobby, reception carpet, and walk-off mats; spot-vacuum offices and conference rooms.",
+      "Damp-mop entry vestibules, corridors connecting to classrooms, and lounge floors, placing wet floor cones before work begins.",
+      "Clean the nurse's office surfaces and cot if it sits inside the admin wing, following the school's bloodborne pathogen procedures."
+    ] },
+    { "type": "p", "text": "Wet floor signage deserves explicit mention because admin wings stay occupied during early-evening cleaning. A 36-inch, four-sided Rubbermaid Commercial caution cone with bilingual English and Spanish print, designed to stack and meet common ANSI and OSHA visibility expectations, should be placed at both ends of any corridor being mopped while faculty or event guests are present. Write signage use into the scope so slip-and-fall risk is clearly the vendor's procedural responsibility." },
+    { "type": "h2", "text": "Weekly, Monthly, and Summer Duty Roster" },
+    { "type": "table", "caption": "Private school admin and faculty wing duty roster (12,000 sq ft, six restrooms)", "headers": ["Task", "Frequency", "Est. labor per occurrence", "Labor intensity vs. standard office"], "rows": [
+      ["Trash, recycling, copier cardboard removal", "Nightly", "30-40 min", "Standard"],
+      ["Six restrooms clean and restock", "Nightly", "60-90 min", "High ($15-$30 per restroom per visit)"],
+      ["Faculty lounge sanitation", "Nightly", "15-25 min", "Moderate (add-on $12-$25 per visit)"],
+      ["Front desk, kiosk, attendance window disinfection", "Nightly", "15-20 min", "Moderate"],
+      ["Nurse's office surfaces and cot", "Nightly", "10-15 min", "High (BBP-trained staff)"],
+      ["Full detail vacuuming of offices and conference rooms", "Weekly (rotated)", "90-120 min", "Standard"],
+      ["Dust desks, shelves, faculty cubbies below 8 ft", "Weekly", "45-60 min", "Standard"],
+      ["Interior glass, conference partitions, trophy cases", "Weekly", "20-40 min", "Moderate (add-on $15-$35 per visit)"],
+      ["High dusting, vents, light fixtures", "Monthly", "90-150 min", "High"],
+      ["Baseboards, door frames, chair bases", "Monthly", "60-90 min", "Moderate"],
+      ["Carpet extraction in lobby and offices", "Winter break, spring break, summer", "6-10 hrs", "Specialty ($0.03-$0.06 per sq ft per month amortized)"],
+      ["VCT strip and refinish in corridors and lounge", "Summer", "10-16 hrs", "Specialty ($55-$95 per hour)"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Check the nightly hours in every bid", "text": "Add 3.4 base hours for 12,000 sq ft to roughly 1.5-2 hours for restrooms, lounge, front desk, and nurse's office, and a credible nightly bid should imply about 4.9-5.4 labor hours. At standard janitorial labor of $35-$65 per hour that is roughly $170-$350 in labor cost per night before overhead, supplies, and margin, which is consistent with per-visit pricing of $876-$1,528." },
+    { "type": "h2", "text": "Specialty Tasks That Push Hours Above Office Rates" },
+    { "type": "p", "text": "Several rooms in an admin wing clean slower than standard offices. The nurse's office requires bloodborne-pathogen-trained staff, disposable or color-coded cloths, and an EPA-registered disinfectant with claims appropriate for body fluids. Faculty workrooms hold copiers, laminators, paper cutters, and recycling volumes that take longer than an ordinary office of the same size. The admissions lobby and head of school suite are presentation spaces where glass, upholstered seating, and wood furniture are held to a higher standard because they shape a family's first impression of the school. Finally, conference rooms used for parent meetings need table and chair disinfection nightly during conference season." },
+    { "type": "p", "text": "Color-coded microfiber is the simplest control for these mixed-use rooms. Rubbermaid Commercial HYGEN split-microfiber cloths, sold 12 per pack, rated for 500 commercial launderings and bleach safe, let the scope require a dedicated color for the nurse's office and restrooms that never travels to the front desk or faculty lounge. For the head of school suite or admissions office, an Alen BreatheSmart 75i with medical-grade HEPA filtration, a laser particle sensor, and a quiet run mode across about 1,300 sq ft helps keep dust off wood furniture and display cases between weekly dusting. The scope should state who wipes the purifier housing and checks the pre-filter monthly." },
+    { "type": "h2", "text": "Turning the Roster Into an Inspectable Contract" },
+    { "type": "steps", "items": [
+      { "name": "Map the wing room by room", "text": "Record each room's use, square footage, and flooring, and mark classrooms or locked records rooms that are outside the admin scope." },
+      { "name": "Attach the duty roster as an exhibit", "text": "Use the table above as the contract exhibit so every task, frequency, and room is named and inspectable." },
+      { "name": "Set the calendar", "text": "List school holidays, breaks, and summer dates with the reduced nightly frequency and the periodic projects scheduled for each." },
+      { "name": "Define event coverage", "text": "Specify which events, such as open houses, parent conferences, and graduation, require a same-night lobby and restroom reset." },
+      { "name": "Inspect monthly", "text": "Have the business manager or facilities director walk the wing with the vendor supervisor and score the roster, with corrective action deadlines for missed items." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Student records and personal property", "text": "Prohibit crews from opening file cabinets, desk drawers, or registrar storage, and require locked records rooms to be excluded from scope or cleaned only with a staff member present. Confirm this in writing before granting after-hours keys." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to price your nightly roster by square footage, restroom count, and flooring, then load each vendor's proposal into the Quote Comparator to check that periodic and summer tasks are actually priced." }
+  ],
+  "faqs": [
+    { "q": "Which tasks should be done nightly in a private school admin office?", "a": "Trash and recycling, restroom cleaning and restocking, faculty lounge sanitation, high-touch disinfection at reception and attendance counters, nurse's office surfaces, and vacuuming and mopping of entries and corridors. These are the tasks whose absence parents, faculty, and visitors notice the next morning." },
+    { "q": "When should floor refinishing and carpet extraction be scheduled?", "a": "Schedule carpet extraction during winter break, spring break, and summer when offices are empty and carpets can dry fully. VCT stripping and refinishing is best done once each summer in corridors and the faculty lounge, with optional burnishing or scrub-and-recoat at winter break in high-traffic entries." },
+    { "q": "Does the nurse's office require special cleaning procedures?", "a": "Yes. Any area where blood or body fluid exposure is reasonably anticipated falls under OSHA's Bloodborne Pathogens Standard, 29 CFR 1910.1030. Crew members need training, PPE, and hepatitis B vaccination offers, and must use an EPA-registered disinfectant with appropriate claims at its labeled dwell time. Many schools keep spill response with the nurse and limit the vendor to routine surface cleaning." },
+    { "q": "How do I convert the roster into a monthly price?", "a": "Multiply nightly per-visit pricing by 21.65 visits per month (five nights times 4.33 weeks), add weekly add-ons multiplied by 4.33, and divide quarterly or seasonal projects by the months they cover. For seasonal projects, many schools budget them as one-time summer expenses instead of amortizing." },
+    { "q": "What scope exclusions are common in school admin wing contracts?", "a": "Common exclusions include classrooms outside the wing, exterior windows, gym or athletic areas, furniture setup and teardown for events, cleaning inside refrigerators beyond a weekly wipe-down, and biohazard remediation. Listing them prevents disputes and lets you price any you want as add-ons." }
+  ],
+  "amazonProductIds": [
+    "alen-breathesmart-75i-commercial-true-hepa-purifier",
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/private-school-admin-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/tutoring-learning-center-cleaning-cost/",
+    "/facility-cleaning-costs/tutoring-learning-center-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-commercial-restroom-supplies-subscription-kit/"
+  ]
+}

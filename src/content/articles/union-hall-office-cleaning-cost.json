@@ -1,0 +1,86 @@
+{
+  "slug": "union-hall-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/union-hall-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "union hall office rates",
+  "title": "Union Hall Office Rates: Typical Per-Visit and Weekly Cleaning Quotes for Union Halls & Training Offices",
+  "seoTitle": "Union Hall Office Rates: Per-Visit & Weekly Cleaning Quotes (2026)",
+  "metaDescription": "Union hall office rates run $0.09-$0.15 per sq ft per visit for mid-size halls. See weekly quote math, restroom costs, and run your numbers in our calculator.",
+  "excerpt": "Union halls and apprenticeship training offices clean more like a mix of a meeting venue and a small school than a corporate suite. This guide shows per-visit, weekly, and monthly quote ranges by hall size, plus the restroom and traffic factors that move bids.",
+  "quickAnswer": "Most union halls between 2,500 and 9,999 sq ft are quoted at $0.09 to $0.15 per sq ft per visit, so a 6,000 sq ft hall with mixed carpet and hard floors cleaned twice weekly typically lands at $567 to $945 per visit, or roughly $4,910 to $8,184 per month. Smaller business-agent offices under 2,500 sq ft run $0.12 to $0.20 per sq ft per visit, and large regional training centers drop to $0.05 to $0.10 because of scale.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of an empty American union hall meeting room after an evening membership meeting, rows of folding chairs on a VCT floor, a janitor in a navy uniform wearing a backpack vacuum working along the carpeted back aisle near a hiring hall counter, warm overhead fluorescent lighting mixed with dusk light through high windows, eye-level camera angle, no text, no logos, no signage, no watermarks",
+    "alt": "Janitor with a backpack vacuum cleaning a union hall meeting room lined with folding chairs after an evening meeting"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Union Halls Do Not Price Like Corporate Suites" },
+    { "type": "p", "text": "A union hall is rarely a single-use office. The same building usually holds business-agent offices, a dispatch or hiring hall counter, a membership meeting room that seats 100 to 400 people, one or more apprenticeship classrooms, and sometimes a hands-on training bay for welding, electrical, or pipe trades. Each of those zones has a different soil load. The offices behave like a normal Class B suite; the meeting hall behaves like an event venue that gets slammed once or twice a month; the classrooms behave like a vocational school with boot traffic, coffee, and whiteboard dust." },
+    { "type": "p", "text": "Janitorial estimators handle that mix by pricing the whole building on a per-square-foot basis and then adjusting for restroom count, flooring type, and frequency. The national per-visit brackets below are the starting point, and they map directly to the inputs in our Office Cleaning Cost Calculator." },
+    { "type": "h2", "text": "Per-Visit and Monthly Benchmarks by Union Hall Size" },
+    { "type": "p", "text": "The table uses the national per-visit rate brackets, a mixed carpet and hard-floor multiplier of 1.05 (the most common union hall finish profile), and the frequency multipliers vendors apply when they spread setup and travel time across more visits. Monthly totals use 8.66 visits for twice weekly, 13 for three times weekly, and 21.65 for weekday daily service, all derived from 4.333 weeks per month." },
+    { "type": "table", "caption": "Union hall and training office cleaning benchmarks (national averages, mixed flooring)", "headers": ["Facility profile", "Size", "Rate per sq ft per visit", "Frequency", "Per-visit quote", "Monthly quote"], "rows": [
+      ["Local business-agent office", "2,000 sq ft", "$0.12 - $0.20", "2x/week", "$252 - $420", "$2,182 - $3,637"],
+      ["Local hall with meeting room", "6,000 sq ft", "$0.09 - $0.15", "2x/week", "$567 - $945", "$4,910 - $8,184"],
+      ["Hall plus apprenticeship classrooms", "15,000 sq ft", "$0.07 - $0.12", "3x/week", "$1,047 - $1,796", "$13,616 - $23,342"],
+      ["Regional training center", "30,000 sq ft", "$0.05 - $0.10", "5x/week", "$1,418 - $2,835", "$30,689 - $61,378"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Weekly quote shortcut", "text": "To convert a per-visit quote into a weekly number, multiply by visits per week. The 6,000 sq ft hall above runs $1,134 to $1,890 per week at twice-weekly service. Multiply the weekly figure by 4.333 to check that a vendor's monthly invoice is not quietly built on 4 weeks for some months and 5 for others." },
+    { "type": "h2", "text": "Restroom Density: The Line Item That Surprises Hall Managers" },
+    { "type": "p", "text": "Union halls are built for crowds, so restroom counts are high relative to office square footage. A 6,000 sq ft hall commonly has four restrooms (men's and women's near the meeting room, plus two near the offices), while a comparable corporate suite might have two. Vendors typically price restrooms at $15 to $30 per restroom per visit on top of the base rate when fixture counts exceed the office norm. Four restrooms at twice-weekly service adds $60 to $120 per visit, or about $520 to $1,039 per month." },
+    { "type": "p", "text": "Meeting-night restrooms also need a heavier restock. If your hall hosts a monthly general membership meeting, ask for a post-meeting restroom reset priced separately rather than inflating the routine visit price all month to cover one heavy night." },
+    { "type": "h2", "text": "Traffic Wear and Flooring Factors" },
+    { "type": "p", "text": "Members arrive from job sites. That means grit, drywall dust, mud, and in northern locals, ice-melt residue tracked straight from the parking lot onto VCT and carpet tile. Training rooms adjacent to shop bays pick up fine metallic and concrete dust that dulls floor finish fast. These conditions push vendors toward the top of the per-sq-ft range or toward a scheduled deep floor program, which typically amortizes to $0.03 to $0.06 per sq ft per month for quarterly extraction or scrub-and-recoat." },
+    { "type": "ul", "items": [
+      "Carpet tile in offices and classrooms: base multiplier 1.0, but high-traffic aisles need extraction every quarter rather than twice a year.",
+      "VCT in meeting halls and corridors: multiplier 1.04, plus periodic burnishing to hold finish under folding-chair drag marks.",
+      "Ceramic tile and grout in restrooms and entry vestibules: multiplier 1.12 due to grout scrubbing time.",
+      "Polished concrete in shop-adjacent training bays: multiplier 0.95, the fastest surface to auto-scrub when it is free of oil.",
+      "Entry matting: a 15-foot walk-off system at the main member entrance keeps a large share of job-site grit off interior floors and protects finish life."
+    ] },
+    { "type": "h2", "text": "Recommended Weekly Frequency for Each Zone" },
+    { "type": "p", "text": "Most locals overpay because they set one frequency for the whole building. A better approach is zone-based scheduling: offices and the dispatch counter two or three times per week, restrooms on every visit plus a post-meeting reset, classrooms on days after scheduled training sessions, and the meeting hall itself after each event. A 6,000 sq ft hall scheduled this way often lands near twice-weekly pricing with occasional event add-ons rather than paying for daily service that sits idle on non-meeting weeks." },
+    { "type": "table", "caption": "Zone-based frequency recommendations for a typical union hall", "headers": ["Zone", "Typical use", "Recommended frequency", "Pricing note"], "rows": [
+      ["Business-agent and admin offices", "Daily staff of 3-10", "2x-3x/week", "Standard office rate"],
+      ["Dispatch / hiring hall counter", "Morning member traffic", "3x/week or daily", "High-touch disinfection each visit"],
+      ["Membership meeting hall", "Monthly or biweekly meetings", "After each event", "Per-event add-on, chair reset billed hourly"],
+      ["Apprenticeship classrooms", "Evening and weekend classes", "Day after each class block", "Whiteboards, desks, boot-traffic floors"],
+      ["Restrooms", "Spikes on meeting nights", "Every visit plus post-event reset", "$15 - $30 per restroom per visit"]
+    ] },
+    { "type": "h2", "text": "Equipment That Keeps Labor Hours in Check" },
+    { "type": "p", "text": "Labor is 60 to 70 percent of any janitorial bid, so the vendor's equipment choices directly affect your price. Backpack vacuums let one cleaner cover meeting-hall aisles, stair runs, and classroom rows without dragging an upright between folding chairs. The ProTeam Super Coach Pro 6 carries a 6-quart capacity with four-level HEPA filtration at 11.5 lb and 66 dBA, which suits dusty classrooms. The Hoover Commercial C2401 Shoulder Vac Pro is lighter at 9.2 lb with a 6.4-quart HEPA media bag for crews running long evening routes. The Atrix VACBP1 Ergo offers an 8-quart capacity and 99.97 percent HEPA filtration at 10.3 lb, useful where drywall dust from member boots is constant. Ask bidders which unit they deploy and whether HEPA bags are changed on a documented schedule." },
+    { "type": "callout", "variant": "tip", "title": "Ask for the production rate", "text": "ISSA's general benchmark is around 3,500 sq ft per hour for routine office cleaning. If a bidder's labor hours imply far less than that for your offices, ask why. If they imply far more in your meeting hall after events, ask how they plan to reset chairs and clear trash in that time." },
+    { "type": "h2", "text": "How to Read and Compare Union Hall Bids" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage by zone", "text": "Separate offices, meeting hall, classrooms, restrooms, and shop bays so each bidder prices the same scope." },
+      { "name": "Fix the frequency per zone", "text": "Give every bidder the same zone schedule, including the number of meeting nights and class blocks per month." },
+      { "name": "Request per-visit and monthly figures", "text": "Monthly should equal per-visit times visits per month using 4.333 weeks; reject bids that cannot show that math." },
+      { "name": "Isolate add-ons", "text": "Restroom count, event resets, consumables, and the deep floor program should each appear as separate lines." },
+      { "name": "Verify minimums", "text": "Small halls may hit vendor minimums of $90 to $135 per visit; confirm whether event add-ons are subject to the same minimum." }
+    ] },
+    { "type": "cta", "text": "Plug your hall's square footage, flooring mix, restroom count, and zone schedule into the Office Cleaning Cost Calculator, then line up vendor bids side by side in the Quote Comparator to spot padded add-ons." }
+  ],
+  "faqs": [
+    { "q": "What do union hall office rates typically cost per month?", "a": "For a 6,000 sq ft hall with mixed flooring cleaned twice weekly, expect roughly $4,910 to $8,184 per month at national average rates, before restroom surcharges, consumables, or event resets. A small 2,000 sq ft business-agent office runs about $2,182 to $3,637 per month at the same frequency. Your local labor market will shift those figures up or down." },
+    { "q": "How should a vendor calculate monthly visits for a twice-weekly union hall contract?", "a": "Use 4.333 weeks per month, so twice weekly equals 8.66 visits per month and three times weekly equals 13. Contracts that bill a flat 8 visits in some months and 10 in others create budget noise; a level monthly price based on 4.333 weeks is cleaner and easier to audit against sign-in logs." },
+    { "q": "Should meeting-night cleanup be included in the base contract?", "a": "Usually not. Price post-meeting resets as a per-event add-on, often billed at specialty hourly rates of $55 to $95 when chairs must be stacked, tables folded, and trash removed after large crowds. Rolling the cost into every routine visit means you pay for event cleanup on weeks when no event happens." },
+    { "q": "What insurance should a union hall require from its cleaning contractor?", "a": "Require a certificate of insurance (COI) naming the local or building owner as additional insured, with general liability typically at $1 million per occurrence and $2 million aggregate, workers' compensation at statutory limits, and a janitorial fidelity or crime bond because crews access offices holding member records and dues payments after hours." },
+    { "q": "Do union halls need to hire a union-signatory cleaning contractor?", "a": "Many locals and building trades councils have policies requiring union-signatory or prevailing-wage janitorial contractors, often through SEIU property service agreements. That can push labor rates toward the upper end of the $35 to $65 per hour standard range. Confirm your local's policy before issuing the RFP so every bidder prices the same labor standard." }
+  ],
+  "amazonProductIds": [
+    "proteam-super-coach-pro-6-commercial-backpack-vacuum",
+    "hoover-commercial-c2401-shoulder-vac-pro-backpack-vacuum",
+    "atrix-vacbp1-ergo-hepa-commercial-backpack-vacuum"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/union-hall-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/union-hall-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/research-biotech-office-cleaning-cost/",
+    "/commercial-cleaning-chemicals-and-mats/alen-breathesmart-75i-vs-levoit-everestair-review/"
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "slug": "tile-and-grout-deep-cleaning-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "commercial tile and grout deep scrubbing unit price",
+  "title": "Commercial Tile and Grout Deep Scrubbing Unit Price: Per-Sq-Ft, Per-Fixture & Hourly Rates",
+  "seoTitle": "Commercial Tile and Grout Deep Scrubbing Unit Price: Sq Ft & Hourly",
+  "metaDescription": "Commercial tile and grout deep scrubbing unit price runs $0.75–$2.50/sq ft or $55–$95/hr with $250–$450 minimums. Check your quote in our calculator.",
+  "excerpt": "This guide breaks down how US janitorial contractors price commercial tile and grout deep scrubbing by square foot, by restroom fixture, and by labor hour. You will learn the minimum charges, sealing add-ons, and the math to sanity-check any project bid.",
+  "quickAnswer": "Nationally, commercial tile and grout deep scrubbing typically prices at $0.75–$2.50 per sq ft for the scrub-and-extract pass, or $55–$95 per technician hour when billed as specialty labor. Expect a project minimum of $250–$450 per mobilization, and add $0.50–$1.50 per sq ft if you want penetrating grout sealer applied after the floor dries.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic low-angle shot of a janitorial technician running a cylindrical brush scrubber across beige ceramic tile in a US office restroom corridor, half the floor visibly brighter with clean grout lines, wet-floor cone nearby, cool overhead LED lighting, shallow depth of field, no text, no logos, no watermarks",
+    "alt": "Technician deep scrubbing ceramic tile and grout in an office restroom corridor showing cleaned versus soiled grout lines"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How Contractors Quote Tile and Grout Deep Scrubbing" },
+    { "type": "p", "text": "Tile and grout deep scrubbing is a periodic project, not a nightly task, so it rarely appears in the per-square-foot rate you pay for routine janitorial service. Routine cleaning in our national benchmarks runs $0.05–$0.20 per sq ft per visit depending on building size, and ceramic tile already carries a 1.12 labor multiplier in that routine pricing because damp-mopping grout lines takes longer than mopping VCT. Deep scrubbing is different work: a crew pre-treats with an alkaline or enzyme grout cleaner, lets it dwell 5–10 minutes, agitates with a cylindrical or rotary brush machine, then recovers slurry with a wet vac or a hot-water tile tool. That is specialty labor, and vendors price it in one of three units." },
+    { "type": "ul", "items": [
+      "Per square foot of tiled floor: the most common unit for lobbies, corridors, breakrooms, and open restroom floors over roughly 300 sq ft.",
+      "Per restroom or per fixture: used for small multi-stall restrooms where wall tile, partitions, and toilet bases dominate the labor rather than open floor.",
+      "Per technician hour: used for irregular jobs, heavy soil, or first-time restorations where the vendor cannot predict production rate without seeing the result of a test patch."
+    ] },
+    { "type": "h2", "text": "National Unit Price Benchmarks" },
+    { "type": "p", "text": "The ranges below reflect typical 2026 US commercial pricing for occupied office buildings with standard glazed ceramic or porcelain tile and cementitious grout. Quarry tile, unsealed porous grout, and epoxy grout restoration can sit above these bands." },
+    { "type": "table", "caption": "Commercial tile and grout deep scrubbing unit prices (national US ranges)", "headers": ["Pricing unit", "Typical range", "Best fit", "Notes"], "rows": [
+      ["Per sq ft, maintenance deep scrub", "$0.75 – $1.25", "Grout cleaned within the last 12 months", "Single pass with machine agitation and wet recovery"],
+      ["Per sq ft, restorative scrub", "$1.25 – $2.50", "Dark, never-cleaned or urine-stained grout", "Often two chemical passes plus hand detailing at edges"],
+      ["Per sq ft, penetrating sealer add-on", "$0.50 – $1.50", "After any deep scrub", "Requires 24 hours dry time before heavy traffic"],
+      ["Per restroom fixture (toilet/urinal base)", "$15 – $35", "Small restrooms, wall-hung fixtures", "Includes floor tile within roughly 3 ft of fixture"],
+      ["Per technician hour (specialty)", "$55 – $95", "Irregular layouts or test areas", "Compare to $35 – $65 routine janitorial hourly"],
+      ["Project minimum / mobilization", "$250 – $450", "Any job under about 300 sq ft", "Covers truck, machine, and setup time"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Production-rate sanity check", "text": "A two-person crew with a cylindrical brush machine and wet recovery typically completes 250–400 sq ft of open tile per hour on maintenance work, and 120–200 sq ft per hour on restorative work. Multiply crew hours by $55–$95 and you should land close to the per-sq-ft quote. If a bid implies 800+ sq ft per hour, the vendor is likely mopping, not scrubbing." },
+    { "type": "h2", "text": "Worked Example: A 1,200 Sq Ft Restroom and Breakroom Package" },
+    { "type": "p", "text": "Consider a 14,000 sq ft office with two multi-stall restrooms (about 450 sq ft each of floor tile) and a 300 sq ft tiled breakroom. The tiled area totals 1,200 sq ft. At a maintenance rate of $0.95 per sq ft, the scrub costs $1,140. If the grout is dark and requires a restorative pass at $1.75, the scrub rises to $2,100. Adding penetrating sealer at $0.85 per sq ft contributes another $1,020. A well-documented proposal for this site would therefore range from about $1,140 for a maintenance scrub to roughly $3,100 for a restorative scrub plus seal." },
+    { "type": "p", "text": "If you prefer to amortize, divide the annual cost by 12. A quarterly maintenance scrub at $1,140 per visit equals $4,560 per year, or $380 per month across 14,000 sq ft, about $0.027 per sq ft per month. That sits right at the low edge of the $0.03–$0.06 per sq ft per month deep-floor program benchmark because tile is only part of the floor plate." },
+    { "type": "h2", "text": "What Should Be Written Into the Scope" },
+    { "type": "steps", "items": [
+      { "name": "Measure tiled area separately", "text": "List each tiled room and its square footage so the bid is comparable line by line, not lumped into a building total." },
+      { "name": "Specify chemistry and dwell", "text": "Require a named grout cleaner with its Safety Data Sheet on file under OSHA HazCom 29 CFR 1910.1200, and state the dwell time the vendor will honor." },
+      { "name": "Define recovery method", "text": "Insist on wet-vac or extraction recovery; spreading slurry with a mop simply relocates soil into the grout." },
+      { "name": "Clarify edges and baseboards", "text": "Machine brushes miss the last 2–3 inches along walls and toilet bases, so hand detailing should be explicitly included." },
+      { "name": "Set sealer as a separate line", "text": "Price sealing on its own row so you can accept or decline it without renegotiating the scrub." }
+    ] },
+    { "type": "h2", "text": "Tools That Support Results Between Deep Scrubs" },
+    { "type": "p", "text": "Deep scrubbing resets the grout, but daily soil control decides how long the result lasts. A lidded upright lobby dustpan and angled broom, such as the Rubbermaid Commercial Lobby Pro with its auto-closing lid, quiet wheels, and long handle, lets day porters remove grit before it is ground into grout joints. A HEPA-sealed cordless stick vacuum like the Dyson V15 Detect Pro, with laser dust illumination and roughly 60 minutes of runtime at 6.8 lb, makes it practical to vacuum tiled entries and breakrooms during business hours. Overhead dust from vents settles onto floors too; a bendable 51-inch microfiber high-duster with a washable pad keeps that fallout down in restrooms." },
+    { "type": "h2", "text": "Red Flags in Tile and Grout Bids" },
+    { "type": "ul", "items": [
+      "No square footage stated, just a lump sum labeled floor care.",
+      "Acid-based cleaners proposed for routine use, which etch cement grout and some glazes over time.",
+      "No proof of insurance: request a certificate of insurance naming you as additional insured with at least $1 million per occurrence general liability.",
+      "Sealer promised the same night as scrubbing without a dry-time allowance.",
+      "Pricing that implies production above 600 sq ft per hour on restorative work."
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Restroom grout and bloodborne pathogens", "text": "Restroom floors around urinals and toilets can carry blood or body-fluid contamination. Crews should be trained under OSHA's Bloodborne Pathogens Standard (29 CFR 1910.1030) where exposure is reasonably anticipated, wear nitrile gloves and eye protection during pre-spray, and dispose of recovered slurry in the sanitary drain, never storm drains." },
+    { "type": "cta", "text": "Plug your tiled square footage and visit frequency into the Office Cleaning Cost Calculator, or upload competing bids to the Quote Comparator to see whether each vendor's unit price lands inside these national ranges." }
+  ],
+  "faqs": [
+    { "q": "Is a per-sq-ft or hourly price better for tile and grout scrubbing?", "a": "Per-sq-ft pricing gives you budget certainty and is better for repeat maintenance scrubs. Hourly pricing at $55–$95 makes sense for a first-time restoration where soil is unknown; ask the vendor to cap hours or run a 50 sq ft test patch so you can convert the hourly rate into a reliable per-sq-ft number before approving the full job." },
+    { "q": "Why is there a minimum charge for small tiled areas?", "a": "Each mobilization requires loading a scrubber, wet vac, chemicals, and signage, plus travel and setup that can consume an hour before any scrubbing begins. Minimums of $250–$450 recover that cost. If you have several small tiled rooms, bundle them into one visit so the minimum is absorbed by real production." },
+    { "q": "How do I budget tile scrubbing monthly when it happens quarterly?", "a": "Multiply the per-visit cost by visits per year and divide by 12. A $1,140 quarterly scrub equals $4,560 per year or $380 per month. When comparing against weekly routine cleaning, use 4.333 weeks per month so the deep-clean amortization and routine charges are on the same monthly basis." },
+    { "q": "Does Green Seal certification matter for grout cleaners?", "a": "If your building pursues LEED O+M or has a green cleaning policy, ask for grout cleaners certified to Green Seal GS-37 or UL ECOLOGO. Many certified products perform well on maintenance soil but may need longer dwell on restorative jobs, which can add labor time, so confirm the vendor priced that dwell into the bid." },
+    { "q": "Are wall tiles included in a tile and grout floor quote?", "a": "Usually not. Floor quotes cover horizontal surfaces and toilet bases. Wall tile, shower surrounds, and wainscoting are typically priced separately at a higher rate because the work is vertical and slower. Confirm in writing whether wall tile up to a stated height is included." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-lobby-pro-upright-dust-pan-and-broom",
+    "dyson-v15-detect-pro-commercial-spot-cordless-stick",
+    "rubbermaid-commercial-16-inch-high-duster-microfiber-wand"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-tile-and-grout-deep-cleaning/",
+    "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-included-vs-add-on-quotes/",
+    "/commercial-vacuums-and-floor-machines/best-cordless-floor-scrubbers-for-office-restrooms/"
+  ]
+}

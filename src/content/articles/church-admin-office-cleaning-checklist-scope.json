@@ -1,0 +1,87 @@
+{
+  "slug": "church-admin-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/church-admin-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "church admin office scope tasks",
+  "title": "Church Admin Office Scope Tasks: A Custom SOW Template for Religious Admin Building Housekeeping",
+  "seoTitle": "Church Admin Office Scope Tasks: Custom SOW Template & Checklist",
+  "metaDescription": "Church admin office scope tasks for weekly, monthly, and post-event cleaning, with labor minutes per task. Price your SOW in our cost calculator.",
+  "excerpt": "A church admin building needs a scope of work that handles quiet weekdays, heavy Sunday traffic, and periodic events without paying for daily service. This SOW template lists tasks by frequency with labor minutes and flags the specialty items that raise hourly rates.",
+  "quickAnswer": "A 5,000 sq ft church admin wing usually needs about 2 to 2.5 labor hours per weekly visit: roughly 85 minutes of open-office work at the ISSA pace of 3,500 sq ft per hour, plus 15–20 minutes per restroom and 15–20 minutes for the post-Sunday workroom and kitchenette reset. At $35–$65 per hour that supports weekly bids around $450–$810 per visit before add-ons, with event resets and nursery disinfection billed separately at specialty rates of $55–$95 per hour.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic Monday-morning scene in a church administrative workroom, a custodian wiping down a long folding table stacked with neatly boxed blank bulletins beside a copier, a carpeted floor with a small air purifier in the corner, soft daylight from tall arched windows, slightly elevated wide shot with a 24mm lens, no text, no logos, no watermarks",
+    "alt": "Custodian wiping a workroom table beside a copier in a church administration building"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Building a Scope Around the Church Calendar" },
+    { "type": "p", "text": "Corporate scopes assume the same workload every weekday. A church admin building has a weekly rhythm instead: light use Tuesday through Friday, heavy use on Sunday, and a Monday morning that looks like the aftermath of a conference. Layered on top are seasonal peaks around holidays, plus funerals, weddings, and community meetings that can land on any day. A good scope of work pins the regular visit to the day after the heaviest use, then lists event cleaning as a separately priced, on-call task." },
+    { "type": "p", "text": "Write the SOW room by room, with frequency and minutes for each task. That lets the finance committee see exactly what it is buying and lets vendors bid on the same labor instead of guessing." },
+    { "type": "h2", "text": "Weekly Visit Tasks (Monday Service)" },
+    { "type": "table", "caption": "Weekly task list and labor minutes for a 5,000 sq ft church admin wing", "headers": ["Task", "Area", "Est. minutes", "Labor class"], "rows": [
+      ["Empty all wastebaskets, reline, collect recycling", "Offices, workroom, conference", "12", "Standard"],
+      ["Clear bulletin and program debris, wipe folding tables", "Workroom", "10", "Standard"],
+      ["Dust and damp-wipe desks clear of papers, phones, door handles", "Staff offices, pastor's study", "15", "Standard"],
+      ["Wipe conference table, chair arms, whiteboard tray", "Conference room", "8", "Standard"],
+      ["Vacuum carpet including corridor edges with HEPA backpack", "Offices, corridors", "30", "Standard"],
+      ["Damp mop entry tile or LVT, shake walk-off mats", "Reception, entry", "10", "Standard"],
+      ["Clean, disinfect, and restock restrooms", "Three restrooms", "45–60", "Standard"],
+      ["Kitchenette counters, sink, coffee station, microwave", "Kitchenette", "10", "Standard"],
+      ["Spot-clean entry glass and interior door glass", "Entry, offices", "5", "Standard"]
+    ] },
+    { "type": "p", "text": "The total lands near 145–160 minutes for one cleaner, or about two hours for a pair sharing restrooms and vacuuming. At the ISSA production reference of roughly 3,500 sq ft per hour, the open office portion should take about 85 minutes; restrooms and the post-Sunday reset are what extend the visit." },
+    { "type": "h2", "text": "Monthly, Quarterly, and Seasonal Tasks" },
+    { "type": "ul", "items": [
+      "Monthly: high dusting of vents, ceiling fans, picture frames, and bookshelf tops in the pastor's study and library (25 minutes).",
+      "Monthly: wipe baseboards, door frames, and light switches throughout (30 minutes).",
+      "Monthly: clean refrigerator interior after staff remove personal items, with a posted discard date (15 minutes).",
+      "Monthly: descale restroom fixtures and pour water into floor drains to prevent sewer odor in rarely used restrooms (10 minutes).",
+      "Quarterly: hot-water extraction of corridors and high-traffic offices, priced as deep floor care at $0.03–$0.06 per sq ft per month amortized.",
+      "Quarterly: upholstery spot-cleaning of reception and counseling-room seating (30–45 minutes).",
+      "Seasonal: pre-Easter and pre-Christmas detail of entry glass, light fixtures, and reception areas (2–3 hours, quoted separately).",
+      "Seasonal: winter salt and ice-melt residue removal from entry carpet and mats in cold climates (15 minutes per visit added from December through March)."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Define what volunteers do and what the vendor does", "text": "Many churches split duties with volunteer teams. If volunteers handle Sunday trash or kitchen resets, write that into the SOW so the vendor does not bill for it, and so restroom disinfection and floor care stay with the insured contractor who carries OSHA training and liability coverage." },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Standard janitorial labor runs about $35–$65 per hour nationally; specialty labor runs about $55–$95. In a church admin building, these items usually belong in the specialty column or in a separate line:" },
+    { "type": "table", "caption": "Specialty tasks in church admin scopes and their cost impact", "headers": ["Specialty task", "Why it costs more", "Typical time", "Cost at $55–$95/hr"], "rows": [
+      ["Nursery and toy disinfection", "EPA-registered disinfectant with full dwell time, then potable-water rinse for mouthed toys", "30–45 min per visit", "$27.50–$71.25"],
+      ["Post-funeral or wedding reset", "Unscheduled, evening or weekend, flower debris and heavy restroom use", "1.5–3 hours", "$82.50–$285"],
+      ["Fellowship kitchen sanitation after meals", "Food-contact surfaces, grease, health-code expectations", "45–60 min", "$41.25–$95"],
+      ["Counseling room confidentiality", "Crew follows no-touch rules for files and screens, often a dedicated cleaner", "Adds 5 min", "$4.58–$7.92"]
+    ] },
+    { "type": "h2", "text": "Air Quality in Low-Ventilation Offices" },
+    { "type": "p", "text": "Older church buildings often have HVAC zoned for the sanctuary, leaving admin offices with weak air exchange when the building is unoccupied. Dust settles faster, and the pastor's study with its paper-heavy bookshelves needs more frequent high dusting. Portable purifiers cut that workload. The Medify MA-50 uses dual-side True HEPA H13 filtration rated for about 1,100 sq ft, with a 36 dBA minimum and four fan speeds, which suits a conference room used for evening committee meetings. The Winix 5500-2 pairs True HEPA with a washable AOC carbon layer and PlasmaWave, sized for a 360 sq ft private office or kitchenette where coffee odors linger. For counseling rooms, where quiet matters, the Alen BreatheSmart 75i covers about 1,300 sq ft with medical-grade HEPA, a laser particle sensor, and a whisper-quiet run mode." },
+    { "type": "callout", "variant": "tip", "title": "Ask for purifier filter checks in scope", "text": "If the church owns purifiers, add a monthly task to wipe intakes and note filter-indicator status. It takes two minutes per unit and prevents units from running clogged for months." },
+    { "type": "steps", "items": [
+      { "name": "Map rooms and usage", "text": "List every room, who uses it, and which days it sees public traffic." },
+      { "name": "Set the anchor visit", "text": "Schedule the regular visit for the day after the busiest service or program." },
+      { "name": "Separate event work", "text": "Price funerals, weddings, and fellowship meals as on-call resets with a stated hourly rate and minimum." },
+      { "name": "Require minutes on the bid", "text": "Have vendors state labor minutes per visit and compare implied hourly rates to the $35–$65 standard range." }
+    ] },
+    { "type": "cta", "text": "Convert this SOW into a monthly budget with the Office Cleaning Cost Calculator, then line up vendor proposals in the Quote Comparator to see who is pricing the full scope." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a weekly church admin office visit need?", "a": "For a 5,000 sq ft admin wing with three restrooms, plan on about 2 to 2.5 labor hours per visit. Smaller 1,800 sq ft parish offices with one restroom typically need 50–70 minutes." },
+    { "q": "Should event cleanup be part of the regular contract?", "a": "It is usually cheaper to keep it separate. Ask for an on-call event rate with a minimum, often two hours, and specify response time. That avoids paying for twice-weekly service year-round to cover a handful of events." },
+    { "q": "Who should clean the nursery and children's areas?", "a": "Toys and surfaces in children's areas need EPA-registered disinfectants used per label dwell time, followed by a rinse for items children put in their mouths. Assign this to trained vendor staff, not general volunteers, and require background checks for any worker who might be present when children are." },
+    { "q": "How does the vendor account for monthly tasks in pricing?", "a": "Vendors spread periodic tasks across regular visits. At 4.33 weekly visits per month, about 80 minutes of monthly tasks adds roughly 18–20 minutes per visit, which is built into the per-visit rate." },
+    { "q": "What compliance documents should we request before signing?", "a": "Request a certificate of insurance naming the church as additional insured, proof of workers' compensation, OSHA HazCom training records and Safety Data Sheets for chemicals used on site, Bloodborne Pathogens training for restroom crews, and confirmation of background checks." }
+  ],
+  "amazonProductIds": [
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/church-admin-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/nonprofit-headquarters-cleaning-cost/",
+    "/facility-cleaning-costs/nonprofit-headquarters-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-small-office-restroom-starter-pack-dispensers/"
+  ]
+}

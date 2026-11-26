@@ -1,0 +1,187 @@
+{
+  "slug": "evaluating-cleaning-equipment-age-and-hepa-specs-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/evaluating-cleaning-equipment-age-and-hepa-specs-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric evaluating cleaning equipment age and hepa specs",
+  "title": "Procurement Scorecard & Rubric: Auditing Vendor HEPA Equipment Specs",
+  "seoTitle": "Weighted Evaluation Rubric: Vendor HEPA Equipment Specs",
+  "metaDescription": "Use our 100-point weighted evaluation rubric for evaluating cleaning equipment age and HEPA specs in janitorial bids ($0.07-$0.15/sq ft). Compare quotes today.",
+  "excerpt": "Grade competing commercial janitorial proposals using a quantitative 100-point scorecard covering true 0.3-micron sealed HEPA filtration, fleet age caps, OSHA cord safety, and decibel limits. Eliminate subjective vendor claims during bid walkthroughs and quarterly closet audits.",
+  "quickAnswer": "A structured weighted evaluation rubric evaluating cleaning equipment age and hepa specs assigns 100 total points across five auditable categories: True Sealed HEPA & CRI Certification (30 points), Fleet Age & Motor Hours (25 points), OSHA 1910.334 Electrical Cord Integrity (20 points), Acoustic & Ergonomic Production Rate Alignment (15 points), and On-Site Spare Media Inventory (10 points). Require bidders quoting $0.07 to $0.15/sq ft to score at least 80/100 before contract award.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead and angled view of a commercial facility manager's conference table during a vendor bid review, showing a printed technical specification matrix next to a lightweight commercial backpack vacuum unit and heavy-duty grounded power cord sample, natural daylight from floor-to-ceiling office windows, no text or logos",
+    "alt": "Facility procurement evaluation table with commercial backpack vacuum and grounded electrical cord during bid review"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Quantitative Equipment Scoring Beats Price-Only Bid Comparisons"
+    },
+    {
+      "type": "p",
+      "text": "When three building service contractors bid on a 15,000-square-foot corporate office serviced five nights per week (21.65 visits per month based on the 4.33 weeks-per-month multiplier, at a 0.90 frequency adjustment), their monthly quotes often cluster between $0.07 and $0.12 per square foot per visit ($22,732 to $38,970 annually). On paper, all three vendors check the box marked 'HEPA vacuums provided.' Without a standardized scoring matrix, procurement teams default to the lowest bidder—only to discover on mobilization night that the winning vendor's fleet consists of five-year-old, 78-decibel single-stage uprights with frayed cords and bypassed dust bags."
+    },
+    {
+      "type": "p",
+      "text": "Implementing a weighted evaluation rubric evaluating cleaning equipment age and hepa specs transforms subjective sales promises into hard technical criteria. Because mechanical condition directly governs whether night technicians achieve the ISSA standard of 3,500 square feet per hour at $35 to $65 per hour labor rates, scoring equipment specs alongside pricing protects both indoor air quality (IAQ) and long-term carpet life."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Vendor HEPA Equipment & Fleet Age Scorecard"
+    },
+    {
+      "type": "p",
+      "text": "Attach the following 100-point rubric to your Request for Proposal (RFP) and require each finalist to submit serial-numbered equipment manifests and manufacturer cut sheets. Any vendor scoring below 75 points—or scoring 0 points in the OSHA Electrical Cord Safety category—should be disqualified from final commercial negotiations regardless of their per-square-foot price."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Evaluation Rubric for Vendor Cleaning Equipment Age and HEPA Specs",
+      "headers": [
+        "Evaluation Category",
+        "Weight (Pts)",
+        "0-Point Disqualifier (Fail)",
+        "Mid-Tier Score (50% Credit)",
+        "Full Score Benchmark (100% Credit)"
+      ],
+      "rows": [
+        [
+          "1. Sealed HEPA Filtration & CRI SOA Rating",
+          "30 Points",
+          "Unsealed housing, retail vacuum, or no CRI Seal of Approval documentation",
+          "CRI Bronze SOA with multi-ply micro-filter bag but no post-motor HEPA cartridge (15 pts)",
+          "Sealed 4-stage HEPA (99.97% @ 0.3 microns, IEST/EN 1822) + active CRI Silver/Gold SOA (30 pts)"
+        ],
+        [
+          "2. Machine Age & Logged Motor Hours",
+          "25 Points",
+          "Daily vacuums > 48 months old or visible cracked housings / Duct-taped hoses",
+          "Fleet aged 24 to 36 months with documented annual brush and gasket rebuilds (13 pts)",
+          "Brand-new or <= 18 months old at mobilization with serial-number asset tags logged (25 pts)"
+        ],
+        [
+          "3. OSHA 1910.334 Cord & Ground Integrity",
+          "20 Points",
+          "Any clipped ground prong, electrical tape splice, or ungrounded 2-wire extension cord",
+          "Intact 16/3 SJT factory cords inspected quarterly via paper checklist (10 pts)",
+          "Quick-change 14/3 or 16/3 SJT commercial cords, strain-relief collars, monthly tagged safety log (20 pts)"
+        ],
+        [
+          "4. Ergonomics, Acoustics & CFM Productivity",
+          "15 Points",
+          "Uprights > 72 dBA or low-CFM units incompatible with stairwells and workstations",
+          "Standard commercial uprights <= 69 dBA paired with manual detail tools (8 pts)",
+          "Lightweight commercial backpacks (<= 67 dBA, >= 100 CFM) + dual-motor uprights for corridors (15 pts)"
+        ],
+        [
+          "5. On-Site Filter Media & Spare Parts Stock",
+          "10 Points",
+          "No spare bags or belts kept in closet; crew reuses or shakes out disposable bags",
+          "30-day supply of disposable bags stored on-site; filters ordered only upon failure (5 pts)",
+          "60-day sealed bag stock, spare drive belt, spare pigtail cord, and dated HEPA cartridge log (10 pts)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step Verification Protocol During Pre-Award Walkthroughs"
+    },
+    {
+      "type": "p",
+      "text": "Never score a vendor rubric based solely on marketing brochures attached to a PDF proposal. Require the top two or three shortlisted contractors to bring a representative sample of the exact vacuum and floor care models they plan to station at your building—or conduct a 20-minute inspection of an active closet at one of their comparable client accounts."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Decode the Serial Plate and Manufacture Date",
+          "text": "Locate the UL/CSA data plate stamped on the motor housing or lower chassis. Record the serial date code, amperage draw, and model identifier to confirm the unit falls under the 36-month age cap and matches the CRI Seal of Approval directory."
+        },
+        {
+          "name": "Step 2: Perform the Gasket Compression and Bag Chamber Check",
+          "text": "Unlatch the lid or collection bin. Verify that the rubber sealing gasket around the bag neck and HEPA exhaust filter frame is pliable, uncracked, and free of fine gray dust tracks downstream of the filter—a telltale sign of air bypass."
+        },
+        {
+          "name": "Step 3: Run the 50-Foot Cord Through a Tactile Hand Inspection",
+          "text": "With the machine unplugged, pull the entire 50-foot 14/3 or 16/3 SJT power cord through a gloved hand from the switch box strain relief to the molded three-prong plug. Deduct all 20 electrical points if you encounter nicked jackets, exposed copper, or loose grounding pins."
+        },
+        {
+          "name": "Step 4: Measure Acoustic Output and Airflow Setup",
+          "text": "Power on the unit in a hard-surfaced corridor or carpeted office zone. Confirm smooth bearing operation without high-pitched armature whine and verify sound levels remain under 67 to 69 dBA so evening crews can operate near late-working tenants."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Scoring Thresholds for Contract Award and Renewal",
+      "text": "Require a minimum technical equipment score of 80/100 for initial contract award. Once the contract is active, re-run the same 100-point rubric during quarterly janitor closet audits. Tie any score dropping below 75/100 to a mandatory 5-business-day equipment replacement cure period before applying a 3% monthly invoice credit."
+    },
+    {
+      "type": "h2",
+      "text": "Aligning Equipment Specs with Building Layout and Restroom Dispenser Efficiency"
+    },
+    {
+      "type": "p",
+      "text": "When grading Category 4 (Ergonomics, Acoustics & CFM Productivity, worth 15 points), evaluators must match the contractor's vacuum fleet to the physical geometry of the facility. In multi-story offices with stairwells, dense cubicle clusters, and conference rooms, hauling a heavy upright vacuum cuts effective production rates well below 3,500 sq ft/hr. A high-scoring vendor will deploy ergonomic commercial backpack units such as the Oreck Commercial Pro6A Backpack Vacuum, which combines a 6 qt capacity and Micro-Filter dust containment with an ultra-light 10.5 lb frame and quiet 67 dBA duty profile designed for multi-floor stairwells and dense office workstations."
+    },
+    {
+      "type": "p",
+      "text": "Furthermore, your procurement scorecard should evaluate how restroom and breakroom hardware interacts with janitorial labor budgets ($15 to $30 per restroom per visit, plus $12 to $25 per breakroom per visit). Upgrading high-maintenance dispensers reduces daily restocking friction so custodians can dedicate full shift time to thorough HEPA vacuuming and high-touch disinfection. In office kitchenettes and single-occupant washrooms, mounting the Georgia-Pacific enMotion Impulse 8-Inch Compact Towel Dispenser provides an 8-in Roll capacity in a Compact Depth chassis with Touchless dispensing powered by a 4 D-Cell battery pack. In multi-stall restrooms, pairing it with the Georgia-Pacific Compact Vertical Coreless Toilet Paper Dispenser delivers a 2x Coreless roll layout holding up to 3000 Sheets in an ADA Slim housing with a Keyed Lock, cutting paper refill labor and eliminating soggy cardboard cores on ceramic tile floors (1.12x multiplier)."
+    },
+    {
+      "type": "h2",
+      "text": "Weighting Equipment Scores Against Per-Square-Foot Bid Pricing"
+    },
+    {
+      "type": "p",
+      "text": "To combine your technical equipment scorecard with financial quotes, assign a 60% overall procurement weight to commercial pricing and scope alignment, and a 40% weight to technical execution (including your 100-point equipment and HEPA rubric). Here is what a real-world comparison looks like for a 12,000 sq ft office (inside the $0.07 to $0.12/sq ft bracket) cleaned 3x/week (13.0 visits/month at the 0.95 frequency multiplier):"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Bidder A quotes $0.075/sq ft/visit ($11,700/yr) but scores 52/100 on the equipment rubric due to 4-year-old unsealed uprights (74 dBA) and zero spare HEPA cartridges on-site.",
+        "Bidder B quotes $0.085/sq ft/visit ($13,260/yr) and scores 92/100 by mobilizing brand-new 67 dBA sealed HEPA backpack and upright units, quick-change 14/3 grounded cords, and a 60-day filter inventory.",
+        "Outcome: The $130/month price difference for Bidder B is less than the cost of two corrective carpet extraction service calls ($55 to $95/hr specialty labor) caused by Bidder A's worn-out equipment."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your janitorial bids against national per-square-foot benchmarks? Model your building's exact scope in our Office Cleaning Cost Calculator or compare up to three vendor proposals in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum passing score a janitorial vendor should achieve on the 100-point HEPA equipment rubric?",
+      "a": "Set 80 out of 100 points as your baseline threshold for contract award in Class A and Class B commercial offices, and treat any 0-point score in Category 1 (True Sealed HEPA / CRI SOA) or Category 3 (OSHA 1910.334 Cord Safety) as an automatic technical failure until the bidder commits in writing to deploying compliant machinery prior to day one."
+    },
+    {
+      "q": "Why does the rubric award higher points for combining backpack vacuums with commercial uprights?",
+      "a": "According to ISSA time-and-motion studies, commercial backpack vacuums clean open cubicles, hard-surface perimeters, and stairwells more than twice as fast as upright vacuums (reaching 7,000+ sq ft/hr on vacuuming tasks alone), while dual-motor uprights with rotating brush rolls remain essential for lifting embedded grit out of high-traffic entrance carpets. Deploying both allows crews to meet the 3,500 sq ft/hr overall facility benchmark without rushing."
+    },
+    {
+      "q": "How do we score a vendor who proposes to use our building's existing janitor closet equipment?",
+      "a": "Unless your facility owns and maintains an in-house fleet under a dedicated maintenance budget, never let an outsourced contractor rely on left-behind or owner-supplied vacuums. Doing so blurs liability when a machine fails, triggers billable downtime disputes at $35 to $65/hr, and eliminates your ability to hold the contractor accountable for HEPA filtration standards."
+    },
+    {
+      "q": "Should quarterly deep floor care machines be scored on the same 36-month age cap as daily vacuums?",
+      "a": "No. While daily-use backpack and upright vacuums log 500 to 700 hours annually and should be capped at 36 months, quarterly carpet extractors and low-speed rotary buffers used for your $0.03 to $0.06/sq ft/month deep floor program operate far fewer hours per site and can safely score full credit up to 48 or 60 months of age provided pump pressure (100-250 PSI), vacuum lift, and GFCI cord protection pass inspection."
+    }
+  ],
+  "amazonProductIds": [
+    "oreck-commercial-pro6a-backpack-vacuum",
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser",
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/snow-and-storm-cleanup-contingency-clauses/",
+    "/comparing-quotes-and-contracts/snow-and-storm-cleanup-contingency-clauses-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/snow-and-storm-cleanup-contingency-clauses-scoring-criteria/",
+    "/commercial-vacuums-and-floor-machines/best-hepa-commercial-upright-vacuums-for-medical-offices/"
+  ]
+}

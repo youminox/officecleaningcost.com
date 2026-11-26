@@ -1,0 +1,102 @@
+{
+  "slug": "monthly-office-cleaning-cost",
+  "pillar": "cleaning-frequency-and-schedules",
+  "path": "/cleaning-frequency-and-schedules/monthly-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "monthly office cleaning cost",
+  "title": "Monthly Office Cleaning Cost: What a 1x/Month Visit Really Buys and When It Fits",
+  "seoTitle": "Monthly Office Cleaning Cost (1x/Month): Rates, Soil Math & Best Fit",
+  "metaDescription": "Monthly office cleaning cost runs $0.15–$0.26/sq ft per visit with a 1.28x premium. See soil math, size tables, and run your numbers in our calculator.",
+  "excerpt": "A once-a-month janitorial visit carries the highest per-visit rate of any schedule but the lowest monthly invoice, because the crew is digging out 30 days of accumulated soil. This guide shows the exact premium math, which offices can live with it, and what staff must handle between visits.",
+  "quickAnswer": "Monthly (1x/month) office cleaning typically costs $0.15–$0.26 per sq ft per visit for suites under 2,500 sq ft and $0.115–$0.19 per sq ft for 2,500–9,999 sq ft, reflecting a 1.28x premium over the twice-weekly baseline. A 5,000 sq ft office pays roughly $576–$960 per month, the lowest total of any schedule, but only works for low-occupancy spaces where staff handle trash, restrooms, and breakroom wipe-downs between visits. Expect a $90–$135 per-visit minimum on very small suites.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a quiet, sparsely occupied small US satellite office on a Saturday morning, a janitor in navy uniform rolling a gray three-shelf janitorial cart with a zippered vinyl bag past empty desks, visible dust on a window sill catching low warm side light, carpet tile floor showing light traffic lanes, shot at eye level with a 35mm lens, soft natural daylight, no text, no logos, no watermarks",
+    "alt": "Janitor pushing a cleaning cart through a lightly used small office during a once-a-month deep cleaning visit"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why the per-visit rate jumps on a monthly schedule" },
+    { "type": "p", "text": "Commercial janitorial pricing is indexed to a twice-weekly baseline with a 1.0 multiplier. Move to once a month and most vendors apply roughly a 1.28x factor to the base per-square-foot rate. That premium is not padding. When a crew arrives after 30 days instead of three or four, carpet has embedded grit that needs slower, overlapping vacuum passes, horizontal surfaces carry a visible dust film, breakroom sinks have dried residue, and restroom fixtures have mineral and urine scale that needs dwell time from an acid-based or enzymatic cleaner before it wipes clean. Each of those tasks runs well below normal production rates." },
+    { "type": "p", "text": "Put simply, you are paying for fewer visits but more labor per visit. The ISSA benchmark of about 3,500 sq ft per hour describes routine maintenance cleaning in open carpeted space. A monthly reset in the same space often runs at half that throughput because every task becomes a restorative task. The rate premium is how vendors protect themselves from that slower pace and from the uncertainty of what they will find when they walk in." },
+    { "type": "h2", "text": "Monthly cost by office size" },
+    { "type": "p", "text": "The table below applies the national size-bracket rates and the 1.28x monthly multiplier. Because there is only one visit, the per-visit price and the monthly invoice are the same number. Add-ons such as restroom detail or breakroom sanitation are billed on top." },
+    {
+      "type": "table",
+      "caption": "Monthly (1x/month) office cleaning cost by size, national benchmark rates with 1.28x frequency multiplier",
+      "headers": ["Office size", "Base rate per sq ft", "Effective rate at 1.28x", "Per visit = monthly total"],
+      "rows": [
+        ["1,000 sq ft", "$0.12–$0.20", "$0.154–$0.256", "$154–$256 (often floored at $90–$135 minimum)"],
+        ["2,000 sq ft", "$0.12–$0.20", "$0.154–$0.256", "$307–$512"],
+        ["5,000 sq ft", "$0.09–$0.15", "$0.115–$0.192", "$576–$960"],
+        ["12,000 sq ft", "$0.07–$0.12", "$0.090–$0.154", "$1,075–$1,843"],
+        ["30,000 sq ft", "$0.05–$0.10", "$0.064–$0.128", "$1,920–$3,840"]
+      ]
+    },
+    { "type": "h2", "text": "Per-visit premium vs. monthly total: the real trade-off" },
+    { "type": "p", "text": "Buyers often see the monthly line and stop there. The more useful comparison is how much cleaning each dollar buys. Using a 5,000 sq ft office in the 2,500–9,999 sq ft bracket, here is how the same space prices across frequencies." },
+    {
+      "type": "table",
+      "caption": "5,000 sq ft office: per-visit price vs. monthly total across schedules (4.33 weeks per month)",
+      "headers": ["Schedule", "Multiplier", "Visits per month", "Per visit", "Monthly total"],
+      "rows": [
+        ["Monthly (1x/mo)", "1.28", "1.00", "$576–$960", "$576–$960"],
+        ["Biweekly (2x/mo)", "1.16", "2.17", "$522–$870", "$1,133–$1,888"],
+        ["Weekly (1x/wk)", "1.08", "4.33", "$486–$810", "$2,104–$3,507"],
+        ["Twice weekly (2x/wk)", "1.00", "8.66", "$450–$750", "$3,897–$6,495"]
+      ]
+    },
+    { "type": "p", "text": "Monthly service costs about 27% of a weekly contract while delivering roughly 23% of the visits, so on a dollar-per-visit basis it is the most expensive schedule. What you save is the cumulative labor of 3.33 extra visits per month. The question is whether your space can tolerate 29 days without professional attention." },
+    { "type": "h2", "text": "Soil accumulation math: what 30 days does to an office" },
+    { "type": "p", "text": "Soil load is roughly linear with foot traffic and days between cleanings, but removal effort is not linear. Dry particulate that is vacuumed within a few days stays at the carpet surface; after several weeks it works down into the pile and starts cutting fibers, which is why monthly accounts often need a quarterly deep floor program sooner. A practical way to estimate the load is people-days: occupants multiplied by days on site between visits." },
+    { "type": "ul", "items": [
+      "4 occupants, 3 days per week on site, monthly service: about 52 people-days of soil per visit. Manageable if staff empty bins and wipe the breakroom.",
+      "8 occupants, 5 days per week, monthly service: about 173 people-days per visit. Restrooms and breakroom will fail between visits without daily staff upkeep.",
+      "15 occupants, 5 days per week: about 325 people-days. Monthly is not a realistic primary schedule; weekly or twice weekly is the floor.",
+      "Carpet in entry lanes typically shows visible traffic graying after 60 to 80 people-days without vacuuming; walk-off mats extend that window meaningfully."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Restrooms do not run on a monthly cycle", "text": "OSHA's sanitation standard (29 CFR 1910.141) requires employers to keep toilet facilities in sanitary condition. A monthly janitorial visit does not satisfy that on its own for any occupied office. If you buy monthly service, document who restocks paper, empties sanitary receptacles, and wipes fixtures between visits, and keep the employer's bloodborne pathogen and HazCom training records current for any staff doing it." },
+    { "type": "h2", "text": "Offices where monthly service actually fits" },
+    { "type": "p", "text": "Monthly is a legitimate schedule for a narrow set of buildings. It works best where occupancy is light, food is rare, and restrooms are single-occupant and lightly used." },
+    { "type": "ul", "items": [
+      "Satellite or field offices staffed one or two days a week, such as insurance adjuster hubs or regional sales drop-in suites.",
+      "Records rooms, storage suites, and back-office spaces with no breakroom.",
+      "Owner-occupied professional offices of two to four people who already handle daily trash and wipe-downs.",
+      "Vacant or marketed suites that a landlord keeps tour-ready between showings.",
+      "Supplemental deep reset layered over an in-house day porter who covers routine tasks."
+    ] },
+    { "type": "h2", "text": "Making a monthly contract work: the between-visit plan" },
+    { "type": "steps", "items": [
+      { "name": "Write a staff task list", "text": "Assign daily trash consolidation, weekly breakroom sink and microwave wipe-down, and restroom paper and soap checks to named people. Post it inside the janitorial closet door." },
+      { "name": "Right-size waste containers", "text": "A narrow 23-gallon Rubbermaid Slim Jim station at the copy room and breakroom, with venting channels so full liners pull out without suction, keeps desk-side bins from overflowing. A 44-gallon vented Brute in the back hall acts as the central consolidation point between hauler pickups." },
+      { "name": "Define the monthly scope in writing", "text": "List every task the crew performs on the visit: full vacuum including edges, hard-floor damp mop, high and low dusting, restroom descaling, breakroom degreasing, glass spot cleaning, and trash removal. Monthly crews skip what is not written down." },
+      { "name": "Budget the deep floor program separately", "text": "Plan for amortized carpet extraction or VCT scrub-and-recoat at $0.03–$0.06 per sq ft per month, which on 5,000 sq ft adds $150–$300 to the monthly average." },
+      { "name": "Re-evaluate after 90 days", "text": "If the crew is consistently overrunning time or flagging heavy soil, the vendor will reprice. Moving to biweekly often lowers the per-visit rate by about 9% and stabilizes results." }
+    ] },
+    { "type": "p", "text": "For the visit itself, a high-capacity cart matters more than it does on daily routes. A Rubbermaid Commercial High-Capacity Janitorial Cart with a 34-gallon zippered bag, locking cabinet door for chemicals, and 8-inch wheels lets one technician carry a full month's worth of liners, descaler, and microfiber without return trips to the vehicle, which keeps the visit inside the quoted labor window." },
+    { "type": "h2", "text": "Add-ons and minimums that change the monthly invoice" },
+    { "type": "p", "text": "Monthly visits are often small enough to hit a per-visit minimum of $90–$135, so a 700 sq ft suite may pay the minimum rather than the calculated rate. Common add-ons are priced per visit: restroom detail at $15–$30 per restroom, breakroom and kitchenette sanitation at $12–$25, and interior glass and conference partitions at $15–$35. Consumables included are rarely offered on monthly plans because vendors cannot keep dispensers stocked with one visit; expect to buy paper and soap yourself. Confirm the vendor carries general liability and workers' compensation and names your company or landlord as additional insured on the certificate of insurance before the first visit." },
+    { "type": "cta", "text": "Plug your square footage, flooring type, and restroom count into the Office Cleaning Cost Calculator to see your exact monthly figure next to biweekly and weekly options, or paste vendor bids into the Quote Comparator to check whether the 1.28x monthly premium is priced fairly." }
+  ],
+  "faqs": [
+    { "q": "Is monthly office cleaning cheaper than weekly?", "a": "On the invoice, yes. A 5,000 sq ft office pays about $576–$960 per month on a monthly schedule versus $2,104–$3,507 on weekly service using 4.33 visits per month. Per visit, however, monthly is about 18% more expensive because of the 1.28x versus 1.08x multipliers, and you get far less total cleaning time." },
+    { "q": "Why do vendors charge more per visit for monthly service?", "a": "Thirty days of accumulated soil slows every task. Carpet needs overlapping passes, restroom scale needs chemical dwell time, and breakroom residue needs degreasing. Vendors also carry more risk of scope surprise, so they price a premium of about 28% over the twice-weekly baseline rate." },
+    { "q": "Can a monthly cleaning contract cover restrooms?", "a": "The vendor can deep clean and descale restrooms on the visit, but OSHA 29 CFR 1910.141 makes the employer responsible for keeping toilet facilities sanitary at all times. You need a documented in-house plan for restocking and wiping fixtures between visits, and staff handling sanitary waste should have bloodborne pathogen awareness training and access to SDS sheets under HazCom." },
+    { "q": "What should a monthly cleaning scope of work exclude?", "a": "Most monthly scopes exclude carpet extraction, floor stripping and recoating, exterior windows, high-reach ductwork, and biohazard cleanup. These are quoted separately or as an amortized deep floor program at $0.03–$0.06 per sq ft per month. Ask the vendor to list exclusions explicitly on the proposal." },
+    { "q": "Do monthly cleaning vendors use green products?", "a": "Many will on request. Ask for Green Seal GS-37 or EPA Safer Choice certified general cleaners and confirm that any restroom disinfectant is EPA-registered with a stated dwell time. Because monthly visits rely on stronger descalers, request the SDS for every chemical left on site." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-high-capacity-janitorial-cleaning-cart",
+    "rubbermaid-commercial-brute-44-gallon-vented-trash-can",
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta"
+  ],
+  "related": [
+    "/cleaning-frequency-and-schedules/",
+    "/cleaning-frequency-and-schedules/biweekly-office-cleaning-cost/",
+    "/cleaning-frequency-and-schedules/weekly-office-cleaning-cost/",
+    "/cleaning-frequency-and-schedules/twice-weekly-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-passive-odor-control-dispensers-for-restrooms/"
+  ]
+}

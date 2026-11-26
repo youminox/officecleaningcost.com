@@ -1,0 +1,79 @@
+{
+  "slug": "tutoring-learning-center-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/tutoring-learning-center-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "tutoring learning center scope tasks",
+  "title": "Tutoring Learning Center Scope Tasks: Janitorial Checklist and Labor Hours for Test Prep Centers",
+  "seoTitle": "Tutoring Learning Center Scope Tasks: Janitorial Checklist & Labor Hours",
+  "metaDescription": "Tutoring learning center scope tasks by daily, weekly, and monthly cycle, with labor minutes per visit. Compare bids against it in our Quote Comparator.",
+  "excerpt": "A tutoring center scope of work has to account for dozens of small rooms, shared study surfaces, and testing spaces that standard office checklists ignore. This checklist breaks tasks into daily, weekly, and monthly cycles and shows which ones add labor hours to your bid.",
+  "quickAnswer": "A tutoring or test prep center scope should list nightly table and chair disinfection, restroom sanitation, trash, and vacuuming of every breakout room, plus weekly detail dusting and whiteboard tray cleaning and monthly baseboard and vent work. Expect roughly 1.2 to 1.6 labor hours per visit for a 3,000 sq ft center, about 25 to 45 percent above a same-size open office, because small rooms and high-touch surface counts slow production below the 3,500 sq ft per hour benchmark.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a small glass-walled tutoring breakout room in a US learning center at night, a cleaner in gloves wiping a round laminate study table with a blue microfiber cloth, a yellow four-sided wet floor cone in the hallway behind, angled broom leaning on the door frame, cool fluorescent light, shallow depth of field, no text, no words, no logos, no watermarks",
+    "alt": "Cleaner disinfecting a study table inside a glass-walled tutoring breakout room at night"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why a Generic Office Checklist Fails in a Tutoring Center" },
+    { "type": "p", "text": "Most janitorial proposals are built from a template written for open-plan offices: empty trash, vacuum traffic lanes, clean restrooms, wipe the breakroom. A tutoring or test prep center breaks that template. A 3,000 sq ft suite might contain ten breakout rooms of 80 to 120 sq ft each, a lobby with parent seating, a proctor room, a supply closet, and two restrooms. Each breakout room has a table, three to five chairs, a whiteboard, and often a shared laptop or tablet. The cleaner has to enter, pull chairs, wipe, vacuum, reset, and exit every one of those rooms, every visit." },
+    { "type": "p", "text": "That is why a scope document matters more here than the hourly rate. If your contract says only 'clean offices,' a crew can legitimately skip table disinfection or vacuum just the corridor. If it lists tasks by room type and frequency, you can audit it in five minutes." },
+    { "type": "h2", "text": "Nightly Scope Tasks by Room Type" },
+    { "type": "table", "caption": "Per-visit tasks and estimated labor minutes for a 3,000 sq ft tutoring center with 10 breakout rooms and 2 restrooms", "headers": ["Area", "Per-visit tasks", "Est. minutes per visit", "Why it runs long"], "rows": [["Breakout rooms (10)", "Pull chairs, disinfect tabletops and chair backs, wipe whiteboard trays, empty bins, vacuum under tables, reset chairs", "28–36", "About 3 minutes per room; door, light switch, and chair handling repeat 10 times"], ["Lobby and parent seating", "Trash, wipe seating arms, clean entry glass fingerprints, vacuum walk-off mat and carpet", "8–12", "Storefront glass and mats collect most of the outdoor soil"], ["Corridor and front desk", "Vacuum traffic lane, disinfect counter and sign-in tablet surround, door levers", "6–9", "Highest-touch zone in the suite"], ["Restrooms (2)", "Disinfect toilets, sinks, and grab bars; spot clean walls and partitions; restock; mop", "16–22", "Young students mean splash, paper on floors, faster restock"], ["Staff workroom and kitchenette", "Counters, sink, microwave, fridge handles, copier touch panel, trash", "6–10", "Often priced as a $12–$25 breakroom add-on"], ["Proctor or testing room", "Desk wipe-down, trash, vacuum, align desks", "4–6", "Must be quiet and presentable before exam blocks"], ["Total", "All nightly tasks", "68–95 minutes (1.1–1.6 hours)", "Versus about 51 minutes for 3,000 sq ft of open office at 3,500 sq ft per hour"]] },
+    { "type": "callout", "variant": "benchmark", "title": "Labor hour benchmark", "text": "ISSA-style production for open office space is about 3,500 sq ft per hour. Tutoring suites usually run 1,900 to 2,600 sq ft per hour once room count is factored in. At standard labor of $35 to $65 per hour, the extra 20 to 45 minutes per visit is the real reason tutoring bids sit above plain office bids." },
+    { "type": "h2", "text": "Weekly and Monthly Tasks That Belong in the Contract" },
+    { "type": "p", "text": "Weekly and monthly tasks are where scope creep and scope skipping both happen. Write each one down with a frequency and assign it to a specific visit, such as the Friday service, so it actually gets done." },
+    { "type": "ul", "items": [
+      "Weekly: high and low dusting of shelves, bookcases, and window sills in every breakout room.",
+      "Weekly: full whiteboard clean with a manufacturer-approved cleaner, not just the tray.",
+      "Weekly: interior glass on room doors and sidelights; priced at $15–$35 per visit when the suite has many glass-front rooms.",
+      "Weekly: edge vacuuming along baseboards and under the front desk with a crevice tool.",
+      "Weekly: sweep and damp mop hard-floor rooms and the kitchenette with neutral-pH solution.",
+      "Monthly: wipe baseboards, door frames, and kick plates in every room.",
+      "Monthly: dust HVAC supply and return grilles and the tops of door frames.",
+      "Monthly: detail clean chair bases and casters where grit collects.",
+      "Monthly: restroom grout scrub and partition top dusting.",
+      "Quarterly: carpet hot-water extraction or VCT scrub-and-recoat, amortized at $0.03–$0.06 per sq ft per month."
+    ] },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Some tasks are routine in tutoring centers but rare in offices. Each one should be priced explicitly so you can decide whether to keep it, move it to staff, or drop it." },
+    { "type": "table", "caption": "Specialty tutoring center tasks and how they change the bid", "headers": ["Specialty task", "Added time", "Pricing approach"], "rows": [["Shared laptop and headset surface wipe", "10–15 min per visit for 15–20 devices", "Billed at standard $35–$65 per hour or as a flat per-visit add"], ["Manipulatives and supply bin wipe-down (elementary programs)", "15–25 min weekly", "Often moved to specialty rate of $55–$95 per hour if disinfection with dwell time is required"], ["Pre-exam detail of testing room", "15–20 min, Friday only", "Flat add-on to one weekly visit"], ["Gum and sticker removal from tables and carpet", "5–15 min per visit, variable", "Spot charge or included if written into scope"], ["Interior glass on 10+ room fronts", "15–25 min weekly", "$15–$35 per visit interior glass add-on"]] },
+    { "type": "h2", "text": "Building a Scope Checklist You Can Actually Audit" },
+    { "type": "steps", "items": [
+      { "name": "Map every room", "text": "Walk the suite with a floor plan and label each room by type: breakout, lobby, proctor, restroom, workroom, closet. Count tables, chairs, whiteboards, and devices in each." },
+      { "name": "Assign tasks and frequencies", "text": "For each room type, list per-visit, weekly, and monthly tasks. Avoid vague verbs such as 'tidy' and use measurable ones such as 'disinfect tabletop surfaces with EPA-registered product per label dwell time.'" },
+      { "name": "Tie weekly tasks to a named visit", "text": "Assign glass, dusting, and whiteboard deep cleans to a specific night so the crew lead and your manager both know when to check." },
+      { "name": "Request labor minutes per visit", "text": "Ask each bidder to state planned labor minutes. A 3,000 sq ft tutoring center quoted at 45 minutes cannot complete the nightly table above." },
+      { "name": "Set a safety standard", "text": "Require wet floor cones whenever floors are damp, especially if a late session or staff member is still in the suite." },
+      { "name": "Inspect monthly with a scorecard", "text": "Score each room on a 1 to 5 scale for tables, floors, trash, and restrooms. Share the scorecard with the vendor and tie repeated low scores to a credit clause." }
+    ] },
+    { "type": "h2", "text": "Tools That Make the Scope Achievable" },
+    { "type": "p", "text": "The right small tools keep that 68 to 95 minute target realistic. Rubbermaid Commercial HYGEN microfiber damp/wet cloths come in a 12-pack of color-coded split-microfiber cloths rated for 500 commercial launderings and are bleach safe, so a crew can assign blue to tables, green to the kitchenette, and red to restrooms and avoid cross-contamination. The Rubbermaid Commercial 36-inch four-sided caution cone is stackable, carries bilingual print on all four sides, and supports the ANSI/OSHA-style hazard marking you want when an instructor is still grading in a back room. The O-Cedar Commercial MaxiClean angle broom pairs a 12-inch flagged poly head with a 48-inch handle and lobby pan, which is faster than a vacuum for pencil shavings along baseboards and under the front desk." },
+    { "type": "callout", "variant": "warning", "title": "Watch the scope-versus-price mismatch", "text": "If two bids differ by 30 percent or more, lay their task lists side by side. The cheaper bid almost always omits breakout room table disinfection, weekly glass, or restroom wall spotting, and the gap shows up as parent complaints within a month." },
+    { "type": "h2", "text": "Who Does What Between Visits" },
+    { "type": "p", "text": "Even with three visits a week, session-to-session wipes are a staff job. Put a caddy with pre-labeled cloths and a ready-to-use disinfectant at the front desk, and have instructors wipe the table and chair backs between student groups. Keep that duty out of the vendor scope so you are not paying a specialty rate for 30-second tasks, and so the janitorial contract stays focused on the work only a trained crew should do, such as restroom sanitation and floor care." },
+    { "type": "cta", "text": "Turn your room count and task list into a monthly number with the Office Cleaning Cost Calculator, then load each vendor's scope and price into the Quote Comparator to spot missing tasks before you sign." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours should a cleaning bid include for a tutoring center?", "a": "Plan on about 1.1 to 1.6 labor hours per visit for a 3,000 sq ft center with 10 breakout rooms and 2 restrooms. Smaller single-room centers of 1,000 to 1,400 sq ft often take 30 to 45 minutes, but the vendor minimum of $90 to $135 per visit usually applies at that size." },
+    { "q": "Should table and chair disinfection be in every visit or weekly?", "a": "Every visit. Tabletops, chair backs, and door levers are touched by every student group, and disinfection requires the label dwell time of an EPA-registered product to work. Weekly-only disinfection leaves surfaces uncleaned across several session days." },
+    { "q": "What OSHA documentation should come with a tutoring center scope of work?", "a": "Ask for the vendor's Hazard Communication program, Safety Data Sheets for every chemical used on site, and evidence of bloodborne pathogens training for staff who may clean up vomit or blood. Keep a copy of the SDS binder or digital link in your office." },
+    { "q": "How do I account for months with more cleaning visits?", "a": "Contracts should bill on an averaged month of 4.33 weeks, so a 3x weekly schedule equals 13 visits per month regardless of how the calendar falls. This keeps invoices flat and makes it easy to verify the per-visit rate against the monthly total." },
+    { "q": "Which tasks are usually excluded and billed separately?", "a": "Carpet extraction, floor stripping and refinishing, exterior windows, deep cleaning of manipulatives or toys, and post-event cleanup after open houses are typically excluded. Price them as quarterly or on-call items so they do not become surprise invoices." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/tutoring-learning-center-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/daycare-preschool-office-cleaning-cost/",
+    "/facility-cleaning-costs/daycare-preschool-office-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-single-sheet-dispensers-to-cut-towel-waste/"
+  ]
+}

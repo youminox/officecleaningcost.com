@@ -1,0 +1,81 @@
+{
+  "slug": "high-dusting-exposed-ceilings-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/high-dusting-exposed-ceilings-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge high dusting exposed ceilings",
+  "title": "Extra Charge or Included? How High Dusting for Exposed Ceilings, Beams & Ductwork Shows Up in Janitorial Contracts",
+  "seoTitle": "Extra Charge for High Dusting Exposed Ceilings? Contract Audit Guide",
+  "metaDescription": "Extra charge for high dusting exposed ceilings? See when it's in the base retainer vs a $500–$950 work order, with audit checklists. Compare quotes side by side.",
+  "excerpt": "Most janitorial base contracts quietly stop at reachable height, which leaves exposed ceilings, beams, and ductwork to be billed as separate project work. This audit guide shows how to read scope language, spot the exclusion, and decide whether to bundle the work into the retainer or buy it per event.",
+  "quickAnswer": "In most US janitorial contracts, high dusting of exposed ceilings is billed extra: routine scopes cover dusting up to about 7 feet, and anything requiring lifts or extension wands over 10 feet is quoted as a work order at roughly $55–$95 per labor hour, or $0.05–$0.10 per sq ft per event. It is only truly included when the scope names exposed ceilings, gives a frequency such as quarterly, and the monthly retainer carries an amortized line of about $0.02–$0.03 per sq ft.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a facility manager's desk in a converted brick-and-timber loft office, a printed janitorial contract with highlighted scope pages beside a laptop, a pen and reading glasses; in the soft-focus background, exposed wooden beams and black spiral ductwork overhead; warm late-afternoon window light, shallow depth of field, eye-level angle, no readable text, no logos, no watermarks",
+    "alt": "Janitorial contract under review on a desk beneath exposed wooden beams and black ductwork in a loft office"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why the inclusion question causes billing disputes" },
+    { "type": "p", "text": "Exposed-ceiling offices are popular in converted warehouses, creative lofts, and newer tech buildouts, and they create a predictable contract fight. The tenant assumes dusting means all dusting. The vendor priced the job on a nightly production rate of roughly 3,500 sq ft per hour, which only works if the crew never sets up a ladder. When gray felt starts falling from duct tops, the vendor sends a work-order quote and the tenant feels upsold. Both sides are usually reading the same vague phrase, often just 'dust all horizontal surfaces,' and interpreting it differently." },
+    { "type": "p", "text": "The fix is to know where the industry draws its standard lines and to write your scope so there is nothing left to interpret. Below is how vendors typically treat overhead work, how to price each model, and what to look for in the contract language." },
+    { "type": "h2", "text": "Where standard scopes usually stop" },
+    { "type": "table", "caption": "How overhead dusting is typically treated in US office janitorial contracts", "headers": ["Surface or height", "Usual treatment", "Typical pricing basis", "Contract language to look for"], "rows": [
+      ["Desks, sills, partitions up to about 5 ft", "Included nightly or weekly", "Inside base rate of $0.07–$0.15 per sq ft per visit", "'Dust all reachable horizontal surfaces'"],
+      ["Door frames, vents, and pictures 5–7 ft", "Included weekly or monthly", "Inside base rate", "'Low and medium-high dusting'"],
+      ["Diffusers and pendant lights 7–10 ft", "Often included quarterly from a step ladder", "Sometimes base, sometimes $35–$65/hr standard labor", "'High dusting to 10 ft, quarterly'"],
+      ["Exposed deck, joists, beams, ductwork 10–20 ft", "Usually excluded; work order", "$55–$95/hr specialty or $0.05–$0.10 per sq ft per event", "'Exposed structure excluded' or 'by separate proposal'"],
+      ["Structure above 20 ft or atriums", "Excluded; often subcontracted", "Specialty hourly plus lift rental", "'Requires aerial equipment; quoted separately'"]
+    ] },
+    { "type": "p", "text": "The jump between the 7–10 ft and 10–20 ft rows is the line that matters. Once work requires a scissor lift, fall protection, drop cloths over workstations, and usually a weekend shift, it moves from janitorial labor to specialty labor, which runs about $55–$95 per hour instead of $35–$65. Vendors who fold that into a nightly rate either overprice the base contract or never actually do the work." },
+    { "type": "h2", "text": "Bundled retainer vs per-event work orders: the math" },
+    { "type": "p", "text": "Take a 10,000 sq ft creative office with 16 ft exposed ceilings, priced on a quarterly cycle. A per-event work order at $0.05–$0.10 per sq ft equals $500–$1,000 per visit, or $2,000–$4,000 per year. Bundled into the retainer, the vendor amortizes that same spend across 12 months, which adds roughly $167–$333 per month, or $0.017–$0.033 per sq ft per month. On a five-night contract that runs 21.65 visits per month (5 × 4.33 weeks), the added amount is barely noticeable per visit, which is why it often gets lost or quietly skipped." },
+    { "type": "table", "caption": "Comparing the two billing models for a 10,000 sq ft exposed-ceiling office (quarterly cycle)", "headers": ["Factor", "Bundled into monthly retainer", "Separate work order per event"], "rows": [
+      ["Monthly cost impact", "+$167–$333 every month", "$0 most months, $500–$1,000 in event months"],
+      ["Annual spend", "$2,000–$4,000", "$2,000–$4,000 plus any rush premiums"],
+      ["Proof of performance", "Weak unless dated photo reports are required", "Strong; each invoice ties to a completed event"],
+      ["Budget predictability", "High", "Moderate; needs a capex or periodic-services line"],
+      ["Risk of skipped work", "Higher", "Lower"],
+      ["Flexibility to change frequency", "Requires a contract amendment", "Easy; approve or defer each event"]
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch for the vague 'periodic services included' clause", "text": "A proposal that lists 'periodic services included' without naming exposed ceilings, a height, and a frequency is not including high dusting. If the vendor later says the deck is out of scope, you will have no written basis for disputing a work-order invoice. Require the scope to name the surfaces, the maximum height, the interval, and the documentation you will receive." },
+    { "type": "h2", "text": "Audit checklist for your current contract" },
+    { "type": "ul", "items": [
+      "Search the scope for 'high dusting,' 'exposed structure,' 'ductwork,' 'beams,' and any height limit in feet; note the exact wording.",
+      "Check the exclusions schedule, which often sits in an exhibit rather than the main scope, for aerial work, lifts, or ceilings over 10 or 12 ft.",
+      "Confirm whether a periodic task calendar exists and whether it lists dates or just frequencies; a calendar without dates is rarely enforced.",
+      "Look for a not-to-exceed hourly rate for extra work so work-order quotes cannot drift above the $55–$95 specialty band without approval.",
+      "Verify that lift rental, freight elevator fees, and after-hours security escort charges are either included or capped in writing.",
+      "Make sure the vendor's certificate of insurance covers aerial work and lists your company and landlord as additional insureds.",
+      "Require dated before and after photos for every high dusting event, regardless of billing model."
+    ] },
+    { "type": "h2", "text": "Writing scope language that avoids the dispute" },
+    { "type": "p", "text": "Good scope language is specific enough that a new site supervisor could execute it without asking questions. For example: 'Contractor will HEPA-vacuum and damp-wipe all exposed deck, joists, beams, ductwork, cable trays, and pendant fixtures from 10 ft to 18 ft above finished floor, quarterly in January, April, July, and October, between Friday 7 p.m. and Sunday 6 p.m., with workstation drop cloths and dated photo documentation. Pricing: $725 per event, invoiced separately.' That single paragraph defines surfaces, heights, timing, protection, proof, and price." },
+    { "type": "p", "text": "The same contract update is a good time to tighten adjacent consumables and supply language. Base scopes routinely fold in liners and paper, for example high-density 40x48 star-seal liners for 44-gallon office receptacles, clear 0.75-mil recycling liners so crews can check single-stream contamination, and 2-ply 450-sheet standard toilet tissue. Spelling out which supplies are vendor-furnished, at about $0.012–$0.025 per sq ft per visit when included, keeps the retainer transparent and makes it easier to see that periodic work like high dusting is priced separately." },
+    { "type": "callout", "variant": "tip", "title": "Negotiate a periodic-services rate card", "text": "Ask every bidder for a fixed rate card covering high dusting, interior glass, carpet extraction, and floor refinishing at a stated per-sq-ft or hourly rate for the contract term. Then you can approve work orders without re-bidding and quickly spot a quote that has drifted away from the agreed rates." },
+    { "type": "h2", "text": "Which model fits your office" },
+    { "type": "p", "text": "Bundle high dusting into the retainer when you have a steady quarterly need, a facilities budget that rewards predictability, and a vendor willing to provide dated photo proof. Keep it as a work order when your space is low traffic and may only need annual service, when you are within 12 months of lease expiration, or when you have previously paid for periodic work that never happened. Either way, the scope must state the height, the surfaces, and the frequency." },
+    { "type": "cta", "text": "Upload competing bids to the Quote Comparator to see which vendors include exposed-ceiling dusting and which bill it separately, then run the Office Cleaning Cost Calculator to see what the bundled model adds to your monthly rate." }
+  ],
+  "faqs": [
+    { "q": "Is high dusting of exposed ceilings part of standard office cleaning?", "a": "Usually not. Standard nightly scopes stop at reachable height, roughly 7 feet, and assume ground-level production rates. Exposed deck, joists, and ductwork above 10 feet typically need lifts and specialty labor, so they are billed as a separate work order unless the contract explicitly names them with a height and frequency." },
+    { "q": "What is a fair extra charge for high dusting exposed ceilings?", "a": "For lift-accessible ceilings between 12 and 18 feet, expect about $0.05–$0.10 per sq ft of floor area per event, or $55–$95 per specialty labor hour. A 10,000 sq ft floor commonly runs $500–$1,000 per event. Lift rental, weekend premiums, and security escort fees should be shown as separate lines." },
+    { "q": "How can I verify that bundled high dusting is actually being done?", "a": "Require dated before and after photos of the same joists and diffusers for every event, a periodic-task calendar with specific months, and a signed completion log. Without documentation, bundled periodic work is the first task skipped when a crew is short-staffed." },
+    { "q": "Does the vendor need special insurance for high dusting?", "a": "The vendor's certificate of insurance should confirm general liability and workers' compensation coverage that is not excluded for aerial lift work, and should name your company and landlord as additional insureds. Ask for operator training records and a fall-protection plan as well, since OSHA holds employers responsible for lift safety." },
+    { "q": "Can I add high dusting to my contract mid-term?", "a": "Yes. Most agreements allow additional services by written change order. Ask for a fixed per-event price or a rate card entry and a defined frequency, and make sure the change order references the same insurance, safety, and documentation requirements as the base contract." }
+  ],
+  "amazonProductIds": [
+    "angel-soft-professional-series-2-ply-embossed-toilet-paper-80-ca",
+    "boardwalk-40x48-high-density-45-gallon-commercial-trash-liners-2",
+    "plasticplace-30x36-clear-20-30-gallon-recycling-can-liners-250-c"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-high-dusting-exposed-ceilings-quotes/",
+    "/cleaning-services-and-tasks/breakroom-deep-sanitization-cost-guide/",
+    "/cleaning-services-and-tasks/breakroom-deep-sanitization-for-small-vs-large-offices/",
+    "/janitorial-carts-mops-and-tools/best-commercial-trash-cans-for-office-kitchens/"
+  ]
+}

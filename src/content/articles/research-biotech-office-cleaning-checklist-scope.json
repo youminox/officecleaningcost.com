@@ -1,0 +1,95 @@
+{
+  "slug": "research-biotech-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/research-biotech-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "research biotech office scope tasks",
+  "title": "Research Biotech Office Scope Tasks: A Custom SOW Template for Biotech & Life Sciences Office Wing Housekeeping",
+  "seoTitle": "Research Biotech Office Scope Tasks: SOW Template for Office Wings",
+  "metaDescription": "Research biotech office scope tasks laid out as a daily, weekly, and monthly SOW with labor minutes for a 12,000 sq ft wing. Price it in our calculator.",
+  "excerpt": "A biotech office wing needs a scope of work that respects the lab boundary while handling heavy breakroom, restroom, and transition-zone use. This SOW template lists daily, weekly, and monthly tasks with labor minutes and flags the specialty items that push hours above standard office rates.",
+  "quickAnswer": "A 12,000 sq ft biotech office wing typically needs about 230 to 280 labor minutes per weekday visit for trash, restrooms, breakrooms, high-touch disinfection, and floors, slightly above the ISSA benchmark of roughly 3,500 sq ft per hour. Lab-adjacent tasks such as sticky mat changes, transition-zone damp mopping, segregated color-coded microfiber, and glass partition care add 30 to 60 minutes per day and justify rates toward the upper end of standard pricing.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic scene in a US life sciences office corridor at night, a housekeeper peeling a fresh layer from a blue adhesive sticky mat at the threshold of a glass lab door, a yellow four-sided wet floor cone placed on gleaming sheet vinyl, an angled broom and lobby pan leaning on a janitorial cart, clean white walls, cool clinical LED lighting, low camera angle at floor level, no text, no logos, no hazard signage, no watermarks",
+    "alt": "Housekeeper changing a sticky mat at a lab door threshold in a biotech office corridor with a wet floor cone nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Scope Boundary: Write It Before Any Task List" },
+    { "type": "p", "text": "The first section of a biotech office wing SOW should not be a task list. It should be a boundary statement. Define the office wing by floor plan, list every door that separates it from lab, vivarium, or cleanroom space, and state that janitorial staff do not enter posted lab areas, do not touch benches, instruments, sharps containers, biohazard bins, or chemical waste, and do not empty any receptacle marked with a biohazard or chemical label. Lab waste is handled by EHS or a licensed hauler, never the office crew." },
+    { "type": "p", "text": "With the boundary fixed, the office scope becomes predictable and priceable at office rates. The template below assumes a 12,000 sq ft wing with about 70 write-up desks, 18 private offices, five conference rooms, three kitchenettes, five restrooms, and two lab transition doors with sticky mats." },
+    { "type": "h2", "text": "Daily Tasks and Labor Minutes" },
+    { "type": "table", "caption": "Daily (weekday) tasks for a 12,000 sq ft biotech office wing", "headers": ["Task", "Area", "Minutes per visit", "Specification"], "rows": [
+      ["Empty trash and recycling, reline", "Desks, offices, conference", "35 - 40", "Office receptacles only; never labeled lab bins"],
+      ["Clean, disinfect, restock five restrooms", "Restrooms", "45 - 55", "EPA-registered disinfectant at labeled dwell time"],
+      ["Sanitize three kitchenettes", "Kitchenettes", "30 - 36", "Counters, sinks, microwave, fridge exterior, coffee station"],
+      ["High-touch disinfection", "Door pulls, badge readers, elevator buttons", "15 - 18", "Separate color-coded microfiber for this task"],
+      ["Conference room reset and table wipe", "Five conference rooms", "15 - 20", "Wipe glass whiteboards; leave written content if flagged"],
+      ["HEPA vacuum traffic lanes", "Carpet tile at desks and offices", "40 - 50", "Full coverage rotates over the week"],
+      ["Dust mop and damp mop hard floors", "Corridors, kitchenettes", "30 - 35", "Neutral cleaner; wet floor cones posted"],
+      ["Sticky mat change and transition-zone mop", "Two lab doors", "15 - 20", "Peel one layer per day or per tenant protocol"],
+      ["Daily total", "Whole wing", "225 - 274", "About 3.8 - 4.6 labor hours"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Production check", "text": "At ISSA's roughly 3,500 sq ft per hour, 12,000 sq ft equals about 206 minutes. The 225 to 274 minute range reflects added kitchenettes, restroom density, and transition-zone work. Bids far below 200 minutes are likely dropping restroom or kitchenette tasks." },
+    { "type": "h2", "text": "Weekly Tasks" },
+    { "type": "ul", "items": [
+      "Detail dust all write-up desks, monitor arms, and shelving that are cleared of samples and notebooks (60 - 75 minutes).",
+      "Full-coverage HEPA vacuum including under desks and along edges, with angled-broom detailing at baseboards and elevator tracks (45 - 60 minutes).",
+      "Interior glass: lab viewing windows from the office side, conference partitions, and entry doors (40 - 50 minutes).",
+      "Kitchenette deep clean: refrigerator interior purge on a posted day, microwave interior degrease, and sink scour with non-scratch pads (30 - 40 minutes).",
+      "Locker and shower room detail where present, including grout and drain cleaning (30 - 45 minutes).",
+      "Spot clean upholstered conference chairs and soft seating (20 - 30 minutes)."
+    ] },
+    { "type": "h2", "text": "Monthly and Quarterly Tasks" },
+    { "type": "table", "caption": "Periodic tasks and pricing basis", "headers": ["Task", "Frequency", "Labor estimate", "Pricing basis"], "rows": [
+      ["High dusting of vents, diffusers, and light fixtures in office areas", "Monthly", "2 - 3 hours", "Included in monthly fee"],
+      ["VCT or sheet vinyl corridor burnish", "Monthly", "2 - 3 hours", "Included or deep floor program"],
+      ["Restroom tile and grout machine scrub", "Monthly", "2 - 3 hours", "1.12 tile multiplier applies"],
+      ["Carpet tile hot-water extraction", "Quarterly", "8 - 12 hours", "$0.03 - $0.06 per sq ft per month amortized"],
+      ["VCT scrub and recoat in corridors", "Quarterly or semiannual", "10 - 14 hours", "Deep floor program"]
+    ] },
+    { "type": "h2", "text": "Specialty Tasks That Raise Hours Above Office Rates" },
+    { "type": "p", "text": "Several tasks in a biotech wing take longer or need more training than their equivalents in a standard office. Each should be named in the SOW so bidders do not either ignore it or hide it in a vague contingency." },
+    { "type": "ul", "items": [
+      "Transition-zone protocol: damp mopping lab thresholds from clean side to dirty side, using a dedicated mop head that never returns to office floors.",
+      "Segregated microfiber: separate color codes for restrooms, kitchenettes, high-touch points, and lab-adjacent surfaces, laundered separately.",
+      "Clear-desk rule compliance: cleaners dust only cleared surfaces and leave anything resembling samples, notebooks, or prototype hardware untouched, which slows desk dusting compared with a general office.",
+      "Escorted or badge-restricted access: some floors require a badge escort, adding idle time that vendors legitimately price.",
+      "Spill response limits: cleaners respond to ordinary food and beverage spills only; any unknown liquid near a lab door is reported to EHS instead of mopped."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Never let the office crew handle unknown spills", "text": "An unidentified liquid in a lab corridor could be a solvent or biological material. The SOW should require cleaners to cone off the area, notify the designated EHS contact, and wait. Mopping it with a general-purpose cleaner creates an exposure risk and possible OSHA and EPA reporting problems." },
+    { "type": "h2", "text": "Supplies That Support the SOW" },
+    { "type": "p", "text": "Rubbermaid Commercial 36-inch four-sided wet floor cones, stackable and printed in English and Spanish, should be staged at every damp-mopped transition zone and are also the default tool for isolating unknown spills. The O-Cedar Commercial MaxiClean angle broom with a 12-inch flagged poly head, 48-inch handle, and lobby pan captures fine particulate at baseboards and elevator tracks without kicking dust into shared HVAC returns. 3M Scotch-Brite Commercial heavy-duty scour pads, 6 x 9 inches and sold 20 to a pack, are non-rusting synthetic pads suited to kitchenette sinks and porcelain without leaving metal fragments." },
+    { "type": "h2", "text": "Assembling the Final SOW" },
+    { "type": "steps", "items": [
+      { "name": "Boundary and exclusions", "text": "Floor plan, lab doors, and a written list of items the crew must never touch." },
+      { "name": "Task tables", "text": "Daily, weekly, monthly, and quarterly tasks with minutes or hours so bidders price identical labor." },
+      { "name": "Protocols", "text": "Color-coding, transition-zone mopping direction, spill escalation, and clear-desk rules." },
+      { "name": "Staffing and access", "text": "Badge requirements, EHS orientation, assigned crew, and escort rules for restricted floors." },
+      { "name": "Quality measurement", "text": "Monthly inspection scored against the task tables, with corrective action timelines." }
+    ] },
+    { "type": "cta", "text": "Convert your SOW labor minutes into a monthly budget with the Office Cleaning Cost Calculator, and use the Quote Comparator to check whether each bidder priced every specialty task." }
+  ],
+  "faqs": [
+    { "q": "How many cleaning hours does a 12,000 sq ft biotech office wing need per month?", "a": "At 3.8 to 4.6 labor hours per weekday visit and 21.65 visits per month based on 4.333 weeks, routine work totals about 82 to 100 hours per month, plus roughly 10 to 15 hours of weekly and monthly tasks. Quarterly floor care is usually amortized into the monthly price." },
+    { "q": "Should janitorial staff empty trash inside biotech labs?", "a": "Only if the lab has designated general-waste bins and the tenant's EHS team approves it in writing, with training on which bins are off limits. Biohazard, sharps, and chemical waste must never be handled by the office crew; they go through EHS and a licensed waste hauler." },
+    { "q": "What OSHA training should cleaners in a life sciences office wing have?", "a": "At minimum, Hazard Communication training under 29 CFR 1910.1200 for the products they use, awareness of lab signage and boundaries, and bloodborne pathogens training under 29 CFR 1910.1030 if there is any chance of encountering blood or other potentially infectious materials. Many tenants add a site-specific EHS orientation before badges are issued." },
+    { "q": "Which tasks justify higher rates in a biotech office SOW?", "a": "Transition-zone mopping protocols, segregated color-coded microfiber, sticky mat changes, escorted access time, and restricted clear-desk dusting all add minutes. Collectively they push a biotech wing toward the upper end of the per-sq-ft bracket rather than requiring specialty lab rates." },
+    { "q": "How should consumables be handled in the biotech SOW?", "a": "Either specify tenant-supplied paper, soap, and liners, or have the vendor supply them at roughly $0.012 to $0.025 per sq ft per visit. Biotech tenants often prefer vendor-supplied consumables with par levels written into the SOW because restroom and kitchenette usage is high." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/research-biotech-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/telemarketing-bpo-center-cleaning-cost/",
+    "/facility-cleaning-costs/telemarketing-bpo-center-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-vinyl-and-tile-safe-ice-melt-neutralizers/"
+  ]
+}

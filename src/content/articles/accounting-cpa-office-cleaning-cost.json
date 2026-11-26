@@ -1,0 +1,109 @@
+{
+  "slug": "accounting-cpa-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/accounting-cpa-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "accounting cpa office rates",
+  "title": "Accounting CPA Office Rates: Budgeting Contract Cleaning for a CPA Firm Through Tax Season",
+  "seoTitle": "Accounting CPA Office Rates: Cleaning Cost per Sq Ft & Tax-Season Budget",
+  "metaDescription": "Accounting CPA office rates run $0.09–$0.15 per sq ft per visit for most suites, with tax-season surges. Model your annual budget in our cost calculator.",
+  "excerpt": "CPA firms have a cleaning profile unlike any other office: quiet for eight months, then packed with staff, clients, and paper from January through April 15. This guide prices accounting suites by size and shows how to budget a seasonal frequency schedule instead of paying peak rates all year.",
+  "quickAnswer": "Most accounting and CPA offices between 2,500 and 9,999 sq ft pay $0.09–$0.15 per sq ft per visit, so a 3,000 sq ft firm on twice-weekly service runs about $2,340–$3,900 per month. Stepping up to three nights a week from January through mid-April raises that to roughly $3,340–$5,560, and a seasonal schedule typically puts the annual budget at $32,000–$53,500 before restrooms and consumables.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic late-evening scene in a US accounting firm open workspace during tax season, rows of dual-monitor desks with neat stacks of client folders, a janitor emptying a desk-side recycling bin into a cart, LVT plank floor reflecting soft overhead panel light, wall calendar out of focus, shot from a low three-quarter angle, no text, no logos, no watermarks",
+    "alt": "Janitor emptying recycling bins between dual-monitor desks in a busy CPA office during tax season"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes an accounting office different to price" },
+    { "type": "p", "text": "Accounting and CPA firms are among the most seasonal tenants a janitorial vendor serves. From May through December, headcount is steady, client visits are light, and soil levels look like any quiet professional suite. From January through the April 15 filing deadline, and again before the October extension deadline, the same office fills with seasonal preparers, late nights, takeout dinners, and a steady stream of clients dropping off documents. Trash and recycling volume can double, restroom use climbs sharply, and kitchenettes take a beating." },
+    { "type": "p", "text": "The other defining feature is paper. Even firms that run paperless portals still scan and handle originals, which generates paper dust on desks and toner residue around shared printers. Floors are usually commercial carpet in offices with VCT or LVT in workrooms and kitchenettes, so the mixed-flooring multiplier of about 1.05 applies in most suites." },
+    { "type": "h2", "text": "Benchmark rates by firm size" },
+    {
+      "type": "table",
+      "caption": "Estimated base monthly cleaning cost for US accounting and CPA offices (before add-ons)",
+      "headers": ["Firm profile", "Sq ft", "Rate per sq ft per visit", "Off-season schedule", "Off-season monthly", "Tax-season schedule", "Tax-season monthly"],
+      "rows": [
+        ["Solo CPA or enrolled agent", "1,800", "$0.12–$0.20", "1x/week (x1.08, 4.33 visits)", "$1,010–$1,680", "2x/week (x1.00, 8.66 visits)", "$1,870–$3,120"],
+        ["Small firm, 8–12 staff", "3,000", "$0.09–$0.15", "2x/week (x1.00, 8.66 visits)", "$2,340–$3,900", "3x/week (x0.95, 13 visits)", "$3,340–$5,560"],
+        ["Regional firm, 40–60 staff", "12,000", "$0.07–$0.12", "3x/week (x0.95, 13 visits)", "$10,370–$17,780", "5x/week (x0.90, 21.65 visits)", "$16,370–$28,060"]
+      ]
+    },
+    { "type": "p", "text": "For the 3,000 sq ft firm, the per-visit price is $270–$450 at twice-weekly service and $256–$428 at three nights a week, because the vendor discounts each visit as frequency rises. The solo practice clears the typical $90–$135 vendor minimum comfortably at 1,800 sq ft; offices under about 900 sq ft usually pay the minimum regardless of square footage." },
+    { "type": "h2", "text": "Building a seasonal annual budget" },
+    { "type": "p", "text": "Paying tax-season frequency all year is the most common way CPA firms overspend on cleaning. A better approach is a contract with two published schedules and a defined switch date, usually January 2 and April 20, plus an optional fall bump in the two weeks before October 15." },
+    {
+      "type": "table",
+      "caption": "Annual budget comparison for a 3,000 sq ft CPA firm (base service only)",
+      "headers": ["Approach", "Months at 3x/week", "Months at 2x/week", "Annual base range"],
+      "rows": [
+        ["Flat 3x/week all year", "12", "0", "$40,020–$66,700"],
+        ["Seasonal schedule (Jan–Apr at 3x)", "4", "8", "$32,040–$53,410"],
+        ["Flat 2x/week all year", "0", "12", "$28,060–$46,760"]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Seasonal savings benchmark",
+      "text": "On a 3,000 sq ft office, the seasonal schedule saves roughly $8,000–$13,300 a year versus flat three-night service while still covering the January-to-April crunch. On a 12,000 sq ft regional office that runs nightly only from January to April and three nights the rest of the year, the gap versus flat nightly service widens to about $47,900–$82,200 a year."
+    },
+    { "type": "h2", "text": "Restroom density and traffic wear in CPA suites" },
+    { "type": "p", "text": "Many small accounting firms sit in multi-tenant buildings where common-area restrooms belong to the landlord. If yours does, confirm that the lease covers them so you are not paying twice. Firms with in-suite restrooms should budget $15–$30 per restroom per visit. Traffic wear concentrates at the front desk, the client drop-off counter, and the path to the conference room where returns are reviewed. Rolling chairs also wear carpet under desks quickly, so chair mats in the bullpen are a cheap way to cut extraction frequency." },
+    {
+      "type": "table",
+      "caption": "Typical monthly add-ons for a 3,000 sq ft CPA firm",
+      "headers": ["Add-on", "Unit rate", "Off-season (8.66 visits)", "Tax season (13 visits)"],
+      "rows": [
+        ["Two in-suite restrooms", "$15–$30 per restroom per visit", "$260–$520", "$390–$780"],
+        ["Kitchenette sanitation", "$12–$25 per visit", "$104–$217", "$156–$325"],
+        ["Consumables included", "$0.012–$0.025 per sq ft per visit", "$312–$650", "$468–$975"],
+        ["Deep floor care (amortized)", "$0.03–$0.06 per sq ft per month", "$90–$180", "$90–$180"]
+      ]
+    },
+    { "type": "h2", "text": "Recommended frequency for accounting offices" },
+    {
+      "type": "ul",
+      "items": [
+        "Solo and two-person practices: weekly service off-season, twice weekly from January to mid-April.",
+        "Firms of 8–25 staff: twice weekly off-season, three nights a week during tax season, plus a Saturday trash pull if staff work weekends in March and April.",
+        "Firms over 10,000 sq ft: three nights a week off-season, nightly during tax season, with a day porter for kitchenette resets on deadline weeks.",
+        "Any firm with a client-facing lobby: nightly lobby and restroom touch-up during filing season regardless of overall frequency."
+      ]
+    },
+    { "type": "h2", "text": "Supplies that control cost per visit" },
+    { "type": "p", "text": "Small choices add up over a year. A neutral-pH all-purpose concentrate diluted at 1:64, such as Fabuloso Professional in a four-gallon case, handles kitchenette counters, restroom floors, and hard-surface workrooms with one product, which keeps the janitor closet simple. If your workroom or kitchenette has VCT, a 25 percent solids, scuff-resistant finish like Diversey Vectra protects the floor from rolling carts and holds gloss longer between recoats. In single-occupant restrooms and kitchenettes, a compact 8-inch touchless towel dispenser such as the Georgia-Pacific enMotion Impulse controls waste better than multifold stacks, which matters when seasonal staff double paper use." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Confirm cleanable square footage", "text": "Exclude locked file storage and server closets that cleaners do not enter." },
+        { "name": "Set two schedules", "text": "Define off-season and tax-season frequencies with fixed switch dates in the contract." },
+        { "name": "Count restrooms you actually pay for", "text": "Check the lease for landlord-cleaned common restrooms." },
+        { "name": "Price consumables both ways", "text": "Compare vendor-supplied paper and soap against your own office supply contract." }
+      ]
+    },
+    { "type": "cta", "text": "Enter your square footage and both seasonal frequencies into the Office Cleaning Cost Calculator to see your annual number, then compare vendor proposals side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Will a vendor agree to change frequency for tax season?", "a": "Most will if it is written into the contract up front with fixed switch dates. Vendors dislike ad hoc changes because they have to reshuffle crews, but a predictable January-to-April increase is easy to staff. Ask for both schedules priced in the original bid." },
+    { "q": "How is twice-weekly service turned into a monthly price?", "a": "Contracts use 4.33 weeks per month, so twice weekly equals 8.66 visits and three nights equals 13. Multiply the per-visit rate by those numbers. A 3,000 sq ft office at $270–$450 per visit on twice-weekly service comes to about $2,340–$3,900 per month." },
+    { "q": "What insurance should a CPA firm require from its cleaning company?", "a": "Ask for a certificate of insurance with at least $1 million in general liability, workers' compensation, and a fidelity bond or crime coverage. Because crews work after hours near client tax records, the bond is as important as the liability policy." },
+    { "q": "Is carpet extraction included in the monthly price?", "a": "Normally no. Monthly rates cover vacuuming and spot cleaning. Extraction is a periodic service, typically amortized at $0.03–$0.06 per sq ft per month. Many CPA firms schedule it in late April or May, right after filing season, when carpets are at their worst and the office is quiet." },
+    { "q": "Do cleaners in an accounting office need OSHA training?", "a": "Yes. The vendor must comply with OSHA's Hazard Communication Standard, which requires chemical labeling, Safety Data Sheets, and training. Restroom crews should also have bloodborne pathogens training. Ask for training records and the SDS binder location during onboarding." }
+  ],
+  "amazonProductIds": [
+    "diversey-vectra-commercial-high-gloss-floor-finish-5-gal",
+    "fabuloso-professional-all-purpose-cleaner-concentrate-1-gallon-4",
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/accounting-cpa-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/accounting-cpa-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/coworking-space-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-looped-end-cotton-wet-mops-for-tile-grout/"
+  ]
+}

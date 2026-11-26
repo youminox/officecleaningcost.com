@@ -1,0 +1,193 @@
+{
+  "slug": "cordless-battery-fleet-roi-for-in-house-teams-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/cordless-battery-fleet-roi-for-in-house-teams-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template cordless battery fleet",
+  "title": "Annual Operating Expense Model: Cordless Battery Fleet ROI",
+  "seoTitle": "Capex Template for Cordless Battery Fleets: Annual OpEx & Labor Model",
+  "metaDescription": "Capex template for cordless battery fleets: model lithium-ion pack depreciation, W-2 wage savings, and outsourced bids in our Quote Comparator.",
+  "excerpt": "Pitching a $3,500 to $7,500 cordless floor-care fleet to corporate finance requires a multi-year ledger that incorporates lithium-ion battery cycle amortization, Section 179 tax deductions, and burdened W-2 payroll taxes. Use this spreadsheet-ready budget worksheet to model your 36-month net savings.",
+  "quickAnswer": "A complete capex template for a cordless battery fleet in a 15,000 sq ft commercial office cleaned 5x weekly (21.65 visits/month) pairs $3,580 in Year-1 equipment outlay (cordless HEPA backpack vacuum, 2 lithium-ion battery packs, rapid charger, and compact 15-inch cordless auto-scrubber) against $5,024 in annual burdened W-2 labor savings over a corded backpack fleet—or $14,850 over corded uprights and mop buckets. After factoring in $240/year for amortized Year-3 battery replacements and HEPA bags/squeegee blades, net 36-month cash savings exceed $10,770.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead and eye-level composition in a US corporate facility operations office overlooking a clean janitorial equipment room, financial spreadsheet ledger and calculator on desk in foreground, heavy-duty three-shelf utility cart, touchless paper towel dispenser, and twin jumbo bath tissue dispenser staged beside a cordless battery charger dock in background, crisp daylight LED lighting, zero text or logos",
+    "alt": "Facility operations desk with an annual cordless battery fleet budget worksheet overlooking a janitorial closet with utility cart and dispensers"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Build an Audit-Proof Capex Template for a Cordless Battery Fleet"
+    },
+    {
+      "type": "p",
+      "text": "When an in-house facilities manager submits a purchase requisition for a $1,250 cordless lithium-ion backpack vacuum and a $2,330 cordless micro-scrubber, corporate finance controllers naturally compare those numbers against a $380 corded commercial upright and an $85 mop bucket. Without a structured multi-year operating expense (OpEx) and capital expenditure (CapEx) ledger, the requisition looks like a 670% equipment cost hike."
+    },
+    {
+      "type": "p",
+      "text": "To win immediate CFO sign-off, your capex template for a cordless battery fleet must present the total cost of floor care across a 36-month equipment lifecycle (780 cleaning shifts at 5x/week service, using the standard 4.33 weeks per month or 21.65 visits/month multiplier). When you place equipment amortization side-by-side with fully burdened W-2 custodial wages—incorporating base hourly pay plus 29.3% for FICA, FUTA/SUTA, workers' compensation code 9014, and paid leave—the spreadsheet proves that corded equipment is actually the most expensive liability in the janitorial closet."
+    },
+    {
+      "type": "table",
+      "caption": "36-Month Total Cost of Ownership (TCO) Ledger: Corded Fleet vs. Cordless Battery Fleet (15,000 Sq Ft Mixed Office, 5x/Wk / 21.65 Visits/Mo)",
+      "headers": [
+        "Budget Line Item & Account Code",
+        "Option A: Corded Upright + Wet Mop Bucket",
+        "Option B: Corded Backpack + Corded Micro-Scrubber",
+        "Option C: Cordless Li-Ion Backpack + Cordless Scrubber"
+      ],
+      "rows": [
+        [
+          "101: Vacuum Hardware Capex (Year 1)",
+          "$375.00 (13-in commercial upright)",
+          "$495.00 (14-in corded backpack)",
+          "$1,250.00 (36V backpack + 2 packs + dual charger)"
+        ],
+        [
+          "102: Hard-Floor Hardware Capex (Year 1)",
+          "$85.00 (Side-press wringer bucket + mops)",
+          "$1,655.00 (15-in corded micro-scrubber)",
+          "$2,330.00 (15-in Li-Ion cordless micro-scrubber)"
+        ],
+        [
+          "103: Year-1 Section 179 / De Minimis Tax Shield (at 21% Fed Rate)",
+          "-$96.60",
+          "-$451.50",
+          "-$751.80"
+        ],
+        [
+          "201: 36-Month Wear Parts (HEPA Bags, Cords, Blades, Mop Heads)",
+          "$690.00 (Mop heads, belts, 2 cord repairs)",
+          "$810.00 (HEPA bags, squeegee blades, GFCI cord)",
+          "$645.00 (HEPA bags, squeegee blades, zero cord repairs)"
+        ],
+        [
+          "202: Lithium-Ion Battery Pack Replacement Reserve (Month 30)",
+          "$0.00",
+          "$0.00",
+          "$540.00 (Reserve for 2 replacement 36V packs)"
+        ],
+        [
+          "301: 36-Month Direct Floor-Care Base Wages ($20.50/Hr Base)",
+          "$95,622.30 (4,664.5 hrs over 3 yrs)",
+          "$38,056.20 (1,856.4 hrs over 3 yrs)",
+          "$26,383.50 (1,287.0 hrs over 3 yrs)"
+        ],
+        [
+          "302: 36-Month W-2 Payroll Tax & Workers' Comp Load (29.3%)",
+          "$28,017.33",
+          "$11,150.47",
+          "$7,730.37"
+        ],
+        [
+          "401: Quarterly VCT Floor Care Recovery Credit ($0.03–$0.06/sq ft/mo)",
+          "$0.00 (Mop soil build-up requires contractor)",
+          "-$1,620.00 (Daily scrubbing extends wax life)",
+          "-$1,620.00 (Daily scrubbing extends wax life)"
+        ],
+        [
+          "TOTAL 36-MONTH NET FLOOR-CARE TCO (AFTER TAX & CREDITS)",
+          "$124,693.03 ($3,463.70 / mo)",
+          "$50,095.17 ($1,391.53 / mo)",
+          "$36,507.07 ($1,014.09 / mo)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accounting for Battery Depreciation, Cord Repairs, and Tax Expensing"
+    },
+    {
+      "type": "p",
+      "text": "A credible financial model never pretends that cordless battery packs last forever. In Line 202 of the worksheet above, we explicitly accrue $15.00 per month ($540.00 over 36 months) as a sinking-fund reserve to purchase fresh lithium-ion battery packs around Month 30 to 36 (after roughly 650 to 780 charge cycles). Simultaneously, notice Line 201: corded commercial vacuums and corded scrubbers suffer an average of 1.5 to 2.5 damaged power cords or sheared grounding prongs per year from being yanked around steel doorframe corners or rolled over by heavy utility carts, costing $65 to $115 per OSHA-mandated cord replacement."
+    },
+    {
+      "type": "p",
+      "text": "On the tax side (Line 103), both individual machines in Option C—the $1,250 cordless backpack kit and the $2,330 cordless micro-scrubber—sit below the IRS $2,500 per-item De Minimis Safe Harbor threshold (Treasury Reg. 1.263(a)-1(f)), allowing your accounting department to expense 100% of the purchase in Year 1 rather than tracking 5-year MACRS depreciation schedules. For larger enterprise ride-on or 24-inch walk-behind scrubbers exceeding $2,500 per unit, Internal Revenue Code Section 179 likewise permits 100% first-year capital deduction."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "How to Capture 'Soft' Labor Savings on the General Ledger",
+      "text": "CFOs often push back on equipment ROI claims by asking: 'If the cordless fleet saves 44 minutes per night, are we actually paying our custodian 44 minutes less?' To ensure the savings appear as hard dollars on the P&L, either trim a part-time nightly shift from 5.0 hours to 4.25 hours, eliminate monthly overtime hours, or cancel an outsourced $250/month interior glass and breakroom detailing add-on and assign those tasks to your in-house custodian during the reclaimed 44 minutes."
+    },
+    {
+      "type": "h2",
+      "text": "Combining Cordless Floor Care with High-Capacity Restroom & Cart Hardware"
+    },
+    {
+      "type": "p",
+      "text": "When building an annual operating budget for an in-house janitorial program, floor-care labor is only half of the efficiency equation. Restroom servicing ($15 to $30 per visit benchmark) and consumable restocking ($0.012 to $0.025/sq ft/visit) account for the next 25% to 30% of nightly custodial hours. Pairing your cordless battery fleet capex request with high-capacity restroom dispensers and heavy-duty transport carts creates a unified labor-compression package:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Heavy-Duty Supply & Battery Shuttle Cart: Include a Rubbermaid Commercial Utility Service Cart 3-Shelf (500 lb total capacity across 3 structural foam shelves, 4-inch non-marking casters, and rounded trim) in your equipment ledger so custodians can roll spare battery packs, chemical refills, and 6-case paper restocks across the floorplate in a single trip.",
+        "Automated Roll Towel Dispensing: Upgrade wall fixtures to the Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser (touchless IR sensor, 10-inch high-capacity roll housing, whisper-quiet operation, and ADA-compliant depth) to cut paper towel consumption by up to 30% and eliminate daily C-fold refill stops.",
+        "Dual Jumbo Tissue Run-Out Prevention: Install the Tork Twin Jumbo Bath Tissue Roll Dispenser T2 (holds two 9-inch jumbo rolls with an integrated stub-roll transfer slider and keyed lock) in high-traffic multi-stall restrooms so custodians only reload bath tissue twice a week instead of every night."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Budget Worksheet Execution Checklist"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Pull Your Exact W-2 Burdened Custodial Hourly Rate from Payroll",
+          "text": "Ask HR or payroll for the true loaded hourly cost of your janitorial staff—including base hourly rate, FICA (7.65%), state unemployment, workers' comp code 9014 premium, health stipend, and PTO accrual. Substitute your exact loaded rate into Lines 301 and 302."
+        },
+        {
+          "name": "Calculate Exact Monthly Visits Using the 4.333 Weeks/Month Factor",
+          "text": "Multiply your weekly cleaning days by 4.333 (8.66 visits/mo for 2x/wk, 13.0 for 3x/wk, 21.65 for 5x/wk, or 30.33 for 7x/wk). Never multiply by 4.0 weeks or your annual payroll model will understate actual labor by 8.3%."
+        },
+        {
+          "name": "Benchmark All-In In-House Cost Against Outsourced Contractor Bids",
+          "text": "Add your 12-month floor-care labor, general cleaning/restroom labor, chemical spend, paper consumables ($0.012–$0.025/sq ft/visit), and amortized cordless capex. Divide by 12 months and compare against local contract cleaning benchmarks ($0.07 to $0.12/sq ft/visit for 10,000–24,999 sq ft offices)."
+        },
+        {
+          "name": "Require Serialized Asset Tags and Battery Cycle Logging",
+          "text": "When the cordless fleet arrives, engrave or label each lithium-ion battery pack (Pack A1, Pack A2) and log its commission date on the closet charger board so custodians alternate packs evenly and maximize 36-month cell longevity."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to stress-test your internal custodial budget against commercial janitorial contractor quotes? Run your facility profile in our Office Cleaning Cost Calculator or compare itemized service proposals side-by-side in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do I account for electricity costs to charge a cordless battery fleet in our annual budget worksheet?",
+      "a": "Electricity draw for commercial 36V/40V lithium-ion battery packs is negligible. Charging a 300-watt-hour battery pack from 0% to 100% consumes roughly 0.35 kWh (including charger heat loss). Across 260 weekday shifts per year at the US commercial average of $0.13 to $0.16 per kWh, charging both a cordless backpack and a micro-scrubber costs less than $28 per year—roughly the same power drawn by a corded vacuum during the extra 25 minutes per night it spends running."
+    },
+    {
+      "q": "Should we lease a cordless battery fleet or buy it outright under CapEx/OpEx?",
+      "a": "For equipment packages under $10,000 (such as two cordless backpacks and a compact walk-behind auto-scrubber), purchasing outright is almost always superior to a 36-month equipment lease. Third-party janitorial equipment leases typically embed an effective 11% to 18% APR financing charge plus mandatory return-condition fees, whereas buying outright lets you claim immediate Year-1 tax expensing under the IRS $2,500 De Minimis Safe Harbor or Section 179."
+    },
+    {
+      "q": "What salvage value or lifespan should we assign to cordless commercial vacuums and scrubbers?",
+      "a": "Commercial brushless DC backpack vacuum motors are rated for 1,500 to 2,500 operating hours—equivalent to 5 to 7 years of nightly service in a 15,000 sq ft office—while the polyethylene and aluminum chassis of a commercial micro-scrubber easily lasts 5 to 8 years with routine squeegee blade and brush replacements. Assign a 36-month lifespan to the lithium-ion battery packs and a 60-month lifespan to the base machines."
+    },
+    {
+      "q": "How does an outsourced contractor's COI and equipment obligation compare to our in-house budget worksheet?",
+      "a": "When you hire an outsourced commercial cleaning company, their base square-foot rate ($0.07 to $0.12/sq ft for mid-size offices) includes 100% of vacuum and scrubber capital, maintenance, battery replacements, statutory workers' compensation insurance, and a $1M/$2M General Liability COI. Your in-house budget worksheet must beat the contractor's quote after including all equipment amortization and W-2 payroll taxes to justify keeping custodial staff on your internal payroll."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-utility-service-cart-3-shelf",
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel",
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/managing-turnover-in-in-house-janitorial-roles/",
+    "/in-house-vs-outsourced-cleaning/managing-turnover-in-in-house-janitorial-roles-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/managing-turnover-in-in-house-janitorial-roles-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/rubbermaid-36-inch-cone-vs-25-inch-a-frame-signs/"
+  ]
+}

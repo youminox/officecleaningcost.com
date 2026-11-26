@@ -1,0 +1,87 @@
+{
+  "slug": "coworking-space-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/coworking-space-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "coworking space scope tasks",
+  "title": "Coworking Space Scope Tasks: Estimating Labor Minutes and Daily, Weekly, and Monthly Duties",
+  "seoTitle": "Coworking Space Scope Tasks: Labor Minutes & Cleaning Checklist",
+  "metaDescription": "Coworking space scope tasks by frequency, with labor minutes per task and what drags output below 3,500 sq ft/hr. Use our quote comparator to check bids.",
+  "excerpt": "A coworking floor takes roughly twice the labor minutes per square foot of a standard office because crews reset dozens of shared surfaces every night. This article lays out a task-by-task scope with minute estimates so you can audit vendor staffing and understand which specialty tasks drive the premium.",
+  "quickAnswer": "A typical 10,000 sq ft coworking floor needs about 6 crew-hours per nightly visit, versus roughly 2.9 hours for a standard office at the ISSA-style 3,500 sq ft per hour benchmark. Hot-desk disinfection, phone booths, shared kitchens, multiple single-occupant restrooms, and conference room resets account for most of the gap, adding roughly $112–$208 per visit at $35–$65 per labor hour.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic night shot in a modern American coworking lounge, a cleaner using a microfiber flat mop on LVT flooring beside a color-coded dual-compartment mop bucket, glass-walled phone booths and a conference room being reset in the background, a second cleaner squeegeeing a glass partition, cool LED overhead light, low camera angle along the floor, no text, no logos, no watermarks",
+    "alt": "Night cleaning crew mopping LVT and squeegeeing glass partitions in a coworking lounge"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why scope tasks matter more in coworking than in a standard office" },
+    { "type": "p", "text": "Most janitorial bids start from a production rate. Industry planning guides often use roughly 3,500 sq ft per labor hour for routine office cleaning: empty trash, vacuum traffic lanes, clean restrooms, spot-dust. Coworking breaks that assumption. Members leave laptops chargers, coffee cups, and whiteboard notes everywhere; every desk is a shared desk; and a single floor may contain eight phone booths, three kitchens, and six restrooms. If you hand a vendor a generic office checklist, they will staff to 3,500 sq ft per hour, and the specialty work will either be skipped or turn into a change order." },
+    { "type": "p", "text": "The fix is a written scope of work that lists each task, its frequency, and the minutes it should take. That lets you check whether a bid's staffing hours are realistic and gives your community manager an objective standard for nightly inspections." },
+    { "type": "h2", "text": "Nightly task list with labor minutes (10,000 sq ft example)" },
+    { "type": "p", "text": "The example assumes a 10,000 sq ft single-floor coworking space with 120 hot and dedicated desks, 8 phone booths, 2 kitchens, 6 restrooms, 6 conference rooms, 7,000 sq ft of carpet tile, and 3,000 sq ft of LVT. Adjust counts to your floor plan; the per-unit minutes are what matter." },
+    { "type": "table", "caption": "Nightly coworking labor minutes by task (10,000 sq ft floor)", "headers": ["Task", "Unit count", "Minutes per unit", "Nightly minutes", "Standard office equivalent"], "rows": [
+      ["Disinfect hot desks, chairs arms, monitor arms", "120 desks", "0.35", "42", "Weekly dusting only"],
+      ["Sanitize phone booths (desk, door pull, seat, panel)", "8 booths", "3.0", "24", "Not present"],
+      ["Kitchen and coffee bar reset", "2 kitchens", "20", "40", "1 kitchenette, 12 min"],
+      ["Restroom full clean and restock", "6 rooms", "10", "60", "2 multi-stall rooms, 30 min"],
+      ["Trash, recycling, and compost stations", "40 stations", "1.0", "40", "Under-desk cans, 25 min"],
+      ["Vacuum carpet tile (wide-area upright)", "7,000 sq ft", "~8,000 sq ft/hr", "53", "Traffic lanes only"],
+      ["Microfiber damp mop LVT", "3,000 sq ft", "~4,000 sq ft/hr", "45", "Similar"],
+      ["Spot-clean glass doors and partitions", "20 doors", "1.0", "20", "Entry doors only"],
+      ["Conference room reset (tables, whiteboards, chairs)", "6 rooms", "4.0", "24", "2 rooms, 8 min"],
+      ["Lounge soft seating and pillows", "1 zone", "15", "15", "Not present"],
+      ["Total", "", "", "363 (6.05 hrs)", "About 172 (2.86 hrs)"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Production rate reality check", "text": "This floor works out to roughly 1,650 sq ft per crew-hour, less than half the 3,500 sq ft per hour standard office planning rate. Coworking bids that staff fewer than 5 crew-hours a night for 10,000 sq ft are almost always missing desks, booths, or kitchen work. The 3.19-hour gap costs about $112–$208 per visit at $35–$65 per hour, or $2,425–$4,503 per month at 21.65 weeknight visits." },
+    { "type": "h2", "text": "Weekly tasks that belong in the scope" },
+    { "type": "ul", "items": [
+      "Detail-vacuum carpet edges, under desks, and behind lounge furniture (about 45 minutes per 10,000 sq ft).",
+      "Wipe kitchen appliance exteriors, clean microwave interiors fully, and purge abandoned food from shared refrigerators on a posted day, usually Friday night (30–40 minutes per kitchen).",
+      "Squeegee and detail all interior glass partitions and phone booth glass, using a 14-inch brass squeegee such as the Ettore Master Brass with professional rubber to avoid streaks on large panels (60–90 minutes).",
+      "Dust high horizontal surfaces, acoustic baffles within reach, and pendant light housings (30 minutes).",
+      "Disinfect locker handles, mailroom cubbies, printer touchscreens, and event furniture (20–30 minutes).",
+      "Clean shower rooms and wellness or lactation rooms in detail, including grout and drains (20 minutes per room)."
+    ] },
+    { "type": "h2", "text": "Monthly and quarterly specialty tasks that push labor hours up" },
+    { "type": "p", "text": "Periodic work is where coworking budgets drift. Upholstered lounge seating needs hot-water extraction every quarter, carpet tile around kitchens needs interim extraction monthly, and LVT in the café zone benefits from a scrub every 60–90 days. Our benchmarks amortize a quarterly deep floor program at $0.03–$0.06 per sq ft per month, or $300–$600 per month for 10,000 sq ft. Interior glass partitions billed as an add-on run $15–$35 per visit if you want full-panel cleaning more than weekly." },
+    { "type": "ul", "items": [
+      "Monthly: interim carpet extraction at the coffee bar and entry walk-off zones; descale kitchen sinks and faucet aerators; wipe baseboards and door frames.",
+      "Quarterly: upholstery extraction for lounge chairs and booth seating; LVT scrub with neutral cleaner; vent and diffuser dusting.",
+      "Semi-annual: full carpet hot-water extraction; high dusting of exposed ductwork and open ceilings, which often needs a lift and a specialty rate of $55–$95 per hour."
+    ] },
+    { "type": "h2", "text": "Equipment that keeps minutes per task on target" },
+    { "type": "p", "text": "Tool choice changes production rates measurably. A microfiber spray mop with an onboard reservoir, such as the Rubbermaid Commercial HYGEN 18-inch kit with its 2-quart tank, lets one cleaner damp-mop scattered LVT zones between carpet areas without hauling a bucket, which is how the 4,000 sq ft per hour figure in the table stays realistic. For restrooms and kitchens where heavier soil is expected, a 15-gallon dual-compartment system like the Unger SmartColor bucket keeps clean solution separate from rinse water, so crews do not redistribute grime from one restroom to the next. Ask bidders which tools they will deploy; a vendor still using a single string mop and one bucket across a coworking floor will either run slow or clean poorly." },
+    { "type": "h2", "text": "How to turn this checklist into an auditable SOW" },
+    { "type": "steps", "items": [
+      { "name": "Inventory the floor", "text": "Count desks, booths, kitchens, restrooms, conference rooms, and square footage by floor type. Vendors cannot price what they cannot see on paper." },
+      { "name": "Assign frequency and minutes", "text": "Use the nightly, weekly, and monthly lists above. Total the minutes and divide by 60 to get crew-hours; compare to each bid's stated staffing." },
+      { "name": "Define exclusions in writing", "text": "Typical exclusions are member personal items, desk contents, IT equipment interiors, exterior windows above the first floor, and biohazard cleanup beyond a small spill kit response." },
+      { "name": "Set inspection criteria", "text": "Use a 1–5 scoring sheet for desks, booths, kitchens, and restrooms. Require the vendor to remedy any score below 3 within 24 hours." },
+      { "name": "Review quarterly", "text": "Membership mix changes fast. Re-count occupancy and adjust nightly minutes every quarter rather than waiting for the annual renewal." }
+    ] },
+    { "type": "cta", "text": "Enter your floor counts and frequency into the Office Cleaning Cost Calculator to translate labor minutes into a monthly budget, then drop competing bids into the Quote Comparator to see which vendor actually staffed your coworking scope." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a coworking space need per night?", "a": "Plan on roughly 0.5–0.65 crew-hours per 1,000 sq ft for a dense coworking floor, compared with about 0.29 hours per 1,000 sq ft for a standard office at 3,500 sq ft per hour. A 10,000 sq ft floor with 120 desks and 6 restrooms typically needs about 6 crew-hours each night." },
+    { "q": "Which coworking tasks are usually excluded from a base janitorial contract?", "a": "Common exclusions include moving member belongings, cleaning inside personal lockers, IT equipment interiors, exterior glass, upholstery extraction, high dusting above 10 feet, and bodily fluid cleanup beyond initial containment. Spell each exclusion out so there are no surprises when an event spill or ceiling dust complaint comes up." },
+    { "q": "Do coworking cleaners need OSHA bloodborne pathogen training?", "a": "If crews are expected to clean up vomit, blood, or other potentially infectious material, OSHA 29 CFR 1910.1030 requires an exposure control plan, training, PPE, and a hepatitis B vaccination offer. Crews must also be trained under the Hazard Communication Standard on every chemical they use, with safety data sheets accessible on site." },
+    { "q": "How often should shared refrigerators be cleaned out?", "a": "Weekly is standard. Post a clear purge day and time, usually Friday after 6 p.m., so members know unlabeled items will be discarded. Budget 30–40 minutes per kitchen for the purge plus a full interior wipe once a month." },
+    { "q": "How do I convert nightly minutes into a monthly labor cost?", "a": "Divide nightly minutes by 60, multiply by the hourly rate, then multiply by monthly visits, which equals visits per week times 4.333. For example, 363 minutes is 6.05 hours; at $45 per hour and 5 nights a week, that is about $272 per visit and $5,894 in direct labor per month, before supplies, supervision, and vendor margin." }
+  ],
+  "amazonProductIds": [
+    "ettore-master-brass-14-inch-commercial-window-squeegee",
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit",
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/coworking-space-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/bank-branch-cleaning-cost/",
+    "/facility-cleaning-costs/bank-branch-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/rubbermaid-brute-rim-caddy-and-dolly-bundle-guide/"
+  ]
+}

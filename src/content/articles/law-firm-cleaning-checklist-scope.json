@@ -1,0 +1,106 @@
+{
+  "slug": "law-firm-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/law-firm-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "law firm scope tasks",
+  "title": "Law Firm Scope Tasks: Production Benchmarks & Work Scope for a Legal Suite",
+  "seoTitle": "Law Firm Scope Tasks: Daily, Weekly & Monthly Legal Suite Checklist",
+  "metaDescription": "Law firm scope tasks by zone and frequency, with production rates of 2,400–2,800 sq ft per hour and the specialty items that add labor. Compare bids now.",
+  "excerpt": "A legal suite scope of work has to balance polished client spaces with strict rules about confidential paper and locked offices. This checklist breaks down daily, weekly, and monthly tasks by zone and shows which specialty items push labor hours above a standard office.",
+  "quickAnswer": "A law firm scope should list nightly tasks for reception, conference rooms, client restrooms, and kitchenettes; weekly detail dusting, glass, and baseboards; and monthly or quarterly items like upholstery, high dusting, and floor restoration. Expect crews to clean 2,400–2,800 sq ft per hour versus the 3,500 sq ft ISSA office benchmark, because private-office density, glass partitions, and no-touch desk rules add minutes per room.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic night view of a janitor squeegeeing a frameless glass wall of a law firm conference room, long walnut table with neatly pushed-in leather chairs, law books on built-in shelves, cool overhead LED light reflecting on glass, shot at eye level from the hallway at a slight angle, no text, no logos, no watermarks",
+    "alt": "Cleaner using a brass squeegee on a glass conference room wall inside a law firm at night"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How a legal suite scope differs from a generic office checklist" },
+    { "type": "p", "text": "A generic office scope reads like a list of verbs: empty trash, vacuum, wipe, mop. That is not enough for a law firm. The scope has to state where the crew may and may not go, what they may touch, and how they treat paper. Partner offices with open files, litigation war rooms stacked with exhibit binders, and records rooms with active matters all need explicit instructions. Without them, crews either skip rooms to be safe or move papers they should never handle, and both outcomes create complaints." },
+    { "type": "p", "text": "Write the scope by zone, then by frequency. Zones for most firms are: client arrival (elevator lobby, reception, waiting area), meeting space (conference and deposition rooms), attorney and staff offices, support areas (copy, mail, file, and records rooms), kitchenette or café, and restrooms. Each zone has a different standard of finish and a different risk profile." },
+    { "type": "h2", "text": "Daily tasks by zone" },
+    {
+      "type": "table",
+      "caption": "Nightly scope and typical labor minutes for a 6,000 sq ft boutique law firm",
+      "headers": ["Zone", "Core nightly tasks", "Approx. minutes per visit", "Notes"],
+      "rows": [
+        ["Reception and waiting", "Vacuum rugs, damp-mop hardwood with low-moisture microfiber, wipe reception counter, polish glass doors, straighten seating", "20–25", "Highest visibility; inspect first in walk-throughs"],
+        ["Conference and deposition rooms (3)", "Clear food service debris, wipe tables and chair arms, clean whiteboards if cleared, spot glass partitions, vacuum", "30–40", "Do not erase boards marked SAVE; leave exhibits untouched"],
+        ["Attorney and staff offices (18)", "Empty trash and recycling, vacuum open floor, wipe clear desk areas only, dust phone and chair arms", "70–90", "No-touch rule for any paper on desks or credenzas"],
+        ["Kitchenette and coffee bar", "Wipe counters, clean sink, wipe microwave and fridge exterior, empty compost and trash, mop", "15–20", "Coffee machines generate most daily spot-cleaning"],
+        ["Restrooms (3)", "Clean and disinfect fixtures, restock paper and soap, mop with disinfectant, wipe partitions and mirrors", "30–40", "Includes private partner restroom"],
+        ["Copy, mail, and file rooms", "Empty trash, vacuum or dust-mop, wipe counter surfaces", "10–15", "Never empty locked shred consoles; vendor handles"]
+      ]
+    },
+    { "type": "p", "text": "Those minutes add up to roughly 175–230 labor minutes per nightly visit, or about 2.9–3.8 hours. That aligns with a production rate of 1,600–2,100 sq ft per hour for the full nightly routine, slower than a typical open-plan office, which explains why law firm bids price toward the top of the $0.09–$0.15 per sq ft per visit range for suites of 2,500–9,999 sq ft." },
+    { "type": "h2", "text": "Weekly and monthly detail tasks" },
+    {
+      "type": "ul",
+      "items": [
+        "Weekly: detail dust baseboards, door frames, and chair bases; full glass cleaning on all office sidelights; vacuum upholstered client seating; damp-wipe light switches and door hardware throughout.",
+        "Weekly: dust law-library shelf edges and accessible book tops with a microfiber duster, leaving volumes in place.",
+        "Monthly: high dust vents, sprinkler heads, and ledges above 7 feet; polish wood conference tables with a furniture-safe product; wipe filing cabinet exteriors.",
+        "Monthly: machine-buff VCT in copy and file rooms; detail-sweep elevator door tracks and baseboard corners with an angled broom.",
+        "Quarterly: hot-water extraction in the client corridor and conference rooms; scrub and recoat VCT; deep clean restroom grout.",
+        "Annually: full carpet extraction in private offices, upholstery shampoo, window-sill and blind detailing."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Write the no-touch rule into the contract",
+      "text": "State that crews must not move, read, stack, or discard any paper left on desks, credenzas, floors, or conference tables, and that only containers labeled for trash or recycling are emptied. Anything ambiguous is left in place and noted on the service log. This protects client confidentiality and keeps the vendor out of disputes over lost documents."
+    },
+    { "type": "h2", "text": "Specialty tasks that push labor above standard office rates" },
+    { "type": "p", "text": "Some items legitimately justify higher pricing, and you should expect a bidder to call them out. If a bid includes them without any labor increase over a standard office, the vendor has either missed them or plans to skip them." },
+    {
+      "type": "table",
+      "caption": "Specialty law firm tasks and their labor impact",
+      "headers": ["Specialty task", "Why it adds time", "Typical pricing approach"],
+      "rows": [
+        ["Glass conference partitions and office sidelights", "Streak-free finish requires squeegee and detail work on large panes", "$15–$35 per visit add-on, or bundled at weekly frequency"],
+        ["Hardwood and stone reception floors", "Low-moisture method and wood-safe neutral solution; stone needs separate care", "1.08–1.12 flooring multiplier"],
+        ["Deposition and mediation room resets", "Food service cleanup and room staging between sessions", "Day porter at $35–$65 per hour"],
+        ["War-room cleanups after trial", "Heavy debris, boxes, catering waste; strict paper handling", "One-time quote, often specialty rate of $55–$95 per hour"],
+        ["Law library dusting", "Many linear feet of shelving, ladder work for upper shelves", "Monthly line item, 1–3 labor hours"],
+        ["Locked office access", "Key control and escort delays", "Slower route, sometimes 5–10% labor uplift"]
+      ]
+    },
+    { "type": "h2", "text": "Tools and supplies to specify for the crew" },
+    { "type": "p", "text": "Tool choice affects both quality and speed. A 14-inch solid brass squeegee such as the Ettore Master Brass, fitted with professional-grade replaceable rubber, gives a clean pull on glass partitions and is sized for office sidelights without drips onto carpet. An angled, flagged-bristle broom with a 12-inch head and 48-inch handle, like the O-Cedar Commercial MaxiClean set with lobby pan, picks up the fine grit that collects along baseboards and in elevator door tracks, which vacuums tend to miss. For breakroom sinks and porcelain, non-rusting synthetic scour pads such as 3M Scotch-Brite Commercial heavy-duty 6x9-inch pads remove coffee staining without leaving metal particles that later rust-stain the basin." },
+    { "type": "h2", "text": "Turning the checklist into an enforceable scope" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Map every room", "text": "Attach a floor plan marking zones, restricted rooms, and rooms cleaned only on request, such as server closets and evidence storage." },
+        { "name": "Assign frequency per task", "text": "List each task with daily, weekly, monthly, or quarterly frequency so invoice line items match work actually performed." },
+        { "name": "Define finish standards", "text": "Describe what done looks like: no streaks on glass at 3 feet in normal light, no visible soil on baseboards, no odor in restrooms." },
+        { "name": "Set an inspection rhythm", "text": "Run a joint walk-through monthly for the first quarter, then quarterly, scoring each zone on a simple 1–5 scale." },
+        { "name": "Build in a change process", "text": "Require written work orders for anything outside scope, with the hourly rate stated in advance." }
+      ]
+    },
+    { "type": "cta", "text": "Once your scope is written, enter your square footage, zones, and frequency into the Office Cleaning Cost Calculator, then upload each vendor's proposal to the Quote Comparator to see which bids actually price the specialty tasks you listed." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours should a law firm cleaning bid include?", "a": "Divide cleanable square footage by a realistic production rate. For a legal suite, 2,400–2,800 sq ft per hour for routine tasks is reasonable, and the full nightly routine including restrooms and kitchenette often runs slower. A 6,000 sq ft firm should see roughly 2.5–3.8 labor hours per visit. Ask every bidder to state their assumed hours." },
+    { "q": "Should cleaners empty shred consoles?", "a": "No. Locked shred consoles belong to your document destruction vendor, which should provide a certificate of destruction. Cleaning crews should only empty open trash and recycling bins. Put this in writing so a well-meaning cleaner does not mix confidential paper into general recycling." },
+    { "q": "What should be excluded from a law firm scope?", "a": "Common exclusions are exterior window washing, high-rise glass, IT equipment cleaning inside server rooms, biohazard cleanup beyond minor restroom incidents, and moving furniture. Listing exclusions avoids disputes, and the vendor can quote each as a separate work order when needed." },
+    { "q": "How is a three-night schedule converted to monthly visits?", "a": "Multiply by 4.33 weeks per month: three nights a week equals 13 visits per month. Weekly tasks happen about 4.33 times monthly, and monthly tasks once. Confirm the vendor's service log shows those counts so you can reconcile the invoice." },
+    { "q": "Do crews need OSHA documentation to clean restrooms in a law office?", "a": "Yes. Under OSHA's Hazard Communication Standard, vendors must label chemicals, keep Safety Data Sheets on site or accessible, and train staff. Restroom crews should also complete bloodborne pathogens training and have a written procedure and spill kit for blood or bodily fluid incidents." }
+  ],
+  "amazonProductIds": [
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack",
+    "ettore-master-brass-14-inch-commercial-window-squeegee"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/law-firm-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/accounting-cpa-office-cleaning-cost/",
+    "/facility-cleaning-costs/accounting-cpa-office-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-wide-dust-mops-for-polished-concrete-lobbies/"
+  ]
+}

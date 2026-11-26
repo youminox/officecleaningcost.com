@@ -1,0 +1,202 @@
+{
+  "slug": "measuring-restroom-fixture-count-accurately-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/measuring-restroom-fixture-count-accurately-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric measuring restroom fixture count accurately",
+  "title": "Comparing Proposals Side-by-Side: Weighted Scoring Rubric for Restroom Fixture Counts",
+  "seoTitle": "Weighted Evaluation Rubric: Measuring Restroom Fixture Count Accurately",
+  "metaDescription": "Compare bids with our 100-point weighted evaluation rubric for measuring restroom fixture count accurately. Benchmark $15-$30/visit rates in our calculator.",
+  "excerpt": "When three janitorial bidders quote wildly different monthly totals for the exact same office restrooms, a weighted evaluation rubric reveals who actually counted your fixtures and who guessed. Use this 100-point scoring matrix to audit per-fixture labor allocations, dwell-time protocols, and consumables math.",
+  "quickAnswer": "A 100-point weighted evaluation rubric for measuring restroom fixture count accurately grades competing janitorial proposals across five objective criteria: 30 points for exact plumbing fixture census alignment (toilets, urinals, sinks), 25 points for realistic ISSA labor budgeting (2.5 to 3.5 minutes per fixture), 20 points for dwell-time disinfection and ceramic tile/grout (1.12x) floor care, 15 points for touchless dispenser & HEPA equipment integration, and 10 points for transparent unit pricing ($15 to $30 per restroom visit).",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic eye-level photograph of a commercial facility procurement table inside a modern glass-walled conference room showing three side-by-side janitorial bid comparison spreadsheets, an architectural restroom fixture blueprint, and a commercial touchless roll towel dispenser sample unit under warm balanced office lighting, shot on a 35mm lens, zero readable text, no logos, no watermarks.",
+    "alt": "Side-by-side janitorial proposal comparison spreadsheets and architectural restroom fixture blueprint on a conference table"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Comparing commercial cleaning proposals side by side is notoriously difficult when bidders use inconsistent terminology for restroom sanitation. Bidder A lumps restrooms into a flat $0.10 per square foot building rate without stating how many minutes crews spend inside each washroom. Bidder B charges $22 per restroom per visit across '4 restrooms' without distinguishing between a 2-fixture executive powder room and a 10-fixture floor-core gang restroom. Bidder C itemizes 24 individual plumbing fixtures and specifies 72 minutes of dedicated nightly restroom labor."
+    },
+    {
+      "type": "p",
+      "text": "Applying a weighted evaluation rubric for measuring restroom fixture count accurately allows facility managers and procurement committees to score proposals objectively on a 100-point scale. Instead of rewarding the bidder who under-counted your toilets and sinks—and who will inevitably cut corners on disinfectant dwell time within thirty days—this rubric verifies that the winning proposal allocates enough real labor minutes to keep your restrooms hygienic."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Scoring Rubric for Restroom Fixture Proposals"
+    },
+    {
+      "type": "p",
+      "text": "Use the five-category evaluation matrix below when grading finalist proposals. Require every bidder to fill out a standardized Restroom Fixture & Labor Disclosure Schedule as part of their RFP response so you can score each criterion directly."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Proposal Scoring Rubric: Restroom Fixture Count & Sanitation Labor",
+      "headers": [
+        "Scoring Criterion",
+        "Weight (Points)",
+        "High Score: 90%–100% of Points",
+        "Medium Score: 50%–70% of Points",
+        "Low Score / Fail: 0–30% of Points"
+      ],
+      "rows": [
+        [
+          "1. Plumbing Fixture Census Accuracy",
+          "30 pts",
+          "Bid itemizes exact toilet, urinal, and sink faucet counts per room matching walkthrough census 100%",
+          "Lists room count accurately and estimates total fixture count within +/- 10%",
+          "Quotes only vague 'restroom count' or inflates count by adding soap/towel dispensers as wet fixtures"
+        ],
+        [
+          "2. Per-Fixture Labor Hour Allocation (ISSA Benchmark)",
+          "25 pts",
+          "Budgets 2.5 – 3.5 minutes per primary fixture nightly (e.g., 50–70 min for 20 fixtures)",
+          "Budgets 1.8 – 2.4 minutes per fixture (rushed wipe-down risk during peak occupancy)",
+          "Budgets < 1.5 minutes per fixture or refuses to disclose dedicated restroom labor minutes"
+        ],
+        [
+          "3. Tile & Grout (1.12x) + Drain & Dwell-Time Protocol",
+          "20 pts",
+          "Includes 10-min EPA disinfectant dwell time, weekly floor-drain enzyme priming, and periodic grout scrub",
+          "Includes daily wet-mopping and disinfecting but omits weekly floor-drain priming",
+          "Treats restroom ceramic tile identically to open carpet (1.00x) with no grout or drain scope"
+        ],
+        [
+          "4. Dispenser Restocking & Dry-Vacuum Prep Workflow",
+          "15 pts",
+          "Integrates touchless dispenser checks + quiet 67–68 dBA HEPA backpack vacuuming of dry hair/debris prior to wet mop",
+          "Standard wet-mopping and restocking without dry HEPA vacuum pass first",
+          "Mops wet hair and grit into tile grout corners; no dispenser key control protocol"
+        ],
+        [
+          "5. Unit Price & Add/Deduct Rate Transparency",
+          "10 pts",
+          "Clear $15–$30/restroom visit (or $1.75–$3.50/fixture) benchmark + transparent $0.012–$0.025/sq ft consumables rate",
+          "Reasonable total monthly cost but no unit add/deduct price per fixture if occupancy changes",
+          "Double-charges full $/sq ft on restroom floor area PLUS unadjusted high per-room surcharge"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating Criterion 1 & 2: Census Precision and the 3-Minute Labor Audit (55 Points)"
+    },
+    {
+      "type": "p",
+      "text": "Together, exact fixture census accuracy (30 points) and realistic labor allocation (25 points) determine 55% of the rubric score. Why? Because commercial janitorial service is fundamentally a labor-hour commodity priced at $35 to $65 per hour for standard nightly work ($55 to $95 per hour for specialty periodic tasks). If your building has 24 total plumbing fixtures (for example, 10 toilets, 4 urinals, and 10 sink faucets across four restrooms), industry time-motion standards dictate 60 to 84 minutes of nightly restroom sanitation."
+    },
+    {
+      "type": "p",
+      "text": "When auditing proposals, divide the vendor's stated nightly restroom minutes by your verified primary plumbing fixture count. If a vendor proposes cleaning your entire 15,000-square-foot office plus 24 restroom fixtures in just 3.5 total nightly labor hours, let's check the math: 15,000 sq ft of general office space at the ISSA benchmark of 3,500 sq ft/hour already consumes 4.28 hours before touching a single toilet! Any proposal that fails the 2.5- to 3.5-minute per-fixture labor test is severely under-hours and should receive 0 points on Criterion 2."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "How to Normalize 3x/Week vs. 5x/Week Restroom Proposals",
+      "text": "Always check the vendor's monthly visit multiplier using 4.33 weeks per month: 5x/week equals 21.65 visits/month (0.90x frequency multiplier), 3x/week equals 13.0 visits/month (0.95x multiplier), and 2x/week equals 8.66 visits/month (1.00x baseline). A 20-fixture restroom core requiring 1.0 labor hour per visit equals 21.65 hours/month on a 5x/week schedule versus 13.0 hours/month on a 3x/week schedule."
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating Criterion 4: Dry HEPA Pre-Vacuuming and Touchless Dispenser Efficiency (15 Points)"
+    },
+    {
+      "type": "p",
+      "text": "A little-known secret separating top-tier janitorial operations from average crews is how they remove dry hair, lint, and paper scraps from ceramic tile restroom floors (1.12x flooring multiplier) before applying wet disinfectant. Average crews push a wet string mop directly over dry hair and dust around toilet bases and sink pedestals, gluing wet hair to porcelain crevices and darkening cement grout lines."
+    },
+    {
+      "type": "p",
+      "text": "High-scoring proposals (earning the full 15 points in Criterion 4) specify a 60-second dry vacuum pass across restroom floors, partition bases, and exhaust return grilles using commercial backpack vacuums before wet disinfection begins, paired with standardized touchless paper hardware:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Sealed HEPA Dry Soil Extraction in Multi-Stall Restrooms: When a technician wears the Sanitaire SC412A Commercial Backpack Vacuum (10-quart capacity, sealed HEPA filtration system, 11.5 lb weight, quiet 68 dBA operation) into the dry restroom prior to mopping, floor wand attachments lift loose hair, tissue lint, and ceiling vent dust in seconds without scattering airborne allergens.",
+        "Lightweight Multi-Floor Restroom Route Efficiency: In multi-story office buildings with single-occupant or executive restrooms on every landing, crews move faster with the Oreck Commercial Pro6A Backpack Vacuum (6-quart capacity, micro-filter filtration, featherweight 10.5 lb build, 67 dBA low-noise rating) to detail dry restroom corners and thresholds before wet sanitizing.",
+        "Touchless Sink & Kitchenette Dispenser Standardization: Award bonus points when the proposal accounts for high-efficiency roll hardware such as the Georgia-Pacific enMotion Impulse 8-Inch Compact Towel Dispenser (8-inch roll capacity, compact depth for single-occupant restrooms and breakrooms, touchless wave sensor powered by 4 D-cell batteries), which reduces paper waste in trash cans and speeds up per-sink restocking."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Side-by-Side Proposal Comparison Example: 18-Fixture Office Core"
+    },
+    {
+      "type": "p",
+      "text": "Consider how two competing proposals score for a 16,000-square-foot office cleaned 5x/week (21.65 visits/month) featuring 4 restrooms with 18 total plumbing fixtures (8 toilets, 2 urinals, 8 sink faucets):"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Vendor Alpha ($2,380/month, Score: 52/100): Lists '4 restrooms included' with zero fixture count breakdown; allocates only 25 minutes per night to all four restrooms combined (1.38 minutes per fixture—automatic fail on Criterion 2); wet-mops without dry vacuuming; charges $85/call for floor drain odors.",
+        "Vendor Beta ($2,540/month, Score: 94/100): Itemizes all 18 plumbing fixtures; allocates 55 minutes per night specifically to restroom sanitation (3.05 minutes per fixture, or ~19.8 hours/month dedicated to restrooms at $45/hr = $891/month of the contract); dry-vacuums tile with 67–68 dBA backpack units before disinfecting; includes weekly Friday floor-drain priming and transparent $2.25/fixture/visit add/deduct unit pricing."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Walkthrough & Scoring Procedure for Procurement Teams"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Distribute a Mandatory Fixture Census Table in the RFP",
+          "text": "Attach a pre-verified table showing every restroom ID, square footage of ceramic tile (1.12x multiplier), and exact counts of toilets, urinals, and sink faucets so no bidder can claim ignorance."
+        },
+        {
+          "name": "Step 2: Require Separate Nightly Restroom Labor Minutes on the Bid Sheet",
+          "text": "Instruct bidders to enter their dedicated nightly restroom labor minutes alongside general office vacuuming/trash hours and breakroom sanitation ($12 to $25/visit)."
+        },
+        {
+          "name": "Step 3: Grade All Proposals on the 100-Point Matrix",
+          "text": "Eliminate or issue a formal labor-hour cure request to any bidder whose restroom labor allocation falls below 2.25 minutes per primary plumbing fixture."
+        },
+        {
+          "name": "Step 4: Tie Monthly SLA Audits to Fixture Touchpoints",
+          "text": "Use your fixture census sheet during monthly daytime quality checks, inspecting under toilet rims, behind sink faucet bases, and inside dispenser windows across a 25% sample of fixtures."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your janitorial quotes against verified per-fixture and per-square-foot market benchmarks? Plug your building's square footage and restroom count into our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum acceptable labor time per restroom fixture when scoring janitorial bids?",
+      "a": "When scoring commercial office bids, 2.5 to 3.5 minutes per primary plumbing fixture (toilet, urinal, or sink station) is the passing benchmark for full daily service. If a bidder allocates less than 2.0 minutes per fixture, technicians will only have time to pull trash and quickly wipe sink counters while skipping proper 10-minute disinfectant dwell times, partition wiping, and detail mopping behind toilet bases."
+    },
+    {
+      "q": "Why should crews dry-vacuum commercial restroom floors with a backpack vacuum before wet-mopping?",
+      "a": "Restroom tile floors accumulate loose hair, toilet tissue lint, and dry shoe grit around base molding and stall partitions. Running a high-filtration or sealed HEPA commercial backpack vacuum (operating at a quiet 67 to 68 dBA) over the dry tile for 60 seconds removes 90%+ of loose hair and particulate that a wet mop would otherwise smear into porous cement grout lines."
+    },
+    {
+      "q": "How do we score consumables pricing ($0.012 to $0.025/sq ft/visit) against our restroom fixture count?",
+      "a": "Compare each bidder's monthly consumables allowance against both your daily employee headcount and your dispenser hardware. Facilities equipped with metered touchless roll towel dispensers (such as 8-inch enMotion units) and coreless toilet tissue systems generate 20% to 30% less paper waste than C-fold and standard-core dispensers, meaning proposals should cluster near the lower $0.012 to $0.016/sq ft/visit benchmark."
+    },
+    {
+      "q": "Should quarterly deep restroom grout scrubbing be scored inside daily fixture pricing or as a periodic line item?",
+      "a": "Score daily wet-mopping, disinfectant dwell time, and weekly floor-drain priming inside the base per-visit restroom rate ($15 to $30 per restroom visit). Score quarterly rotary machine scrubbing or high-pressure extraction of ceramic tile and grout under the periodic deep floor care program, which typically benchmarks at $0.03 to $0.06 per square foot per month when amortized across the annual contract."
+    },
+    {
+      "q": "How does our scoring rubric prevent post-award change orders on restroom pricing?",
+      "a": "Criterion 1 and Criterion 5 require the bidder to sign off on the exact room-by-room plumbing fixture count prior to contract award and establish a fixed per-fixture unit price ($1.75 to $3.50 per fixture per visit). Because both parties verify the exact fixture census upfront, the contractor cannot claim after month one that the restrooms were larger or had more stalls than expected."
+    }
+  ],
+  "amazonProductIds": [
+    "sanitaire-sc412a-commercial-backpack-vacuum",
+    "oreck-commercial-pro6a-backpack-vacuum",
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/evaluating-cleaning-equipment-age-and-hepa-specs/",
+    "/comparing-quotes-and-contracts/evaluating-cleaning-equipment-age-and-hepa-specs-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/evaluating-cleaning-equipment-age-and-hepa-specs-scoring-criteria/",
+    "/commercial-vacuums-and-floor-machines/best-quiet-commercial-vacuums-for-daytime-cleaning/"
+  ]
+}

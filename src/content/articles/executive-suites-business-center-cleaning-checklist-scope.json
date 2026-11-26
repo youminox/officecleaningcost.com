@@ -1,0 +1,85 @@
+{
+  "slug": "executive-suites-business-center-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/executive-suites-business-center-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "executive suites business center scope tasks",
+  "title": "Executive Suites Business Center Scope Tasks: Nightly vs. Periodic Duty Roster for Regus-Style Centers",
+  "seoTitle": "Executive Suites Business Center Scope Tasks: Nightly Duty Roster",
+  "metaDescription": "Executive suites business center scope tasks split into nightly, weekly, and monthly duties, with labor impact of glass and conference resets. Run the calculator.",
+  "excerpt": "Serviced-office operators need a duty roster that keeps reception, conference rooms, and dozens of private offices member-ready every morning. This guide organizes tasks into nightly and periodic tiers and identifies which specialty items raise labor above standard office rates.",
+  "quickAnswer": "A Regus-style executive suite scope should cover nightly reception and lounge detailing, conference room resets, private-office trash and vacuuming, kitchen sanitation, restroom service, and glass spot-cleaning. Weekly and monthly tiers handle full glass partitions, upholstery, baseboards, and vents, while quarterly floor care is usually amortized at $0.03–$0.06 per sq ft per month. Nightly glass work and between-meeting conference resets are the tasks most likely to push labor above standard $35–$65 per hour office rates.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic view down a corridor of glass-fronted private offices in a US executive suites center at night, a janitor squeegeeing a glass sidelight while a microfiber flat mop rests against the wall, sleek LVT flooring, soft linear ceiling lights, three-quarter camera angle at shoulder height, no text, no logos, no watermarks",
+    "alt": "Janitor squeegeeing glass office fronts along a corridor in an executive suites business center"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Organize the Roster by Zone, Not by Task Type" },
+    { "type": "p", "text": "Executive suite centers have distinct zones with different standards: reception and lounge are hospitality-grade, conference rooms are booked by the hour, private offices are leased spaces with member property inside, and back-of-house areas such as copy rooms and storage are utilitarian. A roster written by zone helps crews prioritize member-facing areas first and lets the operator inspect quickly. It also clarifies which zones are covered by the building landlord, such as core restrooms or elevator lobbies, and which belong to the suite contract." },
+    { "type": "h2", "text": "Nightly Duty Roster" },
+    { "type": "table", "caption": "Nightly tasks for a Regus-style executive business center", "headers": ["Zone", "Nightly task", "Labor intensity", "Inspection point"], "rows": [
+      ["Reception and lounge", "Dust desk and furniture, damp mop hard floor, vacuum mats, straighten seating, spot-clean entry glass", "High", "Fingerprint-free glass and streak-free floor at opening"],
+      ["Conference rooms", "Reset chairs, wipe tables and AV controls, clean whiteboards, empty trash, vacuum", "Medium-high", "Room ready for 8 a.m. booking"],
+      ["Private offices", "Empty trash and recycling, vacuum open floor, wipe door levers", "Medium", "Member desks untouched unless cleared"],
+      ["Kitchen or cafe", "Wipe counters and appliance fronts, clean sink, empty coffee grounds, mop", "Medium", "Priced at $12–$25 per visit"],
+      ["Restrooms", "Clean fixtures, mirrors, partitions; restock paper and soap; mop", "High", "$15–$30 per restroom per visit"],
+      ["Phone booths and focus rooms", "Wipe surfaces and handles, vacuum", "Low", "Small but high-touch"],
+      ["Copy and mail room", "Empty recycling, wipe counters, dust equipment exteriors", "Low", "Confidential bins left closed"]
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Respect the member desk rule", "text": "Most operators instruct crews not to touch papers or items on member desks. Wipe only cleared surfaces. Writing this into the roster prevents complaints and protects members' confidential documents." },
+    { "type": "h2", "text": "Weekly Tasks" },
+    { "type": "ul", "items": [
+      "Full-height cleaning of interior glass partitions and office fronts, not just spot cleaning.",
+      "Vacuum upholstered lounge seating and conference chairs.",
+      "Detail dust picture frames, decor, plant containers, and window sills in member areas.",
+      "Polish stainless kitchen appliances and descale coffee drip trays.",
+      "Wipe baseboards in reception, corridors, and conference rooms.",
+      "Disinfect phone booth acoustic panels and door handles thoroughly."
+    ] },
+    { "type": "h2", "text": "Monthly and Quarterly Tasks" },
+    { "type": "p", "text": "Monthly tasks include dusting HVAC grilles and high ledges, vacuuming private-office baseboards on a rotating schedule, spot-extracting carpet stains in conference rooms, and cleaning light fixtures within reach. Quarterly, schedule carpet hot-water extraction in corridors and conference rooms and scrub-and-recoat or burnish hard floors in reception. Budget the deep floor program at $0.03–$0.06 per sq ft per month; a 9,000 sq ft center pays about $270–$540 monthly." },
+    { "type": "table", "caption": "Periodic tasks and scheduling for executive suites", "headers": ["Frequency", "Task", "Scheduling note"], "rows": [
+      ["Monthly", "HVAC grilles and high dusting", "Avoid nights before major events"],
+      ["Monthly", "Private office baseboards", "Rotate one wing per week"],
+      ["Monthly", "Conference room carpet spotting", "After heavy catering weeks"],
+      ["Quarterly", "Carpet extraction in corridors and conference rooms", "Friday night for dry time"],
+      ["Quarterly", "Reception floor burnish or recoat", "Weekend with lobby closed"],
+      ["Semiannual", "Upholstery shampoo in lounge", "Coordinate with community manager"]
+    ] },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Standard office labor runs about $35–$65 per hour nationally, while specialty work is priced at $55–$95. Executive suites generate several tasks that drift toward specialty pricing. Nightly glass detailing across dozens of office fronts is slow, precise work. Daytime conference resets between bookings require a porter on call. Stone or marble reception floors need specific neutral cleaners and periodic polishing. After-event cleanups following member mixers can require extra crew hours. Each of these should be priced separately rather than buried in the base rate." },
+    { "type": "steps", "items": [
+      { "name": "Separate porter coverage", "text": "List day porter hours for conference resets and restroom checks as a distinct hourly line." },
+      { "name": "Price events on demand", "text": "Set a per-event cleanup rate so member mixers do not trigger disputes." },
+      { "name": "Specify glass standards", "text": "Define spot-clean nightly versus full-height weekly so vendors bid the same work." },
+      { "name": "Count offices", "text": "State the number of private offices, booths, and conference rooms so labor estimates match reality." }
+    ] },
+    { "type": "h2", "text": "Tools That Support the Roster" },
+    { "type": "p", "text": "The Ettore Master Brass 14-inch squeegee, with a solid brass handle and replaceable pro rubber blade, handles office-front glass and sidelights efficiently. 3M Scotch-Brite Commercial Heavy-Duty Scour Pads, sold in 6x9 inch 20-packs, are non-rusting and suitable for kitchen sinks and porcelain without leaving metal residue. For reception and corridor hard floors, the Rubbermaid Commercial HYGEN 18-inch microfiber flat mop kit uses an onboard 2-quart reservoir and quick-connect frame, eliminating a bucket in member-visible areas." },
+    { "type": "callout", "variant": "compliance", "title": "HazCom in shared spaces", "text": "Chemicals stored in a shared janitor closet must have current Safety Data Sheets and compliant labels under OSHA's Hazard Communication Standard. Members should never have access to concentrated cleaning chemicals." },
+    { "type": "cta", "text": "Price your duty roster in the Office Cleaning Cost Calculator, then use the Quote Comparator to verify each vendor includes glass, conference resets, and porter hours in the same scope." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a 9,000 sq ft executive suite need nightly?", "a": "ISSA benchmarks suggest about 3,500 sq ft per hour for routine office cleaning, but executive suites usually run slower, around 2,500–3,000 sq ft per hour, because of glass, small offices, and reception detailing. That works out to roughly 3 to 3.6 labor hours nightly." },
+    { "q": "Should a vendor clean member offices daily?", "a": "Most operators include nightly trash removal and vacuuming of open floor areas in private offices. Desk surfaces are wiped only when cleared. Full detail cleaning is often weekly. Define this clearly so members know what to expect." },
+    { "q": "What scope exclusions are common in serviced-office contracts?", "a": "Typical exclusions include exterior windows, member-owned equipment, IT closets, high dusting above 10 feet, upholstery shampooing beyond the scheduled program, and biohazard cleanup. Event cleanups are often excluded from the base rate and billed separately." },
+    { "q": "How do I calculate monthly cost from the weekly roster?", "a": "Multiply per-visit cost by visits per month using 4.333 weeks. Five nights per week equals about 21.65 visits per month. Add weekly and monthly tasks as amortized costs or separate line items." },
+    { "q": "Is a bloodborne pathogens plan necessary for an executive suite vendor?", "a": "If crews may clean up blood or bodily fluids in restrooms or after an incident, OSHA requires an exposure control plan, training, and PPE. Ask the vendor for documentation before signing." }
+  ],
+  "amazonProductIds": [
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack",
+    "ettore-master-brass-14-inch-commercial-window-squeegee",
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/executive-suites-business-center-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/medical-clinic-cleaning-cost/",
+    "/facility-cleaning-costs/medical-clinic-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-low-profile-ada-entrance-mats-for-office-doors/"
+  ]
+}

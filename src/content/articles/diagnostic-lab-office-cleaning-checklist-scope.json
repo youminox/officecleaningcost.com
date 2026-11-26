@@ -1,0 +1,88 @@
+{
+  "slug": "diagnostic-lab-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/diagnostic-lab-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "diagnostic lab office scope tasks",
+  "title": "Diagnostic Lab Office Scope Tasks: What Vendors Clean Inside a Diagnostic Lab & Blood Draw Suite (Room-by-Room)",
+  "seoTitle": "Diagnostic Lab Office Scope Tasks: Room-by-Room Blood Draw Checklist",
+  "metaDescription": "Diagnostic lab office scope tasks room by room: about 77 labor minutes nightly for a 2,200 sq ft draw suite, 2x an office. Price yours in our calculator.",
+  "excerpt": "A blood draw suite packs waiting, draw stations, a specimen collection restroom, and a processing area into a few thousand square feet, and each room has its own cleaning rules. This room-by-room checklist shows what vendors should clean nightly, weekly, and monthly, and which tasks double labor time versus an ordinary office.",
+  "quickAnswer": "A diagnostic lab scope covers nightly disinfection of draw chairs, check-in surfaces, and restrooms, floor-only care in the processing area, and a secured reset of the specimen collection restroom, plus weekly burnishing and monthly high dusting. A 2,200 sq ft suite needs about 77 labor minutes per night versus roughly 38 minutes at office production rates, which supports bids near $277-$472 per visit.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic view down the corridor of a closed US diagnostic lab patient service center at night, cleaner pushing a wide cotton dust mop along polished VCT past open draw booths with phlebotomy chairs, compact HEPA air purifier humming in the waiting nook, cool white overhead lighting, low camera angle near floor level, no text, no logos, no signage, no watermarks",
+    "alt": "Cleaner dust mopping the corridor of a diagnostic lab past phlebotomy draw booths"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why room-by-room matters in a lab suite" },
+    { "type": "p", "text": "In an ordinary office, a scope can say 'vacuum carpets, empty trash, clean restrooms' and most crews will get it right. In a diagnostic lab suite, the same generic language causes problems. A cleaner who wipes the processing bench can disturb specimens or contaminate quality controls. A cleaner who leaves a spray bottle in the specimen collection restroom can compromise a drug-test collection. A cleaner who skips the underside of a draw chair armrest misses the surface most likely to carry blood. The scope has to say which rooms get which treatment." },
+    { "type": "h2", "text": "Room-by-room production model" },
+    { "type": "p", "text": "The model below uses a 2,200 sq ft patient service center with four draw booths, one specimen collection restroom, one staff restroom, a processing room, and a small office and break area. Standard office production is roughly 3,500 sq ft per labor hour, which would put this suite at about 38 minutes per night. The clinical reality is about double." },
+    { "type": "table", "caption": "Nightly labor by room, 2,200 sq ft blood draw suite", "headers": ["Room", "Sq ft", "Production rate", "Minutes", "What drives the time"], "rows": [
+      ["Waiting and check-in", "600", "2,500 sq ft/hr", "14", "Chairs, check-in counter, sign-in tablets, entry glass"],
+      ["Draw booths (4)", "320", "1,400 sq ft/hr", "14", "Chair arms top and underside, side tables, glove box holders, floor"],
+      ["Specimen collection restroom", "60", "Fixed", "15", "Fixtures, pass-through door, secure chemicals, restore bluing per site protocol"],
+      ["Staff restroom", "60", "Fixed", "10", "Standard fixture disinfection and restock"],
+      ["Processing / centrifuge room", "350", "2,000 sq ft/hr", "11", "Floor disinfection only, sink, trash; no bench contact"],
+      ["Corridor", "400", "4,500 sq ft/hr", "5", "Dust mop and damp mop"],
+      ["Office and break area", "410", "3,000 sq ft/hr", "8", "Trash, desks, breakroom sink and microwave"],
+      ["Total", "2,200", "about 1,710 sq ft/hr blended", "77 (about 1.3 hrs)", "vs about 38 min at office standard"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Labor reality check", "text": "About 1.3 labor hours per night for 2,200 sq ft is roughly twice the standard office load. A bid built on 30-40 minutes per night is almost certainly omitting chair undersides, specimen restroom security steps, or disinfectant dwell time." },
+    { "type": "h2", "text": "Nightly tasks by room" },
+    { "type": "ul", "items": [
+      "Waiting and check-in: disinfect counter, pens, clipboards or tablets, door push plates, chair arms; vacuum walk-off mats; clean entry glass.",
+      "Draw booths: disinfect the entire draw chair including armrest tops, edges, and undersides, the adjustment levers, side tables, and wall-mounted glove and sharps-holder exteriors; damp mop with disinfectant.",
+      "Specimen collection restroom: clean and disinfect fixtures and pass-through door; remove all cleaning products when finished; restore any bluing agent and tape seals per the lab's written collection protocol; leave no soap or chemicals accessible if the site performs drug-test collections.",
+      "Staff restroom: full fixture disinfection, restock tissue, towels, and soap to par.",
+      "Processing room: empty general trash only, clean the handwash sink, disinfect the floor; never touch benches, centrifuges, refrigerators, or specimen racks.",
+      "Corridor: dust mop with a wide head, then damp mop; spot remove scuffs from chair casters and wheelchairs.",
+      "Office and break: empty trash, wipe desks that are cleared, clean breakroom sink and appliance exteriors and microwave interior."
+    ] },
+    { "type": "h2", "text": "Weekly and monthly scope" },
+    { "type": "table", "caption": "Periodic tasks in a diagnostic lab suite", "headers": ["Task", "Frequency", "Approx. labor", "Notes"], "rows": [
+      ["Burnish VCT in corridor, waiting, and draw booths", "Weekly", "30-40 min", "Removes caster marks; restores slip resistance after disinfectant buildup"],
+      ["Detail baseboards and coved base in draw booths", "Weekly", "20 min", "Dried disinfectant and blood-spatter residue collect at the base"],
+      ["Wipe walls to 6 ft around draw chairs and sinks", "Weekly", "20 min", "Hand contact and splash zones"],
+      ["High dust vents, returns, light lenses", "Monthly", "30-45 min", "Reduces dust load around specimen handling"],
+      ["Grout scrub tile restrooms", "Monthly", "30-45 min", "Tile and grout carries a 1.12 labor multiplier"],
+      ["Replace HEPA prefilters on room purifiers", "Monthly or per indicator", "10 min", "If the lab uses portable units in waiting or draw areas"],
+      ["Scrub and recoat VCT", "Quarterly", "Project price", "About $0.03-$0.06 per sq ft per month amortized"]
+    ] },
+    { "type": "h2", "text": "Tasks that push labor above office rates" },
+    { "type": "p", "text": "Four items explain the premium. Draw-chair disinfection is the first: vinyl armrests need a full wipe including seams and undersides, with the surface kept wet for the disinfectant's label contact time. Specimen restroom security is the second: removing and logging chemicals, checking seals, and restoring the room exactly as the collection protocol requires. Third is tool discipline: color-coded microfiber, separate restroom tools, and a wide 36-inch cotton dust mop on a swivel frame for fast corridor passes before damp mopping. Fourth is documentation: a signed nightly room log is standard in lab networks and is what an inspector or quality manager will ask for." },
+    { "type": "p", "text": "For office and break areas with wood-look LVT or engineered wood, a low-moisture 18-inch microfiber flat mop with separate dust and wet pads keeps water off seams and speeds the non-clinical portion of the shift. Some labs also place a True HEPA H13 portable purifier, such as a unit rated around 1,100 sq ft with a 36 dBA low setting, in the waiting area; the scope should state who changes filters." },
+    { "type": "h2", "text": "Building a comparable scope document" },
+    { "type": "steps", "items": [
+      { "name": "Create a room schedule", "text": "Number each room, list function, flooring, and square feet, and flag the specimen collection restroom and processing room." },
+      { "name": "Draw the responsibility line", "text": "State that lab staff clean benches, analyzers, and patient equipment; janitorial cleans environmental surfaces." },
+      { "name": "Attach the collection protocol", "text": "Give the vendor the lab's written specimen restroom reset steps so cleaners follow them exactly." },
+      { "name": "Specify chemicals", "text": "List the required EPA-registered disinfectant, its contact time, and the certified general cleaner for non-clinical areas." },
+      { "name": "Set audit cadence", "text": "Require monthly scored inspections and nightly sign-off sheets, kept on site for at least a year." }
+    ] },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to price your suite by square footage and restroom count, and run competing proposals through the Quote Comparator to make sure every room on your schedule is actually covered." }
+  ],
+  "faqs": [
+    { "q": "Can janitorial staff clean the lab processing bench?", "a": "They should not. Bench decontamination, analyzer cleaning, and specimen refrigerator care fall under the lab's own quality procedures and are performed by trained lab staff. Janitorial covers the processing room floor, sink, walls, and general trash only." },
+    { "q": "What is special about cleaning a drug-test collection restroom?", "a": "Federal DOT collection rules and most employer programs require that no soap, cleaners, or other substances a donor could use to adulterate a sample be accessible, that water sources be secured, and that a bluing agent be in the toilet. Cleaners must remove all products after cleaning and restore the room exactly per the lab's protocol." },
+    { "q": "How long should cleaning take in a 2,200 sq ft blood draw suite?", "a": "About 75-85 minutes per night for one trained technician, including restrooms, draw booths, and floors. Weekly burnishing and detail work add 60-80 minutes once a week. Frequency math uses 4.333 weeks per month, so weekly items occur about 52 times a year." },
+    { "q": "Do lab cleaners need special training?", "a": "Yes. OSHA requires bloodborne pathogen training under 29 CFR 1910.1030 and HazCom training under 29 CFR 1910.1200. Lab networks typically add a site orientation covering specimen restroom protocol, the bench no-touch rule, and confidentiality around patient paperwork." },
+    { "q": "What should be excluded from a lab cleaning scope?", "a": "Typical exclusions include regulated medical waste and sharps, biohazard spill response beyond the initial containment by lab staff, bench and equipment decontamination, carpet extraction, exterior windows, and restocking of lab supplies such as tubes and gauze. List exclusions so change orders are clear." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle",
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/diagnostic-lab-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/pharmacy-admin-office-cleaning-cost/",
+    "/facility-cleaning-costs/pharmacy-admin-office-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-commercial-foam-soap-refills-fragrance-free/"
+  ]
+}

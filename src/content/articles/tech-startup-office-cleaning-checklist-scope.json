@@ -1,0 +1,88 @@
+{
+  "slug": "tech-startup-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/tech-startup-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "tech startup office scope tasks",
+  "title": "Daily & Weekly Task List for Tech Startup & Engineering Suite Crews: Scope Tasks and Labor Hours",
+  "seoTitle": "Tech Startup Office Scope Tasks: Daily & Weekly Crew Checklist",
+  "metaDescription": "Tech startup office scope tasks for daily, weekly, and monthly crews, with labor minutes for an 8,000 sq ft suite. Price your scope in our calculator.",
+  "excerpt": "Startup kitchens, phone booths, showers, and hardware labs add labor that a standard office checklist misses. This task list breaks an engineering suite scope into daily, weekly, and monthly work and shows where hours climb above typical office rates.",
+  "quickAnswer": "An 8,000 sq ft tech startup suite needs about 2.3 hours of open-floor production per visit at 3,500 sq ft per hour, but kitchens, restrooms, phone booths, and recycling sorting push a realistic daily visit to 4.5 to 5.5 crew hours. Specialty tasks such as ESD-safe lab cleaning, shower room descaling, and upholstery extraction are typically billed at $55–$95 per hour.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic night scene inside an American engineering startup suite, a janitor wiping the glass door of a soundproof phone booth beside a row of standing desks on polished concrete, a tall white HEPA air purifier near a breakout lounge with beanbags, sorted compost, recycling, and landfill bins along a kitchen wall, cool blue-white LED lighting, low-angle shot from floor level across the concrete, no text, no logos, no screen content, no watermarks",
+    "alt": "Janitor cleaning a phone booth door in a tech startup office with sorted waste bins and an air purifier nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What a Startup Scope Must Cover That a Standard Office Scope Misses" },
+    { "type": "p", "text": "Standard janitorial checklists were written for private offices and cubicles: empty trash, vacuum, dust, clean restrooms. A venture-backed engineering suite adds an all-day kitchen, catered lunch waste, three-stream sorting for compost, recycling, and landfill, enclosed phone booths with their own ventilation, focus pods with upholstered seating, game tables, bike storage, and sometimes shower rooms or a hardware bench. None of those appear in a generic scope, so they either get skipped or turn into change-order disputes." },
+    { "type": "p", "text": "The sample checklist below is for an 8,000 sq ft Series A suite with about 50 people on a hybrid schedule: polished concrete in the open area and kitchen, carpet tiles in meeting rooms, six phone booths, three conference rooms, a 600 sq ft kitchen and lounge, three restrooms, one shower room, and a small IDF closet the crew must never enter." },
+    { "type": "h2", "text": "Daily Tasks and Labor Minutes" },
+    { "type": "table", "caption": "Every-visit scope for an 8,000 sq ft engineering suite", "headers": ["Area", "Task", "Minutes per visit"], "rows": [
+      ["Kitchen and lounge", "Wipe and disinfect island, counters, and sink; clean microwave and espresso drip trays; wipe fridge and dishwasher handles; mop floor", "35–45"],
+      ["Waste stations", "Empty and sort compost, recycling, and landfill; rinse compost bins; reline; haul to building stream areas", "25–35"],
+      ["Open desk area", "Empty desk-side bins; dust-mop or auto-scrub polished concrete; spot-mop spills under desks", "50–60"],
+      ["Phone booths (6)", "Wipe desk surface, door handle, and glass; vacuum booth floor; empty bin", "18–24"],
+      ["Conference rooms (3)", "Wipe tables and chair arms; clean whiteboards if erased; vacuum carpet tile", "18–24"],
+      ["Restrooms (3)", "Disinfect fixtures; refill soap, paper, and towels; mop; empty sanitary bins", "36–45"],
+      ["Shower room", "Squeegee walls; disinfect floor and bench; empty towel hamper; mop", "12–15"],
+      ["Entry and elevator lobby", "Spot glass; vacuum walk-off mat; wipe reception and visitor tablet stand exterior", "8–10"]
+    ] },
+    { "type": "p", "text": "Those tasks total about 202 to 258 minutes, or 3.4 to 4.3 hours. Add cart setup, stream hauling to the building dock, and a closing walkthrough and a daily visit realistically runs 4.5 to 5.5 crew hours, roughly double what the 3,500 sq ft per hour production benchmark suggests for 8,000 sq ft. The kitchen and waste stations alone account for about a quarter of the visit." },
+    { "type": "callout", "variant": "warning", "title": "Define the no-touch zones in writing", "text": "List every area the crew must not enter or touch: IDF and server closets, hardware benches with powered boards, personal desks with laptops open, and any lab cabinet. Crews should never unplug equipment, move cables, or wet-clean near exposed electronics. A single unplugged test rig or wet power strip can cost more than a year of cleaning." },
+    { "type": "h2", "text": "Weekly Tasks" },
+    { "type": "ul", "items": [
+      "Detail vacuum or auto-scrub under standing desks after raising chairs and cable trays clear of the floor (40–50 minutes).",
+      "Clean interior glass on phone booths, conference room walls, and entry doors on both sides (30–40 minutes).",
+      "Wipe game tables, lounge furniture frames, and beanbag exteriors; vacuum upholstered booth seats (20–30 minutes).",
+      "Descale espresso and sink faucets, clean inside microwaves thoroughly, and wipe cabinet fronts (20–25 minutes).",
+      "Disinfect shared peripherals at hot desks and the reception visitor tablet exterior with electronics-safe wipes (15–20 minutes).",
+      "Deep clean the shower room grout lines and drain cover (20 minutes)."
+    ] },
+    { "type": "p", "text": "Weekly items add roughly 2.4 to 3.1 hours per week. On daily weekday service vendors spread them across five visits, adding about 30 to 37 minutes per visit." },
+    { "type": "h2", "text": "Monthly and Specialty Tasks That Push Hours Above Standard Office Rates" },
+    { "type": "table", "caption": "Periodic and specialty tasks with billing basis", "headers": ["Task", "Frequency", "Labor estimate", "Billing basis"], "rows": [
+      ["High dusting of exposed ductwork, cable trays, and pendant lights", "Monthly", "2–3 hours with lift or extension poles", "$55–$95 per hour"],
+      ["Polished concrete burnish or scrub-and-condition", "Monthly or quarterly", "2–4 hours", "$0.03–$0.06 per sq ft per month amortized"],
+      ["Carpet tile extraction in conference rooms and booths", "Quarterly", "2–3 hours", "Included in deep floor program"],
+      ["Phone booth filter and fan grille vacuuming", "Monthly", "5 minutes per booth", "Included if listed"],
+      ["Air purifier pre-filter cleaning and filter-change logging", "Monthly", "5–10 minutes per unit", "Included; filters at cost"],
+      ["ESD-safe hardware lab bench and floor cleaning", "Weekly or monthly", "1–2 hours", "$55–$95 per hour"],
+      ["Upholstered lounge and booth seat extraction", "Quarterly", "2–3 hours", "$55–$95 per hour"]
+    ] },
+    { "type": "p", "text": "Exposed ceilings are a signature of loft-style startups, and the dust that settles on ducts and cable trays eventually falls onto desks. Many teams supplement cleaning with portable HEPA units. A Medify MA-50 with True HEPA H13 filtration covers about 1,100 sq ft, suited to a large conference room or desk zone, and runs as low as 36 dBA. An Alen BreatheSmart 75i covers about 1,300 sq ft with a laser particle sensor and a whisper-quiet run mode, a fit for open engineering areas where noise matters. A Winix 5500-2 with True HEPA and washable AOC carbon covers about 360 sq ft and handles kitchen odors in a small lounge. Add pre-filter cleaning and filter-change logging to the monthly scope so the units actually keep working." },
+    { "type": "callout", "variant": "tip", "title": "Schedule around deploys and late nights", "text": "Engineering teams often work past 8 pm during launches. Agree on a quiet-hours protocol: crews start in the kitchen and restrooms, use cordless equipment in occupied zones, and leave desk areas with people still working for the end of the shift." },
+    { "type": "h2", "text": "Converting the Task List Into a Labor Budget" },
+    { "type": "steps", "items": [
+      { "name": "Total daily minutes for your layout", "text": "Adjust the table for your number of booths, restrooms, and kitchen size. The sample suite totals 202 to 258 minutes before overhead." },
+      { "name": "Add weekly tasks per visit", "text": "Divide weekly hours by visits per week; on daily service the sample adds 30 to 37 minutes per visit." },
+      { "name": "Separate specialty lines", "text": "Keep high dusting, lab cleaning, and upholstery as priced lines you can approve each quarter." },
+      { "name": "Compare implied hours across bids", "text": "Divide each vendor's monthly price by visits to get price per visit, then ask how many crew hours that buys. Bids implying under 4 hours per daily visit for this layout have likely dropped kitchen or waste sorting work." }
+    ] },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to price your suite's square footage, flooring, frequency, and restrooms, then upload competing scopes to the Quote Comparator to confirm every bid covers kitchens, booths, and waste sorting."
+    }
+  ],
+  "faqs": [
+    { "q": "How many crew hours does a daily clean of an 8,000 sq ft startup office take?", "a": "Plan on 4.5 to 5.5 crew hours per daily visit for a layout with a busy kitchen, three restrooms, six phone booths, and three-stream waste sorting, plus about 30 to 37 minutes per visit for weekly tasks spread across the week." },
+    { "q": "Should the cleaning crew sort compost and recycling?", "a": "Yes, if your building or city requires it, and it should be written into the scope. Sorting and rinsing compost bins adds 25 to 35 minutes per visit in a 50-person office, so confirm bidders have priced it rather than assuming they will haul everything as landfill." },
+    { "q": "What specialty tasks cost more than standard office cleaning?", "a": "High dusting of exposed ducts and cable trays, ESD-safe hardware lab cleaning, upholstery extraction, and polished concrete burnishing usually bill at $55 to $95 per hour because they need trained technicians, lifts, or special equipment." },
+    { "q": "What chemicals and documentation should crews use in a startup suite?", "a": "Crews should use EPA-registered disinfectants with the label dwell time on restrooms, kitchen surfaces, and shared touch points, and electronics-safe products on peripherals. Under OSHA HazCom, Safety Data Sheets must be available for every product, and Green Seal certified cleaners are a common requirement for LEED buildings." },
+    { "q": "How do I keep crews away from servers and lab equipment?", "a": "List no-touch zones by room name in the scope, lock IDF closets, label lab benches, and have the vendor's supervisor sign the access plan. Require crews to report rather than clean any spill near electronics." }
+  ],
+  "amazonProductIds": [
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier",
+    "alen-breathesmart-75i-commercial-true-hepa-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/tech-startup-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/architecture-design-studio-cleaning-cost/",
+    "/facility-cleaning-costs/architecture-design-studio-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-commercial-mop-handles-and-quick-change-frames/"
+  ]
+}

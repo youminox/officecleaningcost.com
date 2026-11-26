@@ -1,0 +1,201 @@
+{
+  "slug": "performance-credits-and-missed-visit-refunds-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/performance-credits-and-missed-visit-refunds-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric performance credits and missed visit refunds",
+  "title": "Weighted Bid Evaluation Rubric: Scoring Janitorial Missed-Visit Credits & Refund SLAs",
+  "seoTitle": "Weighted Evaluation Rubric: Missed Visit Credits & Refund SLAs",
+  "metaDescription": "Evaluate janitorial bids on missed visit credits and performance refund SLAs with a 100-point rubric and $0.05-$0.20/sq ft benchmarks. Compare now.",
+  "excerpt": "Use a 100-point weighted evaluation rubric to score commercial cleaning proposals on missed-visit credit transparency, electronic labor verification, backup rover bench strength, and SLA refund terms. Procurement directors learn how to quantify contractual accountability across competing bids before awarding a janitorial contract.",
+  "quickAnswer": "A procurement-grade weighted evaluation rubric for janitorial missed-visit credits and performance refunds grades proposals across five criteria totaling 100 points: Pro-Rata Visit Credit Formula & 4.333-Week Math (25 pts), Geofenced Labor Hour & Short-Shift Refunds (25 pts), Backup Rover Bench Strength & 2-Hour Daytime Dispatch (20 pts), Tiered KPI Scorecard Fee-At-Risk Schedule (15 pts), and Itemized Add-On & Deep Floor Escrow Refunds (15 pts). Bidders scoring below 75 points expose the facility to uncredited ghost shifts and should be required to accept standard client SLA riders.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic US corporate procurement team seated at a glass conference room table scoring commercial cleaning RFP binders on a digital tablet dashboard, commercial traditional janitorial cart, twist-lock trash dolly, and hands-free step-on medical bin staged in the background facility testing zone, bright natural office lighting, no text or logos",
+    "alt": "Corporate procurement team scoring janitorial RFP bids using a weighted evaluation rubric for missed visit credits"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Evaluating SLA Credit Terms During the RFP Prevents Post-Award Friction"
+    },
+    {
+      "type": "p",
+      "text": "The worst time to negotiate a missed-visit credit or a short-shift refund is the morning after your janitorial contractor misses a shift. Once a commercial cleaning contract is executed and the vendor's crew is mobilized on site, the contractor holds substantial operational leverage: they know that re-bidding the facility, vetting new background checks, and transitioning keycards takes 30 to 60 days. Conversely, during the competitive RFP evaluation phase—before the contract is awarded—every finalist bidder is eager to accept transparent, mathematically fair SLA credit clauses to win the account."
+    },
+    {
+      "type": "p",
+      "text": "By scoring every bidder's proposed credit and remedy structure on a 100-point weighted evaluation rubric during proposal review, procurement teams force contractors to disclose three critical operational realities upfront: how they verify nightly attendance, how quickly they dispatch emergency relief porters when an evening cleaner calls out sick, and whether they stand behind their promised labor hours ($35 to $65 per hour standard, anchored to the ISSA 3,500 sq ft/hr benchmark) with automatic dollar-for-dollar invoice credits."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Include a Mandatory Client SLA Rider in Your RFP Packet",
+      "text": "Instead of asking bidders to attach their own boilerplate terms and conditions, include your standard Missed-Visit Credit & SLA Performance Schedule as Exhibit C of the RFP. Require bidders to check 'Accept Without Exception' to earn full rubric points (100/100), or redline specific exceptions that are automatically docked points during technical scoring."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric for Missed-Visit Credits & Refund SLAs"
+    },
+    {
+      "type": "p",
+      "text": "Apply this five-part scoring matrix to grade every janitorial proposal's commercial accountability, staffing redundancy, and financial reconciliation protections."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point RFP Scoring Matrix: Janitorial Missed-Visit Credits, Short-Shift Refunds & Cure SLAs",
+      "headers": [
+        "Evaluation Dimension",
+        "Max Weight",
+        "Tier 1: Institutional Standard (90%–100% Pts)",
+        "Tier 2: Conditional Baseline (50%–75% Pts)",
+        "Tier 3: High Billing Risk (0%–25% Pts)"
+      ],
+      "rows": [
+        [
+          "1. Pro-Rata Visit Credit Formula (4.333 Wks/Mo)",
+          "25 pts",
+          "Accepts 100% pro-rata visit credit (Monthly Fee ÷ Scheduled Visits: 4.33, 8.66, 13.0, or 21.65) + 15% unannounced no-show credit on next invoice",
+          "Accepts 100% pro-rata visit credit divided by scheduled monthly visits after 1 written cure opportunity per quarter",
+          "Insists on 1/30th calendar-day prorating or 'next-shift re-performance as sole remedy' with zero cash refund"
+        ],
+        [
+          "2. Geofenced Timekeeping & Short-Shift Refunds",
+          "25 pts",
+          "Provides client access to GPS/biometric clock-in logs; automatically credits any monthly labor shortfall >5% at $35–$65/hr contracted wage rate",
+          "Submits monthly supervisor labor hour summaries upon request; credits labor shortfalls >12% after client audit notification",
+          "Refuses to disclose or guarantee nightly labor hours; claims contract is 'outcome-based' with no hourly refund mechanism"
+        ],
+        [
+          "3. Floating Rover Bench & Daytime Emergency Cure",
+          "20 pts",
+          "Maintains W-2 floating rover crew within 25-min radius; guarantees <2-hour morning emergency porter dispatch (by 10:00 AM) for missed night shifts",
+          "Maintains regional supervisor backup capable of same-day afternoon relief or next-night double crew recovery",
+          "100% subcontracted or single-crew operation with zero backup bench; missed shift remains untouched until next scheduled visit"
+        ],
+        [
+          "4. Tiered KPI Scorecard Fee-At-Risk Schedule",
+          "15 pts",
+          "Puts 3%–8% of monthly invoice at risk automatically when rolling monthly APPA Level 2 KPI scorecard drops below 85%",
+          "Agrees to 2%–4% invoice credit if monthly KPI scorecard falls below 80% for two consecutive months",
+          "Rejects scorecard-linked financial credits; offers only supervisor re-inspection meetings"
+        ],
+        [
+          "5. Itemized Add-On & Deep Floor Escrow Clawbacks",
+          "15 pts",
+          "Itemizes per-visit credit values for Restrooms ($15–$30), Breakrooms ($12–$25), Glass ($15–$35), and auto-refunds unperformed $0.03–$0.06/sq ft/mo floor care",
+          "Provides lump-sum base price with separate line item for quarterly deep floor care subject to completion sign-off",
+          "Bundles all base, restroom, and periodic floor services into one non-itemized flat fee with no partial refund schedule"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Criterion 1 & 2: Testing the Bidder's Math Across Size Brackets and Frequencies"
+    },
+    {
+      "type": "p",
+      "text": "When scoring Criterion 1 (25 points) and Criterion 2 (25 points), require each bidder to populate a transparent Pricing & Credit Worksheet based on your facility's exact square footage bracket: Under 2,500 sq ft ($0.12 to $0.20/sq ft or $90 to $135 minimum per visit), 2,500 to 9,999 sq ft ($0.09 to $0.15/sq ft), 10,000 to 24,999 sq ft ($0.07 to $0.12/sq ft), or 25,000+ sq ft ($0.05 to $0.10/sq ft). The worksheet must explicitly state three numbers: (1) Total Contracted Monthly Visits using the 4.333 weeks/month constant, (2) Total Contracted Nightly and Monthly Man-Hours, and (3) Exact Dollar Credit per Missed Visit and per Unworked Labor Hour."
+    },
+    {
+      "type": "p",
+      "text": "Suppose you are evaluating bids for a 14,000 sq ft corporate headquarters with ceramic tile restrooms (1.12x flooring multiplier) and VCT vinyl breakrooms (1.04x multiplier) on a 3x-week schedule (13.00 visits per month at a 0.95 frequency multiplier). Bidder A quotes $3,900/month ($300.00 per visit), commits to 5.5 man-hours per visit (71.5 hours/month at $54.55/hr), and agrees in writing to a $300.00 missed-visit credit and a $54.55/hr short-shift refund for any verified labor deficit exceeding 5%. Bidder B quotes $3,500/month ($269.23 per visit) but refuses to guarantee nightly man-hours and caps missed-visit credits at $116.67 (1/30th of $3,500). On our 100-point rubric, Bidder A earns 50 out of 50 points across Criteria 1 and 2, while Bidder B earns only 10 out of 50 points—revealing that Bidder B's apparent $400/month savings will evaporate the first time they short-shift your building by 8 hours a month."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Criterion 3: Auditing Operational Redundancy and On-Site Equipment Ergonomics"
+    },
+    {
+      "type": "p",
+      "text": "Even the best missed-visit credit clause is second best to a shift that never gets missed in the first place. Criterion 3 (20 points) evaluates the contractor's physical ability to prevent missed visits through W-2 floating rover crews and ergonomic on-site equipment staging. When a night cleaner calls out sick at 4:30 PM, a top-tier contractor dispatches a cross-trained rover technician who can step into your janitor closet and complete the entire route on time because the tools are standardized and intuitive."
+    },
+    {
+      "type": "p",
+      "text": "During finalist site visits or proposal equipment reviews, award full technical points to contractors who stage commercial-grade labor-saving hardware in your facility. A Rubbermaid Commercial Traditional Janitorial Cart 6173—offering a 300-pound capacity, 25-gallon zippered vinyl bag, 8-inch rear wheels, and an integrated front bucket shelf—allows an unfamiliar relief rover to wheel every cleaner, liner, and towel pack through the suite without hunting for supplies. Pairing central waste barrels with a Rubbermaid Commercial Brute 5-Caster Trash Can Dolly (rated for 250-pound loads with a twist-lock base and five quiet swivel casters) lets a solo backup technician move heavy breakroom and copy-room loads in a single trip without straining or running over shift time. In medical suites, wellness rooms, or executive breakrooms where OSHA compliance and odor containment are critical scorecard checkpoints, deploying a hands-free Rubbermaid Commercial Slim Jim Step-On Front-Step 18-Gallon Bin (featuring an internal hinge, quiet slow-close lid, and commercial foot pedal) ensures regulatory compliance even during rapid relief shifts."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Verify the Bidder's W-2 Rover Ratio During Interviews",
+      "text": "Ask every finalist bidder a direct operational question: 'How many salaried or full-time W-2 floating utility rovers do you employ within 20 miles of our zip code who are not assigned to a permanent fixed building route?' Contractors with at least one dedicated rover per 8 to 10 active accounts achieve a 99.4%+ shift completion rate, whereas contractors with zero unassigned rovers must cannibalize another client's building whenever someone calls out sick."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Criterion 5: Protecting Amortized Periodic Services and Compliance Coverage"
+    },
+    {
+      "type": "p",
+      "text": "The final 15 points of the rubric examine how the bidder structures refunds for skipped periodic tasks and specialty scope add-ons. In commercial proposals where quarterly deep floor care ($0.03 to $0.06 per sq ft per month) or daily consumable restocking ($0.012 to $0.025 per sq ft per visit) is rolled into the contract, top-scoring bidders isolate those costs on the invoice so any unperformed cycle can be cleanly credited back."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Quarterly Deep Floor Escrow Verification (5 Points): Vendor agrees to hold the $0.03–$0.06/sq ft/month floor care charge as a distinct invoice line item that automatically refunds if quarterly carpet extraction or VCT scrub-and-recoat sign-off is not completed within 15 days of quarter-end.",
+        "Itemized Restroom & Breakroom Add-On Credits (5 Points): Proposal explicitly lists per-visit credit values for Restrooms ($15 to $30/visit), Breakrooms ($12 to $25/visit), and Interior Glass ($15 to $35/visit) whenever a wing or zone is skipped during a partial shift.",
+        "Active COI, Janitorial Bond & OSHA Documentation (5 Points): Vendor maintains verified General Liability, Workers' Compensation, and Dishonesty Bond certificates, and agrees that any lapse in coverage or assignment of unvetted personnel permits immediate service suspension with 100% daily pro-rata fee abatement."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Workflow to Score Proposals and Lock In SLA Refund Terms"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Distribute the Standardized Credit & Labor Worksheet With the RFP",
+          "text": "Require all bidders to fill in their exact monthly visit count (using 4.333 weeks/month), nightly man-hours, hourly short-shift refund rate ($35–$65/hr), and per-visit no-show credit amount."
+        },
+        {
+          "name": "Score Technical Proposals on the 100-Point Rubric Before Comparing Bottom-Line Price",
+          "text": "Eliminate or issue mandatory deficiency addenda to any vendor scoring below 75 points on the Missed-Visit & SLA Refund Rubric."
+        },
+        {
+          "name": "Test the Finalist's Dispatch Protocol With a Live Reference Check",
+          "text": "Call two current facility manager references for the top-scoring bidder and ask specifically: 'Have you ever had a missed shift or short shift, how fast did a daytime relief porter arrive, and did the credit appear automatically on your next monthly invoice?'"
+        },
+        {
+          "name": "Incorporate the Completed Credit Schedule Into Contract Exhibit C",
+          "text": "Bind the vendor's scored Pricing & Credit Worksheet directly into the signed Master Services Agreement so accounts payable can enforce deductions without legal ambiguity."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Evaluating competing janitorial bids right now? Plug each contractor's monthly price, visit frequency, and facility square footage into our interactive Office Cleaning Cost Calculator & Quote Comparator to verify their true per-visit and per-hour rates."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum passing score on the Missed-Visit Credit & SLA Evaluation Rubric?",
+      "a": "A commercial cleaning bidder should score at least 75 out of 100 points to qualify for contract award. Specifically, any bidder scoring 0 points on Criterion 1 (refusing 4.333-week pro-rata cash credits in favor of 're-performance as sole remedy') or Criterion 2 (refusing to disclose or verify nightly labor hours) should be required to sign your standard Client SLA Addendum as a condition of remaining in the RFP."
+    },
+    {
+      "q": "How do we score a bidder whose hourly short-shift credit rate is much lower than their effective hourly billing rate?",
+      "a": "Watch out for vendors who bid a monthly contract price based on a $50/hour loaded billing rate (within the $35 to $65/hr US standard benchmark) but propose to credit missed or short-shifted labor hours at the raw minimum wage of $16 to $20/hour. To earn full points (25/25) on Criterion 2, the vendor's short-shift hourly credit rate must equal the exact effective hourly billing rate (Monthly Labor Fee ÷ Total Contracted Monthly Man-Hours)."
+    },
+    {
+      "q": "Why does the rubric award 20 points for floating rover bench strength if we already have a 100% missed-visit credit clause?",
+      "a": "Because a financial credit does not clean your restrooms before the CEO or an important client arrives at 8:30 AM. While a 100% to 115% pro-rata refund protects your budget, a contractor with dedicated W-2 floating rovers and a guaranteed 2-hour morning dispatch SLA prevents the operational disruption altogether. The best vendor contracts combine high operational redundancy with automatic financial backstops."
+    },
+    {
+      "q": "How should our evaluation rubric score holiday and office shutdown credit proposals?",
+      "a": "On a 5x-week daily weekday contract (21.65 visits/month at a 0.90 frequency multiplier), standard industry pricing already accounts for the 6 major US federal holidays. Award full rubric points to bidders who explicitly list those 6 holidays in the contract and agree that any additional building closure days (such as floating corporate holidays, weather shutdowns, or year-end weeklong closures) will either be credited at 100% of the pro-rata per-visit rate or converted hour-for-hour into scheduled specialty deep cleaning ($55 to $95/hr value) such as carpet hot-water extraction."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-traditional-janitorial-cart-6173",
+    "rubbermaid-commercial-brute-5-caster-trash-can-dolly",
+    "rubbermaid-commercial-slim-jim-step-on-front-step-18-gallon-bin"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/why-cleaning-quotes-vary-by-50-percent/",
+    "/comparing-quotes-and-contracts/why-cleaning-quotes-vary-by-50-percent-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/why-cleaning-quotes-vary-by-50-percent-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/best-reception-sanitizer-stand-and-wall-dispensers/"
+  ]
+}

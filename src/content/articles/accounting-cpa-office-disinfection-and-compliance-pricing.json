@@ -1,0 +1,99 @@
+{
+  "slug": "accounting-cpa-office-disinfection-and-compliance-pricing",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/accounting-cpa-office-disinfection-and-compliance-pricing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "accounting cpa office compliance fees",
+  "title": "Accounting CPA Office Compliance Fees: Background Checks, Safeguards Rules, OSHA & Specialty Gear",
+  "seoTitle": "Accounting CPA Office Compliance Fees: Vetting, OSHA & Air Quality Costs",
+  "metaDescription": "Accounting CPA office compliance fees: vetted crews, FTC Safeguards-driven access rules and OSHA programs add about 6–15% to bids. Compare quotes in our tool.",
+  "excerpt": "Tax preparers hold some of the most sensitive data in any office, and federal safeguards rules make physical access part of the firm's security program. This guide explains what vetting, access control, disinfection, and air quality add to a CPA firm's cleaning bid and which costs are worth paying.",
+  "quickAnswer": "Compliance-related items typically add 6–15% to an accounting firm's base cleaning price. Budget $35–$75 per cleaner for background screening, about 8–12% for a dedicated vetted crew with logged badge access, and $0.005–$0.015 per sq ft per visit for EPA-registered disinfection of restrooms and kitchenette touchpoints. Strict HIPAA rules rarely apply to CPA firms, but the FTC Safeguards Rule and IRS Publication 4557 expect controlled physical access to client data.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic after-hours view of a CPA firm private office with locked lateral file cabinets, a tower True HEPA air purifier in the corner, and a cleaner in a plain navy uniform scanning a badge at the glass door, soft warm desk lamp light against a dark window, medium shot from inside the office looking toward the door, no text, no logos, no watermarks",
+    "alt": "Cleaner badging into a CPA firm private office with locked file cabinets and an air purifier after hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Which rules actually apply to a CPA firm's cleaning vendor" },
+    { "type": "p", "text": "Vendors sometimes sell CPA firms on HIPAA-compliant cleaning. In most cases HIPAA is the wrong framework: accounting firms are generally not HIPAA covered entities, though a firm that handles protected health information for healthcare clients may be a business associate for that work. The rules that do matter are financial. Tax preparers fall under the FTC Safeguards Rule issued under the Gramm-Leach-Bliley Act, which requires a written information security program, and IRS Publication 4557 guides preparers on protecting taxpayer data, including physical security of offices and files. Anyone with after-hours keys, including cleaners, is part of that physical security picture." },
+    { "type": "p", "text": "On the worker-safety side, the vendor is responsible for OSHA compliance: the Hazard Communication Standard for chemicals and Safety Data Sheets, and the Bloodborne Pathogens Standard for restroom crews who may encounter sharps or bodily fluids. Your job is to confirm those programs exist, not to run them." },
+    { "type": "h2", "text": "Surcharge benchmarks for accounting offices" },
+    {
+      "type": "table",
+      "caption": "Compliance and specialty cost drivers in CPA firm cleaning bids",
+      "headers": ["Cost driver", "Typical range", "Billing method", "Worth paying?"],
+      "rows": [
+        ["Criminal background and identity screening", "$35–$75 per cleaner", "Onboarding fee", "Yes, essential"],
+        ["Dedicated vetted crew", "8–12% over base", "Built into rate", "Yes, reduces exposure"],
+        ["Logged badge or fob access", "0–3% over base", "Firm issues badges", "Yes, cheaper than keys"],
+        ["Confidentiality agreement", "$0–$100 one-time", "Admin fee", "Yes; often free"],
+        ["EPA-registered disinfection of touchpoints", "$0.005–$0.015 per sq ft per visit", "Line item by zone", "Yes, for restrooms and kitchenette"],
+        ["HIPAA-branded cleaning package", "10–20% over base", "Bundled premium", "Usually not, unless you are a business associate"],
+        ["Late-night or weekend tax-season access", "0–10% over base", "Shift differential", "Negotiate in advance"],
+        ["Outbreak or post-illness disinfection", "$55–$95 per hour", "Work order", "As needed"]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Worked example: 3,000 sq ft firm in tax season",
+      "text": "Base service at three nights a week costs $256–$428 per visit, or about $3,335–$5,558 per month over 13 visits. A 10% vetted-crew premium adds $334–$556. Disinfecting 600 sq ft of restrooms and kitchenette at $0.01 per sq ft per visit adds $78 per month. Total compliance cost: roughly $410–$635 per month during the busiest months."
+    },
+    { "type": "h2", "text": "Access control during tax season" },
+    { "type": "p", "text": "From February through April 15, staff often work until 10 p.m. and come in on weekends. That collides with the usual 6 p.m. cleaning start. Vendors either work around occupied desks, which slows the route, or schedule a later shift, which can carry a differential. The cleanest solution is a defined protocol: common areas from 6 p.m., private offices after 9 p.m. or early the next morning, and occupied rooms skipped and logged. Pair that with firm-issued badges that record each entry so your Safeguards Rule documentation shows who entered and when." },
+    {
+      "type": "ul",
+      "items": [
+        "Issue one badge per named cleaner and revoke it the day the vendor reports a staffing change.",
+        "Keep records rooms and server closets off the nightly route; schedule access by appointment.",
+        "Require that client documents left on desks are never touched, moved, or photographed.",
+        "Include the cleaning vendor in your written information security program as a service provider you oversee.",
+        "Ask the vendor how quickly they notify you of a lost badge or key and put a hard deadline in the contract."
+      ]
+    },
+    { "type": "h2", "text": "Disinfectants and green products" },
+    { "type": "p", "text": "Most of an accounting office needs routine cleaning, not disinfection. Desks, conference tables, and lobby furniture do well with a neutral, low-VOC product such as ECOS Pro Orange Plus, an EPA Safer Choice certified, plant-derived cleaner that suits closed offices where staff spend 12-hour days during tax season. Save EPA-registered disinfectants for restrooms, kitchenette handles, the shared printer panel, and door hardware, and make sure crews leave surfaces wet for the full label contact time. A disinfection line item without dwell time is money spent on spraying, not on killing germs." },
+    { "type": "h2", "text": "Air quality gear for long filing-season days" },
+    { "type": "p", "text": "Paper dust, toner particulate, and a full office running late into the night can make interior rooms stuffy. Portable HEPA purifiers are an inexpensive fix that the janitorial vendor can maintain. For conference rooms and open areas up to about 1,100 sq ft, the Medify MA-50 uses True HEPA H13 filtration with dual-side intake, four fan speeds, and a quiet 36 dBA low setting suited to client meetings. For private partner offices and small breakrooms around 360 sq ft, the Winix 5500-2 pairs True HEPA with a washable AOC carbon filter for odor control and an optional PlasmaWave mode that can be switched off if your firm prefers filtration only. Buy the units outright and have the vendor wipe intakes weekly and change filters on the manufacturer schedule, billed as a small monthly line item." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Map your obligations", "text": "Confirm with your IT or compliance lead how the Safeguards Rule program treats physical access by vendors." },
+        { "name": "Specify vetting in the RFP", "text": "Require background screening, named crew members, and confidentiality agreements so every bid prices the same standard." },
+        { "name": "Scope disinfection by zone", "text": "Limit disinfection to restrooms and touchpoints and require label dwell times in the written procedure." },
+        { "name": "Collect documents", "text": "Obtain the COI, fidelity bond, OSHA HazCom program and training records, and bloodborne pathogens plan before the first visit." },
+        { "name": "Audit after tax season", "text": "Compare badge logs with service logs from January through April and review any incidents." }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Skip the HIPAA upsell unless it applies",
+      "text": "If your firm does not handle protected health information as a business associate, a HIPAA-branded package mostly buys paperwork. Put the money into a stable vetted crew and logged badge access, which address the risks the FTC Safeguards Rule actually expects you to manage."
+    },
+    { "type": "cta", "text": "Price your base service in the Office Cleaning Cost Calculator, then enter each vendor's compliance and disinfection line items in the Quote Comparator to see which bids carry real protection and which carry markup." }
+  ],
+  "faqs": [
+    { "q": "Do CPA firms need HIPAA-compliant cleaning?", "a": "Usually not. Accounting firms are generally not HIPAA covered entities. If your firm processes protected health information for healthcare clients, you may be a business associate for that work, but the bigger physical-security expectations come from the FTC Safeguards Rule and IRS Publication 4557, which apply to tax preparers broadly." },
+    { "q": "What should a CPA firm require on the vendor's certificate of insurance?", "a": "General liability of at least $1 million per occurrence, workers' compensation, and a fidelity bond or third-party crime coverage, with your firm named as additional insured on the liability policy. The bond covers employee theft, which is the risk most relevant to an office full of client financial records." },
+    { "q": "How much do background checks add to a cleaning contract?", "a": "Screening runs about $35–$75 per cleaner, a minor one-time cost. The larger expense is keeping a dedicated vetted crew, which typically adds 8–12% to the base rate. On a $4,000 monthly contract, that is about $320–$480 per month." },
+    { "q": "Which OSHA programs should the cleaning vendor have?", "a": "A written Hazard Communication program with Safety Data Sheets and trained staff, and a bloodborne pathogens exposure control plan with training for anyone cleaning restrooms. Ask for training dates and where the SDS binder is kept in your suite." },
+    { "q": "How do tax-season schedules affect compliance costs?", "a": "Compliance premiums are usually a percentage of base, so they rise when visits rise. Three nights a week means 13 visits per month at 4.33 weeks, versus 8.66 at twice weekly. Negotiate the late-shift differential and weekend access terms before January so they are not added mid-season." }
+  ],
+  "amazonProductIds": [
+    "ecos-pro-orange-plus-all-purpose-cleaner-1-gallon",
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/coworking-space-cleaning-cost/",
+    "/facility-cleaning-costs/coworking-space-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/coworking-space-disinfection-and-compliance-pricing/",
+    "/janitorial-carts-mops-and-tools/best-outdoor-litter-grabbers-for-office-grounds/"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "slug": "diagnostic-lab-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/diagnostic-lab-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "diagnostic lab office rates",
+  "title": "Diagnostic Lab Office Rates: Budgeting Contract Upkeep for a Diagnostic Lab & Blood Draw Suite",
+  "seoTitle": "Diagnostic Lab Office Rates: Blood Draw Suite Cleaning Cost & Budget",
+  "metaDescription": "Diagnostic lab office rates: a 2,200 sq ft blood draw suite runs $6,000-$10,200 a month cleaned 5x weekly. Test your size and schedule in our calculator.",
+  "excerpt": "Blood draw suites and patient service centers are small, but their per-square-foot cleaning cost is among the highest in commercial real estate because of draw-chair disinfection, specimen restrooms, and five or six days of patient traffic. Here is how to benchmark per-visit, monthly, and annual budgets by suite size and frequency.",
+  "quickAnswer": "A typical 2,200 sq ft diagnostic lab or blood draw suite with two restrooms costs about $277-$472 per visit, or roughly $6,000-$10,200 per month cleaned five nights a week on VCT flooring. That is about $2.73-$4.64 per sq ft per month; larger 3,500-6,000 sq ft labs drop to $1.82-$3.04 per sq ft for base cleaning because they fall into a lower rate bracket.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-evening interior of a closed US outpatient blood draw suite in a medical office building, row of four empty phlebotomy chairs with padded armrests, janitor in scrubs and gloves wiping an armrest, clean VCT floor reflecting soft overhead panel lights, wide shot from the doorway at chest height, no text, no logos, no signage, no watermarks",
+    "alt": "Janitor disinfecting phlebotomy chair armrests in an empty blood draw suite"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What a diagnostic lab suite actually is, from a cleaning view" },
+    { "type": "p", "text": "Most patient-facing diagnostic labs are not research labs. They are patient service centers: a waiting area and check-in desk, four to eight draw stations or booths, one specimen collection restroom, a staff restroom, a small processing area with centrifuges and a specimen refrigerator, and an office or two. They sit in medical office buildings, retail strips, and hospital outpatient wings, and they usually run from 6:30 or 7 a.m. to mid-afternoon on weekdays, plus Saturday mornings at many locations." },
+    { "type": "p", "text": "That profile creates a distinctive cost structure. The square footage is small, often 1,200 to 3,500 sq ft, which pushes the suite into the highest per-square-foot rate bracket. Yet the patient count is high, often 60 to 120 draws per day, with every patient sitting in a draw chair, touching armrests, and using the restroom. Cleaning has to address blood-contact risk at the chairs and specimen integrity in the collection restroom, on top of ordinary office work." },
+    { "type": "h2", "text": "Benchmark rates by suite size" },
+    { "type": "p", "text": "The table applies national size-bracket rates to a five-night schedule on VCT flooring (1.04 multiplier) with the weekday frequency factor of 0.90. Restrooms and add-ons are excluded so you can see the base suite cost." },
+    { "type": "table", "caption": "Base janitorial cost for diagnostic lab and blood draw suites, VCT, 5 nights per week (excludes restrooms)", "headers": ["Suite size", "Rate bracket ($/sq ft per visit)", "Per-visit base", "Monthly base (21.65 visits)", "Per sq ft per month"], "rows": [
+      ["1,200 sq ft (2-3 draw chairs)", "$0.12-$0.20", "$135-$225", "$2,918-$4,864", "$2.43-$4.05"],
+      ["2,200 sq ft (4-5 draw stations)", "$0.12-$0.20", "$247-$412", "$5,350-$8,916", "$2.43-$4.05"],
+      ["3,500 sq ft (6-8 stations + processing)", "$0.09-$0.15", "$295-$491", "$6,383-$10,639", "$1.82-$3.04"],
+      ["6,000 sq ft (regional hub with courier dock)", "$0.09-$0.15", "$505-$842", "$10,943-$18,238", "$1.82-$3.04"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Worked example: 2,200 sq ft suite with two restrooms", "text": "Base: 2,200 sq ft x $0.12-$0.20 x 1.04 (VCT) x 0.90 (5x/week) = $247-$412 per visit. Restrooms: 2 x $15-$30 = $30-$60. Total per visit: about $277-$472. Monthly: x 21.65 visits = $5,999-$10,215. Annual: about $72,000-$123,000 before quarterly floor care, which adds roughly $66-$132 per month at $0.03-$0.06 per sq ft." },
+    { "type": "p", "text": "Notice the bracket break. A 2,200 sq ft suite and a 3,500 sq ft lab can have nearly the same monthly cost because the larger lab moves into the $0.09-$0.15 bracket. If you are choosing between two lease options, that efficiency belongs in your occupancy cost model." },
+    { "type": "h2", "text": "Restroom density and the specimen collection room" },
+    { "type": "p", "text": "Blood draw suites usually have only two restrooms, but one of them is a specimen collection room that gets heavy use: urine samples for routine labs and, at many sites, drug-test collections. That room may include a pass-through specimen window, a bluing agent in the toilet tank or bowl, and taped or disabled faucets during collections. The cleaner has to restore it nightly without leaving any cleaning chemical or soap source accessible, because collection site rules prohibit substances a donor could use to adulterate a sample. That makes it a 15-minute room rather than a 10-minute room." },
+    { "type": "p", "text": "Dispensers are a practical lever. A twin jumbo bath tissue dispenser with a stub-roll feature and keyed lock, a non-proprietary 8-inch roll towel dispenser that runs on four D-cell batteries, and a touchless soap and sanitizer unit with a 1.2-liter refill all reduce midday run-outs in a suite where staff cannot leave the draw chair to restock." },
+    { "type": "h2", "text": "Traffic wear and recommended frequency" },
+    { "type": "p", "text": "Draw chairs on hard floors, wheelchairs, and walkers create scuffing in a small footprint. VCT is standard; sheet vinyl with heat-welded seams is better in the processing area where spills of specimen or centrifuge leakage can occur. The comparison below uses the 2,200 sq ft suite with two restrooms." },
+    { "type": "table", "caption": "Frequency comparison, 2,200 sq ft blood draw suite, VCT, two restrooms", "headers": ["Schedule", "Visits per month", "Per-visit cost", "Monthly cost", "Fit"], "rows": [
+      ["2x per week", "8.66", "$305-$518", "$2,637-$4,482", "Too thin for daily blood-contact surfaces"],
+      ["3x per week", "13.0", "$291-$495", "$3,781-$6,431", "Workable only with staff end-of-day chair wipe protocol"],
+      ["5x per week (weeknights)", "21.65", "$277-$472", "$5,999-$10,215", "Recommended standard for patient service centers"]
+    ] },
+    { "type": "ul", "items": [
+      "Recommended: five nights a week, timed after the last draw so surfaces are clean before the early-morning fasting rush.",
+      "Saturday-hours sites: add a sixth visit Saturday afternoon, priced separately, rather than leaving weekend soil until Monday night.",
+      "Phlebotomists should still disinfect armrests between patients; janitorial handles the full chair, floor, and environment nightly.",
+      "Quarterly scrub and recoat for VCT in draw areas; monthly grout work for tile restrooms."
+    ] },
+    { "type": "h2", "text": "Budgeting tips for multi-site lab operators" },
+    { "type": "p", "text": "Regional lab networks often run 10 to 50 patient service centers. Bid them as a portfolio with a common scope and a per-site price schedule. Vendors price route density: suites within a 15-minute drive of each other cost less to staff. Put the specimen restroom protocol, chemical list, and nightly sign-off form into a single master scope so every site is cleaned the same way and you can audit consistently." },
+    { "type": "callout", "variant": "warning", "title": "Do not let cleaners touch the bench", "text": "Laboratory bench tops, centrifuges, specimen refrigerators, and analyzers are the lab's responsibility under its own CLIA quality procedures. The janitorial scope should cover floors, walls, sinks, and trash in the processing area only. Spell this out to avoid both scope disputes and specimen integrity problems." },
+    { "type": "cta", "text": "Enter your suite's square footage, restroom count, and weeknight schedule into the Office Cleaning Cost Calculator to see your range, then compare vendor bids side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Why is per-square-foot cost higher in a small lab suite than in a large office?", "a": "Fixed labor items, such as restrooms, travel, setup, and documentation, are spread over fewer square feet. Spaces under 2,500 sq ft also fall into the $0.12-$0.20 per visit bracket, versus $0.07-$0.12 for 10,000-24,999 sq ft. Most vendors also enforce a minimum of about $90-$135 per visit." },
+    { "q": "How do I convert a per-visit lab cleaning rate to a monthly budget?", "a": "Multiply per-visit cost by visits per month using 4.333 weeks per month. Five nights a week equals 21.65 visits, so a $300 visit becomes about $6,495 per month. Using four weeks would understate the budget by about 8%." },
+    { "q": "Should the cleaning vendor supply paper and soap for the suite?", "a": "It is optional. Consumables run about $0.012-$0.025 per sq ft per visit, or roughly $26-$55 per night for 2,200 sq ft. Many lab networks buy paper through a national distribution contract and have the cleaner restock only. Either way, set par levels so draw-station and restroom dispensers are full at opening." },
+    { "q": "What insurance and training should a lab cleaning vendor carry?", "a": "Require a certificate of insurance with at least $1 million per occurrence and $2 million aggregate general liability, workers' compensation, commercial auto, and a fidelity bond. Crews need OSHA bloodborne pathogen training under 29 CFR 1910.1030 and HazCom training for the disinfectants they use." },
+    { "q": "Is a green cleaning program compatible with a blood draw suite?", "a": "Yes for offices, waiting areas, glass, and breakrooms using Green Seal or UL ECOLOGO certified products. Draw chairs, processing-area floors, and restrooms still require EPA-registered disinfectants effective against bloodborne pathogens." }
+  ],
+  "amazonProductIds": [
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2",
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser",
+    "kimberly-clark-professional-icon-automatic-soap-and-sanitizer-di"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/diagnostic-lab-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/diagnostic-lab-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/pharmacy-admin-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/tork-universal-jumbo-tissue-vs-scott-essential-jumbo/"
+  ]
+}

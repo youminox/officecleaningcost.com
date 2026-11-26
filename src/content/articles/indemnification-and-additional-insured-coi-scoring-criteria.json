@@ -1,0 +1,193 @@
+{
+  "slug": "indemnification-and-additional-insured-coi-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric indemnification and additional insured coi",
+  "title": "Auditing Contractor Claims on Additional Insured Endorsements: Weighted COI Scoring Rubric",
+  "seoTitle": "Indemnification & Additional Insured COI Scoring Rubric for RFPs",
+  "metaDescription": "Indemnification and additional insured COI weighted evaluation rubric: audit CG 20 10 forms, Workers' Comp, and $35-$65/hr labor bids. Use our comparator.",
+  "excerpt": "Use this 100-point risk-management scorecard to evaluate janitorial bidders' Certificates of Insurance, ISO endorsements, and Workers' Compensation Experience Modification Rates (EMR) before contract award. Separate compliant W-2 operators from underinsured liability risks.",
+  "quickAnswer": "A commercial janitorial COI and indemnification evaluation rubric should score bidders across 100 points: 30 points for verified ISO Additional Insured endorsements (CG 20 10, CG 20 37, CG 20 38, and CG 20 01 Primary/Non-Contributory), 25 points for W-2 Workers' Compensation payroll verification and Experience Modification Rate (EMR < 1.00), 20 points for mutual/intermediate indemnification alignment and Waivers of Subrogation (CG 24 04 / WC 00 03 13), 15 points for Umbrella limits ($2M–$5M+) and Third-Party Crime Bonds, and 10 points for OSHA safety programs and A.M. Best carrier ratings ('A- VII' or higher).",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a corporate facility procurement committee in a US commercial office boardroom evaluating vendor risk scorecards on a table beside commercial janitorial equipment spec sheets, large windows overlooking a downtown business district, natural daylight, zero text or logos",
+    "alt": "Facility procurement committee scoring janitorial vendor COI endorsements and risk compliance in a boardroom"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Risk & Insurance Must Be Scored Before Opening Price Envelopes"
+    },
+    {
+      "type": "p",
+      "text": "In commercial facility procurement, evaluating a janitorial vendor's insurance and indemnification posture after you have already selected the lowest monthly price is a recipe for confrontation and delay. Imagine receiving four bids for a 16,000-square-foot corporate office cleaned 5x per week (21.65 visits per month based on 4.33 weeks/month and the 0.90 daily weekday frequency multiplier). Three bidders quote between $0.08 and $0.11 per square foot ($35 to $65 per loaded labor hour), while a fourth bidder quotes an eye-catching $0.055 per square foot."
+    },
+    {
+      "type": "p",
+      "text": "If you announce the $0.055/sq ft bidder as your tentative winner before auditing their Certificate of Insurance (COI) and underlying ISO policy endorsements, you will almost certainly discover during legal onboarding that their policy lacks Completed Operations Additional Insured coverage (CG 20 37), carries an Independent Contractor exclusion while relying on 1099 labor, or carries a perilous 1.35 Workers' Compensation Experience Modification Rate (EMR). Scoring insurance, indemnification, and safety compliance via a weighted 100-point rubric during the technical RFP phase disqualifies non-compliant operators upfront and ensures apples-to-apples financial comparisons."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Pass/Fail Gate vs. Weighted Technical Points",
+      "text": "Treat statutory baseline coverage ($1M/$2M Occurrence CGL and active W-2 Workers' Compensation) as a strict Pass/Fail gate, and use the 100-point rubric below to score 20% to 25% of the total technical RFP evaluation across endorsement quality, EMR safety history, and crime bond depth."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Indemnification & Additional Insured COI Scoring Rubric"
+    },
+    {
+      "type": "p",
+      "text": "Deploy this five-part evaluation matrix across every janitorial RFP response to quantify how effectively each contractor absorbs operational liability and protects both tenant and landlord balance sheets."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Evaluation Rubric for Janitorial Indemnification & COI Compliance",
+      "headers": [
+        "Compliance Dimension",
+        "Weight (Points)",
+        "Deficient / High-Risk (0–40% of Pts)",
+        "Acceptable Standard (50–75% of Pts)",
+        "Institutional Grade (80–100% of Pts)"
+      ],
+      "rows": [
+        [
+          "1. Additional Insured & Primary/Non-Contributory Endorsements",
+          "30 Pts",
+          "Submits bare ACORD 25 only, or omits CG 20 37 Completed Ops; charges extra fee per AI entity",
+          "Provides CG 20 10 + CG 20 37 (or CG 20 33 blanket) and CG 20 01 Primary endorsement upon award",
+          "Attaches specimen CG 20 10, CG 20 37, upstream CG 20 38, and CG 20 01 with bid at zero surcharge"
+        ],
+        [
+          "2. Workers' Comp W-2 Verification & EMR Safety Score",
+          "25 Pts",
+          "Uses 1099 contractors, 'Ghost' WC policy with $0 Class 9014 payroll, or EMR > 1.15",
+          "100% W-2 workforce with Statutory WC ($500k EL) and 3-year EMR between 1.00 and 1.10",
+          "Verified W-2 Class 9014 payroll declaration, $1M Employer's Liability, and EMR < 0.95"
+        ],
+        [
+          "3. Indemnification Acceptance & Waivers of Subrogation",
+          "20 Pts",
+          "Redlines indemnity to narrow fault; refuses WC 00 03 13 or CG 24 04 Waiver of Subrogation",
+          "Accepts standard negligence indemnity; provides CG 24 04 and WC 00 03 13 with minor fee pass-through",
+          "Zero redlines to tenant/landlord hold-harmless clause; includes blanket CG 24 04 & WC 00 03 13 free"
+        ],
+        [
+          "4. Umbrella Excess Limits & Third-Party Crime Bond",
+          "15 Pts",
+          "No Umbrella policy; first-party employee dishonesty bond only (excludes client property theft)",
+          "$1M–$2M Umbrella; $25,000 Third-Party Crime Bond with standard conviction clause",
+          "$5M+ Follow-Form Umbrella; $50,000–$250,000 Third-Party Client Property Bond + CCC buy-back"
+        ],
+        [
+          "5. Carrier A.M. Best Rating & OSHA HazCom / Bloodborne Program",
+          "10 Pts",
+          "Non-admitted carrier rated below 'B++' or no documented OSHA HazCom / SDS training logs",
+          "Carrier rated 'A- VI' or 'A- VII'; provides generic employee safety manual upon request",
+          "Admitted carrier rated 'A VIII' or higher; audited site-specific OSHA 1910.1200 & 1910.1030 logs"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Audit Criterion 2: The NCCI Experience Modification Rate (EMR)"
+    },
+    {
+      "type": "p",
+      "text": "One of the sharpest diagnostic metrics in commercial facility procurement is the bidder's **Experience Modification Rate (EMR)**, worth up to 25 points in Combination with W-2 payroll verification. Issued annually by the National Council on Compensation Insurance (NCCI) or state rating bureaus, an EMR compares a janitorial company's actual 3-year Workers' Compensation injury claims against the expected baseline for NCCI Class Code 9014 (Commercial Janitorial Services), where 1.00 represents the industry average."
+    },
+    {
+      "type": "p",
+      "text": "A contractor with an EMR of **0.78 to 0.92** runs disciplined chemical training, uses ergonomic equipment, maintains dry floor protocols, and enjoys a 8% to 22% discount on their Workers' Comp insurance premiums—allowing them to offer competitive $35 to $55/hr base labor rates while still paying strong W-2 wages. Conversely, a contractor with an EMR of **1.20 to 1.45** suffers from chronic slip-and-fall injuries, improper lifting claims, and chemical burns. Require every RFP bidder to attach their official NCCI or state bureau EMR rating worksheet for the past three policy years; never accept a self-reported number on a bid form."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Equipment & Operational Controls That Lower Liability Exposure"
+    },
+    {
+      "type": "p",
+      "text": "During your technical evaluation under Criterion 2 and Criterion 5, inspect the bidder's proposed on-site equipment package. Insurance underwriters and OSHA compliance officers look for specific commercial hardware specs that eliminate cord-trip hazards, airborne particulate complaints, chemical tampering, and lobby fire risks:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Ergonomic HEPA Vacuuming & Cord-Trip Reduction: Across commercial carpet (1.00 flooring multiplier) and mixed-floor suites (1.05 multiplier), upright vacuums cause repetitive wrist strain and high-decibel noise during early-evening overlaps. Award full technical points to contractors equipping crews with the ProTeam Super Coach Pro 10 Commercial Backpack Vacuum (featuring a 10-qt capacity, 4-Level HEPA filtration capturing fine allergens, a lightweight 12.5-lb ergonomic harness, and a quiet 66 dBA duty profile) to speed production past 3,500 sq ft/hr while reducing musculoskeletal Workers' Comp claims.",
+        "Locked Chemical Storage During Daytime & Evening Shifts: Under OSHA HazCom (29 CFR 1910.1200), unattended spray bottles and stripping solutions in active tenant corridors create severe liability if accessed by office employees or visitors. Contractors deploying the Suncast Commercial Housekeeping Cart with Locking Cabinet (equipped with locking cabinet doors, a 300-lb load rating, 8-in casters, and an integrated bag holder) prevent unauthorized chemical contact.",
+        "Fire-Safe Architectural Waste Containment: In Class A elevator lobbies and public corridors, plastic bins fail building fire codes. Facilities utilizing the Safco Public Square 37-Gallon Commercial Steel Receptacle (constructed of fire-safe powder-coated steel with a square architectural profile and internal liner retainer) contain smoldering debris safely and reduce commercial property risk."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Verification Protocol to Score Bidder COI Submissions"
+    },
+    {
+      "type": "p",
+      "text": "To ensure your procurement committee awards points based on verified underwriting facts rather than sales promises, execute this four-step audit protocol during the RFP scoring phase:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Require 'Specimen Endorsements' Inside the RFP Packet",
+          "text": "Do not wait until after contract award to look at policy forms. Require every bidder to attach redacted specimen copies of their current policy's ISO Additional Insured endorsements (CG 20 10, CG 20 37, or CG 20 38), Primary and Non-Contributory endorsement (CG 20 01), and Waivers of Subrogation (CG 24 04 and WC 00 03 13) directly inside their RFP submission."
+        },
+        {
+          "name": "Cross-Check Workers' Comp Payroll Against Active Headcount",
+          "text": "Ask the bidder for their total W-2 cleaner headcount and compare it against Item 4 of their Workers' Compensation Declarations page (or a broker letter confirming active Class 9014 payroll coverage). If a vendor claims to have 80 cleaners but carries a minimum-premium WC policy, score them zero on Criterion 2 and disqualify the bid."
+        },
+        {
+          "name": "Verify Independent Contractor & Care, Custody, Control Riders",
+          "text": "Instruct the vendor's insurance broker to confirm in writing on agency letterhead that the CGL policy does not contain an Independent Contractors Exclusion (CG 22 94) and clarify the sub-limit available for property damage under Care, Custody, and Control (CCC)."
+        },
+        {
+          "name": "Audit the Price Breakdown for Hidden Insurance Add-Ons",
+          "text": "Compare the bidder's cost sheet against national size-bracket rates ($0.09–$0.15/sq ft for 2,500–9,999 sq ft; $0.07–$0.12/sq ft for 10,000–24,999 sq ft) and confirm in writing that all required landlord and tenant Additional Insured endorsements and Waivers of Subrogation are 100% included with zero monthly risk-administration surcharges."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Mandatory Disqualification Triggers",
+      "text": "Regardless of total rubric score, institute an automatic disqualification rule for any bidder that: (1) operates on a Claims-Made CGL form rather than an Occurrence form, (2) refuses to provide a Workers' Compensation Waiver of Subrogation (WC 00 03 13), or (3) staffs night crews with uninsured 1099 independent contractors."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to compare fully insured vendor bids against 2026 national cost benchmarks? Plug your facility's square footage, flooring mix, and restroom count into our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a passing score on the 100-point Indemnification and Additional Insured COI Rubric?",
+      "a": "For standard single-tenant or Class B commercial office suites, require a minimum score of 75 out of 100 points to advance a bidder to the final pricing evaluation. For Class A high-rise towers, multi-floor corporate headquarters (25,000+ sq ft), medical offices, or financial institutions with strict landlord lease covenants, enforce an 85-point minimum threshold."
+    },
+    {
+      "q": "Why should we verify the insurance carrier's A.M. Best rating on the ACORD 25?",
+      "a": "The NAIC number and A.M. Best rating listed in the upper-right insurer table of the ACORD 25 measure the insurance company's financial solvency and ability to pay claims. Commercial leases almost universally mandate an A.M. Best rating of at least 'A- VII' (Excellent financial strength with $50M–$100M in policyholder surplus). If a low-bid cleaning contractor buys cheap coverage from an unrated offshore captive or a 'B' rated surplus lines carrier, your landlord's property manager will reject the COI and block the crew from entering the building."
+    },
+    {
+      "q": "How do we score a vendor who is newly formed and doesn't have an NCCI EMR rating yet?",
+      "a": "New employers that have not accumulated three years of payroll history are assigned a default NCCI Unity EMR of 1.00. If a newer janitorial company carries a default 1.00 EMR, award them mid-tier points (12 to 15 out of 25) under Criterion 2 provided they submit verified quarterly state payroll tax filings (Form 941 / state UI reports) proving 100% W-2 employment and present a formal written OSHA HazCom and slip-prevention training program."
+    },
+    {
+      "q": "How does cleaning frequency affect a contractor's General Liability and Workers' Comp risk profile?",
+      "a": "While high-frequency accounts—such as Daily Weekdays (5x/week, 21.65 visits/month at a 0.90 multiplier) or Daily 7 Days (7x/week, 30.33 visits/month at a 0.87 multiplier)—involve more total site hours than Weekly (1x/week, 4.33 visits/month at a 1.08 multiplier) accounts, daily sites actually experience fewer catastrophic claims per visit because dedicated, badge-assigned cleaners learn the building's specific floor transitions, plumbing shut-offs, and alarm protocols, whereas low-frequency floating crews face higher error rates."
+    }
+  ],
+  "amazonProductIds": [
+    "safco-public-square-37-gallon-commercial-steel-receptacle",
+    "suncast-commercial-housekeeping-cart-with-locking-cabinet",
+    "proteam-super-coach-pro-10-commercial-backpack-vacuum"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/how-to-fire-and-transition-cleaning-vendors/",
+    "/comparing-quotes-and-contracts/how-to-fire-and-transition-cleaning-vendors-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/how-to-fire-and-transition-cleaning-vendors-scoring-criteria/",
+    "/commercial-cleaning-chemicals-and-mats/best-odor-neutralizing-cleaners-for-pet-friendly-offices/"
+  ]
+}

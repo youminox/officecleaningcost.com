@@ -1,0 +1,278 @@
+{
+  "slug": "facility-cleaning-costs",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/",
+  "isPillar": true,
+  "isTransactional": false,
+  "primaryKeyword": "cost by facility & office type",
+  "title": "Cost by Facility & Office Type: 2026 US Janitorial Pricing & Scope Guide",
+  "seoTitle": "Cost by Facility & Office Type: 2026 US Janitorial Benchmarks",
+  "metaDescription": "Compare cost by facility & office type: $0.05–$0.20/sq ft, $35–$95/hr, and compliance add-ons across clinics, law, banks & gyms. Open our cost calculator.",
+  "excerpt": "Compare US commercial cleaning rates across medical clinics, dental suites, law firms, coworking hubs, bank branches, gyms, and corporate headquarters. Learn how flooring mixes, restroom density, and regulatory compliance shift monthly janitorial bids.",
+  "quickAnswer": "US janitorial cost by facility and office type starts from the same base brackets—$0.12 to $0.20 per sq ft under 2,500 sq ft down to $0.05 to $0.10 per sq ft above 25,000 sq ft—before adjusting for flooring multipliers (0.95x to 1.12x), restroom counts ($15 to $30 each per visit), and $55 to $95/hr compliance labor. Standard corporate suites pay $0.05 to $0.15 per sq ft, whereas medical, dental, and athletic facilities run $0.08 to $0.23 per sq ft effectively due to ceramic tile grout, daily 5x to 7x frequencies, and EPA hospital-grade disinfection.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior architectural photograph of a pristine American outpatient medical clinic waiting lobby and adjacent glass-walled executive office hallway after hours, gleaming ceramic tile floor, reception desk, stainless steel hands-free waste receptacle, commercial microfiber cleaning cart parked neatly in corridor, warm recessed LED lighting, wide-angle eye-level shot, zero text, zero words, zero logos, zero watermarks",
+    "alt": "Clean American medical clinic lobby and commercial office corridor with gleaming tile flooring and janitorial cart ready for evening sanitization"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Generic square-footage averages break down immediately when you compare an outpatient clinic against a suburban accounting office. Even when two suites occupy identical 5,000 sq ft footprints in the same commercial park, their monthly janitorial invoices can differ by 45% to 80% because **floor surface finishes**, **plumbing fixture density**, **after-hours security rules**, and **regulatory infection-control protocols** dictate how many labor hours and what chemical grades a contractor must deploy on every visit."
+    },
+    {
+      "type": "p",
+      "text": "Across the US commercial market, reputable contractors build every facility quote from transparent unit inputs: **$0.05 to $0.20 per sq ft** by size bracket, **$15 to $30 per restroom per visit**, a **$90 to $135 minimum visit floor**, **$35 to $65 per hour** for routine janitorial labor, and **$55 to $95 per hour** for specialty decontamination or regulated surface care. This pillar guide maps those baseline rates onto seven core US facility categories so procurement teams can benchmark proposals accurately."
+    },
+    {
+      "type": "h2",
+      "text": "Why Facility Type Changes Janitorial Pricing More Than Raw Square Footage"
+    },
+    {
+      "type": "p",
+      "text": "According to ISSA commercial production standards, an experienced technician covers roughly **3,500 sq ft per labor hour** (typically **2,800 to 4,000 sq ft/hr**) in open carpeted offices, plus **0.15 to 0.25 hours per restroom**. That speed collapses inside compartmentalized or high-liability buildings. Dental operatories, exam rooms, private partner suites, and locker areas force technicians to maneuver around fixed cabinetry, sanitize high-touch door hardware, switch between vacuum and wet-mop heads, and observe chemical dwell times."
+    },
+    {
+      "type": "p",
+      "text": "Flooring composition amplifies that labor spread. Relative to a **1.00x commercial carpet baseline**, **polished concrete** drops labor intensity to **0.95x**, **VCT and LVT vinyl** rises to **1.04x**, **mixed carpet and hard surfaces** reaches **1.05x**, **engineered hardwood** climbs to **1.08x** for low-moisture microfiber care, and **ceramic tile and grout** hits **1.12x** due to manual grout-line agitation and restroom-adjacent sanitation."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Routine vs. Compliance Labor Tiers in Specialized Facilities",
+      "text": "Standard office dusting, trash pulls, and HEPA vacuuming bill inside the $35 to $65/hr routine band. Once a scope crosses into clinical exam-room terminal disinfection, OSHA Bloodborne Pathogens spill readiness, dual-control bank vault escorts, or locker-room fungal sanitation, contractors price those shifts—or dedicated crew members—at $55 to $95 per specialty hour."
+    },
+    {
+      "type": "h2",
+      "text": "2026 US Cleaning Cost Benchmarks by Facility & Office Type"
+    },
+    {
+      "type": "p",
+      "text": "The benchmark matrix below applies 1.00x US national average calculator rates across seven common commercial facility profiles, using **4.333 weeks per month** (**4.33** in rounded monthly calculators) and typical restroom, flooring, breakroom, and interior glass configurations. High-cost coastal metros apply regional multipliers up to 1.35x, whereas lower-cost Southern markets scale near 0.85x."
+    },
+    {
+      "type": "table",
+      "caption": "2026 US Monthly & Per-Visit Janitorial Benchmarks by Facility Type (1.00x National Average, Routine Contract Scope)",
+      "headers": [
+        "Facility Profile (Typical Setup)",
+        "Flooring & Schedule",
+        "Per-Visit Total",
+        "Eff. Rate / Sq Ft",
+        "Monthly Budget",
+        "Est. Labor Hrs / Visit"
+      ],
+      "rows": [
+        [
+          "Dental Suite (2,200 sq ft, 2 RR, Breakroom)",
+          "VCT/LVT (1.04x), 5x/wk",
+          "$289–$497",
+          "$0.13–$0.23",
+          "$6,259–$10,757",
+          "1.00–1.29 hrs"
+        ],
+        [
+          "Medical Clinic (4,500 sq ft, 4 RR, Breakroom)",
+          "Tile & Grout (1.12x), 5x/wk",
+          "$480–$825",
+          "$0.11–$0.18",
+          "$10,397–$17,870",
+          "1.73–2.61 hrs"
+        ],
+        [
+          "Bank Branch (3,200 sq ft, 2 RR, Glass)",
+          "Mixed (1.05x), 5x/wk",
+          "$317–$549",
+          "$0.10–$0.17",
+          "$6,867–$11,877",
+          "1.10–1.64 hrs"
+        ],
+        [
+          "Law Firm (6,500 sq ft, 3 RR, Glass)",
+          "Hardwood (1.08x), 3x/wk",
+          "$660–$1,125",
+          "$0.10–$0.17",
+          "$8,583–$14,630",
+          "2.08–3.07 hrs"
+        ],
+        [
+          "Coworking Hub (12,000 sq ft, 6 RR, Breakroom + Glass)",
+          "Polished Concrete (0.95x), 5x/wk",
+          "$835–$1,471",
+          "$0.07–$0.12",
+          "$18,082–$31,851",
+          "3.90–5.79 hrs"
+        ],
+        [
+          "Fitness / Gym Suite (15,000 sq ft, 6 RR, Breakroom)",
+          "Tile & Grout (1.12x), 7x/wk",
+          "$1,125–$1,959",
+          "$0.08–$0.13",
+          "$34,125–$59,414",
+          "4.65–6.86 hrs"
+        ],
+        [
+          "Corporate HQ (30,000 sq ft, 10 RR, Breakroom + Glass)",
+          "Mixed (1.05x), 5x/wk",
+          "$1,594–$3,195",
+          "$0.05–$0.11",
+          "$34,521–$69,172",
+          "9.00–13.21 hrs"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Notice how scale and restroom density interact in the table above. A **2,200 sq ft dental suite** lands in the **under-2,500 sq ft bracket** ($0.12 to $0.20/sq ft) and reaches **$6,259 to $10,757 per month** on a weekday 5x/week schedule—even before adding optional **paper and soap consumables** ($26 to $55/visit) or clinical operatory sterilization. Meanwhile, a **30,000 sq ft corporate headquarters** drops into the **25,000+ sq ft bracket** ($0.05 to $0.10/sq ft), keeping effective per-visit costs down to **$0.05 to $0.11 per sq ft** despite carrying ten restrooms, breakroom sanitation, and conference glass partitions."
+    },
+    {
+      "type": "h2",
+      "text": "Medical Clinics, Dental Suites, and Outpatient Healthcare Pricing"
+    },
+    {
+      "type": "p",
+      "text": "Healthcare facilities sit at the top of the commercial janitorial risk pyramid. Whether you manage an urgent care center or review [medical clinic cleaning costs](/facility-cleaning-costs/medical-clinic-cleaning-cost/), vendors separate general non-clinical areas (waiting lobbies, billing desks, staff lounges) from clinical zones (exam rooms, specimen restrooms, dental operatories). In a **4,500 sq ft medical clinic** with ceramic tile corridors (1.12x) and four restrooms, routine weekday janitorial runs **$480 to $825 per visit** (**$10,397 to $17,870/month**). Add **$54 to $112 per visit** if the vendor stocks paper towels, toilet tissue, soap, and liners ($0.012 to $0.025/sq ft/visit)."
+    },
+    {
+      "type": "p",
+      "text": "For [dental office cleaning costs](/facility-cleaning-costs/dental-office-cleaning-cost/), contractors must observe strict separation between environmental housekeeping and regulated clinical sterilization. Janitors disinfect waiting-room chairs, VCT/LVT operatories around dental cabinetry, and patient restrooms—while avoiding autoclave trays, sharps containers, and medical waste bags unless separately contracted at **$55 to $95/hr** under **OSHA Bloodborne Pathogens (29 CFR 1910.1030)** training. Review our dedicated [medical clinic scope checklist](/facility-cleaning-costs/medical-clinic-cleaning-checklist-scope/) and [medical compliance pricing guide](/facility-cleaning-costs/medical-clinic-disinfection-and-compliance-pricing/) to split non-clinical vs. clinical scopes cleanly."
+    },
+    {
+      "type": "h2",
+      "text": "Law Firms, Banks, Coworking Hubs, Gyms, and Corporate Headquarters"
+    },
+    {
+      "type": "p",
+      "text": "Non-medical offices still impose sharp operational variations that alter both chemical selection and crew timing. Reviewing each sector's distinct bottlenecks keeps bids grounded in real site conditions:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Law Firms & Advisory Suites:** [Law firm cleaning costs](/facility-cleaning-costs/law-firm-cleaning-cost/) reflect sensitive client confidentiality, wood-paneled reception areas, and glass-walled conference rooms. A 6,500 sq ft suite with hardwood floors (1.08x), three restrooms, and interior glass cleaned 3x/week averages **$660 to $1,125/visit** (**$8,583 to $14,630/month**). Crews must never disturb open legal files on desks and must use neutral, residue-free wood cleaners.",
+        "**Banks & Financial Branches:** [Bank branch cleaning costs](/facility-cleaning-costs/bank-branch-cleaning-cost/) carry tight security overhead. A 3,200 sq ft branch averages **$317 to $549/visit** (**$6,867 to $11,877/month** at 5x/week), plus background-check fees and dual-control escort rules if crews clean teller lines during daytime banking hours rather than locked evening shifts.",
+        "**Coworking Hubs & Shared Offices:** [Coworking space cleaning costs](/facility-cleaning-costs/coworking-space-cleaning-cost/) spike around coffee bars, phone booths, and event lounges. Even with fast polished concrete floors (0.95x), a 12,000 sq ft coworking space with six restrooms, breakroom service, and glass partitions averages **$835 to $1,471/visit** (**$18,082 to $31,851/month**), often paired with a daytime porter for midday spill and trash resets.",
+        "**Fitness Centers & Athletic Club Offices:** [Fitness gym cleaning costs](/facility-cleaning-costs/fitness-gym-office-cleaning-cost/) demand 7-day schedules (30.33 visits/month, 0.87x multiplier), heavy tile-and-grout locker sanitation (1.12x), and high-volume restroom descaling. A 15,000 sq ft facility runs **$1,125 to $1,959/visit** (**$34,125 to $59,414/month**) before adding quarterly deep grout extraction ($0.03 to $0.06/sq ft/month amortized).",
+        "**Corporate Headquarters (25,000+ Sq Ft):** Multi-floor headquarters benefit from top-tier square-footage economies ($0.05 to $0.10/sq ft base), bringing a 30,000 sq ft mixed-floor HQ with ten restrooms to **$1,594 to $3,195/visit** (**$34,521 to $69,172/month** at 5x/week). However, Class A towers typically mandate $2M aggregate liability endorsements, freight-elevator scheduling, and periodic **day-porter** coverage."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Surface-Safe Chemicals and Disinfection Specs by Facility Setting"
+    },
+    {
+      "type": "p",
+      "text": "Choosing the wrong chemical chemistry can ruin $15-per-sq-ft architectural finishes within ninety days—especially when crews spray acidic restroom descalers near marble thresholds or use high-alkaline degreasers on sealed conference room oak. Facility managers should verify exact **Safety Data Sheets (SDS)** and dilution specs in the janitorial closet before onboarding any new vendor."
+    },
+    {
+      "type": "table",
+      "caption": "Facility-Matched Commercial Chemical & Surface Maintenance Matrix",
+      "headers": [
+        "Target Facility Zone",
+        "Recommended Chemical Class",
+        "Operational Spec & Benefit",
+        "Contract Risk If Misused"
+      ],
+      "rows": [
+        [
+          "Clinics, Breakrooms & Phone Booths",
+          "EPA-Registered Aerosol Disinfectant",
+          "Kills 99.9% of target pathogens on phones, doorknobs, and fixtures; rapid touch-point turnaround",
+          "Missed contact dwell time or moisture damage on electronics"
+        ],
+        [
+          "Executive Law Suites & Boardrooms",
+          "GREENGUARD Gold Hardwood Cleaner",
+          "Residue-free neutral pH formula protecting factory urethane finishes without hazy buildup",
+          "Dull wax haze, slippery boards, or voided flooring warranties"
+        ],
+        [
+          "Restrooms, Tile Corridors & Gym Floors",
+          "1:256 Neutral Quaternary Disinfectant",
+          "Ultra-concentrated hospital-grade yield; neutral pH protects ceramic grout and VCT sealers",
+          "Etched grout lines, stripped floor finish, or inflated chemical cost"
+        ]
+      ]
+    },
+    {
+      "type": "p",
+      "text": "Three industry-standard formulations illustrate how commercial crews match chemistry to facility type without bloating supply budgets. For rapid touch-point sanitizing across clinics, coworking phone booths, and shared conference tables, crews stock **Lysol Professional Disinfectant Spray 19-oz Case (12-Pack)** (12 x 19 oz commercial cans, EPA-registered formula, Crisp Linen scent, rated to kill 99.9% of labeled bacteria and viruses on hard non-porous surfaces). For law firms and executive suites with urethane-sealed timber floors, **Bona Pro Series Commercial Hardwood Floor Cleaner Gallon** (1-gallon GREENGUARD Gold certified neutral cleaner in ready-to-use/concentrate profiles) leaves zero sticky residue. And for high-traffic clinic corridors, restrooms, and locker tile, **Diversey Virex II 256 One-Step Disinfectant Cleaner Gallon** delivers a 1:256 ultra-concentrated neutral pH hospital-grade yield safe for daily damp mopping."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Mandatory Insurance, Bonding, and OSHA Verification Across Sensitive Sites",
+      "text": "Before granting keycard or alarm access to any medical, financial, or legal suite, collect a current Certificate of Insurance naming your company as Additional Insured ($1,000,000 per occurrence / $2,000,000 aggregate Commercial General Liability), statutory Workers' Compensation for W-2 cleaners, a janitorial fidelity bond, documented criminal background checks, and an updated OSHA Hazard Communication (29 CFR 1910.1200) SDS binder."
+    },
+    {
+      "type": "h2",
+      "text": "How to Scope and Benchmark Your Facility Cleaning RFP"
+    },
+    {
+      "type": "p",
+      "text": "Whether you are issuing a first-time RFP for a newly leased clinic or auditing an incumbent contractor at renewal, follow these five procurement steps and plug your building specs into our calculator to confirm implied labor hours."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Map Cleanable Area by Zone and Floor Finish",
+          "text": "Separate open carpet, ceramic tile restrooms, hardwood executive suites, and polished concrete corridors so bidders apply accurate 0.95x to 1.12x floor multipliers instead of guessing."
+        },
+        {
+          "name": "Define Clinical and Security Boundaries in Writing",
+          "text": "Explicitly exclude medical waste handling, sharps containers, confidential shred consoles, and locked bank teller drawers from standard $35 to $65/hr cleaning checklists."
+        },
+        {
+          "name": "Itemize Restrooms, Breakrooms, and Interior Glass",
+          "text": "Lock in exact fixture counts ($15 to $30/restroom), kitchenette appliances ($12 to $25/visit), and glass partition footage ($15 to $35/visit) to eliminate vague change orders."
+        },
+        {
+          "name": "Audit Implied Labor Hours Against ISSA Benchmarks",
+          "text": "Divide each bid's monthly price by 13.0 (for 3x/week) or 21.65 (for 5x/week), then divide by $45 to $55/hr to verify the crew actually has enough scheduled minutes to finish the route."
+        },
+        {
+          "name": "Compare Amortized Floor Care and Consumables Separately",
+          "text": "Keep quarterly VCT/carpet restoration ($0.03 to $0.06/sq ft/month) and paper/soap restocking ($0.012 to $0.025/sq ft/visit) on standalone lines for clean apples-to-apples bid scoring."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Model your exact facility square footage, flooring mix, restroom count, and weekly schedule in the Office Cleaning Cost Calculator or audit vendor bids in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why do medical clinics and dental offices cost more per square foot to clean than standard corporate offices?",
+      "a": "Healthcare suites combine high-touch waiting areas, multiple patient restrooms ($15 to $30 per restroom per visit), and higher-labor ceramic tile or VCT flooring (1.04x to 1.12x multipliers) with daily 5x/week service and EPA hospital-grade disinfectant dwell times. Non-routine decontamination or OSHA Bloodborne Pathogens readiness also shifts labor into the $55 to $95 per hour specialty tier rather than the $35 to $65 per hour general office band."
+    },
+    {
+      "q": "What Certificate of Insurance and background checks should law firms and banks require from janitors?",
+      "a": "Require an active Certificate of Insurance carrying at least $1,000,000 per occurrence and $2,000,000 aggregate Commercial General Liability naming your firm and landlord as Additional Insured, statutory Workers' Compensation proving W-2 employee status, and a commercial janitorial fidelity or dishonesty bond. Financial and legal offices should also require multi-state criminal background screenings and signed confidentiality agreements for every badged technician."
+    },
+    {
+      "q": "Are clinical medical waste, sharps containers, and lab equipment included in facility cleaning rates?",
+      "a": "No. Standard commercial janitorial contracts cover general environmental surfaces, floors, trash, breakrooms, and restrooms. Regulated medical waste (red-bag waste), sharps disposal, dental suction traps, and specialized laboratory instrumentation are strictly excluded for liability and OSHA 29 CFR 1910.1030 compliance reasons and must be handled by licensed medical waste haulers or clinical staff."
+    },
+    {
+      "q": "How does 4.333 weeks per month affect a 5x/week corporate or clinic janitorial contract?",
+      "a": "Because a 52-week year averages 4.333 weeks per month (4.33 in rounded pricing tools), a Monday-through-Friday 5x/week contract averages 21.65 visits per month—not 20. Using 21.65 visits ensures your flat monthly retainer covers fifth-week weekdays across 31-day months without unexpected supplemental bills."
+    },
+    {
+      "q": "Do Green Seal GS-37 or EPA Safer Choice disinfectants meet medical or gym sanitation standards?",
+      "a": "EPA Safer Choice and Green Seal GS-37 cleaners handle daily neutral-pH dusting, glass, and floor care cleanly with roughly 0% to 4% contract cost impact, while reducing tenant VOC complaints. However, restroom biohazard zones, exam-room surfaces, and gym locker rooms still require an EPA-registered hospital-grade disinfectant (such as a 1:256 neutral quaternary ammonium formula) with documented kill claims and contact dwell times."
+    }
+  ],
+  "amazonProductIds": [
+    "lysol-professional-disinfectant-spray-19-oz-case-12-pack",
+    "bona-pro-series-commercial-hardwood-floor-cleaner-gallon",
+    "diversey-virex-ii-256-one-step-disinfectant-cleaner-gallon"
+  ],
+  "related": [
+    "/facility-cleaning-costs/medical-clinic-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/medical-clinic-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/dental-office-cleaning-cost/",
+    "/commercial-vacuums-and-floor-machines/proteam-super-coach-pro-6-vs-pro-10-review/"
+  ]
+}

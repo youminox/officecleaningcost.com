@@ -1,0 +1,180 @@
+{
+  "slug": "workers-compensation-coi-for-cleaning-vendors-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/workers-compensation-coi-for-cleaning-vendors-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric workers compensation coi for cleaning vendors",
+  "title": "Proposal Scoring Matrix & Weighted Evaluation Rubric for Cleaning Vendor Workers' Comp COIs",
+  "seoTitle": "Workers Comp COI Proposal Scoring Matrix for Commercial Cleaning Bids",
+  "metaDescription": "Use a 100-point Workers Comp COI scoring rubric to audit NCCI Class 9014 payroll and EMR rates ($35-$65/hr) in our Quote Comparator.",
+  "excerpt": "Stop treating insurance verification as a hasty post-award checkbox. Use this 100-point weighted evaluation rubric to score competing janitorial proposals on NCCI Class 9014 payroll authenticity, Experience Modification Rates (EMR), Waiver of Subrogation endorsements, and OSHA ergonomic equipment standards.",
+  "quickAnswer": "A rigorous RFP evaluation rubric for commercial cleaning vendors should assign 100 points across five weighted compliance tiers: Statutory Part One & $1M Part Two Limits (25 points), NCCI Class 9014 Payroll-to-Hour Alignment (25 points), Waiver of Subrogation & Officer Inclusion Endorsements (20 points), 3-Year Experience Modification Rate (EMR <= 1.00) & OSHA Training Logs (15 points), and Ergonomic Low-Injury Equipment & Pricing Transparency (15 points). Vendors scoring below 80 points—or bidding below the $35 to $65 per hour W-2 compliance floor—should be disqualified before final price negotiations.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic high-angle shot of an American corporate facility procurement team reviewing a vendor evaluation scorecard at a glass conference table, while in the background corridor a commercial custodian wears a lightweight ergonomic HEPA backpack vacuum, bright architectural lighting, sharp detail, zero text, no words, no logos, no watermarks.",
+    "alt": "Facility procurement managers scoring janitorial proposals while a custodian operates an ergonomic HEPA backpack vacuum"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Binary 'Pass/Fail' Insurance Checks Fail in Commercial Janitorial Procurement"
+    },
+    {
+      "type": "p",
+      "text": "In most corporate facility RFPs, procurement teams evaluate price and cleaning scope during the formal bidding phase and treat the Workers' Compensation Certificate of Insurance (COI) as a post-award administrative formality. That backward sequence creates an immediate trap: the committee falls in love with the lowest monthly bid—say, $2,950/month for an 18,000 sq ft office cleaned 5x/week (21.65 visits per month across 4.333 weeks)—only to discover three days before contract launch that the bidder carries a high-risk 1.38 Experience Modification Rate (EMR), excludes its working LLC partners from coverage, or classifies its floor technicians as clerical staff."
+    },
+    {
+      "type": "p",
+      "text": "By embedding a 100-point weighted Workers' Comp COI evaluation rubric directly into your technical proposal scoring matrix, you evaluate insurance depth alongside square-foot pricing ($0.07 to $0.12 per sq ft for 10,000 to 24,999 sq ft facilities; $0.05 to $0.10 per sq ft for 25,000+ sq ft campuses). A vendor whose bid reflects legitimate W-2 statutory burden ($35 to $65 per standard labor hour) earns full technical points, while under-insured brokers are filtered out mathematically."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Recommended RFP Cutoff Score: 80 / 100 Points Minimum",
+      "text": "Establish a mandatory technical threshold of 80 out of 100 points on the Workers' Compensation & Risk Verification Matrix before opening or weighting the vendor's commercial pricing envelope. Furthermore, treat three items as automatic 'Zero-Point Disqualifiers': (1) failure to carry active Part One statutory coverage in the facility's state, (2) declining to execute a WC 00 03 13 Waiver of Subrogation endorsement, or (3) bidding an effective hourly labor rate that falls below statutory minimum wage plus mandatory FICA and NCCI Class 9014 premiums."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Weighted Evaluation Rubric for Workers' Comp COIs"
+    },
+    {
+      "type": "p",
+      "text": "Use the five-category scoring matrix below to grade every short-listed janitorial vendor during the RFP review. Require bidders to submit a sample ACORD 25 transmitted from their insurance producer, their current NCCI Experience Rating Worksheet, and their state workers' compensation declaration summary showing active class codes."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Scoring Matrix for Janitorial Workers' Compensation COI & Risk Verification",
+      "headers": [
+        "Evaluation Dimension & Weight",
+        "Tier 1: Full Score (100% of Weight)",
+        "Tier 2: Partial Score (50% of Weight)",
+        "Tier 3: Disqualifier (0 Points)"
+      ],
+      "rows": [
+        [
+          "1. Statutory Part One & Employer's Liability Limits (25 Pts)",
+          "25 Pts: Active Statutory Part One + Part Two E.L. >= $1,000,000 / $1,000,000 / $1,000,000 backed by A- VII or higher AM Best carrier + $2M+ Umbrella.",
+          "12.5 Pts: Statutory Part One + $500,000 Part Two E.L. limits; vendor commits in writing to upgrade to $1,000,000 prior to contract signing.",
+          "0 Pts: Expired policy, state-fund lapse in monopolistic states (OH, WA, WY, ND), or carrier rated below B+."
+        ],
+        [
+          "2. NCCI Class 9014 Payroll & Labor-Hour Alignment (25 Pts)",
+          "25 Pts: Policy declaration page confirms active W-2 payroll under NCCI Class 9014 (or state janitorial equivalent) matching >= 100% of proposed site labor hours.",
+          "12.5 Pts: Class 9014 listed, but vendor uses up to 15% specialty subcontractors (e.g., high-rise glass or quarterly carpet extraction) with separate verified COIs.",
+          "0 Pts: 'If-Any' ghost policy showing $0 Class 9014 payroll, or cleaners misclassified under clerical code 8810."
+        ],
+        [
+          "3. Waiver of Subrogation & Officer Inclusion (20 Pts)",
+          "20 Pts: Executed Form WC 00 03 13 Waiver of Subrogation naming tenant & landlord + ACORD 25 'Excluded Officer/Member' box checked 'N'.",
+          "10 Pts: Blanket Waiver of Subrogation included, and excluded executive officers sign an attestation that they never perform on-site physical cleaning.",
+          "0 Pts: Refusal to grant Waiver of Subrogation, or working LLC members/partners excluded ('Y' checked) while assigned to clean the site."
+        ],
+        [
+          "4. 3-Year EMR History & OSHA Training Program (15 Pts)",
+          "15 Pts: Verified NCCI EMR <= 0.95 over past 3 years + documented OSHA 1910.1200 HazCom, Bloodborne Pathogens (1910.1030), and slip-prevention logs.",
+          "7.5 Pts: NCCI EMR between 0.96 and 1.05 (or 1.00 intrastate default for newer firms) with basic onboarding safety checklists.",
+          "0 Pts: NCCI EMR > 1.15 indicating severe claim frequency, or unresolved willful OSHA citations within the past 36 months."
+        ],
+        [
+          "5. Loaded Wage Math & Ergonomic Equipment Specs (15 Pts)",
+          "15 Pts: Transparent labor buildup ($35–$65/hr) breaking out WC % burden + deployment of low-strain HEPA backpack vacuums and touchless dispensers.",
+          "7.5 Pts: Blended lump-sum pricing within market range ($0.07–$0.15/sq ft) using standard upright vacuums and manual tools.",
+          "0 Pts: Bid rate below statutory wage + tax/WC floor, or hidden 10%–14% 'insurance surcharge' buried in billing terms."
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Verify NCCI Class 9014 Payroll Math Against ISSA Production Rates"
+    },
+    {
+      "type": "p",
+      "text": "Category 2 of the rubric (25 points) is where seasoned facility procurement directors separate legitimate commercial janitorial companies from paper brokers. To score this category accurately, benchmark the bidder's proposed monthly staffing hours against the ISSA 3,500 sq ft per hour baseline and your facility's flooring and frequency multipliers."
+    },
+    {
+      "type": "p",
+      "text": "Suppose you are scoring bids for a 20,000 sq ft corporate floor plate with mixed commercial carpet and VCT vinyl corridors (1.05x mixed flooring multiplier), four multi-fixture restrooms ($15 to $30 per restroom per visit), and two breakrooms ($12 to $25 per breakroom per visit) on a 5x/week daily weekday schedule (21.65 visits per month at a 0.90 frequency multiplier). A realistic staffing allocation requires roughly 6.0 to 7.0 labor hours per night, or 130 to 151.5 labor hours per month. At an all-in compliant hourly rate of $38 to $52 per hour, the monthly proposal should fall between $4,940 and $7,878 (roughly $0.07 to $0.11 per sq ft per visit including restroom and breakroom detail)."
+    },
+    {
+      "type": "p",
+      "text": "When auditing the vendor's Workers' Comp declaration page, confirm that their annual estimated payroll under NCCI Class 9014 is sufficient to cover their existing client portfolio plus the 1,560 to 1,818 annual labor hours required for your building. If a vendor claims to clean 250,000 sq ft across ten office buildings every night (requiring over $500,000 in annual W-2 custodian wages) yet their workers' compensation policy declaration page shows only $45,000 in estimated Class 9014 payroll, assign 0 points and disqualify the bid for payroll under-reporting."
+    },
+    {
+      "type": "h2",
+      "text": "Scoring Category 5: Why Ergonomic Vacuums and Touchless Hardware Earn Safety Points"
+    },
+    {
+      "type": "p",
+      "text": "Why does a Workers' Compensation COI evaluation rubric award up to 15 points for ergonomic equipment and transparent cost buildups? Because musculoskeletal strains—lower back sprains from pushing heavy upright vacuums around modular desk clusters, shoulder injuries from awkward cord pulling, and wrist trauma from servicing jammed manual towel dispensers—account for over 40% of NCCI Class 9014 loss runs. Vendors that invest in light-weight ergonomic equipment maintain sub-1.00 EMR scores and achieve higher square-foot production speeds without burning out their night crews."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Medical & Executive Suite Carpet Care (1.00x carpet multiplier): Award top equipment points to vendors equipping their vacuum specialists with the Atrix VACBP1 Ergo HEPA Commercial Backpack Vacuum (8-quart capacity, 4-stage HEPA 99.97% filtration, ultra-light 10.3 lb ergonomic frame operating at 67 dBA) or the Powr-Flite BP6S Comfort Pro Backpack Vacuum (6-quart capacity, 5-stage HEPA filtration, 11 lb footprint with an ergonomic cooling mesh harness and quiet 62 dBA operation for daytime or early-evening cleaning). Backpack vacuums allow custodians to walk upright in natural posture while cleaning 7,000+ sq ft per hour compared to 2,800 sq ft per hour with an upright, cutting back-strain exposure and labor hours simultaneously.",
+        "High-Traffic Restroom & Breakroom Fixture Upgrades ($15–$30 per restroom visit): Recognize facilities and vendors that standardize on the Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser (10-inch high-capacity roll, touchless IR sensor, whisper-quiet dispensing, and ADA depth compliance). Touchless high-capacity roll towel dispensers prevent paper wet-clumping on restroom tile floors—a primary source of custodian and tenant slip-and-fall incidents—while reducing mid-week refill cycles."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Vendor Audit Protocol During the RFP Finalist Interviews"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Request the 3-Packet Insurance Verification Bundle with Bid Submission",
+          "text": "Require every bidder to upload three documents in their RFP response: (1) a current ACORD 25 showing Statutory Part One and $1M Part Two limits, (2) the NCCI Experience Rating Worksheet showing their current EMR, and (3) the policy Information Page showing active NCCI Class 9014 payroll."
+        },
+        {
+          "name": "Run the Loaded Hourly Wage Floor Check",
+          "text": "Divide each bidder's proposed monthly fee by their committed monthly labor hours (calculated across 4.333 weeks per month). Compare that implied hourly rate against the local custodian wage plus 20% mandatory statutory payroll tax and Class 9014 workers' comp burden."
+        },
+        {
+          "name": "Score All Finalists Independently on the 100-Point Matrix",
+          "text": "Have your facility manager, risk management coordinator, and procurement lead score each vendor across the five weighted categories, flagging any checked 'Y' officer-exclusion boxes or missing WC 00 03 13 Waiver of Subrogation endorsements."
+        },
+        {
+          "name": "Bind the Winning Vendor's Score Commitments into Exhibit B of the Contract",
+          "text": "Attach the winning vendor's verified ACORD 25, Waiver of Subrogation endorsement, and committed monthly labor hours directly to the master service agreement, requiring 30-day advance notice of any policy modification or cancellation."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Want to score your incoming janitorial bids against verified W-2 hourly and square-foot benchmarks? Enter your facility specs into our Office Cleaning Cost Calculator or evaluate up to three vendor bids side-by-side in our Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is a good Experience Modification Rate (EMR) score when evaluating janitorial vendors?",
+      "a": "An EMR of 1.00 represents the industry average injury loss rate under NCCI underwriting. A vendor with an EMR between 0.75 and 0.95 demonstrates superior workplace safety training, ergonomic equipment usage, and low claim frequency, earning full points in our rubric. An EMR above 1.10 signals higher-than-average workplace injuries and should lose technical points, while an EMR above 1.25 warrants serious scrutiny or disqualification."
+    },
+    {
+      "q": "How do we score a newer cleaning company that does not yet have an NCCI EMR rating?",
+      "a": "Newer janitorial businesses that have not accumulated three full years of qualifying premium history are assigned an intrastate default unity factor of 1.00 by NCCI or their state rating bureau. Under our 100-point rubric, award them partial credit (7.5 out of 15 points) in Category 4, and offer up to 5 bonus points if they provide verified OSHA 300A injury logs showing zero lost-time accidents and documented OSHA 1910.1200 HazCom training records."
+    },
+    {
+      "q": "Why should payroll-to-hour alignment carry 25% of the entire Workers' Comp COI score?",
+      "a": "Because an authentic ACORD 25 certificate with $1,000,000 limits is worthless if the underlying policy is an 'if-any' ghost policy declaring zero payroll under NCCI Class 9014. Verifying that the vendor's insured Class 9014 payroll aligns with their committed on-site hours across a 4.333-week billing month is the only reliable way to prove the cleaners entering your building are insured W-2 employees."
+    },
+    {
+      "q": "How do ergonomic backpack vacuums like the Atrix VACBP1 or Powr-Flite BP6S impact RFP scoring?",
+      "a": "Commercial HEPA backpack vacuums weighing 10.3 to 11 lb with cooling mesh harnesses reduce lower-back and shoulder strain compared to pushing heavy upright units around desks, while increasing vacuuming productivity. That allows a compliant W-2 vendor to maintain competitive square-foot rates ($0.07 to $0.12/sq ft for mid-sized offices) without cutting corners on workers' compensation coverage."
+    }
+  ],
+  "amazonProductIds": [
+    "atrix-vacbp1-ergo-hepa-commercial-backpack-vacuum",
+    "powr-flite-bp6s-comfort-pro-backpack-vacuum",
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/1099-subcontractors-vs-w2-cleaning-crews/",
+    "/comparing-quotes-and-contracts/1099-subcontractors-vs-w2-cleaning-crews-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/1099-subcontractors-vs-w2-cleaning-crews-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/best-paper-towel-dispensers-for-office-kitchenettes/"
+  ]
+}

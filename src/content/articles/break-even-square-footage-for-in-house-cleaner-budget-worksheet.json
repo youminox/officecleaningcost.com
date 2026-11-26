@@ -1,0 +1,241 @@
+{
+  "slug": "break-even-square-footage-for-in-house-cleaner-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/break-even-square-footage-for-in-house-cleaner-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template break even square",
+  "title": "Line-Item Annual Budget Template: Break-Even Sq Ft Custodian",
+  "seoTitle": "Line-Item Annual Budget Template: Break-Even Sq Ft Custodian Math",
+  "metaDescription": "Capex template break even square footage budget worksheet: plug in W-2 wages, PTO backfill, and $0.05-$0.15/sq ft vendor quotes to find your crossover.",
+  "excerpt": "Download the complete line-item annual and monthly budget template to solve for your facility's exact custodial break-even square footage. Includes W-2 burden formulas, 36-month equipment capex depreciation, and contractor bracket calculators.",
+  "quickAnswer": "Using our line-item capex template break even square footage worksheet, you divide your Fixed Monthly In-House Custodial Budget ($4,850 to $6,120/month for 1.0 FTE including 173.2 paid hours, 34% tax/workers' comp/benefit load, 22-day PTO temp backfill, $155/mo equipment capex amortization, and $210/mo chemicals) by the Net Outsourced Monthly Rate per Square Foot ($0.145 to $0.215/sq ft/month for 5x/week service across 21.65 visits). In a median $20.50/hr US wage market with a $5,420/month all-in W-2 cost and a $0.180/sq ft/month outsourced benchmark, your exact break-even crossover is 30,111 cleanable square feet.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Clean overhead medium shot of a commercial building service corridor and supply staging zone featuring a heavy-duty 3-shelf structural foam utility service cart stocked with paper towels alongside a brushed stainless steel semi-round waste receptacle, bright commercial LED lighting, photorealistic photography, no text or logos",
+    "alt": "Commercial building supply staging corridor with 3-shelf utility cart and stainless steel receptacle"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Use This Capex Template to Solve for Break-Even Square Footage"
+    },
+    {
+      "type": "p",
+      "text": "Most janitorial cost comparisons only evaluate a single static square footage, leaving facility managers guessing how a upcoming lease expansion, sublease contraction, or hybrid-schedule shift will alter their staffing math. A dynamic capex template break even square footage worksheet flips the model: it isolates your fixed monthly W-2 custodial numerator (total annual internal employee, equipment, chemical, and backfill expenditure divided by 12) and divides it by the variable outsourced contractor denominator (net monthly contract cost per cleanable square foot)."
+    },
+    {
+      "type": "p",
+      "text": "By organizing your general ledger lines into Numerator Inputs (In-House Fixed & Semi-Fixed Monthly Burden) and Denominator Inputs (Outsourced Per-Sq-Ft Monthly Rate at Your Target Bracket and Frequency), you can calculate both your exact dollar break-even point and your maximum single-FTE physical square-footage limit on one worksheet."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The Core Break-Even Square Footage Worksheet Equation",
+      "text": "Break-Even Sq Ft = [ Monthly Base W-2 Payroll (173.2 hrs) + Statutory Taxes & Class 9014 Workers' Comp + Benefits + PTO Temp Backfill + 36-Mo Equipment Capex + Monthly Chemicals + Supervisory Time ] ÷ [ (Outsourced Base Rate/Sq Ft × Frequency Multiplier × Flooring Multiplier × Visits/Mo) + Monthly Restroom/Breakroom Factor per Sq Ft ]."
+    },
+    {
+      "type": "h2",
+      "text": "Part 1: The In-House W-2 Numerator Worksheet (Annual & Monthly Fixed Cost)"
+    },
+    {
+      "type": "p",
+      "text": "Complete Rows N1 through N10 below for one full-time W-2 custodian (2,080 paid hours per year / 173.2 hours per month at 4.33 weeks/month). The reference column models a median US commercial metro at a $20.50/hr base wage."
+    },
+    {
+      "type": "table",
+      "caption": "Part 1 Numerator Template: Full-Time W-2 Custodian Annual & Monthly Cost Builder",
+      "headers": [
+        "Row ID & Cost Category",
+        "Calculation Formula",
+        "Median US Benchmark Input",
+        "Monthly / Annual W-2 Cost"
+      ],
+      "rows": [
+        [
+          "N1. Base W-2 Gross Wages",
+          "40 hrs/wk × 4.333 wks/mo × Base Hourly Wage",
+          "173.33 hrs/mo × $20.50/hr",
+          "$3,553/mo ($42,640/yr)"
+        ],
+        [
+          "N2. Employer FICA Tax",
+          "7.65% × Row N1 (6.2% OASDI + 1.45% Medicare)",
+          "0.0765 × $3,553",
+          "$272/mo ($3,262/yr)"
+        ],
+        [
+          "N3. FUTA & SUTA Unemployment",
+          "1.75% blended effective annual rate × Row N1",
+          "0.0175 × $3,553",
+          "$62/mo ($746/yr)"
+        ],
+        [
+          "N4. Workers' Comp (NCCI Class 9014)",
+          "6.20% commercial janitorial rate × Row N1",
+          "0.0620 × $3,553",
+          "$220/mo ($2,644/yr)"
+        ],
+        [
+          "N5. Medical, Dental & 401(k) Match",
+          "Employer health premium + 3% retirement match",
+          "$590/mo medical + $107/mo 401(k)",
+          "$697/mo ($8,364/yr)"
+        ],
+        [
+          "N6. PTO, Holiday & Sick Temp Backfill",
+          "(10 holidays + 12 PTO/sick days = 176 hrs/yr) × $38/hr agency rate ÷ 12",
+          "176 hrs/yr × $38.00/hr ÷ 12 mos",
+          "$557/mo ($6,688/yr)"
+        ],
+        [
+          "N7. Janitorial Equipment Capex (36-Mo)",
+          "Total 3-yr equipment capex ($5,580) ÷ 36 months",
+          "Vacuums, carts, caddies, receptacles, scrubber",
+          "$155/mo ($1,860/yr)"
+        ],
+        [
+          "N8. Chemicals, Microfiber & Maintenance",
+          "Disinfectants, neutral cleaner, HEPA bags, mop pads, PPE",
+          "$0.007/sq ft/mo at ~30k sq ft capacity",
+          "$210/mo ($2,520/yr)"
+        ],
+        [
+          "N9. Recruiting Turnover & HR Oversight",
+          "($1,680/yr turnover reserve + 3.5 hrs/mo mgr time @ $54/hr) ÷ 12",
+          "$140/mo turnover + $189/mo supervision",
+          "$329/mo ($3,948/yr)"
+        ],
+        [
+          "N10. TOTAL W-2 NUMERATOR (1.0 FTE)",
+          "Sum of Rows N1 through N9",
+          "70.4% total load above base wage",
+          "$6,055/mo ($72,672/yr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Part 2: The Outsourced Per-Sq-Ft Denominator & Break-Even Crossover Table"
+    },
+    {
+      "type": "p",
+      "text": "Once you have your Part 1 Monthly W-2 Numerator ($6,055/mo in our baseline model, or ~$5,130/mo if your facility provides minimal medical benefits and uses internal overtime instead of agency backfill), divide that figure by the effective monthly outsourced cost per square foot in Part 2. Note how outsourced pricing brackets ($0.07 to $0.12/sq ft for 10,000–24,999 sq ft; $0.05 to $0.10/sq ft for 25,000+ sq ft) and frequency multipliers (0.95x for 3x/week; 0.90x for 5x/week) determine the exact crossover square footage."
+    },
+    {
+      "type": "table",
+      "caption": "Part 2 Denominator & Break-Even Square Footage Solver (5x/Week vs. 3x/Week Schedules)",
+      "headers": [
+        "Scenario & Flooring Profile",
+        "Effective Outsourced Monthly Rate / Sq Ft",
+        "Break-Even Sq Ft (Standard $5,130/Mo W-2)",
+        "Break-Even Sq Ft (Full-Benefit $6,055/Mo W-2)"
+      ],
+      "rows": [
+        [
+          "5x/Wk (21.65 visits) — All Carpet (1.00x) + Std Restrooms",
+          "$0.172 / sq ft / month",
+          "29,825 sq ft",
+          "35,203 sq ft (Exceeds 1 FTE limit)"
+        ],
+        [
+          "5x/Wk (21.65 visits) — Mixed Floors (1.05x) + Breakroom/Glass",
+          "$0.194 / sq ft / month",
+          "26,443 sq ft",
+          "31,211 sq ft"
+        ],
+        [
+          "5x/Wk (21.65 visits) — Ceramic Tile Heavy (1.12x) + High Restroom Density",
+          "$0.218 / sq ft / month",
+          "23,532 sq ft",
+          "27,775 sq ft"
+        ],
+        [
+          "3x/Wk (13.00 visits) — Mixed Floors (1.05x) Hybrid Office",
+          "$0.128 / sq ft / month",
+          "40,078 sq ft (Outsource wins)",
+          "47,304 sq ft (Outsource wins)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Itemizing Row N7: Restocking Carts, Barrel Caddies, and Receptacle Capex"
+    },
+    {
+      "type": "p",
+      "text": "For an in-house custodian to physically reach the 27,000 to 31,000 square-foot break-even threshold within a single 8-hour shift, Row N7 (Janitorial Equipment Capex) cannot be starved. Every trip an internal cleaner makes back to the central supply closet to fetch paper towel cases, spray bottles, or trash liners costs 6 to 10 minutes of lost floor production—shrinking their nightly coverage by 350 to 600 square feet per wasted trip."
+    },
+    {
+      "type": "p",
+      "text": "To keep an in-house technician or day porter moving continuously across a 25,000+ square-foot floor plate, outfit their 44-gallon utility barrel with the Rubbermaid Commercial Brute Rim Caddy Attachment, a snap-on 9-compartment organizer with molded tool clips that secures wet floor signs, bowl brushes, disinfectant sprayers, and spare liner rolls right on the barrel rim. For bulk weekly restocking of restroom paper cases, gallon chemical jugs, and coffee bar supplies from the loading dock to satellite closets, the Rubbermaid Commercial Utility Service Cart 3-Shelf provides a 500-pound structural foam load capacity across three deep shelves with 4-inch non-marking casters and rounded corner trim that protects painted drywall corners. In tenant breakrooms and restroom vestibules where rapid liner changes are critical, pairing your cart fleet with the Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can (brushed stainless steel shell, ADA-compliant semi-round profile, heavy base, and lift-off lid) eliminates hinged-lid jams and speeds up nightly waste pulls."
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step Instructions to Run Your Annual Break-Even Audit"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Populate Part 1 with Your Local Payroll & Insurance Rates",
+          "text": "Insert your target custodian hourly rate on Row N1, multiply by 173.33 monthly hours, and verify your state SUTA percentage and NCCI Class 9014 workers' compensation rate with HR."
+        },
+        {
+          "name": "Step 2: Calculate Your Facility's Maximum 1-FTE Physical Ceiling",
+          "text": "Multiply 6.8 net daily cleaning hours by the ISSA 3,500 sq ft/hr benchmark (23,800 sq ft baseline), then adjust by your flooring multiplier (divide by 0.95 for polished concrete up to 25,050 sq ft, or divide by 1.12 for ceramic tile down to 21,250 sq ft) and add +4,000 sq ft if using a 10-quart commercial backpack vacuum."
+        },
+        {
+          "name": "Step 3: Divide Row N10 by Your Outsourced Monthly Per-Sq-Ft Quote",
+          "text": "Take three itemized commercial cleaning bids, divide their monthly base + scope fee (excluding pass-through paper consumables and quarterly floor restoration) by your cleanable square footage, and divide Row N10 by that rate."
+        },
+        {
+          "name": "Step 4: Apply the Two-Gate Decision Rule",
+          "text": "Only hire an in-house W-2 night custodian if your facility's square footage is BOTH above the financial break-even crossover AND at or below the physical 1-FTE shift ceiling (typically the 26,500 to 32,000 sq ft window—or 54,000 to 64,000 sq ft for 2.0 FTEs)."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Never Forget the Two-Gate Rule in Your Budget Presentation",
+      "text": "If your worksheet shows a financial break-even of 34,500 sq ft, but one custodian can only physically clean 26,000 sq ft of your high-density ceramic-tile and glass-partition office per shift, hiring 1.0 FTE at 34,500 sq ft will result in chronically missed scopes and tenant complaints. You must either budget for 1.35 FTEs (which pushes the real break-even past 44,000 sq ft) or outsource to a vendor crew."
+    },
+    {
+      "type": "cta",
+      "text": "Run the Part 1 and Part 2 break-even equations automatically: enter your square footage, restroom count, flooring type, and cleaning frequency in our interactive Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Why are paper consumables and quarterly floor care excluded from the break-even square footage denominator?",
+      "a": "Paper towels, toilet tissue, hand soap ($0.012 to $0.025/sq ft/visit), and quarterly deep carpet extraction or VCT waxing ($0.03 to $0.06/sq ft/month) are incurred under both models. Including identical pass-through costs in both the numerator and denominator distorts the labor break-even ratio; keeping them as separate fixed add-ons isolates the true W-2 vs. outsourced crew crossover."
+    },
+    {
+      "q": "How do I adjust the break-even budget template if we want a daytime custodian instead of an evening cleaner?",
+      "a": "If an in-house custodian works during business hours and performs non-janitorial duties—such as shipping/receiving assistance, conference room catering resets, or light maintenance—credit the fair market value of those hours (e.g., 10 hours/week x 4.33 weeks x $24/hr = $1,039/mo) against Row N10 before dividing by the outsourced janitorial rate. This credit lowers the janitorial break-even threshold to roughly 19,500–23,000 sq ft."
+    },
+    {
+      "q": "What happens to the break-even template if local minimum or prevailing janitor wages rise by $3.00 per hour?",
+      "a": "Because both in-house W-2 payroll and outsourced contractor billing are driven by local custodial wage rates (roughly 55% to 65% of an outsourced contract is direct labor and payroll taxes), a $3.00/hr market-wide wage increase raises both the numerator and the denominator nearly proportionally, keeping the break-even square footage within the same 26,500 to 34,000 sq ft band."
+    },
+    {
+      "q": "How should multi-floor office tenants account for freight elevator wait times in this worksheet?",
+      "a": "If a tenant occupies 30,000 sq ft split across three non-contiguous floors without internal stairs, moving carts and vacuums via elevators consumes 35 to 45 minutes per shift. Deduct 0.75 hours from your custodian's daily productive floor hours (lowering their single-FTE physical ceiling by ~2,600 sq ft) or stage a dedicated vacuum and utility cart in a closet on each floor."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can",
+    "rubbermaid-commercial-utility-service-cart-3-shelf"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/true-cost-of-w2-janitor-salary-taxes-benefits/",
+    "/in-house-vs-outsourced-cleaning/true-cost-of-w2-janitor-salary-taxes-benefits-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/true-cost-of-w2-janitor-salary-taxes-benefits-budget-worksheet/",
+    "/commercial-vacuums-and-floor-machines/sebo-automatic-x7-commercial-vacuum-review/"
+  ]
+}

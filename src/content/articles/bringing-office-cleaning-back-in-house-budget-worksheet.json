@@ -1,0 +1,265 @@
+{
+  "slug": "bringing-office-cleaning-back-in-house-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/bringing-office-cleaning-back-in-house-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template bringing back",
+  "title": "Tax, Equipment & Labor Ledger for an Insourcing Custodial Program (2026 Budget Worksheet)",
+  "seoTitle": "Tax, Equipment & Labor Ledger for Insourcing Custodial Program",
+  "metaDescription": "Use this capex template bringing back office cleaning in-house: FICA, FUTA, workers' comp, and 36-month gear amortization vs vendor rates in our calculator.",
+  "excerpt": "CFOs and facility directors need an auditable general-ledger worksheet before canceling an outsourced commercial cleaning contract. Use this complete tax, capital equipment, and burdened payroll template to calculate your exact monthly cash flow variance.",
+  "quickAnswer": "A complete capex template bringing back office cleaning in-house must account for $3,200 to $6,800 in Year-1 equipment and fixture upgrades (amortized at $89 to $189/month over 36 months), a 29.5% to 35.8% statutory and insurance payroll burden on W-2 custodial wages, and an 8.5% to 10.4% PTO backfill line item. When compared against outsourced vendor benchmarks of $35 to $65 per hour (or $0.07 to $0.12/sq ft for mid-sized offices across 4.33 weeks/month), internal ledgers must include every hidden tax and consumable account.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead desktop view in a modern US corporate facility manager office showing a detailed printed custodial budget ledger with columns of financial figures, a stainless steel sanitary disposal fixture specification sheet, gallon bottles of commercial disinfectant staged on a utility cart in the background, warm natural office lighting, no readable text or brand logos.",
+    "alt": "Facility operations desk with an in-house custodial budget worksheet and commercial sanitation supplies"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Structure a Capex Template Bringing Back Custodial Operations"
+    },
+    {
+      "type": "p",
+      "text": "When facility managers pitch an insourced janitorial transition to corporate finance, proposals that only compare a vendor's monthly invoice against a custodian's raw hourly wage are routinely rejected by controllers. To build an accurate capex template bringing back office cleaning in-house, your pro forma ledger must separate one-time Year-1 capital expenditures (Capex) from recurring monthly operating expenses (Opex), while aligning all labor schedules to the commercial standard of 4.33 weeks per month (21.65 weekday shifts for a 5x/week operation)."
+    },
+    {
+      "type": "p",
+      "text": "In an outsourced contract, a single general ledger account—typically GL 6240 Contract Janitorial Services—absorbs base floor care ($0.07 to $0.12/sq ft for 10,000 to 24,999 sq ft offices, or $0.05 to $0.10/sq ft for 25,000+ sq ft buildings), restroom sanitation ($15 to $30 per restroom per visit), breakroom cleaning ($12 to $25 per visit), equipment maintenance, and employer liability. When you insource, that single vendor line fractures into twelve distinct tax, insurance, depreciation, and chemical supply sub-accounts."
+    },
+    {
+      "type": "h2",
+      "text": "Part 1: The W-2 Payroll Tax, Workers' Comp & Benefits Burden Worksheet"
+    },
+    {
+      "type": "p",
+      "text": "Every dollar of direct W-2 custodial wages carries mandatory statutory assessments and risk-rated insurance premiums. Even if your corporate office staff carries a low workers' compensation rate (typically $0.12 to $0.25 per $100 of clerical payroll under Class Code 8810), your insurance underwriter will classify in-house janitors under NCCI Class Code 9014 (Buildings—Operation by Contractors) or Class Code 9015 (Buildings—Operation by Owner or Lessee). Because commercial cleaning involves wet floors, repetitive mopping, trash lift mechanics, and chemical dilution, Class 9014/9015 rates average $3.50 to $6.80 per $100 of gross custodial payroll."
+    },
+    {
+      "type": "table",
+      "caption": "Line-Item W-2 Custodial Labor Burden Ledger (Per 1.0 FTE at $21.50/Hr Base Wage, 173.2 Hrs/Mo)",
+      "headers": [
+        "Payroll Ledger Line Item",
+        "Statutory / Actuarial Rate",
+        "Monthly Cost (4.33 Wks)",
+        "Annualized Cost (2,080 Hrs)"
+      ],
+      "rows": [
+        [
+          "1. Gross Base Custodial Wages (Regular Shift)",
+          "$21.50 / hr x 173.2 hrs/mo",
+          "$3,723.80",
+          "$44,685.60"
+        ],
+        [
+          "2. FICA Social Security & Medicare (Employer Share)",
+          "7.65% of gross wages",
+          "$284.87",
+          "$3,418.45"
+        ],
+        [
+          "3. FUTA & SUTA Unemployment Taxes",
+          "2.40% blended effective rate",
+          "$89.37",
+          "$1,072.45"
+        ],
+        [
+          "4. Workers' Compensation (Class Code 9014/9015)",
+          "4.85% ($4.85 per $100 payroll)",
+          "$180.60",
+          "$2,167.25"
+        ],
+        [
+          "5. Employer Health Stipend & 401(k) Match",
+          "16.50% of base wage ($614/mo)",
+          "$614.43",
+          "$7,373.12"
+        ],
+        [
+          "6. PTO, 10 Paid Holidays & 6 Sick Days Backfill Reserve",
+          "10.00% (26 shifts covered at 1.0x–1.5x)",
+          "$372.38",
+          "$4,468.56"
+        ],
+        [
+          "7. Uniforms, Non-Slip Footwear Stipend & Background Check",
+          "Fixed annual safety allowance",
+          "$35.00",
+          "$420.00"
+        ],
+        [
+          "Total Fully Burdened 1.0 FTE Labor Cost",
+          "$30.60 / productive hour (42.3% load)",
+          "$5,300.45 / mo",
+          "$63,605.43 / yr"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Don't Hide Custodial Payroll Inside Clerical Workers' Comp Code 8810",
+      "text": "During your annual workers' compensation audit, the insurance carrier inspects job descriptions and W-2 payroll registers. Misclassifying an in-house custodian under Clerical Office Employees (Code 8810) instead of Building Operations (Code 9015) triggers a retroactive audit billing adjustment plus potential policy penalty assessments."
+    },
+    {
+      "type": "h2",
+      "text": "Part 2: Capital Equipment, Restroom Fixture & Chemical Startup Ledger"
+    },
+    {
+      "type": "p",
+      "text": "When an outsourced vendor exits your building at the end of their termination notice period, they take their janitorial carts, HEPA vacuums, mop buckets, and sometimes even vendor-owned chemical dispensers or restroom receptacles that were installed under a loaner-supply agreement. Your startup capex worksheet must budget for commercial machines depreciated over a 36-month useful life, alongside durable restroom hardware and bulk concentrated chemicals."
+    },
+    {
+      "type": "table",
+      "caption": "36-Month Capex Amortization & Monthly Chemical/Consumable Operating Ledger (25,000 Sq Ft Office)",
+      "headers": [
+        "Equipment / Supply Category",
+        "Upfront Capex / Purchase Outlay",
+        "Useful Life / Replenishment Cycle",
+        "Monthly Amortized / Opex Cost"
+      ],
+      "rows": [
+        [
+          "Commercial HEPA Upright Vacuums (2 Units + Spare Bags/Belts)",
+          "$1,280.00",
+          "36 Months (3-Year Commercial Duty)",
+          "$35.56 / mo"
+        ],
+        [
+          "Microfiber Flat Mop Kits, Dual-Compartment Bucket & 36 Pads",
+          "$740.00",
+          "24–36 Months (Pads replaced annually)",
+          "$24.67 / mo"
+        ],
+        [
+          "Janitorial Carts (2), Brute Trash Dollies & Wet Floor Cones (8)",
+          "$890.00",
+          "36 Months",
+          "$24.72 / mo"
+        ],
+        [
+          "Restroom Hardware & Stainless Sanitary Receptacles (8 Stalls)",
+          "$680.00",
+          "60 Months (5-Year Fixture Upgrade)",
+          "$11.33 / mo"
+        ],
+        [
+          "OSHA Compliance Kit (SDS Binders, Eyewash, Spill Kit, PPE)",
+          "$420.00",
+          "24 Months",
+          "$17.50 / mo"
+        ],
+        [
+          "Concentrated Disinfectants, Peroxide & Glass Cleaners",
+          "$260.00 initial bulk order",
+          "Recurring Monthly Chemical Usage",
+          "$145.00 / mo"
+        ],
+        [
+          "Paper Towels, Toilet Tissue, Hand Soap & Can Liners",
+          "Pass-through ($0.012–$0.025/sq ft/visit)",
+          "Monthly Restocking (21.65 visits/mo)",
+          "$715.00 / mo (Same in-house or vendor)"
+        ],
+        [
+          "Quarterly Deep Floor Care Subcontract Reserve",
+          "Subcontracted ($0.03–$0.06/sq ft/mo)",
+          "Quarterly Carpet Extract / VCT Scrub",
+          "$950.00 / mo ($0.038/sq ft reserve)"
+        ],
+        [
+          "Total Non-Labor Monthly Equipment, Chemical & Floor Ledger",
+          "$4,270.00 Upfront Capex",
+          "Blended 36-Mo Schedule + Monthly Opex",
+          "$1,923.78 / mo ($973.78 excl. deep floor)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Standardizing Fixtures and Chemical Concentrates to Protect Your Ledger"
+    },
+    {
+      "type": "p",
+      "text": "To keep your recurring monthly chemical and hardware maintenance costs within the $145 to $180 budget line shown above, specify standardized commercial-grade SKUs in your procurement ledger rather than allowing ad-hoc retail purchases on corporate credit cards:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Restroom Stall Hardware Standardization: Outsourced contractors frequently ignore corroded plastic stall bins that snag liners and trap odors. Upgrading women's and single-occupancy restroom stalls with the Bobrick B-270 ConturaSeries Sanitary Napkin Disposal provides a surface-mounted 304 satin stainless steel receptacle with a 1.0-gallon capacity, self-closing top cover, and ADA reach compliance that wipes clean in seconds and lasts for years.",
+        "One-Minute Contact Disinfection Line Item: Include CloroxPro Hydrogen Peroxide Cleaner Disinfectant Concentrate (128 oz gallon concentrate) as your primary restroom and breakroom virucide/bactericide. Its 30-second to 1-minute contact time without harsh VOC fumes prevents chemical waste while meeting healthcare and commercial sanitation standards.",
+        "Bulk Interior Glass & Partition Refills: Lock in low per-ounce glass care costs by ordering Zep Commercial Streak-Free Glass Cleaner Gallon (4-Case). The 4 x 1 gallon refillable ammonia formula handles lobby entrance glass, mirrors, and conference room sidelights at a fraction of the cost of individual trigger bottles."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Pre-Approval CFO Decision Checklist: 7 Audit Questions Before Signing Off"
+    },
+    {
+      "type": "p",
+      "text": "Before your executive committee approves the capital requisition and sends a termination notice to the current janitorial contractor, run your completed budget worksheet through this seven-point financial stress test:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Verify Productive Hours Against the 3,500 Sq Ft/Hr Benchmark",
+          "text": "Divide your net cleanable square footage by 3,500, apply the appropriate flooring multiplier (1.04 for VCT vinyl, 1.05 for mixed floors, 1.12 for ceramic tile), and add 15 minutes per restroom. Confirm whether your required monthly hours match a realistic W-2 headcount without paying for idle shift hours."
+        },
+        {
+          "name": "2. Stress-Test Overtime and Temp Agency Backfill at 1.5x",
+          "text": "Confirm that Line 6 of your labor ledger reserves at least 10% of base wages to pay overtime or temporary staffing agency rates ($38 to $55/hr) during 15 days of PTO/holidays and 6 to 8 sick days per custodian."
+        },
+        {
+          "name": "3. Confirm Workers' Compensation Class Code 9014/9015 Premium Impact",
+          "text": "Obtain a written endorsement quote from your commercial insurance broker showing the exact premium per $100 of custodial payroll and any impact on your company's Experience Modification Rate (EMR)."
+        },
+        {
+          "name": "4. Check Incumbent Vendor Contract for Non-Solicitation Penalties",
+          "text": "Ensure your budget does not rely on poaching the vendor's current cleaners, which typically triggers $5,000 to $15,000 in liquidated damages, and verify whether your notice window is 30, 60, or 90 days."
+        },
+        {
+          "name": "5. Price Out Subcontracted Quarterly Deep Floor Care",
+          "text": "Unless you are budgeting an extra $6,500+ in capex for rotary floor buffers and hot-water carpet extractors, retain a $0.03 to $0.06/sq ft monthly accrual for quarterly subcontracted floor restoration."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Compare your internal W-2 budget ledger directly against live commercial contractor pricing benchmarks for your exact square footage and visit frequency in our Office Cleaning Cost Calculator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How are equipment capital expenditures typically depreciated in an in-house janitorial budget?",
+      "a": "Commercial janitorial machines such as dual-motor HEPA upright vacuums, microfiber dispensing systems, and utility carts are typically amortized over a 36-month (3-year) straight-line operating schedule in facility management budgets, even if your tax accounting department expenses items under the IRS Section 179 or $2,500 de minimis safe harbor threshold. Stainless steel restroom fixtures like surface-mounted disposals are amortized over 60 months."
+    },
+    {
+      "q": "Why must our monthly budget worksheet use 4.33 weeks per month instead of 4.0 weeks?",
+      "a": "A 52-week calendar year divided by 12 months equals 4.333 weeks per month (21.65 weekday shifts per month for a 5-day-a-week schedule). Budgeting on a 4.0-week month understates your annual W-2 custodial payroll, chemical consumption, and paper consumable spend by 8.33%—equivalent to leaving an entire month of payroll unfunded every year."
+    },
+    {
+      "q": "Does bringing office cleaning in-house change our paper towel and hand soap consumable costs?",
+      "a": "Paper towels, toilet tissue, hand soap, and trash can liners generally cost $0.012 to $0.025 per square foot per visit depending on employee headcount density. While an outsourced vendor marks up bundled consumables by 12% to 20% for inventory handling, small and mid-size companies buying in-house often pay similar unit prices unless they negotiate commercial janitorial distributor contract pricing."
+    },
+    {
+      "q": "What supervisory management cost should be added to an in-house custodial budget worksheet?",
+      "a": "Always allocate 6 to 10 hours per month of your Facility Manager or Office Manager's fully burdened salary ($320 to $550/month) to the in-house ledger. In an outsourced agreement, the vendor handles background checks, timecard verification, evening quality audits, chemical inventory orders, and emergency sick-call dispatching."
+    }
+  ],
+  "amazonProductIds": [
+    "bobrick-b-270-conturaseries-sanitary-napkin-disposal",
+    "cloroxpro-hydrogen-peroxide-cleaner-disinfectant-concentrate",
+    "zep-commercial-streak-free-glass-cleaner-gallon-4-case"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/liability-exposure-slip-and-fall-in-house-vs-vendor/",
+    "/in-house-vs-outsourced-cleaning/liability-exposure-slip-and-fall-in-house-vs-vendor-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/liability-exposure-slip-and-fall-in-house-vs-vendor-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/best-janitorial-gear-kit-for-10000-sq-ft-offices/"
+  ]
+}

@@ -1,0 +1,247 @@
+{
+  "slug": "outsourced-vendor-accountability-vs-direct-control-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/outsourced-vendor-accountability-vs-direct-control-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template outsourced vendor accountability",
+  "title": "Line-Item Annual Budget Template: Direct Control Vs Slas",
+  "seoTitle": "Capex Template Outsourced Vendor Accountability vs. Direct Control",
+  "metaDescription": "Use our capex template outsourced vendor accountability worksheet to model SLA credits, management hours, and $0.07-$0.12/sq ft rates in our calculator.",
+  "excerpt": "Comparing an in-house W-2 custodial payroll against an outsourced commercial janitorial proposal requires accounting for salaried supervision hours, quality remediation rework, equipment capex, and SLA fee-at-risk credits. This 16-row annual budget template gives facility directors an auditable pro-forma to evaluate direct control against SLA-governed vendor contracts.",
+  "quickAnswer": "A line-item capex template outsourced vendor accountability model reveals that direct in-house quality control for a 15,000 sq ft office (cleaned 5x/week across 21.65 monthly visits) requires $11,400 to $16,800 per year in imputed management supervision and inspection time on top of $29,800 in burdened W-2 wages and $2,100 in amortized equipment and dispenser capex. Contracting an outsourced vendor at $0.07 to $0.12 per sq ft per visit (with a 0.90x 5x/week multiplier) lowers total annual spend by $11,000 to $15,500 while placing 5% to 10% of the monthly fee ($1,500 to $3,500/year) in an enforceable SLA performance pool.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up angled view of a modern US corporate facility manager conference table featuring an open annual janitorial budget spreadsheet, an inspection scoring rubric, and commercial restroom dispenser hardware including a stainless trim touchless soap dispenser and twin jumbo tissue housing, clean studio-quality daylight, zero text, zero words, zero logos, zero watermarks",
+    "alt": "Corporate facility manager workspace with line-item janitorial SLA budget template and commercial restroom dispensers"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Structuring an Apples-to-Apples Quality & Capex Pro-Forma"
+    },
+    {
+      "type": "p",
+      "text": "When an executive committee reviews a janitorial budget, the comparison often stops at top-line labor: W-2 hourly wages versus a contractor's monthly flat invoice. That incomplete comparison hides the real cost of quality control. Direct supervision of an in-house custodian is not free—it consumes hundreds of hours of a facility manager's salaried schedule, requires capital expenditures on commercial cleaning machinery and restroom dispensers, and forces the company to pay 100% of W-2 wages even when cleaning quality slips."
+    },
+    {
+      "type": "p",
+      "text": "Using a comprehensive capex template outsourced vendor accountability worksheet allows procurement officers to model both sides of the ledger across a full 52-week fiscal year (4.33 weeks per month, or 21.65 weekday visits per month). The 16-row table below models a benchmark 15,000 sq ft commercial office suite with mixed carpet and hard flooring (1.05x effort multiplier), four multi-stall restrooms ($15 to $30 per restroom per visit equivalent), and an active breakroom ($12 to $25 per visit)."
+    },
+    {
+      "type": "table",
+      "caption": "12-Month Line-Item Budget Template: In-House Direct Control vs. Outsourced Vendor SLA (15,000 Sq Ft, 5x/Week, 259.8 Visits/Yr)",
+      "headers": [
+        "Budget Line Item & Cost Center",
+        "Annual Calculation Basis (4.33 Wks/Mo = 21.65 Visits/Mo)",
+        "In-House Direct Control Model (Annual / Monthly)",
+        "Outsourced Vendor SLA Model ($0.07–$0.12/sq ft, 0.90x 5x/Wk)"
+      ],
+      "rows": [
+        [
+          "1. Base Nightly Cleaning Labor / Contract Fee",
+          "4.5 hrs/visit × 259.8 visits × $20.50/hr vs. $0.085/sq ft × 0.90x",
+          "$23,967 / yr ($1,997 / mo)",
+          "$29,812 / yr ($2,484 / mo)"
+        ],
+        [
+          "2. Statutory Payroll Taxes (FICA, FUTA, SUTA)",
+          "10.8% effective tax burden incl. turnover cap resets",
+          "$2,588 / yr ($216 / mo)",
+          "$0 (Included in vendor rate)"
+        ],
+        [
+          "3. Workers' Comp (Code 9014) & GL Allocation",
+          "$5.80 per $100 custodial payroll + umbrella endorsement",
+          "$1,390 / yr ($116 / mo)",
+          "$0 (Verified via vendor COI)"
+        ],
+        [
+          "4. Paid Sick Leave, PTO & Holiday Backfill",
+          "14 absent shifts/yr covered at 1.5x OT or $50/hr temp",
+          "$2,730 / yr ($228 / mo)",
+          "$0 (SLA mandates 90-min floater)"
+        ],
+        [
+          "5. Daytime Manager Quality Walks & Re-Direction",
+          "4.0 hrs/wk × 52 wks × $46/hr burdened FM salary",
+          "$9,568 / yr ($797 / mo)",
+          "$1,104 / yr ($92 / mo for 2 hrs/mo walk)"
+        ],
+        [
+          "6. Payroll, OSHA HazCom & Purchasing Admin",
+          "2.0 hrs/wk × 52 wks × $42/hr admin rate",
+          "$4,368 / yr ($364 / mo)",
+          "$504 / yr ($42 / mo invoice audit)"
+        ],
+        [
+          "7. Rework & Deficiency Remediation Cost",
+          "In-house paid re-cleaning vs. vendor free 24-hr cure SLA",
+          "$1,420 / yr ($118 / mo)",
+          "$0 (Vendor cures off-clock)"
+        ],
+        [
+          "8. Annualized Turnover Recruiting & Onboarding",
+          "1.15 turnovers/yr × $3,800 recruiting/gap backfill",
+          "$4,370 / yr ($364 / mo)",
+          "$0 (Vendor absorbs churn)"
+        ],
+        [
+          "9. Vacuum, Cart & Floor Machine Capex Reserve",
+          "36-month depreciation + belts, bags, & repair parts",
+          "$1,440 / yr ($120 / mo)",
+          "$0 (Vendor supplies & repairs)"
+        ],
+        [
+          "10. Restroom Dispenser Hardware Capex",
+          "Touchless towel, twin jumbo tissue, & automatic soap units",
+          "$540 / yr ($45 / mo)",
+          "$540 / yr ($45 / mo tenant asset)"
+        ],
+        [
+          "11. Chemical & Microfiber Supply Procurement",
+          "EPA disinfectants, neutral floor cleaner, color microfiber",
+          "$1,860 / yr ($155 / mo)",
+          "$0 (Included in base vendor fee)"
+        ],
+        [
+          "12. Paper & Soap Restroom Consumables",
+          "$0.015/sq ft/visit benchmark across 259.8 visits",
+          "$5,845 / yr ($487 / mo)",
+          "$5,260 / yr ($438 / mo bulk vendor)"
+        ],
+        [
+          "13. Interior Glass & Conference Partitions",
+          "$22/visit avg × 52 weekly glass detail rotations",
+          "Included in Line 1 (if time permits)",
+          "$1,144 / yr ($95 / mo explicit SLA)"
+        ],
+        [
+          "14. Quarterly Deep Floor Care (Carpet / VCT)",
+          "$0.035/sq ft/mo amortized extraction & scrub/recoat",
+          "$6,300 / yr ($525 / mo sub-contracted)",
+          "$5,400 / yr ($450 / mo bundled SLA)"
+        ],
+        [
+          "15. Expected SLA Fee-at-Risk Performance Credits",
+          "8% holdback applied on 2 sub-90% score months/yr",
+          "$0 (FLSA prohibits wage deductions)",
+          "-$397 / yr (-$33 / mo credit recovery)"
+        ],
+        [
+          "16. Net 12-Month All-In Facility Cost",
+          "Total Out-of-Pocket + Imputed Management Bandwidth",
+          "$66,386 / yr ($5,532 / mo)",
+          "$43,367 / yr ($3,614 / mo)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Auditing the Supervision & Rework Lines (Lines 5–7)"
+    },
+    {
+      "type": "p",
+      "text": "Lines 5, 6, and 7 represent the decisive financial swing in the direct control vs SLAs debate. Under direct W-2 control, an office manager or facilities coordinator spends roughly 4 hours per week conducting morning inspections, photographing missed areas, coaching the evening custodian via text or shift overlap, and following up on tenant complaints. Adding 2 hours per week for biweekly payroll approvals, ordering supplies, and maintaining OSHA Hazard Communication logs brings internal administrative time to 312 hours per year ($13,936 in burdened salaried cost)."
+    },
+    {
+      "type": "p",
+      "text": "Furthermore, on Line 7, when an in-house W-2 custodian misses a conference room setup or leaves streaky mopping on VCT vinyl (1.04x multiplier), the employer must pay the employee for the hours they worked the night before and pay them again—or pay a daytime porter—to re-clean the area. Under an outsourced SLA, deficiency remediation is 100% non-billable: the contractor must dispatch a day rover within 4 to 24 hours at zero charge or forfeit the task credit on Line 15."
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Structuring Line 15: The Self-Funding SLA Credit Reserve",
+      "text": "When drafting your vendor contract, designate 5% to 10% of the monthly base fee (Line 1) as the 'Quality Performance Pool.' Any month where the joint 50-point inspection score falls between 85% and 89% triggers an automatic 4% invoice deduction; scores between 80% and 84% trigger the full 8% to 10% deduction, directly reimbursing your budget for any extra internal oversight time required that month."
+    },
+    {
+      "type": "h2",
+      "text": "Calculating Base Cleaning Hours and Scope Add-Ons (Lines 1, 13, and 14)"
+    },
+    {
+      "type": "p",
+      "text": "To ensure that your outsourced bids on Line 1 match the exact physical workload of an in-house custodian, anchor both columns to the ISSA production benchmark of 3,500 sq ft per hour. For a 15,000 sq ft suite with mixed carpet and hard floors (1.05x multiplier), nightly routine maintenance requires `(15,000 / 3,500) × 1.05 = 4.50 labor hours` per visit. Across 21.65 weekday visits per month (5 visits/week × 4.33 weeks/month), the facility requires 97.4 labor hours per month."
+    },
+    {
+      "type": "p",
+      "text": "When comparing outsourced proposals in the 10,000 to 24,999 sq ft size bracket ($0.07 to $0.12/sq ft per visit, modified by 0.90x for 5x/week frequency), separate high-visibility periodic tasks into dedicated SLA line items. Breaking out interior glass and conference partitions ($15 to $35 per visit on Line 13) and amortized quarterly deep floor care ($0.03 to $0.06/sq ft/month on Line 14) prevents contractors from quietly dropping periodic tasks during busy months."
+    },
+    {
+      "type": "h2",
+      "text": "Restroom Dispenser Capex That Enforces Visual SLA Compliance (Line 10)"
+    },
+    {
+      "type": "p",
+      "text": "Regardless of whether you manage an in-house custodian or audit an outsourced vendor, over 60% of tenant cleaning complaints originate in commercial restrooms ($15 to $30 per restroom per visit). Allocating $450 to $650 per year in amortized capex on Line 10 to standardize commercial restroom dispensers eliminates run-out disputes and gives your SLA inspector an objective, 10-second visual check during morning walkthroughs."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Continuous Dual-Roll Bath Tissue Protection: Mounting the Tork Twin Jumbo Bath Tissue Roll Dispenser T2 (holding two 9-inch jumbo rolls with an integrated stub-roll feature, high-capacity enclosure, and keyed lock) guarantees that stalls never run out mid-day and lets an SLA auditor verify reserve roll positioning through the viewing slot.",
+        "Open-Market Electronic Towel Control: Specifying the San Jamar Tear-N-Dry Essence Electronic Towel Dispenser (accepting universal non-proprietary 8-inch roll towels, powered by 4 D-cell batteries in an impact-resistant low-profile housing) delivers consistent hands-free sheet length without locking your Line 12 consumables budget into single-vendor paper pricing.",
+        "Class A Touchless Soap & Sanitizer Reliability: Installing the Kimberly-Clark Professional ICON Automatic Soap & Sanitizer Dispenser (1.2-liter high-capacity refill cassette, touchless sensor, interchangeable designer faceplate trim, backed by a 5-year manufacturer warranty) eliminates dripping manual pump bottles and displays clear refill status indicators during monthly scorecard audits."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Decision Checklist for Finalizing Your Annual Janitorial Budget"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Price Your True Internal Supervision Rate on Lines 5 and 6",
+          "text": "Multiply your facility manager's fully burdened hourly compensation by the exact weekly hours spent walking floors, coaching cleaners, managing SDS sheets, and ordering consumables. Never enter $0 for internal supervision."
+        },
+        {
+          "name": "Verify Vendor Labor-Hour Parity on Line 1",
+          "text": "Divide each bidding contractor's monthly base price by an estimated $28 to $38/hr fully burdened vendor labor rate to confirm they have budgeted at least 95% of the ISSA-calculated monthly hours (e.g., 97.4 hours/mo for 15,000 sq ft at 5x/week)."
+        },
+        {
+          "name": "Lock Add-On Unit Prices into Exhibit A (Lines 12–14)",
+          "text": "Require vendors to quote fixed unit rates for consumables ($0.012 to $0.025/sq ft/visit), interior partition glass ($15 to $35/visit), and quarterly floor care ($0.03 to $0.06/sq ft/mo) so you can toggle those line items on or off without renegotiating the base MSA."
+        },
+        {
+          "name": "Bind the 50-Point Scorecard to Line 15 Invoice Approval",
+          "text": "Make monthly AP invoice release contingent upon a signed joint inspection scorecard and GPS monthly time-on-site summary confirming both >=90% quality scores and >=95% contracted labor hours."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Build your custom 12-month janitorial budget pro-forma in seconds: plug your square footage, flooring mix, restroom count, and service frequency into our Office Cleaning Cost Calculator and Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do we calculate the exact dollar credit on Line 15 if an outsourced vendor misses a weekly task like interior glass partitions?",
+      "a": "By breaking out periodic tasks into explicit unit rates in Exhibit A of your contract—such as $15 to $35 per visit for interior glass and conference partitions, or $12 to $25 per visit for deep breakroom appliance cleaning—you simply deduct the exact contracted per-visit value from that month's invoice whenever a scheduled rotation is missed and not cured within 24 hours."
+    },
+    {
+      "q": "Why does the budget worksheet use 259.8 visits per year for a 5-day-per-week cleaning schedule?",
+      "a": "A 365-day calendar year contains 52.14 weeks, or an average of 4.333 weeks per calendar month. Multiplying 5 weekday visits by 4.333 weeks yields 21.65 visits per month, or 259.8 visits per year (including holidays unless specifically excluded in the contract). Using 4.0 weeks per month (240 visits/year) underestimates annual janitorial payroll and consumables by 8.25%."
+    },
+    {
+      "q": "Should the tenant or the outsourced vendor own the restroom dispensers on Line 10?",
+      "a": "Best facility practice is for the tenant or building owner to purchase and own universal or commercial dispensers outright ($450 to $650/year amortized capex). Tenant ownership prevents 'dispenser lock-in,' allowing you to replace an underperforming janitorial vendor upon 30 days' notice without having the outgoing contractor rip paper towel and soap dispensers off your restroom tile walls."
+    },
+    {
+      "q": "What insurance and compliance documents must be audited before approving an outsourced vendor's first monthly invoice?",
+      "a": "Before releasing payment on Line 1, verify an active Certificate of Insurance (COI) with $1M/$2M General Liability naming your company as Additional Insured, statutory Workers' Compensation coverage, a $25,000+ Janitorial Dishonesty Bond, an on-site OSHA Hazard Communication (29 CFR 1910.1200) Safety Data Sheet (SDS) binder for all chemicals stored in your closet, and written attestation of 7-year criminal background checks for all assigned cleaners."
+    }
+  ],
+  "amazonProductIds": [
+    "tork-twin-jumbo-bath-tissue-roll-dispenser-t2",
+    "san-jamar-tear-n-dry-essence-electronic-towel-dispenser",
+    "kimberly-clark-professional-icon-automatic-soap-and-sanitizer-di"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-supply-purchasing-amazon-business/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-supply-purchasing-amazon-business-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/in-house-cleaning-supply-purchasing-amazon-business-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/best-looped-end-cotton-wet-mops-for-tile-grout/"
+  ]
+}

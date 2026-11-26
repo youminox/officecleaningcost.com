@@ -1,0 +1,79 @@
+{
+  "slug": "how-often-to-schedule-restroom-consumable-restocking-service",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-restroom-consumable-restocking-service/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar restroom consumable restocking service",
+  "title": "Quarterly & Annual Calendar for Restroom Consumable Restocking Service: Frequency by Foot Traffic and Annual Spend",
+  "seoTitle": "Restroom Consumable Restocking Calendar: Frequency by Traffic & Cost",
+  "metaDescription": "Restroom restocking calendar by foot traffic: 2x/week to weeknight visits, monthly par audits, quarterly dispenser checks, $18.7K-$96K per year. Run your numbers.",
+  "excerpt": "Learn how restroom usage per day decides whether paper, soap, and liner replenishment runs twice a week, three times a week, or every weeknight with a midday check. You also get a monthly, quarterly, and annual calendar of inventory and dispenser tasks with annualized costs for a 10,000 sq ft office with four restrooms.",
+  "quickAnswer": "Low-traffic offices can restock restroom paper, soap, and liners 2x per week, about $18,700-$38,500 per year for a 10,000 sq ft office with four restrooms; medium-traffic offices need 3x per week ($28,100-$57,700 per year); and heavy-traffic floors need weeknight service ($46,800-$96,100 per year), often with a midday porter check. Add a monthly par-level audit, a quarterly dispenser service, and an annual product and contract review for roughly $1,200-$2,100 more per year.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic scene in a locked janitorial supply closet of a US office building, a facility coordinator with a tablet counting cased toilet tissue, hardwound paper towels, foam soap cartridges, and boxed trash liners on labeled steel wire shelving, an anti-fatigue mat on the floor, bright cool LED overhead light, shot from the doorway at chest height, no text, no logos, no watermarks",
+    "alt": "Facility coordinator counting cases of restroom paper, soap refills, and liners on wire shelving in an office supply closet"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Frequency is set by uses per fixture, not by square footage" },
+    { "type": "p", "text": "Restroom consumable restocking fails in a predictable way: a dispenser runs out at 2 p.m. on the busiest day of the week, and the complaint lands on the office manager. The cause is almost always a visit schedule built around square footage instead of restroom usage. A 10,000 sq ft office with 25 people in the building and one with 55 people use very different amounts of paper and soap, even though a per-sq-ft quote treats them the same." },
+    { "type": "p", "text": "Set the visit cadence from peak in-office headcount and the number of restrooms, then confirm with dispenser capacity. High-capacity dispensers stretch the time between refills; small single-roll units shorten it. Once the routine schedule is right, a short calendar of monthly, quarterly, and annual tasks keeps inventory, dispensers, and pricing under control." },
+    { "type": "h2", "text": "Foot-traffic thresholds and the routine restock schedule" },
+    { "type": "table", "caption": "Restock frequency and annual spend for a 10,000 sq ft office with four restrooms (consumables at $0.012-$0.025 per sq ft plus $15-$30 per restroom per visit; 4.33 weeks per month)", "headers": ["Traffic tier", "Signal", "Recommended schedule", "Visits per month", "Cost per visit", "Monthly cost", "Annual cost"], "rows": [
+      ["Low", "Under 3 occupants per 1,000 sq ft; dispensers rarely below half by next visit", "2x per week", "8.66", "$180-$370", "$1,559-$3,204", "$18,706-$38,450"],
+      ["Medium", "3-5 occupants per 1,000 sq ft; towels and soap low on peak days", "3x per week", "13", "$180-$370", "$2,340-$4,810", "$28,080-$57,720"],
+      ["Heavy", "Over 5 occupants per 1,000 sq ft; visitors, training rooms, or call center", "Weeknights, plus optional midday porter check", "21.65", "$180-$370", "$3,897-$8,011", "$46,764-$96,126"]
+    ] },
+    { "type": "p", "text": "Because a per-sq-ft consumables rate charges for product on every visit, low-traffic offices are often overbuying when they move to a high frequency. If your office sits in the low tier, push the vendor toward the bottom of the $0.012-$0.025 range, or switch to pass-through supplies so you pay only for product actually used. Heavy-tier offices that need midday coverage should add a day porter at $35-$65 per hour; one hour per weekday adds $758-$1,407 per month at 21.65 days." },
+    { "type": "callout", "variant": "tip", "title": "Tip: test a tier with a dispenser log", "text": "For two weeks, have the crew note each dispenser's fill level at every visit. If nearly every dispenser is still above half full at the next visit, you can safely drop one tier. If any dispenser is below a quarter full, move up one tier or install a higher-capacity unit at that location." },
+    { "type": "h2", "text": "The monthly, quarterly, and annual calendar" },
+    { "type": "table", "caption": "Calendar tasks for the same four-restroom office", "headers": ["Interval", "Task", "Labor estimate", "Cost per event", "Annualized cost"], "rows": [
+      ["Monthly", "Par-level inventory count of cased paper, soap refills, and liners; reorder and reconcile against invoices", "1 hour at $35-$65", "$35-$65", "$420-$780"],
+      ["Quarterly", "Dispenser service: replace batteries in touch-free units, check locks and keys, verify ADA mounting heights, clean internal mechanisms", "3 hours at $35-$65", "$105-$195", "$420-$780"],
+      ["Annually", "Product and contract review: usage per occupant, spec check, dispenser standardization, swap of failed units", "6 hours at specialty $55-$95", "$330-$570", "$330-$570"],
+      ["Total calendar layer", "Added to routine restock cost", "-", "-", "$1,170-$2,130"]
+    ] },
+    { "type": "p", "text": "These tasks are cheap compared with the routine schedule, but they are what catch the expensive problems: product shrinkage from unlocked closets, touch-free soap units dead for weeks because nobody owns battery changes, and dispensers from three different tenant build-outs that each need a different refill SKU." },
+    { "type": "h2", "text": "Setting up the calendar step by step" },
+    { "type": "steps", "items": [
+      { "name": "Record peak headcount and restroom count", "text": "Use the busiest in-office day, not the weekly average. Hybrid schedules often concentrate usage Tuesday through Thursday." },
+      { "name": "Inventory every dispenser", "text": "List type, capacity, and refill format for tissue, towels, soap, seat covers, and liners in each restroom." },
+      { "name": "Assign a traffic tier per restroom group", "text": "Restrooms near conference or training rooms may be heavy tier while others on the same floor are low." },
+      { "name": "Set par levels", "text": "Keep one to two weeks of cased stock in a locked closet, sized to the tier's usage." },
+      { "name": "Schedule calendar tasks with sign-off", "text": "Put the monthly count, quarterly dispenser service, and annual review on the contract calendar with a named owner and completion record." },
+      { "name": "Re-tier after headcount changes", "text": "Any change of more than 20% in occupancy should trigger a two-week dispenser log and a schedule review." }
+    ] },
+    { "type": "h2", "text": "Supplies that support a leaner schedule" },
+    { "type": "p", "text": "A good supply closet setup makes the monthly count fast and accurate. A Wearwell 24/7 anti-fatigue mat (3x5 ft, 5/8-inch closed-cell nitrile rubber with a beveled edge) at the closet staging area or porter desk reduces fatigue during long counting and cart-loading sessions. For restroom fixtures between visits, Lysol Professional Disinfectant Spray in a 12-pack of 19-oz aerosols is EPA registered for hard surfaces such as flush handles, faucet levers, and partition latches; observe the label contact time. Where restroom vestibules or executive washrooms have hardwood or engineered flooring, Bona Pro Series hardwood cleaner, a GREENGUARD Gold certified, residue-free neutral formula available ready to use or as concentrate, protects urethane finishes from harsh restroom chemicals." },
+    { "type": "ul", "items": [
+      "Lock the supply closet and log keys; shrinkage is the most common reason usage per occupant jumps between monthly counts.",
+      "Standardize one dispenser family per product type so a single refill SKU serves every restroom.",
+      "Keep Safety Data Sheets for all restroom chemicals in the closet binder to satisfy OSHA Hazard Communication.",
+      "Specify Green Seal or EPA Safer Choice certified paper and soap if required by your lease or LEED operations plan."
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Compliance reminders for restroom crews", "text": "Every person restocking restrooms should be covered by the vendor's OSHA Bloodborne Pathogens exposure control plan with gloves and training. Confirm dispensers remain within ADA reach ranges after any replacement, and keep a current certificate of insurance on file for the vendor." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator with consumables included and your restroom count to price each traffic tier, then compare vendor proposals for restock frequency and calendar tasks side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many restock visits per month does a 3x per week schedule include?", "a": "Thirteen. Multiply 3 visits by 4.33 weeks per month (some contracts use 4.333) to get about 13 visits. A twice-weekly schedule is 8.66 visits and a weeknight schedule is 21.65 visits. Always confirm which factor the vendor used, since a flat 4 weeks understates the monthly bill by about 8%." },
+    { "q": "Can we restock less often if we install larger dispensers?", "a": "Often yes. High-capacity coreless tissue and hardwound towel dispensers can hold two to four times the product of standard units, letting a medium-traffic office move from 3x to 2x per week for restocking while restroom cleaning stays on its own schedule. Run a two-week dispenser log after installation before cutting visits." },
+    { "q": "Who should own the monthly par-level count?", "a": "Either the vendor's site supervisor or the office manager, but it must be named in the contract. The count should reconcile cases used against invoices and headcount; a sudden increase in usage per occupant usually points to shrinkage or a dispenser malfunction rather than real demand." },
+    { "q": "What does a quarterly dispenser service include?", "a": "Battery replacement for touch-free soap, towel, and sanitizer units, lock and key checks, cleaning of internal mechanisms, and verification that mounting heights remain ADA compliant. About three labor hours at $35-$65 per hour covers four restrooms, or $105-$195 per quarter." },
+    { "q": "Is restocking frequency the same as restroom cleaning frequency?", "a": "Not necessarily. Many contracts clean restrooms every scheduled visit while restocking is checked every visit but only fully loaded as needed. Write the expectation into the scope: dispensers checked on every visit, refilled when below a stated level, with no dispenser allowed to run empty during business hours." }
+  ],
+  "amazonProductIds": [
+    "wearwell-24-7-anti-fatigue-standing-desk-and-reception-mat",
+    "lysol-professional-disinfectant-spray-19-oz-case-12-pack",
+    "bona-pro-series-commercial-hardwood-floor-cleaner-gallon"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-restroom-consumable-restocking-service-quotes/",
+    "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-cost-guide/",
+    "/janitorial-carts-mops-and-tools/best-waste-sorting-carts-for-leed-certified-buildings/"
+  ]
+}

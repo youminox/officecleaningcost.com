@@ -1,0 +1,250 @@
+{
+  "slug": "in-house-janitorial-closet-and-laundry-setup-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/in-house-janitorial-closet-and-laundry-setup-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template janitorial closet laundry",
+  "title": "Payroll & Capex Worksheet for Microfiber Laundry & Chemical Dilution Closets",
+  "seoTitle": "Capex Template Janitorial Closet Laundry & Dilution Budget Worksheet",
+  "metaDescription": "Downloadable-style capex template janitorial closet laundry & chemical dilution worksheet: plumbing, SDS compliance, payroll burden, and 36-month TCO.",
+  "excerpt": "Use this line-item capex and monthly operating budget worksheet to price an in-house commercial janitorial closet with closed-loop chemical dilution and microfiber laundering.",
+  "quickAnswer": "A complete capex template for a commercial janitorial closet laundry and chemical dilution build-out totals $2,640 to $5,180 in Year 1 capital outlay (covering ASSE 1055B backflow plumbing, a 4-product wall proportioner, a front-load commercial washer/dryer, color-coded microfiber par stock, and rolling carts) plus $3,420 to $5,640 in annual operating expenses (concentrates, utilities, annual backflow certification, and 78 burdened custodial labor hours at 4.33 weeks/month).",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Top-down architectural and financial flat-lay on a facility director desk showing a printed commercial janitorial closet plumbing and capex budget ledger beside color-coded blue green red microfiber cleaning cloths, brass metering tips, and a sleek charcoal housekeeping cart catalog in a modern US office, crisp studio daylight, zero text or brand logos",
+    "alt": "Facility operations capex budget worksheet with color-coded microfiber pads and chemical dilution metering components"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Use This Janitorial Closet Capex & Opex Budget Worksheet"
+    },
+    {
+      "type": "p",
+      "text": "When corporate controllers review a proposal to transition from an outsourced cleaning vendor to an in-house custodial program, the most frequent audit failure is omitting utility room infrastructure and recurring maintenance labor. Facility managers often budget the custodian's base hourly wage and a rough allowance for paper towels and trash liners ($0.012 to $0.025 per square foot per visit), but forget the upfront plumbing work, chemical proportioning manifold, microfiber laundry equipment, and annual compliance inspections required to operate legally."
+    },
+    {
+      "type": "p",
+      "text": "This capex template janitorial closet laundry worksheet provides a line-item general ledger structure for a benchmark 15,000-to-25,000-square-foot US commercial office operating on a 5x-per-week weekday schedule (21.65 visits per month based on 4.33 weeks per month). Every line item separates one-time Capital Expenditure (depreciated over 36 to 60 months) from monthly Operating Expenditure (opex) and hidden payroll burden."
+    },
+    {
+      "type": "h2",
+      "text": "Line-Item Capex & Annual Opex Spreadsheet: Microfiber & Dilution Closet"
+    },
+    {
+      "type": "p",
+      "text": "Use the three budget columns below—Lean Retrofit (existing plumbing and compact cart), Standard Corporate Class A (plumbed 4-product dispenser + on-premise laundry), and Enterprise High-Traffic (heavy-duty washer + quarterly VCT floor care stock)—to populate your facility's annual operating budget."
+    },
+    {
+      "type": "table",
+      "caption": "Master Capex & Annual Opex Worksheet: In-House Janitorial Closet, Microfiber Laundry & Chemical Dilution (USD)",
+      "headers": [
+        "GL Line Item / Cost Category",
+        "Accounting Class",
+        "Lean Retrofit (10k Sq Ft)",
+        "Standard Class A (20k Sq Ft)",
+        "Enterprise Spec (35k Sq Ft)"
+      ],
+      "rows": [
+        [
+          "1.1 Wall Chemical Proportioner (4-Product ASSE 1055B Eductor + Locking Cabinet)",
+          "Capex (36-Mo Depr)",
+          "$195",
+          "$340",
+          "$580 (Dual Manifold)"
+        ],
+        [
+          "1.2 Licensed Plumber: RPZ / Vacuum Breaker Backflow Valve & Mop Basin Hose Bibb",
+          "Capex / TI Improvement",
+          "$350",
+          "$625",
+          "$980"
+        ],
+        [
+          "1.3 OSHA HazCom Station: Wall Eyewash, SDS Binder, Secondary GHS Bottle Labels & PPE",
+          "Capex (Compliance)",
+          "$145",
+          "$260",
+          "$410"
+        ],
+        [
+          "1.4 Commercial Front-Load Washer & Ventless Condensing Dryer + Leak Pan/Sensor",
+          "Capex (60-Mo Depr)",
+          "$1,150",
+          "$1,850",
+          "$2,750"
+        ],
+        [
+          "1.5 Rolling Carts, Charging Buckets & Mop Hardware",
+          "Capex (36-Mo Depr)",
+          "$380",
+          "$640",
+          "$1,120"
+        ],
+        [
+          "1.6 Microfiber Textile Par Stock (18-in Wet/Dust Pads + 4-Color 16x16 Cloths + Mesh Bags)",
+          "Capex / Consumable Base",
+          "$240",
+          "$465",
+          "$790"
+        ],
+        [
+          "SUBTOTAL: YEAR 1 UPFRONT CLOSET CAPEX",
+          "Total Capital Outlay",
+          "$2,460",
+          "$4,180",
+          "$6,630"
+        ],
+        [
+          "2.1 Concentrated Daily Chemicals (Neutral Floor, Glass, Peroxide Multi-Surface, Disinfectant)",
+          "Annual Opex",
+          "$480 / yr ($40/mo)",
+          "$840 / yr ($70/mo)",
+          "$1,440 / yr ($120/mo)"
+        ],
+        [
+          "2.2 Periodic Floor Restoration & Restroom Deodorizing Stock (Stripper/Finish + Enzymatic Screens)",
+          "Annual Opex",
+          "$320 / yr",
+          "$680 / yr",
+          "$1,190 / yr"
+        ],
+        [
+          "2.3 Laundry Utilities (Water/Sewer, Electric kWh, Non-Ionic Microfiber Liquid Detergent)",
+          "Annual Opex",
+          "$240 / yr ($20/mo)",
+          "$456 / yr ($38/mo)",
+          "$780 / yr ($65/mo)"
+        ],
+        [
+          "2.4 Annual Backflow Preventer Certification & Metering Tip/Tubing Preventative Kit",
+          "Annual Opex",
+          "$135 / yr",
+          "$165 / yr",
+          "$240 / yr"
+        ],
+        [
+          "2.5 Microfiber Attrition Replacement Reserve (25% annual pad/cloth retirement)",
+          "Annual Opex",
+          "$60 / yr",
+          "$116 / yr",
+          "$198 / yr"
+        ],
+        [
+          "2.6 Custodial Closet & Laundry Labor Burden (1.0 to 2.25 hrs/wk @ $25.50/hr loaded × 52 wks)",
+          "Annual Payroll Burden",
+          "$1,326 / yr (52 hrs)",
+          "$1,989 / yr (78 hrs)",
+          "$2,984 / yr (117 hrs)"
+        ],
+        [
+          "SUBTOTAL: ANNUAL RECURRING CLOSET OPEX + PAYROLL BURDEN",
+          "Total Annual Opex",
+          "$2,561 / yr ($213/mo)",
+          "$4,246 / yr ($354/mo)",
+          "$6,832 / yr ($569/mo)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Accounting for Specialty Consumables and Daytime Executive Carts"
+    },
+    {
+      "type": "p",
+      "text": "A closet budget worksheet is incomplete if it only accounts for daily neutral detergent. Two additional line items separate professional Class A office maintenance from bare-bones trash-and-dash setups: periodic VCT floor finish restoration and high-touch restroom odor control. Under standard commercial pricing benchmarks, an outsourced quarterly deep floor care program adds $0.03 to $0.06 per square foot per month ($450 to $900/month amortized on a 15,000 sq ft suite). When self-performing periodic breakroom, corridor, or supply-room VCT maintenance in-house, facility managers should budget for the Zep High-Traffic Floor Polish & Stripper Bundle (a 2 x 1-gallon commercial VCT floor stripper and wet-look acrylic finish combination designed for quarterly or semi-annual scrub-and-recoat cycles)."
+    },
+    {
+      "type": "p",
+      "text": "Similarly, restroom complaints in corporate offices rarely stem from visible dirt; they stem from uric acid splash and drain odors between shifts. Stocking the closet shelf with Fresh Products Wave 3D Urinal Deodorizer Screens (10-Box)—which provide a 30-day enzymatic lifecycle and anti-splash bristle geometry—eliminates malodor at the fixture source for pennies per restroom visit compared to the $15 to $30 per-restroom per-visit outsourced service charge. Finally, if your custodian performs daytime touch-ups during C-suite client tours or board meetings, rolling a bulky 34-gallon trash barrel through reception looks industrial. Allocating capex on Line 1.5 for a Rubbermaid Commercial Executive Quick Cart Large gives your day porter a discreet charcoal Teflon-coated housekeeping caddy with a 60-pound capacity and quiet casters that fits tightly inside compact closet alcoves."
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Never Mix Acrylic Floor Stripper into Wall Dilution Manifolds",
+      "text": "High-alkaline VCT floor strippers (pH 12.5–13.5) will rapidly corrode standard EPDM rubber seals inside wall-mounted daily chemical proportioners and present severe splash hazards. Always store floor stripper and acrylic polish in a dedicated lower containment tray and measure floor stripper manually into heavy-duty mop buckets using graduated chemical-resistant pitchers and full splash PPE."
+    },
+    {
+      "type": "h2",
+      "text": "Payroll Burden Math: Calculating True Closet Maintenance Labor"
+    },
+    {
+      "type": "p",
+      "text": "In Line 2.6 of our worksheet, we isolate the labor hours a custodian spends inside the janitorial closet rather than actively cleaning tenant square footage. Why? Because when you compare an in-house employee against an outsourced janitorial quote ($0.07 to $0.12/sq ft for 10,000–24,999 sq ft), the vendor's price already absorbs off-site laundry loading, chemical inventory ordering, and equipment repair."
+    },
+    {
+      "type": "p",
+      "text": "To calculate your facility's exact Line 2.6 payroll entry, start with the custodian's base hourly wage (for example, $19.50/hr) and apply your corporate payroll burden multiplier—typically 28% to 34% in the US to cover employer FICA (7.65%), FUTA/SUTA unemployment taxes, commercial janitorial workers' compensation insurance (Class Code 9014, averaging 4.5% to 8.5% of payroll), and paid sick/vacation accrual. That brings the loaded hourly rate to $25.50/hr. Multiplying 1.5 hours per week of laundry sorting, washer loading, dryer unloading, proportioner jug swapping, and eyewash/SDS weekly checks across 4.333 weeks per month equals 6.50 hours/month ($165.75/month or $1,989/year)."
+    },
+    {
+      "type": "h2",
+      "text": "Pre-Approval Procurement & Facility Inspection Checklist"
+    },
+    {
+      "type": "p",
+      "text": "Before submitting your capex request to finance, walk your building's utility closet with this six-point engineering and compliance verification list:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "1. Verify Dynamic Water Pressure & Backflow Jurisdiction",
+          "text": "Confirm at least 25–30 PSI flowing water pressure at the closet service sink so Venturi chemical eductors draw accurate dilution ratios. Verify whether your municipal water authority allows an internal ASSE 1055B E-gap or requires a testable Reduced Pressure Zone (RPZ) assembly."
+        },
+        {
+          "name": "2. Audit Electrical Circuit Capacity & Dryer Venting",
+          "text": "Check whether the closet has a dedicated 20-amp 120V GFCI receptacle for a washer and either a 240V outlet / exterior exhaust duct or sufficient ambient airflow for a 120V ventless heat-pump dryer."
+        },
+        {
+          "name": "3. Measure Floor Drain Slope & Waterproof Curbing",
+          "text": "Ensure the mop sink basin or closet floor slab has a live trap primer and floor drain capable of handling a ruptured washer supply hose without flooding adjacent carpeted office corridors."
+        },
+        {
+          "name": "4. Establish Four-Zone Microfiber Color Coding",
+          "text": "Standardize procurement around Red (toilets/urinals), Yellow (restroom sinks/counters), Green (breakroom/kitchenette surfaces), and Blue (interior glass and general office desks) to prevent bacterial cross-contamination."
+        },
+        {
+          "name": "5. Benchmark 36-Month Total Cost of Ownership Against Outsourced Bids",
+          "text": "Add 1/36th of Total Closet Capex plus Monthly Closet Opex ($354/mo in the 20k sq ft Class A model, or $470/mo fully amortized) to your in-house custodian's monthly wage budget before comparing against turnkey vendor quotes."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to plug your worksheet totals into a complete in-house vs. outsourced comparison? Launch our interactive Office Cleaning Cost Calculator or evaluate vendor bids line-by-line in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should finance depreciate janitorial closet chemical dispensers and laundry appliances?",
+      "a": "Under standard US commercial property accounting, wall-mounted chemical proportioners are often supplied at low cost or leased through chemical distributors, or expensed under the IRS de minimis safe harbor threshold if under $2,500 per invoice item. Commercial washers, dryers, and permanent plumbing backflow upgrades are typically capitalized on a 5-year (60-month) MACRS schedule for equipment or amortized over the remaining term of the commercial office lease."
+    },
+    {
+      "q": "What happens to dilution ratios if our office building's water pressure fluctuates?",
+      "a": "Standard Venturi proportioners rely on steady water velocity through an internal eductor jet to create suction across the metering tip. If building water pressure drops below 20 PSI or spikes above 65 PSI, dilution accuracy can drift by 15% to 25%. Installing an inexpensive brass pressure regulator preset to 40 PSI on the proportioner inlet line locks in consistent chemical dosing."
+    },
+    {
+      "q": "How often do dilution metering tips and suction dip tubes need replacement in the budget?",
+      "a": "Quaternary disinfectants and citrus or pine terpenes gradually stiffen PVC dip tubing and can leave mineral crust inside micro-orifice metering tips. Budget $45 to $75 once per year (included in Line 2.4) to replace foot valves, dip tubes, and color-coded metering tips during your annual plumbing backflow inspection."
+    },
+    {
+      "q": "Does an in-house janitorial closet require commercial general liability or pollution coverage changes?",
+      "a": "When you outsource cleaning, you require the contractor to provide a Certificate of Insurance (COI) carrying $1M–$2M in General Liability, Statutory Workers' Compensation, and a $25k–$100k Janitorial Dishonesty Bond. When you bring the closet and custodian in-house, your corporate Workers' Comp policy must add janitorial classification payroll (NCCI Code 9014), and your property insurer may require automatic water-leak shutoff valves on the closet washing machine."
+    }
+  ],
+  "amazonProductIds": [
+    "zep-high-traffic-floor-polish-and-stripper-bundle",
+    "fresh-products-wave-3d-urinal-deodorizer-screens-10-box",
+    "rubbermaid-commercial-executive-quick-cart-large"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/part-time-20-hour-in-house-custodian-budget/",
+    "/in-house-vs-outsourced-cleaning/part-time-20-hour-in-house-custodian-budget-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/part-time-20-hour-in-house-custodian-budget-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/unger-smartcolor-15-gal-vs-rubbermaid-charging-bucket/"
+  ]
+}

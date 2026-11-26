@@ -1,0 +1,81 @@
+{
+  "slug": "optometry-eye-clinic-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/optometry-eye-clinic-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "optometry eye clinic rates",
+  "title": "Optometry Eye Clinic Rates: Crew Rates and Restroom Pricing for Optometry & Optical Retail Offices",
+  "seoTitle": "Optometry Eye Clinic Rates: Cleaning Cost per Sq Ft & per Month",
+  "metaDescription": "Optometry eye clinic rates for cleaning: $0.09-$0.20 per sq ft per visit plus $15-$30 per restroom, with monthly scenarios. Model yours in the calculator.",
+  "excerpt": "Optometry practices combine an optical retail floor full of glass and mirrors with quiet exam lanes and a dilation waiting area, and the cleaning price reflects both. Here is how US practice managers can benchmark per-visit, per-restroom, and monthly janitorial costs.",
+  "quickAnswer": "US optometry and optical retail offices typically pay $0.12-$0.20 per sq ft per visit under 2,500 sq ft and $0.09-$0.15 per sq ft per visit from 2,500 to 9,999 sq ft, plus $15-$30 per restroom per visit and $15-$35 per visit for interior glass and display cases. A 3,000 sq ft two-doctor practice cleaned three times a week usually runs about $4,100-$7,100 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic after-hours view of a US optometry office optical showroom, cleaner polishing a glass frame display case and wall mirror with microfiber cloth, rows of eyeglass frames on illuminated wall boards, carpet tile aisle and LVT near the dispensing tables, soft warm accent lighting, slightly elevated three-quarter camera angle, no text, no words, no logos, no watermarks",
+    "alt": "Cleaner polishing glass eyewear display cases in an optometry office showroom after closing"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How an optometry office splits into three cleaning zones" },
+    { "type": "p", "text": "An optometry practice is really three spaces under one lease. The optical retail floor, with frame boards, mirrors, glass display cases, and dispensing tables, behaves like a boutique store where fingerprints and smudges are the main complaint. The clinical side, with pretest rooms, exam lanes, and a contact lens training station, behaves like a quiet medical suite with patient chairs and high-touch armrests. Then there is the back-of-house lab, edging room, and staff area. Pricing a practice as if it were one uniform office misses the glass labor up front and the disinfection labor in the lanes." },
+    { "type": "p", "text": "Foot traffic matters too. A two-doctor practice may see 40 to 60 exam patients a day, plus walk-in customers picking up glasses or browsing frames. Dilated patients linger in the waiting area for 20 to 30 minutes, which raises restroom use and seating wear compared with a typical office suite of the same size." },
+    { "type": "h2", "text": "Square-foot benchmarks for optometry and optical retail" },
+    { "type": "table", "caption": "Per-visit square-foot rates applied to common optometry office footprints", "headers": ["Practice profile", "Size bracket", "Rate per sq ft per visit", "Example size", "Base per visit before floors, restrooms, glass"], "rows": [
+      ["Single-doctor practice or mall optical", "Under 2,500 sq ft", "$0.12-$0.20", "1,600 sq ft", "$192-$320"],
+      ["Two-doctor practice with optical", "2,500-9,999 sq ft", "$0.09-$0.15", "3,000 sq ft", "$270-$450"],
+      ["Multi-doctor group with lab", "2,500-9,999 sq ft", "$0.09-$0.15", "5,500 sq ft", "$495-$825"],
+      ["Ophthalmology & optometry center", "10,000-24,999 sq ft", "$0.07-$0.12", "11,000 sq ft", "$770-$1,320"]
+    ] },
+    { "type": "p", "text": "Floor type adjusts the base. Many optical floors use carpet tile in the showroom for acoustics and LVT or VCT near dispensing and lab areas. Carpet stays at a 1.00 multiplier, VCT or LVT runs 1.04, and a mixed layout runs 1.05. Restrooms are priced separately at $15-$30 each per visit, and interior glass, including display cases, mirrors, and the entry storefront, is commonly an add-on at $15-$35 per visit." },
+    { "type": "h2", "text": "Monthly scenarios: from mall optical to multi-doctor group" },
+    { "type": "p", "text": "Monthly totals multiply the per-visit price by visits per month, which uses 4.33 weeks, and a frequency multiplier: 1.00 for twice weekly at 8.66 visits, 0.95 for three times weekly at 13 visits, and 0.90 for five weekdays at 21.65 visits." },
+    { "type": "table", "caption": "Modeled monthly janitorial costs for three optometry office scenarios", "headers": ["Scenario", "Frequency", "Floor multiplier", "Base service per month", "Restrooms per month", "Glass add-on per month", "Estimated total"], "rows": [
+      ["1,600 sq ft single-doctor, 1 restroom", "2x/week, 8.66 visits, x1.00", "Carpet x1.00", "$1,663-$2,771", "$130-$260", "$130-$303", "$1,923-$3,334"],
+      ["3,000 sq ft two-doctor, 2 restrooms", "3x/week, 13 visits, x0.95", "Mixed x1.05", "$3,501-$5,835", "$390-$780", "$195-$455", "$4,086-$7,070"],
+      ["5,500 sq ft group with lab, 3 restrooms", "5x/week, 21.65 visits, x0.90", "VCT x1.04", "$10,031-$16,718", "$974-$1,949", "Included in base", "$11,005-$18,667"]
+    ] },
+    { "type": "p", "text": "Walking through the middle row: 3,000 sq ft times $0.09 times 1.05 equals $283.50 per visit at the low end and $472.50 at $0.15. Multiplied by 13 visits and the 0.95 frequency multiplier, base service is $3,501 to $5,835. Two restrooms add $390-$780, and nightly glass and display-case polishing adds $195-$455. The all-in range of roughly $4,086-$7,070 equals about $1.36-$2.36 per sq ft per month." },
+    { "type": "callout", "variant": "benchmark", "title": "Glass is the swing line", "text": "Optical showrooms can have 150 to 300 sq ft of display glass and mirrors. Vendors that skip the glass add-on to win the bid tend to wipe cases weekly instead of nightly, and customers notice fingerprints immediately. Confirm glass frequency in writing." },
+    { "type": "h2", "text": "Restroom density and traffic wear in eye care practices" },
+    { "type": "p", "text": "Most optometry suites have one or two single-occupant restrooms shared by patients, walk-in customers, and staff. Dilation visits extend patient dwell time, so restroom use per exam is higher than in a dental or general medical office. Budgeting $15-$30 per restroom per visit covers fixture disinfection, mirror and dispenser cleaning, restocking, and floor mopping. If the vendor supplies paper, soap, and liners, add $0.012-$0.025 per sq ft per visit; for 3,000 sq ft at 13 visits per month that adds about $468-$975." },
+    { "type": "p", "text": "Wear concentrates at the entry, the frame-selection aisles, and the path to pretesting. Carpet tile in the showroom picks up grit from mall corridors or parking lots and benefits from quarterly extraction, amortized at $0.03-$0.06 per sq ft per month, or $90-$180 per month for a 3,000 sq ft office. Wood-look floors in upscale boutiques need wood-safe chemistry; a residue-free neutral cleaner such as Bona Pro Series avoids the haze that general cleaners leave on urethane finishes." },
+    { "type": "ul", "items": [
+      "Count exam lanes, pretest rooms, and the contact lens training station separately from showroom square footage.",
+      "Measure or estimate total display glass and mirror area so bidders can price polishing accurately.",
+      "Note whether the practice sits in an enclosed mall, strip center, or medical office building, since each affects access hours and soil load.",
+      "Identify the edging lab and confirm the crew will only sweep and empty trash there, not touch equipment.",
+      "State weekly patient and walk-in volume, not just staff headcount."
+    ] },
+    { "type": "h2", "text": "Recommended weekly frequency and chemistry" },
+    { "type": "p", "text": "A single-doctor practice open five days with under 150 exams a week can usually hold standards at twice-weekly service, with staff wiping exam chairs and pretest chin rests between patients. Practices with an active optical floor and more than 200 exams a week should plan on three visits a week so glass and restrooms never go two days untouched. Multi-doctor groups open evenings and Saturdays generally need five-night service. On chemistry, a one-step neutral disinfectant such as Diversey Virex II 256 handles restrooms and exam-chair armrests at a 1:256 dilution, while a plant-based Safer Choice cleaner like ECOS Pro Orange Plus suits showroom counters and dispensing tables where strong odor would bother customers trying on frames." },
+    { "type": "steps", "items": [
+      { "name": "Separate the zones", "text": "Measure showroom, clinical, and back-of-house square footage so each zone gets the right floor and labor assumptions." },
+      { "name": "Pick the size bracket", "text": "Apply $0.12-$0.20 under 2,500 sq ft or $0.09-$0.15 between 2,500 and 9,999 sq ft per visit." },
+      { "name": "Apply floor and frequency", "text": "Multiply by the floor multiplier, visits per month, and the frequency multiplier." },
+      { "name": "Add restrooms and glass", "text": "Add $15-$30 per restroom and $15-$35 per visit for glass and display cases." },
+      { "name": "Layer periodic work", "text": "Add amortized carpet extraction or hard-floor refinishing and consumables if the vendor supplies them." }
+    ] },
+    { "type": "cta", "text": "Run your practice's square footage, floor mix, restroom count, and glass add-on through the Office Cleaning Cost Calculator, then compare vendor proposals line by line in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean an optometry office each month?", "a": "A 1,600 sq ft single-doctor office cleaned twice weekly typically costs $1,900-$3,300 per month including one restroom and glass polishing. A 3,000 sq ft two-doctor practice with optical, cleaned three times a week, generally runs $4,100-$7,100. Larger groups with labs and five-night service can exceed $11,000 per month." },
+    { "q": "Should janitorial crews clean optometry exam equipment?", "a": "No. Phoropters, slit lamps, tonometers, autorefractors, and retinal cameras have delicate optics and manufacturer-specific disinfection protocols, so clinical staff should handle them. The crew should clean exam chair upholstery and armrests, counters, door levers, and floors, and should dust around equipment without touching lenses." },
+    { "q": "How is monthly frequency calculated in optometry cleaning contracts?", "a": "Vendors use 4.333 weeks per month, so three visits a week equals 13 visits per month and five weekday visits equals about 21.65. A flat monthly fee should reflect that math. Ask the vendor to show visits per month on the proposal so holiday closures and skipped nights can be credited fairly." },
+    { "q": "What insurance should an optical office cleaning vendor carry?", "a": "Require at least $1 million per occurrence and $2 million aggregate general liability, statutory workers compensation, and a fidelity bond, since optical showrooms hold frame inventory worth tens of thousands of dollars. Name the practice and landlord, or mall owner, as additional insureds on the certificate of insurance." },
+    { "q": "Are display case and mirror cleaning included in standard pricing?", "a": "Often only spot cleaning is included. Nightly polishing of all frame displays, mirrors, and storefront glass is usually priced as an interior glass add-on of $15-$35 per visit. Confirm the frequency and which surfaces are covered, including the inside of locked cases, which may require staff to unlock them." }
+  ],
+  "amazonProductIds": [
+    "bona-pro-series-commercial-hardwood-floor-cleaner-gallon",
+    "diversey-virex-ii-256-one-step-disinfectant-cleaner-gallon",
+    "ecos-pro-orange-plus-all-purpose-cleaner-1-gallon"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/optometry-eye-clinic-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/optometry-eye-clinic-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/dermatology-medspa-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/purell-es8-energy-on-the-refill-dispenser-review/"
+  ]
+}

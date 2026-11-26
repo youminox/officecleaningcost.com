@@ -1,0 +1,238 @@
+{
+  "slug": "full-time-40-hour-in-house-custodian-budget-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/full-time-40-hour-in-house-custodian-budget-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template full time 40",
+  "title": "CFO Financial Breakdown Model & Capex Template: Full-Time 40-Hour Custodian",
+  "seoTitle": "Capex Template: Full-Time 40-Hour Custodian CFO Cost Breakdown Model",
+  "metaDescription": "Capex template for a full-time 40hr custodian: model $19-$24/hr wages, 28% FICA/WC burden, and $4,800 gear vs. vendor quotes in our cost calculator.",
+  "excerpt": "Corporate CFOs and facility controllers need an auditable general-ledger worksheet to compare a full-time 40-hour in-house custodian against fixed-fee commercial janitorial proposals. This capex and opex template breaks down every statutory tax, workers' compensation code, equipment depreciation schedule, and consumable line item required for an accurate pro-forma analysis.",
+  "quickAnswer": "Using our CFO capex template full time 40 hour custodian worksheet, facilities must budget $4,200 to $6,800 in Year-1 startup capital equipment (amortized over 36 months at $117–$189/month) on top of $63,500 to $72,400 in annual operating payroll, statutory taxes, Class 9014 workers' compensation, and PTO backfill. When benchmarked against a 5x-weekly outsourced contract (21.65 visits/month at 4.33 weeks/month), an in-house 40-hour custodian requires at least $1,400/month in recovered daytime handyman or porter value to break even against a commercial cleaning vendor.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "High-angle editorial photograph of a Class A corporate office lobby and adjacent supply staging room where a discreet charcoal executive housekeeping cart and a 44-gallon barrel with a yellow snap-on rim caddy stand organized on polished stone flooring under crisp architectural lighting, no text or watermarks.",
+    "alt": "Discreet executive housekeeping quick cart and 44-gallon barrel with rim caddy staged in a Class A corporate office"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "How to Structure a CFO-Grade Pro-Forma for a Full-Time 40-Hour Custodian"
+    },
+    {
+      "type": "p",
+      "text": "When a facility manager proposes converting an outsourced janitorial service contract into a full-time 40-hour in-house custodian position, corporate finance teams routinely reject informal memos that only compare the custodian's base hourly pay against the contractor's monthly invoice. A CFO-ready capex template full time 40 hour custodian model must separate costs into four distinct accounting buckets: Direct W-2 Gross Payroll (2,080 annual hours), Statutory & Benefits Burden (GL Payroll Taxes & Insurance), Non-Productive Leave Backfill (208 paid off-floor hours), and Capital Equipment & Chemical Opex."
+    },
+    {
+      "type": "p",
+      "text": "Crucially, your pro-forma must also harmonize the calendar math. Commercial janitorial contracts bill on a 52-week annual cycle divided across 12 months—equaling 4.33 weeks per month (21.65 weekday visits per month for a 5x-weekly scope). In-house hourly payroll, meanwhile, posts biweekly across 26 pay periods (80 hours per check, 2,080 hours per year). Converting both schedules to a standardized 12-month and per-square-foot ledger prevents the common 8.3% four-week budgeting error."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Class 9014 Workers' Compensation & Liability Audit Rule",
+      "text": "Do not apply your clerical office workers' compensation rate (NCCI Class 8810, typically $0.12–$0.25 per $100 of payroll) to an in-house custodian. Insurance auditors reclassify full-time custodial staff under NCCI Class 9014 (Buildings—Operation by Contractors) or Class 9015 (Buildings—Operation by Owner), which carries a rate of $3.80 to $6.50 per $100 of payroll—a 20x higher premium multiplier."
+    },
+    {
+      "type": "h2",
+      "text": "Master CFO Operating & Capex Worksheet: Full-Time 40-Hour Custodian (20,000–25,000 Sq Ft Reference)"
+    },
+    {
+      "type": "p",
+      "text": "Use the line-item spreadsheet table below as your baseline template when modeling a single 40-hour-per-week custodian maintaining a 20,000 to 25,000-square-foot commercial office five days per week. Note that paper towels, toilet tissue, hand soap, and trash can liners ($0.012 to $0.025 per sq ft per visit when supplied by a vendor) are held equal across both columns so you can isolate labor, overhead, and equipment variance."
+    },
+    {
+      "type": "table",
+      "caption": "CFO All-In Cost Worksheet: Full-Time 40-Hour W-2 Custodian vs. Outsourced 5x/Week Turnkey Contract",
+      "headers": [
+        "GL Account / Cost Category",
+        "Calculation Formula / Assumption",
+        "In-House 40-Hr Custodian (Annual)",
+        "In-House Monthly (÷ 12)",
+        "Outsourced 5x/Wk Contract (Monthly)"
+      ],
+      "rows": [
+        [
+          "1. Base W-2 Productive Wages",
+          "1,872 net working hrs @ $21.50/hr",
+          "$40,248",
+          "$3,354",
+          "Included in base fee"
+        ],
+        [
+          "2. Paid Non-Working Hours (PTO/Holidays/Sick)",
+          "208 non-working hrs @ $21.50/hr",
+          "$4,472",
+          "$373",
+          "Included in base fee"
+        ],
+        [
+          "3. FICA (Social Security 6.2% + Medicare 1.45%)",
+          "7.65% of $44,720 gross W-2 payroll",
+          "$3,421",
+          "$285",
+          "$0 (Vendor payroll)"
+        ],
+        [
+          "4. FUTA & SUTA Unemployment Taxes",
+          "Blended 1.8% effective employer rate",
+          "$805",
+          "$67",
+          "$0 (Vendor payroll)"
+        ],
+        [
+          "5. Workers' Comp Insurance (Class 9014/9015)",
+          "$4.85 per $100 of gross custodial payroll",
+          "$2,169",
+          "$181",
+          "$0 (Covered by vendor COI)"
+        ],
+        [
+          "6. Group Health, Dental & 401(k) Match",
+          "$575/mo employer medical + 3% match",
+          "$8,242",
+          "$687",
+          "$0 (Vendor benefit plan)"
+        ],
+        [
+          "7. Temporary Backfill During 208 PTO/Sick Hours",
+          "160 net backfilled hrs @ $39.00/hr vendor float",
+          "$6,240",
+          "$520",
+          "$0 (Vendor floaters included)"
+        ],
+        [
+          "8. Startup Equipment Capex (36-Mo Depreciation)",
+          "$5,400 initial gear / 36 mos + $45/mo repairs",
+          "$2,340",
+          "$195",
+          "$0 (Vendor supplies machines)"
+        ],
+        [
+          "9. Chemicals, Microfiber, Pads & PPE Opex",
+          "EPA disinfectant, neutral cleaner, gloves, heads",
+          "$2,280",
+          "$190",
+          "Included in base turnkey rate"
+        ],
+        [
+          "10. Paper & Soap Restroom Consumables",
+          "22,500 sq ft @ $0.015/sq ft/visit (pass-through)",
+          "$7,300",
+          "$608",
+          "$608 (Billed at cost/add-on)"
+        ],
+        [
+          "11. Outsourced Base Labor & Supervision Fee",
+          "22,500 sq ft @ $0.07/sq ft x 0.90 daily x 21.65/mo",
+          "$0",
+          "$0",
+          "$3,069"
+        ],
+        [
+          "TOTAL ALL-IN FACILITY BUDGET",
+          "Sum of GL Lines 1 through 11",
+          "$77,517",
+          "$6,460",
+          "$3,677 ($44,124/yr)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Year-1 Capital Expenditure (Capex) & Tooling Schedule"
+    },
+    {
+      "type": "p",
+      "text": "Unlike an outsourced contractor who arrives on Day 1 with commercial vacuums, mobile carts, mop buckets, and safety signage already amortized across dozens of client buildings, an in-house custodial launch requires an immediate capital outlay of $4,200 to $6,800. In a Class A office environment, selecting durable, high-efficiency rolling and receptacle gear prevents premature replacement and cuts daily labor minutes:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Daytime Executive Caddy (Rubbermaid Commercial Executive Quick Cart Large): For daytime touch-ups in glass-walled lobbies and boardrooms where an open mop cart looks intrusive, this Teflon-coated charcoal caddy carries a 60 lb capacity on quiet casters with a stealth executive look and removable compartment dividers.",
+        "Mobile Waste Barrel Organizer (Rubbermaid Commercial Brute Rim Caddy Attachment): Snapping directly onto the rim of a 44-gallon Brute trash barrel, this 9-compartment rim caddy holds spray bottles, wet floor signs, safety glasses, and liner rolls on integrated tool clips—turning a bulk waste collector into a self-contained mobile workstation.",
+        "Architectural Breakroom & Restroom Receptacles (Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can): Upgrading high-traffic coffee bars and restroom exits to brushed stainless steel 14.5-gallon semi-round cans with heavy bases and lift-off lids ensures ADA-friendly wall clearance and speeds liner changes without exposed plastic overhang."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hidden General Ledger Costs Most In-House Worksheets Miss"
+    },
+    {
+      "type": "p",
+      "text": "Even detailed spreadsheets frequently omit four indirect expenses that hit the corporate P&L when custodial management is internalized:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Recruiting, Drug Screening & Turnover Friction ($1,200–$2,400 per cycle)",
+          "text": "When a full-time custodian resigns, HR spends 15 to 25 hours posting job ads, conducting interviews, verifying I-9 eligibility, running criminal background checks, and onboarding. In an industry with 75%+ annual turnover, budget at least 0.75 replacement cycles per year."
+        },
+        {
+          "name": "Management & Quality Inspection Time (2.5 hrs/week)",
+          "text": "With an outsourced vendor, the facility manager spends 30 minutes per month reviewing KPI scorecards with the vendor's account manager. With an in-house W-2 custodian, the office or facility manager becomes the direct supervisor—approving timecards, resolving attendance issues, ordering chemical refills, and auditing restroom quality for 2.5 hours every week ($5,200/yr in allocated managerial salary)."
+        },
+        {
+          "name": "Quarterly Deep Floor Care Subcontracting ($0.03–$0.06/sq ft/month)",
+          "text": "A solo 40-hour custodian cannot strip and recoat 5,000 sq ft of VCT vinyl or hot-water extract 18,000 sq ft of carpet tiles alone while keeping up with daily trash and restrooms. You must still carry a $675 to $1,350/month accrual ($8,100–$16,200/year on 22,500 sq ft) for quarterly specialty floor contractors."
+        },
+        {
+          "name": "General Liability & Slip-and-Fall Deductible Exposure",
+          "text": "Outsourced janitorial vendors carry $1M/$2M Commercial General Liability (CGL) policies naming the property owner and tenant as Additional Insureds. If an in-house custodian leaves a wet tile floor unmarked and a visitor slips, the claim hits your company's primary liability policy and deductible directly."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "CFO Decision Checklist: Should You Approve a Full-Time 40-Hour Custodian Req?"
+    },
+    {
+      "type": "p",
+      "text": "Before signing an internal headcount requisition for a full-time 40-hour custodian, verify that your facility meets at least three of the four financial justification criteria below:"
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "The $1,400/Month Daytime Value Offset Rule",
+      "text": "Because a full-time 40-hour W-2 custodian costs roughly $2,400 to $2,800 per month more than an outsourced evening cleaning contract on a 20,000–25,000 sq ft office, the in-house requisition only achieves positive ROI if the employee performs at least 15 to 20 hours per week of daytime facility maintenance, conference catering resets, or security-cleared support that would otherwise cost $1,400 to $2,800/month in third-party handyman or porter bills."
+    },
+    {
+      "type": "cta",
+      "text": "Plug your facility's exact square footage, flooring mix, and local wage rates into our Office Cleaning Cost Calculator to generate an instant outsourced benchmark for your CFO worksheet."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should startup janitorial equipment capex be amortized in a CFO budget worksheet?",
+      "a": "Commercial cleaning hardware—including HEPA backpack vacuums, high-capacity janitorial carts, walk-behind 20-inch micro-scrubbers, and commercial Brute/Slim Jim waste stations—typically carries a 36-month (3-year) straight-line depreciation life in facility operating budgets, plus a 10% annual maintenance allowance for belts, brushes, filters, and caster replacements."
+    },
+    {
+      "q": "Why must a 40-hour custodian budget include 160 to 208 hours of temporary backfill labor?",
+      "a": "A full-time W-2 employee paid for 2,080 hours per year typically receives 80 hours of federal holidays, 80 hours of paid vacation, and 48 hours of paid sick time (208 total non-working hours). Because office restrooms and breakrooms still require daily sanitation when the custodian is on vacation or out sick, facilities must budget temporary agency or on-call vendor coverage at $35 to $55/hr for at least 160 of those hours."
+    },
+    {
+      "q": "What is the standard consumable cost per square foot to enter in a janitorial budget?",
+      "a": "When budgeting restroom and breakroom consumables (paper hand towels, bath tissue, foaming hand soap, and LLDPE can liners), use our national benchmark of $0.012 to $0.025 per square foot per visit—or roughly $0.26 to $0.54 per square foot per month for a densely occupied office serviced 5 days per week (21.65 visits/month)."
+    },
+    {
+      "q": "Does an in-house custodian eliminate the need for a quarterly floor care budget?",
+      "a": "Rarely. Unless the facility purchases $4,500+ in dedicated carpet extractors and low-speed rotary buffers AND pays overtime for weekend project work, one 40-hour custodian is fully consumed by daily trash, restroom disinfection, and routine floor vacuuming/mopping. Most facilities still budget $0.03 to $0.06/sq ft/month for quarterly outsourced floor restoration."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment",
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/two-person-in-house-custodial-team-budget/",
+    "/in-house-vs-outsourced-cleaning/two-person-in-house-custodial-team-budget-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/two-person-in-house-custodial-team-budget-budget-worksheet/",
+    "/janitorial-carts-mops-and-tools/rubbermaid-brute-44-gallon-vs-slim-jim-23-gallon/"
+  ]
+}

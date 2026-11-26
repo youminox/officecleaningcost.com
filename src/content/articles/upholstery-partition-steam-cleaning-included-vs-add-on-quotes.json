@@ -1,0 +1,95 @@
+{
+  "slug": "upholstery-partition-steam-cleaning-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/upholstery-partition-steam-cleaning-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge upholstery partition steam cleaning",
+  "title": "Extra Charge for Upholstery and Partition Steam Cleaning? A Contract Audit for Office Managers",
+  "seoTitle": "Extra Charge Upholstery Partition Steam Cleaning: Retainer vs Work Order",
+  "metaDescription": "Extra charge upholstery partition steam cleaning decoded: what base retainers include, when $12–$30/chair work orders apply, and how to compare quotes fairly.",
+  "excerpt": "Nightly janitorial retainers almost never include hot-water extraction of chairs and cubicle panels, but many include vacuuming and spot cleaning that buyers mistake for it. This audit guide shows where the line falls and how to amortize extraction into a predictable monthly fee.",
+  "quickAnswer": "Standard janitorial retainers usually include HEPA vacuuming of chair seats and cubicle panels on a rotation and occasional spot cleaning, but not hot-water extraction. Extraction is normally billed as a project work order at about $12–$30 per task chair and $0.60–$1.25 per sq ft of panel fabric, with a $90–$135 visit minimum. Some vendors will amortize an annual extraction program into the retainer, for example a $3,000 annual job billed as $250 per month, if it is written into the periodic task matrix.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic scene in a US corporate office conference room in the evening, an office manager reviewing a printed janitorial contract at a table while through the glass wall a technician vacuums a fabric cubicle panel and another extracts a task chair, a charcoal executive housekeeping cart and a gray barrel with a rim caddy nearby, warm table lamp light against cool office lighting, eye-level angle, no text, no logos, no watermarks",
+    "alt": "Office manager reviewing a cleaning contract while technicians clean chairs and cubicle panels"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The misunderstanding behind most upholstery billing disputes" },
+    { "type": "p", "text": "A typical janitorial proposal lists \"vacuum upholstered furniture\" and \"spot clean partitions as needed\" in the nightly or weekly task matrix. Office managers read that as upholstery cleaning and assume chairs and panels are covered. A year later, seats are visibly soiled, the vendor quotes $2,000 for extraction, and the dispute starts. Both sides are technically right: vacuuming and spotting are included, and hot-water extraction is a different service with different equipment, chemistry, labor, and dry time." },
+    { "type": "p", "text": "The solution is to separate three tiers of upholstery care in the contract and decide which tiers belong in the monthly retainer and which belong on work orders." },
+    {
+      "type": "table",
+      "caption": "Three tiers of upholstery and panel care and how they are usually billed",
+      "headers": ["Tier", "What it involves", "Typical frequency", "Usually in base retainer?", "If billed separately"],
+      "rows": [
+        ["Maintenance", "HEPA vacuuming of chair seats and panels with an upholstery tool", "Weekly to monthly rotation", "Yes, if listed", "Rarely billed"],
+        ["Spot cleaning", "Treating isolated spills with a fabric-safe spotter and towel", "As needed", "Often, for small spills", "$55–$95 per hour if extensive"],
+        ["Restorative extraction", "Pre-spray, dwell, heated extraction, grooming", "Quarterly to every 3 years", "Rarely", "$12–$30 per chair; $0.60–$1.25 per sq ft of panel"],
+        ["Minimum charge", "Applies to standalone work orders", "Per visit", "n/a", "$90–$135 visit; $175–$250 project"]
+      ]
+    },
+    { "type": "h2", "text": "Contract phrases that mean extraction is excluded" },
+    {
+      "type": "ul",
+      "items": [
+        "\"Vacuum upholstered furniture\": maintenance tier only.",
+        "\"Spot clean fabric surfaces as needed\": small spills only; large stains will be quoted.",
+        "\"Carpet and upholstery shampooing available upon request\": a work order at specialty rates.",
+        "\"Periodic services billed at prevailing rates\": no locked price, so expect the current hourly rate plus minimum.",
+        "\"Furniture excluded\" in the exclusions schedule: the crew will not touch upholstery beyond dusting hard frames.",
+        "No periodic task matrix at all: every restorative task will be a separate invoice."
+      ]
+    },
+    { "type": "h2", "text": "Folding extraction into the retainer: how amortization works" },
+    { "type": "p", "text": "Vendors are generally willing to bundle predictable periodic work because it smooths their scheduling. The mechanics mirror how quarterly deep floor care is often amortized at $0.03–$0.06 per sq ft per month. The vendor prices the annual extraction program, divides by 12, and adds that figure to the monthly retainer. You gain budget predictability and avoid visit minimums; the vendor gains a guaranteed scope." },
+    {
+      "type": "table",
+      "caption": "Retainer-bundled vs work-order billing for a 50-workstation office (illustrative)",
+      "headers": ["Scenario", "Annual scope", "Annual cost", "Monthly equivalent", "Trade-off"],
+      "rows": [
+        ["Work orders only", "Chairs once, panels when requested", "$1,330–$3,180 plus panel invoices", "Varies by month", "Low commitment, budget spikes"],
+        ["Amortized annual program", "Chairs annually, inside panel faces every second year", "$2,230–$5,055", "$186–$421", "Predictable, locked unit prices"],
+        ["Amortized semi-annual program", "Chairs twice a year, inside panel faces annually", "$3,000–$6,750", "$250–$563", "Better appearance in full-attendance offices"]
+      ]
+    },
+    { "type": "callout", "variant": "warning", "title": "Protect yourself on amortized contracts", "text": "If you pay monthly for an annual service, write in a performance date (for example, chairs extracted by June 30) and a credit or proration clause if the contract ends before the service is delivered. Otherwise, a 30-day termination could leave you having paid months of amortized fees for extraction that never happened." },
+    { "type": "h2", "text": "How to audit and renegotiate your current agreement" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Find the periodic task matrix", "text": "Locate every reference to upholstery, furniture, fabric, partitions, or panels in the signed scope and exclusions schedule." },
+        { "name": "Classify each line by tier", "text": "Mark it as maintenance, spot, or restorative. Anything restorative without a price and frequency is effectively excluded." },
+        { "name": "Total last year's work orders", "text": "Add every upholstery invoice. If the total exceeds what an amortized program would cost, propose bundling." },
+        { "name": "Request locked unit prices", "text": "Ask for per-chair and per-sq-ft rates valid for the contract term, applicable to both scheduled and extra work, with no minimum on scheduled visits." },
+        { "name": "Add documentation requirements", "text": "Require fabric code checks, Safety Data Sheets under OSHA HazCom, low-VOC or Green Seal chemistry where specified, and a dated completion report with sample photos." }
+      ]
+    },
+    { "type": "h2", "text": "What the nightly crew should be doing between extractions" },
+    { "type": "p", "text": "Maintenance-tier care is what makes extraction intervals stretch. Ask the vendor to rotate HEPA vacuuming of panels across the floor so every workstation is covered at least monthly, and to carry a spotter kit for same-night spill response. Equipment matters here: a Rubbermaid Commercial Brute rim caddy, which snaps onto a 44-gallon barrel and offers nine compartments plus tool clips, keeps spotter bottles, microfiber, and an upholstery brush within reach on the main cart route. On Class A floors where porters work during the day, the Rubbermaid Commercial Executive Quick Cart, with its 60 lb capacity, quiet casters, and low-profile charcoal styling, lets them treat a coffee spill on a conference chair without parking an industrial cart in front of clients. Small consumables play a part too: keeping facial tissue cubes, such as Kleenex Professional 2-ply, FSC-certified cubes of 95 sheets in a 36-case, in conference rooms reduces the habit of wiping hands on chair arms and fabric panels." },
+    { "type": "callout", "variant": "tip", "title": "Ask for a two-column quote", "text": "When rebidding, ask each vendor to price upholstery extraction both as an amortized monthly line and as a per-event work order. The gap reveals how much each vendor values a committed scope and makes bids directly comparable." },
+    { "type": "cta", "text": "Enter your base retainer and planned extraction scope in the Office Cleaning Cost Calculator, then compare bundled and work-order bids in the Quote Comparator to see which structure costs less over a full year." }
+  ],
+  "faqs": [
+    { "q": "Is upholstery steam cleaning part of standard office cleaning?", "a": "Usually not. Standard retainers include vacuuming and small spot cleaning. Hot-water extraction of chairs and cubicle panels is typically billed as a separate work order unless your periodic task matrix specifically lists it with a frequency and price." },
+    { "q": "What does a separate upholstery extraction work order typically cost?", "a": "Expect about $12–$30 per fabric task chair, $25–$60 per executive or conference chair, and $0.60–$1.25 per sq ft of panel fabric, with a $90–$135 visit minimum or a $175–$250 project minimum for small orders." },
+    { "q": "Can I have the vendor bill extraction monthly instead of as one invoice?", "a": "Yes. Many vendors amortize an annual or semi-annual program into the retainer by dividing the annual price by 12. Include a completion deadline and a proration clause so you are credited if the contract ends before the work is done." },
+    { "q": "What insurance and safety items should be in an upholstery work order?", "a": "Request a current certificate of insurance naming you as additional insured, confirmation that damage to furniture in the vendor's care is covered, Safety Data Sheets for all chemicals under OSHA HazCom, and procedures consistent with the OSHA Bloodborne Pathogens Standard for any biological stains." },
+    { "q": "How do I compare a quote with weekly spot treatment against one with quarterly extraction?", "a": "Convert everything to a monthly figure. Multiply weekly charges by 4.33, divide quarterly charges by 3, and divide annual charges by 12. Then compare the monthly totals for the same set of chairs and panels." }
+  ],
+  "amazonProductIds": [
+    "kleenex-professional-facial-tissue-cube-boxes-for-offices-36-cas",
+    "rubbermaid-commercial-executive-quick-cart-large",
+    "rubbermaid-commercial-brute-rim-caddy-attachment"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-upholstery-partition-steam-cleaning-quotes/",
+    "/cleaning-services-and-tasks/pressure-washing-office-walkways-cost-guide/",
+    "/cleaning-services-and-tasks/pressure-washing-office-walkways-for-small-vs-large-offices/",
+    "/janitorial-carts-mops-and-tools/rubbermaid-36-inch-cone-vs-25-inch-a-frame-signs/"
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "slug": "true-cost-of-w2-janitor-salary-taxes-benefits-budget-worksheet",
+  "pillar": "in-house-vs-outsourced-cleaning",
+  "path": "/in-house-vs-outsourced-cleaning/true-cost-of-w2-janitor-salary-taxes-benefits-budget-worksheet/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "capex template true w2 janitor",
+  "title": "CFO Financial Breakdown Model & Budget Worksheet: W-2 Custodian Payroll Burden",
+  "seoTitle": "Capex Template & CFO Budget Worksheet: True W-2 Janitor Payroll",
+  "metaDescription": "Downloadable-ready capex template and CFO budget worksheet for true W-2 janitor payroll burden, benefits load, and 4.33-week monthly contract math.",
+  "excerpt": "Corporate controllers need a general-ledger-ready worksheet that captures both the OPEX payroll burden and the amortized capex template for a true W-2 janitor. Use this line-item CFO financial model to audit every payroll tax, insurance reserve, consumable line, and equipment depreciation schedule before approving in-house custodial headcount.",
+  "quickAnswer": "A CFO-grade capex template and OPEX budget worksheet for a true W-2 janitor in a 20,000 sq ft US commercial office totals $67,308 per year ($5,609 per 4.33-week month, or $0.280/sq ft/month all-in). That ledger combines $40,560 in base wages, $20,199 in statutory taxes, NCCI Code 9014 workers' compensation, group benefits, and PTO backfill, plus $6,549 in amortized equipment capex, chemical concentrates, and HR supervisory overhead—compared to $36,372–$54,558 per year ($3,031–$4,547/month) for an all-inclusive 5x/week outsourced janitorial contract.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead and eye-level composition in a bright American corporate facility management office and adjacent restock corridor, featuring a heavy-duty 3-shelf structural foam utility cart loaded with paper restocks, a brushed stainless steel semi-round waste receptacle, and an automated touchless paper towel dispenser mounted near a clean breakroom counter, crisp daylight, 35mm lens, no text, no logos, no watermarks.",
+    "alt": "Corporate facility restock corridor with a 3-shelf commercial utility service cart, stainless steel receptacle, and touchless paper towel dispenser"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Building a CFO-Grade Ledger for In-House Custodial Operations"
+    },
+    {
+      "type": "p",
+      "text": "When facility operations managers pitch an in-house W-2 janitor to the CFO or VP of Finance, proposals often fail during budget variance reviews because costs are scattered across five different General Ledger (GL) cost centers. Base hourly wages sit in Facilities Payroll (GL 6100), employer FICA and SUTA hide in Corporate Payroll Taxes (GL 6150), NCCI Class 9014 workers' compensation blends into Corporate Risk & Insurance (GL 6420), group health contributions roll up into HR Employee Benefits (GL 6200), and vacuum replacements or dispenser retrofits hit Facilities Capex/Supplies (GL 6710)."
+    },
+    {
+      "type": "p",
+      "text": "Consolidating those siloed expenses into a single capex template for a true W-2 janitor exposes the true Total Cost of Ownership (TCO). Furthermore, accurate monthly budgeting requires applying the 4.33 weeks-per-month calendar multiplier (52 weeks / 12 months = 4.333 weeks, or 21.65 weekday shifts per month). Using a 4.0-week month creates an immediate 8.33% budget deficit across the four calendar months each year that contain five weekly pay cycles."
+    },
+    {
+      "type": "table",
+      "caption": "Master CFO Budget Worksheet: Full-Time W-2 Janitor All-In Ledger (20,000 Sq Ft Office, 5x/Week)",
+      "headers": [
+        "GL Account / Line Item Category",
+        "Calculation Formula & Actuarial Basis",
+        "Monthly Budget (4.33 Wks)",
+        "Annual Budget (52 Wks)",
+        "Cost per Sq Ft / Mo (20k Sq Ft)"
+      ],
+      "rows": [
+        [
+          "GL 6110: Base Custodial Gross Wages",
+          "$19.50/hr x 40 hrs/wk x 4.333 wks/mo (2,080 hrs/yr)",
+          "$3,380",
+          "$40,560",
+          "$0.169"
+        ],
+        [
+          "GL 6150: Statutory FICA (OASDI + Medicare)",
+          "7.65% of gross base + overtime backfill wages",
+          "$259",
+          "$3,103",
+          "$0.013"
+        ],
+        [
+          "GL 6160: Federal & State Unemployment (FUTA/SUTA)",
+          "0.6% FUTA + 2.8% SUTA on statutory wage base",
+          "$40",
+          "$485",
+          "$0.002"
+        ],
+        [
+          "GL 6420: Workers' Compensation (NCCI Code 9014)",
+          "5.0% average commercial janitorial class rate",
+          "$169",
+          "$2,028",
+          "$0.008"
+        ],
+        [
+          "GL 6210: Group Medical, Dental & Vision Plan",
+          "Employer contribution ($620/mo per enrolled FTE)",
+          "$620",
+          "$7,440",
+          "$0.031"
+        ],
+        [
+          "GL 6230: 401(k) Safe-Harbor Match & Life/STD",
+          "3.0% retirement match + short-term disability policy",
+          "$115",
+          "$1,380",
+          "$0.006"
+        ],
+        [
+          "GL 6190: PTO, Holiday & Sick Backfill Coverage",
+          "16 absent days (128 hrs) backfilled at $42/hr temp/OT",
+          "$448",
+          "$5,376",
+          "$0.022"
+        ],
+        [
+          "GL 6280: Recruiting, Drug Screen, PPE & Uniforms",
+          "Amortized 65% annual turnover ($1,800) + ANSI PPE ($387)",
+          "$182",
+          "$2,187",
+          "$0.009"
+        ],
+        [
+          "GL 6710: Equipment Startup Capex Amortization",
+          "$4,860 initial hardware kit depreciated over 36 mos + 12% repair",
+          "$181",
+          "$2,177",
+          "$0.009"
+        ],
+        [
+          "GL 6740: Chemicals, Microfiber, Pads & Can Liners",
+          "EPA disinfectants, neutral floor cleaner, liners (excl. paper)",
+          "$215",
+          "$2,572",
+          "$0.011"
+        ],
+        [
+          "TOTAL ALL-IN IN-HOUSE W-2 CUSTODIAL LEDGER",
+          "Total Burdened OPEX + Amortized Capex (1,872 Prod. Hrs)",
+          "$5,609",
+          "$67,308",
+          "$0.280"
+        ],
+        [
+          "BENCHMARK: Outsourced 5x/Wk Contract (20,000 Sq Ft)",
+          "$0.07–$0.12/sq ft x 0.90 freq multiplier + 4 restrooms",
+          "$3,031 – $4,547",
+          "$36,372 – $54,558",
+          "$0.152 – $0.227"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Isolating Restroom Paper & Soap Consumables in Your Comparison",
+      "text": "Notice that GL 6740 in the worksheet above includes cleaning chemicals, microfiber mop heads, and core equipment consumables, while keeping restroom toilet tissue and hand towels separate—because outsourced contractors typically quote 'Paper & Soap Consumables Included' as a separate add-on at $0.012 to $0.025 per sq ft per visit. Always match consumable boundaries apples-to-apples when benchmarking."
+    },
+    {
+      "type": "h2",
+      "text": "How to Use the Capex Template for True W-2 Janitor Equipment & Fixtures"
+    },
+    {
+      "type": "p",
+      "text": "Even though payroll and benefits represent 89% of the total in-house custodial budget, the remaining 11% in equipment capex and dispensing infrastructure directly controls labor efficiency. When building your capex template for a true W-2 janitor, finance teams should amortize durable commercial equipment over a 36-month straight-line schedule while budgeting an annual 10% to 15% maintenance reserve for vacuum belts, HEPA filters, brush rollers, and caster replacements."
+    },
+    {
+      "type": "p",
+      "text": "Selecting durable commercial fixtures upfront prevents premature replacement write-offs and reduces daily custodial labor minutes. For example, staging high-traffic breakrooms and restrooms with the Simplehuman 55L / 14.5-Gal Commercial Semi-Round Open Can (14.5 gal capacity, brushed Stainless Steel construction, ADA Friendly semi-round profile, and weighted Heavy Base) eliminates broken foot pedals and speeds up liner swaps. For transporting bulk paper cases and dilution jugs across a 20,000 sq ft floorplate, the Rubbermaid Commercial Utility Service Cart 3-Shelf (500 lb cap, 3 Shelves of structural foam, 4-in Casters, and Rounded Trim that protects drywall corners) eliminates multiple hand-carry trips. Pair that with the Georgia-Pacific enMotion 10-Inch Automated Touchless Paper Towel Dispenser (10-in Roll capacity, Touchless IR sensor, Whisper Quiet motor, and ADA Depth compliance) to meter sheet length automatically, cutting restroom paper waste and refill labor by up to 30%."
+    },
+    {
+      "type": "h2",
+      "text": "Hidden Balance-Sheet Liabilities That Never Appear on Timesheets"
+    },
+    {
+      "type": "p",
+      "text": "Beyond direct monthly cash outlays, a CFO evaluating in-house custodial headcount must weigh contingent liabilities and indirect management overhead that an outsourced janitorial service absorbs under its fixed monthly fee:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Supervisory & Procurement Overhead ($240–$420/month): Your office manager or facility coordinator spends 1.5 to 2.5 hours per week verifying punch cards, approving PTO, ordering chemical refills, and inspecting restroom quality.",
+        "Workers' Comp Experience Modification Rate (EMR) Exposure: Because NCCI Code 9014 carries high injury frequency, one slip-and-fall claim by an in-house janitor can raise the EMR applied to your entire company's payroll for three policy years.",
+        "Premises Slip-and-Fall Indemnification: Outsourced commercial cleaning contracts include a Certificate of Insurance (COI) naming your company and landlord as Additional Insured under a $1M/$2M Commercial General Liability policy with Completed Operations coverage.",
+        "Space Opportunity Cost ($120–$250/month): Storing bulk paper inventory, floor scrubbers, and an OSHA-compliant ventilated chemical cabinet consumes 80 to 120 square feet of Class A office space valued at $25 to $45/sq ft/year."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Quarterly Specialty Floor Care: The Mandatory Subcontract Line Item"
+    },
+    {
+      "type": "p",
+      "text": "A common omission in internal W-2 custodial budgets is assuming that a single daily janitor will also perform quarterly hot-water carpet extraction and VCT strip-and-wax maintenance. In practice, commercial box extractors, 175-RPM rotary buffers, and 1,500-RPM burnishers require $4,500 to $8,500 in specialized capital equipment plus two-person weekend crew safety protocols. As a result, facilities with an in-house W-2 janitor must still allocate $0.03 to $0.06 per square foot per month ($600 to $1,200/month on a 20,000 sq ft office) for outsourced quarterly deep floor care."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Audit Checklist Before Signing Off on In-House W-2 Headcount",
+      "text": "Before approving a W-2 custodial requisition, require Facilities and HR to document: (1) Written OSHA 29 CFR 1910.1200 HazCom and Bloodborne Pathogens training protocols, (2) Confirmed NCCI Class 9014 endorsement cost from your workers' comp broker, (3) A binding backup vendor rate for the 26 annual paid days the W-2 custodian will be off-site, and (4) Three competing outsourced 5x/week bids normalized to 4.33 weeks per month."
+    },
+    {
+      "type": "h2",
+      "text": "5-Step CFO Sensitivity Test for Your Custodial Budget Worksheet"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Lock In the 4.333 Weeks/Month Payroll Factor",
+          "text": "Multiply weekly custodial hours (40 hrs) by 4.333 to budget 173.32 paid hours per month, preventing quarter-end payroll variance during 5-Friday months."
+        },
+        {
+          "name": "Step 2: Calculate Productive Hourly Cost on 1,872 Net Hours",
+          "text": "Subtract 208 paid non-working hours (10 holidays, 10 vacation days, 6 sick days) from 2,080 annual hours, then divide total burdened payroll + benefits ($60,759) by 1,872 hours ($32.46/productive hour)."
+        },
+        {
+          "name": "Step 3: Add the 36-Month Equipment Capex & Repair Schedule",
+          "text": "Divide initial startup hardware cost ($4,500–$6,000) by 36 months and add 12% annually for replacement HEPA bags, brush strips, squeegee blades, and battery packs."
+        },
+        {
+          "name": "Step 4: Price Your Exact Outsourced Baseline Using Size & Flooring Multipliers",
+          "text": "Apply the 10,000–24,999 sq ft rate ($0.07–$0.12/sq ft), multiply by 0.90 for 5x/week frequency, adjust for flooring mix (e.g., 1.05x for mixed carpet and hard floors), and add restroom per-visit fees ($15–$30)."
+        },
+        {
+          "name": "Step 5: Run a 15% Wage Inflation & Turnover Stress Test",
+          "text": "Model how a $2.00/hr local market wage increase or two back-to-back custodial resignations in a single fiscal year shift your total cost per square foot."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Export your facility's custom benchmark in seconds: enter your square footage, restroom count, and service frequency in our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How do CFOs account for the difference between 2,080 paid hours and 1,872 productive cleaning hours?",
+      "a": "In cost accounting, the 208 hours paid for holidays, vacation, and sick leave are treated as an internal labor efficiency divisor. Even before you pay a temp agency or overtime to cover those 26 absent shifts, paying $40,560 in base wages for 1,872 actual hours on the floor raises the base wage per productive hour from $19.50 to $21.67—before adding a single dollar of FICA, workers' comp, or health insurance."
+    },
+    {
+      "q": "Should janitorial startup hardware be capitalized (CAPEX) or expensed (OPEX) on our worksheet?",
+      "a": "Most corporate accounting policies follow the IRS de minimis safe harbor election ($2,500 or $5,000 per invoice item with applicable financial statements), expensing individual vacuums, utility carts, and dispensers in Year 1 for tax purposes. However, for operational budgeting and make-vs-buy comparisons against monthly vendor quotes, facility controllers amortize the initial $4,500–$12,000 equipment package over its 36-month economic service life."
+    },
+    {
+      "q": "What Certificate of Insurance (COI) coverages do we gain by outsourcing instead of hiring W-2?",
+      "a": "A professional janitorial contractor provides a COI carrying $1,000,000 per occurrence / $2,000,000 aggregate Commercial General Liability (with Additional Insured and Waiver of Subrogation endorsements), statutory Workers' Compensation (isolating your corporate EMR from custodial injuries), and a $25,000 to $100,000 Third-Party Employee Dishonesty / Janitorial Fidelity Bond protecting client property."
+    },
+    {
+      "q": "How do breakroom and interior glass add-ons affect the outsourced comparison column in the worksheet?",
+      "a": "When normalizing an outsourced quote against a full-time W-2 custodian's scope, make sure your contractor quote includes daily Breakroom & Kitchenette Sanitation ($12–$25/visit) and Interior Glass & Conference Partitions ($15–$35/visit). Even with both daily add-ons included across 21.65 visits per month, a 20,000 sq ft outsourced contract typically saves $1,000 to $2,400 per month compared to a fully burdened W-2 ledger."
+    }
+  ],
+  "amazonProductIds": [
+    "simplehuman-55l-145-gal-commercial-semi-round-open-can",
+    "rubbermaid-commercial-utility-service-cart-3-shelf",
+    "georgia-pacific-enmotion-10-inch-automated-touchless-paper-towel"
+  ],
+  "related": [
+    "/in-house-vs-outsourced-cleaning/",
+    "/in-house-vs-outsourced-cleaning/janitorial-equipment-startup-cost-for-in-house/",
+    "/in-house-vs-outsourced-cleaning/janitorial-equipment-startup-cost-for-in-house-small-vs-enterprise/",
+    "/in-house-vs-outsourced-cleaning/janitorial-equipment-startup-cost-for-in-house-budget-worksheet/",
+    "/commercial-vacuums-and-floor-machines/best-commercial-vacuums-for-allergy-sensitive-offices/"
+  ]
+}

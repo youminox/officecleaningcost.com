@@ -1,0 +1,84 @@
+{
+  "slug": "construction-trailer-field-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/construction-trailer-field-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "construction trailer field office scope tasks",
+  "title": "Construction Trailer Field Office Scope Tasks: Janitorial Checklist and Labor Hours",
+  "seoTitle": "Construction Trailer Field Office Scope Tasks: Checklist & Labor Hours",
+  "metaDescription": "Construction trailer field office scope tasks, sorted daily, weekly, and monthly, with labor at 1,800-2,400 sq ft/hr. Build your scope, then compare quotes.",
+  "excerpt": "A site trailer scope has to account for mud, plan-room paper, and shared restrooms that a standard office checklist ignores. Here is a task-by-task daily, weekly, and monthly scope with realistic labor hours and the specialty items that push a trailer above normal office rates.",
+  "quickAnswer": "A construction trailer field office scope should cover nightly entry scraping, hard-floor damp mopping, restroom sanitation, trash and recycling, and breakroom wipe-downs, plus weekly dusting of plan tables and HVAC grilles and monthly or quarterly floor buffing. Expect production of 1,800-2,400 sq ft per hour instead of the 3,500 sq ft ISSA office benchmark, so a 1,440 sq ft double-wide takes about 0.6-0.8 labor hours per visit plus restroom time.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up inside a modular construction field office, cleaning technician wiping fine drywall dust from a wide plan table covered with rolled drawings, an 18-inch microfiber flat mop leaning against a filing cabinet, compact HEPA air purifier humming in the corner, cool overhead fluorescent light, eye-level three-quarter angle, no text, no logos, no watermarks",
+    "alt": "Technician dusting a plan table in a construction trailer field office with a flat mop and air purifier nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes a Trailer Scope Different From a Standard Office Checklist" },
+    { "type": "p", "text": "Most janitorial scopes are written for carpeted suites where soil arrives on office shoes. A construction field office gets soil from steel-toe boots that just crossed a laydown yard, plus silica and drywall dust that drifts through door gaps and settles on every horizontal surface. Plan tables, plotters, and file racks hold paper dust. The breakroom feeds a rotating crew. Restrooms see far more users than the trailer's desk count. A useful scope therefore lists entry soil control and dust management as their own task lines rather than burying them inside 'vacuum and mop'." },
+    { "type": "p", "text": "Writing the scope line by line also protects you when the vendor bills. If 'scrape and mop entry landing interior' is a nightly task, you can hold the crew to it during a muddy week. If it is not written down, a vendor can call it extra work and charge specialty hourly rates of $55-$95 instead of standard rates of $35-$65." },
+    { "type": "h2", "text": "Daily (Per Visit) Tasks" },
+    { "type": "ul", "items": [
+      "Scrape and sweep the entry vestibule and first 10-15 ft of flooring before any wet work, then damp mop with a neutral cleaner.",
+      "Dust-mop and damp-mop VCT or sheet vinyl in the main open area, walking paths, and around the plan table.",
+      "HEPA-vacuum carpet tiles in private offices and conference corners, with spot treatment for mud stains.",
+      "Empty deskside and central trash, replace liners, and move recycling to the designated roll-off or tote area per the site logistics plan.",
+      "Clean and sanitize restroom toilets, urinals, sinks, and counters; restock tissue, towels, and soap; mop restroom floors with disinfectant.",
+      "Wipe breakroom counters, sink, microwave inside and out, coffee station, and refrigerator handles.",
+      "Disinfect high-touch points: door levers, light switches, sign-in kiosk or tablet stand, shared phones, and printer panels."
+    ] },
+    { "type": "h2", "text": "Weekly, Monthly, and Quarterly Tasks" },
+    { "type": "table", "caption": "Construction trailer field office scope by frequency with estimated labor time (1,440 sq ft double-wide, two restrooms)", "headers": ["Task", "Frequency", "Est. minutes per occurrence", "Why it matters on a site"],
+      "rows": [
+        ["Entry scrape, sweep, and mop", "Every visit", "8-12", "Keeps clay and gravel from grinding into vinyl"],
+        ["Main floor dust-mop and damp-mop", "Every visit", "12-18", "Removes silica and drywall dust before it becomes airborne"],
+        ["Restroom sanitation (2 rooms)", "Every visit", "12-20", "High per-user load from field staff and subs"],
+        ["Trash, recycling, and liner swap", "Every visit", "6-10", "Plan-room paper and lunch waste volume"],
+        ["Dust plan tables, sills, file tops", "Weekly", "10-15", "Paper and construction dust buildup"],
+        ["Wipe HVAC supply and return grilles", "Weekly", "5-8", "Reduces recirculated dust"],
+        ["Damp-wipe walls and door kick plates", "Monthly", "15-20", "Boot scuffs and handprints"],
+        ["Machine buff VCT / spot recoat", "Quarterly", "60-90", "Restores finish worn by steel-toe traffic"],
+        ["Carpet tile hot-water extraction", "Quarterly", "45-60", "Pulls embedded mud from office carpet"]
+      ]
+    },
+    { "type": "callout", "variant": "benchmark", "title": "Labor hour math", "text": "At the ISSA benchmark of 3,500 sq ft per hour, a 1,440 sq ft trailer would take about 25 minutes. Real trailer production of 1,800-2,400 sq ft per hour puts the floor and general cleaning at 36-48 minutes, and two restrooms add 12-20 more, for roughly 0.8-1.1 labor hours per visit. At $35-$65 per hour that is $28-$72 in direct labor, which is why the $90-$135 per-visit minimum still governs pricing on smaller trailers." },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Certain trailer tasks justify specialty pricing because they require different equipment, more time, or extra caution. Separate them in the scope so they are priced deliberately and not absorbed into an underfunded base rate that leads to skipped work." },
+    { "type": "steps", "items": [
+      { "name": "Heavy mud recovery", "text": "After rain events or earthwork phases, floors may need a wet-vac pass and a second mop rinse. Price this as a per-event add-on at specialty hourly rates rather than raising the base for the whole year." },
+      { "name": "Silica-aware dust control", "text": "Dry sweeping fine construction dust puts it back in the air. Require HEPA vacuums and damp microfiber methods, and ask the vendor to confirm its crew uses them in the trailer." },
+      { "name": "Pre-walkthrough detailing", "text": "Owner, lender, or inspector visits often call for a one-time detail of windows, blinds, and walls. Pre-negotiate an hourly rate for these short-notice requests." },
+      { "name": "Demobilization clean", "text": "Leasing companies may charge cleaning fees on returned units. A final clean with floor scrub and restroom descaling typically takes 3-6 labor hours for a double-wide." },
+      { "name": "Hazardous waste segregation", "text": "Crews should never bag solvent rags, aerosol cans, or batteries with regular trash. Write in that these stay in the GC's designated containers and are excluded from janitorial disposal." }
+    ] },
+    { "type": "h2", "text": "Tools That Make the Trailer Scope Faster" },
+    { "type": "p", "text": "Trailer floors are small and cluttered, so a compact flat mop beats a full bucket-and-wringer setup. The Bona Commercial System multi-surface mop kit uses an 18-inch base on a telescoping aluminum handle with two washable microfiber pads, one for dust and one for damp work, and its wood-safe formula approach also works on vinyl and laminate. For airborne dust, a Medify MA-50 with True HEPA H13 filtration covers up to about 1,100 sq ft per its rating, runs as low as 36 dBA, and offers four fan speeds, which suits the main room of a double-wide. A Winix 5500-2 with True HEPA plus washable AOC carbon handles a 360 sq ft private office or breakroom and helps with diesel and coffee odors. Purifiers are owner-supplied equipment; the scope should specify that the crew wipes housings weekly and logs filter condition for the superintendent." },
+    { "type": "callout", "variant": "tip", "title": "Keep the scope phase-adjustable", "text": "Write a clause allowing frequency and specialty tasks to step down when the project moves from sitework into interior finishes. Soil load can drop by half once paving is complete, and your scope should reflect it." },
+    { "type": "h2", "text": "Scope Exclusions to State Clearly" },
+    { "type": "p", "text": "List what the janitorial vendor will not do: servicing portable toilets and hand-wash stations (sanitation rental vendor), cleaning exterior stairs, ramps, and landings beyond a sweep, washing trailer exterior siding or windows, and removing construction debris, pallets, or packaging from the jobsite. Also exclude moving or touching survey equipment, drawing sets marked for record, and IT closets. Clear exclusions prevent disputes when a foreman asks the night crew to haul a box of cut-offs to the dumpster." },
+    { "type": "cta", "text": "Turn this checklist into a number: enter your trailer square footage, restroom count, and frequency in the Office Cleaning Cost Calculator, or upload vendor scopes to the Quote Comparator to see which bids cover every task line." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours does a construction trailer cleaning take?", "a": "Plan on roughly 0.8-1.1 labor hours per visit for a 1,440 sq ft double-wide with two restrooms. That reflects production of 1,800-2,400 sq ft per hour because of mud and dust, versus the 3,500 sq ft per hour ISSA benchmark for typical offices. A 400 sq ft single-wide with one restroom often takes 25-35 minutes." },
+    { "q": "Should the janitorial vendor clean portable toilets on the jobsite?", "a": "Usually no. Portable toilets and hand-wash stations are serviced by the sanitation rental company, which pumps waste and restocks under its own contract. Keep them out of the janitorial scope unless the vendor is licensed and equipped for that work, and state the exclusion in writing." },
+    { "q": "What chemicals should be used in a construction trailer?", "a": "A neutral-pH floor cleaner for VCT, an EPA-registered disinfectant for restrooms and high-touch points, and a glass and surface cleaner cover most needs. Ask for safety data sheets for every product brought on site so the GC can include them in the site HazCom program, and favor Green Seal certified general cleaners where possible." },
+    { "q": "How often should trailer floors be buffed or extracted?", "a": "Quarterly is typical for trailers with heavy boot traffic. VCT buffing or a light recoat takes 60-90 minutes on a double-wide, and carpet tile extraction takes 45-60 minutes. Amortized, that is about $0.03-$0.06 per sq ft per month." },
+    { "q": "Can I reduce the scope during slow phases of the project?", "a": "Yes, if the contract allows it. Include a frequency step-down clause tied to project milestones, such as dropping from 3x/week to 2x/week once the site is paved. Monthly costs follow the visits-per-month math: 13 visits at 3x/week versus 8.66 visits at 2x/week." }
+  ],
+  "amazonProductIds": [
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/construction-trailer-field-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/recording-podcast-studio-office-cleaning-cost/",
+    "/facility-cleaning-costs/recording-podcast-studio-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-deskside-wastebasket-liners-1000-count-cases/"
+  ]
+}

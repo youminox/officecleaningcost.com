@@ -1,0 +1,140 @@
+{
+  "currency": "USD",
+  "version": "2026-11",
+  "weeksPerMonth": 4.33,
+  "minimumPerVisit": [90, 135],
+  "sizeBrackets": [
+    {
+      "id": "under-2500",
+      "label": "Under 2,500 sq ft",
+      "minSqFt": 0,
+      "maxSqFt": 2499,
+      "ratePerSqFt": [0.12, 0.20]
+    },
+    {
+      "id": "2500-9999",
+      "label": "2,500 – 9,999 sq ft",
+      "minSqFt": 2500,
+      "maxSqFt": 9999,
+      "ratePerSqFt": [0.09, 0.15]
+    },
+    {
+      "id": "10000-24999",
+      "label": "10,000 – 24,999 sq ft",
+      "minSqFt": 10000,
+      "maxSqFt": 24999,
+      "ratePerSqFt": [0.07, 0.12]
+    },
+    {
+      "id": "25000-plus",
+      "label": "25,000+ sq ft",
+      "minSqFt": 25000,
+      "maxSqFt": 500000,
+      "ratePerSqFt": [0.05, 0.10]
+    }
+  ],
+  "restroomPerVisit": [15, 30],
+  "flooringTypes": {
+    "carpet": {
+      "label": "Commercial Carpet / Carpet Tiles",
+      "multiplier": 1.00,
+      "note": "Standard HEPA vacuuming and spot extraction."
+    },
+    "vct-vinyl": {
+      "label": "VCT / LVT Vinyl",
+      "multiplier": 1.04,
+      "note": "Neutral-pH damp mopping plus periodic machine buffing."
+    },
+    "tile-grout": {
+      "label": "Ceramic Tile & Grout",
+      "multiplier": 1.12,
+      "note": "Higher labor for grout-line scrubbing and restroom-adjacent sanitation."
+    },
+    "hardwood": {
+      "label": "Engineered / Hardwood",
+      "multiplier": 1.08,
+      "note": "Low-moisture microfiber cleaning with wood-safe neutral solution."
+    },
+    "polished-concrete": {
+      "label": "Polished Concrete",
+      "multiplier": 0.95,
+      "note": "Fast auto-scrubber dust and damp pass with minimal finish upkeep."
+    },
+    "mixed": {
+      "label": "Mixed (Carpet + Hard Floors)",
+      "multiplier": 1.05,
+      "note": "Requires dual vacuuming and wet-mopping tool setups per visit."
+    }
+  },
+  "frequencies": {
+    "monthly": {
+      "label": "Monthly (1x / month)",
+      "visitsPerMonth": 1.0,
+      "multiplier": 1.28,
+      "shortLabel": "1x/mo"
+    },
+    "biweekly": {
+      "label": "Biweekly (2x / month)",
+      "visitsPerMonth": 2.17,
+      "multiplier": 1.16,
+      "shortLabel": "2x/mo"
+    },
+    "1x-week": {
+      "label": "Weekly (1x / week)",
+      "visitsPerMonth": 4.33,
+      "multiplier": 1.08,
+      "shortLabel": "1x/wk"
+    },
+    "2x-week": {
+      "label": "Twice Weekly (2x / week)",
+      "visitsPerMonth": 8.66,
+      "multiplier": 1.00,
+      "shortLabel": "2x/wk"
+    },
+    "3x-week": {
+      "label": "3 Times Weekly (3x / week)",
+      "visitsPerMonth": 13.0,
+      "multiplier": 0.95,
+      "shortLabel": "3x/wk"
+    },
+    "5x-week": {
+      "label": "Daily Weekdays (5x / week)",
+      "visitsPerMonth": 21.65,
+      "multiplier": 0.90,
+      "shortLabel": "5x/wk"
+    },
+    "7x-week": {
+      "label": "Daily 7 Days (7x / week)",
+      "visitsPerMonth": 30.33,
+      "multiplier": 0.87,
+      "shortLabel": "7x/wk"
+    }
+  },
+  "addOns": {
+    "breakroom": {
+      "label": "Breakroom & Kitchenette Sanitation",
+      "perVisit": [12, 25],
+      "description": "Countertops, sink, microwave interior/exterior, fridge exterior, and high-touch cabinet pulls."
+    },
+    "interiorGlass": {
+      "label": "Interior Glass & Conference Partitions",
+      "perVisit": [15, 35],
+      "description": "Streak-free glass doors, sidelights, and conference room partitions."
+    },
+    "consumablesIncluded": {
+      "label": "Paper & Soap Consumables Included",
+      "perSqFtPerVisit": [0.012, 0.025],
+      "description": "Vendor supplies toilet tissue, roll towels, hand soap, and trash can liners."
+    },
+    "deepFloorProgram": {
+      "label": "Quarterly Deep Floor Care (Amortized Monthly)",
+      "perSqFtPerMonth": [0.03, 0.06],
+      "description": "Amortized carpet hot-water extraction or VCT scrub-and-recoat schedule."
+    }
+  },
+  "benchmarks": {
+    "hourlyStandard": [35, 65],
+    "hourlySpecialty": [55, 95],
+    "issaSqFtPerHour": 3500
+  }
+}

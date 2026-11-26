@@ -1,0 +1,106 @@
+{
+  "slug": "accounting-cpa-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/accounting-cpa-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "accounting cpa office scope tasks",
+  "title": "Accounting CPA Office Scope Tasks: What Vendors Clean Inside a CPA Firm, Room by Room",
+  "seoTitle": "Accounting CPA Office Scope Tasks: Room-by-Room Cleaning Checklist",
+  "metaDescription": "Accounting CPA office scope tasks room by room, with daily, weekly and monthly frequencies and the tax-season items that add labor hours. Compare bids now.",
+  "excerpt": "A CPA firm scope of work has to cover a client lobby, a paper-heavy bullpen, a printer workroom, and a kitchenette that gets hammered every spring. This room-by-room checklist shows exactly what vendors should clean, how often, and which tasks justify paying more than a standard office rate.",
+  "quickAnswer": "An accounting office scope should cover nightly trash, recycling, restroom, kitchenette, and lobby work; weekly dusting of desks, printers, and glass; and monthly high dusting, VCT buffing, and upholstery vacuuming. Tax-season tasks such as doubled trash pulls, weekend service, and printer-area toner cleanup typically add 15–30% to labor hours from January through April.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic shot of a cleaner using a microfiber flat spray mop on the LVT floor of a CPA firm printer and scanning workroom at night, large multifunction copier, shelves of banker boxes, recycling bins, bright cool fluorescent lighting, camera positioned in the doorway at chest height looking into the room, no text, no logos, no watermarks",
+    "alt": "Cleaner mopping the vinyl floor of an accounting firm printer workroom with a microfiber flat mop"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Start with the rooms, not the task list" },
+    { "type": "p", "text": "Accounting firms are compact, but each room type carries its own soil load. The client lobby needs a polished finish every morning. The open bullpen produces most of the trash and paper dust. The printer and scanning workroom collects toner, staples, and paper fiber. The kitchenette absorbs late-night dinners during filing season. Partner offices and the records room hold the most sensitive material. A scope written room by room makes it obvious to bidders where the labor goes and makes it easier for you to audit." },
+    { "type": "p", "text": "The table below uses a 3,000 sq ft firm with 10 workstations, four private offices, one conference room, two restrooms, and a kitchenette as the reference. Minutes are typical for a trained cleaner working at a steady pace." },
+    { "type": "h2", "text": "Room-by-room nightly checklist" },
+    {
+      "type": "table",
+      "caption": "Nightly tasks and labor minutes for a 3,000 sq ft CPA office",
+      "headers": ["Room", "Nightly tasks", "Off-season minutes", "Tax-season minutes"],
+      "rows": [
+        ["Client lobby and front desk", "Vacuum, wipe counter and drop-off tray, clean entry glass, straighten seating, empty bins", "10–12", "14–18"],
+        ["Open bullpen (10 desks)", "Empty trash and recycling, vacuum aisles, wipe cleared desk surfaces only", "20–25", "30–40"],
+        ["Private offices (4)", "Empty bins, vacuum open floor, dust cleared surfaces", "12–16", "16–20"],
+        ["Conference room", "Wipe table and chairs, clean whiteboard if cleared, vacuum", "6–8", "10–12"],
+        ["Printer and scanning workroom", "Empty paper recycling, wipe counters and copier exterior, damp-mop LVT", "8–10", "12–16"],
+        ["Kitchenette", "Wipe counters, scrub sink, wipe microwave and fridge handles, empty trash, mop", "10–12", "15–20"],
+        ["Restrooms (2)", "Disinfect fixtures and touchpoints, restock, mop, clean mirrors", "18–22", "24–30"]
+      ]
+    },
+    { "type": "p", "text": "Off-season, the nightly routine totals about 84–105 minutes, or 1.4–1.75 hours. During tax season it climbs to roughly 121–156 minutes, or 2–2.6 hours, which is a 40–50 percent jump per visit. That is why a fair tax-season bid carries both more visits and more minutes per visit, and why a vendor quoting the same per-visit price year-round is likely to cut corners in March." },
+    { "type": "h2", "text": "Weekly and monthly tasks" },
+    {
+      "type": "ul",
+      "items": [
+        "Weekly: dust monitor stands, keyboards trays only if cleared, phones, and chair arms; wipe light switches and door hardware; clean interior glass on office sidelights and the conference room.",
+        "Weekly: detail vacuum carpet edges and under accessible desks; wipe printer and scanner exteriors including paper trays; scrub kitchenette sink with non-scratch pads.",
+        "Monthly: high dust vents, ledges, and tops of filing cabinets; vacuum upholstered lobby and conference chairs; machine-buff VCT or LVT in the workroom and kitchenette.",
+        "Monthly: wipe blinds and window sills in client-facing rooms; descale restroom fixtures; clean baseboards throughout.",
+        "Quarterly: carpet hot-water extraction in the lobby and bullpen aisles; deep clean restroom grout; refinish VCT if present.",
+        "Post-season (late April): full carpet extraction, upholstery shampoo, kitchenette appliance deep clean, and a records-room dusting once boxes are moved to storage."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Paper on desks stays where it is",
+      "text": "Client tax documents often sit on desks overnight during filing season. The scope must say that crews wipe only cleared surfaces, never move or stack paper, and never empty anything other than labeled trash and recycling bins. Shred bins are handled exclusively by your document destruction vendor."
+    },
+    { "type": "h2", "text": "Specialty tasks that raise labor above a standard office" },
+    {
+      "type": "table",
+      "caption": "CPA-specific tasks that justify higher pricing",
+      "headers": ["Task", "Why it adds labor", "Pricing approach"],
+      "rows": [
+        ["Tax-season trash and recycling volume", "Bins fill twice as fast, more trips to the dumpster", "Built into tax-season schedule, 15–30% more minutes"],
+        ["Weekend service in March and April", "Extra visit on Saturday or Sunday when staff work weekends", "Per-visit add at standard $35–$65 per hour"],
+        ["Toner and paper dust in workroom", "Fine particulate needs damp wiping and HEPA vacuuming", "Weekly detail line item"],
+        ["Interior glass on offices and conference", "Streak-free finish on many small panes", "$15–$35 per visit add-on"],
+        ["Post-season deep clean", "Extraction, upholstery, appliance detail after heavy use", "One-time project, often $0.15–$0.35 per sq ft"],
+        ["Records room access", "Locked area, escorted or scheduled entry only", "Monthly, by appointment"]
+      ]
+    },
+    { "type": "h2", "text": "Tools that speed up a CPA office route" },
+    { "type": "p", "text": "Hard-floor workrooms and kitchenettes are fastest with a bucketless system. The Rubbermaid Commercial HYGEN 18-inch microfiber flat mop kit uses a 2-quart onboard reservoir and quick-connect frame, so a cleaner can damp-mop the workroom and kitchenette in a few minutes without hauling a wringer bucket past desks covered in paper. For conference room glass and office sidelights, a 14-inch solid brass squeegee like the Ettore Master Brass with professional rubber gives a streak-free pull in a single pass. For kitchenette sinks stained by coffee and tea during long nights, non-rusting 6x9-inch 3M Scotch-Brite Commercial heavy-duty pads clean porcelain and stainless without leaving rust-prone steel fibers." },
+    { "type": "h2", "text": "Writing the scope into the contract" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Attach a floor plan", "text": "Mark every room, which ones are locked, and which are cleaned only by appointment, such as records and server rooms." },
+        { "name": "Publish two schedules", "text": "List off-season and tax-season frequencies and minutes, with fixed switch dates." },
+        { "name": "Define done", "text": "Describe acceptable results for each room so walk-through scoring is objective." },
+        { "name": "Log every visit", "text": "Require a service log or app check-in that shows date, time, and rooms completed, so invoices can be reconciled against 4.33 weeks per month." },
+        { "name": "Schedule the post-season reset", "text": "Book the late-April deep clean when you sign the contract so pricing is locked." }
+      ]
+    },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to price your off-season and tax-season schedules, then drop each bidder's scope into the Quote Comparator to see who actually priced the extra tax-season labor." }
+  ],
+  "faqs": [
+    { "q": "How many hours per visit should a 3,000 sq ft accounting office need?", "a": "Roughly 1.4–1.75 hours off-season and 2–2.6 hours during tax season, based on room-by-room task times. The ISSA benchmark of about 3,500 sq ft per hour applies to open, lightly soiled offices; private offices, restrooms, and kitchenettes slow the pace considerably." },
+    { "q": "What tasks are usually excluded from a CPA office scope?", "a": "Exterior windows, electronics cleaning inside computers or copiers, moving file boxes, shred bin service, and biohazard cleanup beyond minor restroom incidents are typically excluded. Each can be quoted as a separate work order when needed." },
+    { "q": "Should we add weekend cleaning during tax season?", "a": "If staff work Saturdays in March and April, a single weekend visit focused on trash, kitchenette, and restrooms prevents Monday-morning overflow. It usually takes 45–75 minutes and is billed per visit at the vendor's standard hourly rate of $35–$65." },
+    { "q": "How do we verify the vendor did weekly and monthly tasks?", "a": "Require a service log listing each periodic task with the date completed. Weekly tasks should appear about 4.33 times per month and monthly tasks once. Spot-check high dust and baseboards during a walk-through each quarter." },
+    { "q": "Do green cleaning products work for accounting offices?", "a": "Yes. Green Seal or EPA Safer Choice products handle daily soil in offices well and reduce fragrance complaints in closed rooms. Keep an EPA-registered disinfectant for restroom and kitchenette touchpoints, and make sure crews follow label dwell times." }
+  ],
+  "amazonProductIds": [
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack",
+    "ettore-master-brass-14-inch-commercial-window-squeegee",
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/accounting-cpa-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/coworking-space-cleaning-cost/",
+    "/facility-cleaning-costs/coworking-space-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-restroom-cleaning-caddies-and-spray-bottles/"
+  ]
+}

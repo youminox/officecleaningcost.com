@@ -1,0 +1,87 @@
+{
+  "slug": "auto-dealership-showroom-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/auto-dealership-showroom-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "auto dealership showroom office rates",
+  "title": "Auto Dealership Showroom Office Rates: Typical Per-Visit and Weekly Cleaning Quotes",
+  "seoTitle": "Auto Dealership Showroom Office Rates: Per-Visit & Weekly Quotes",
+  "metaDescription": "Auto dealership showroom office rates run $0.07–$0.20 per sq ft per visit. See weekly quotes by store size and run your numbers in our calculator.",
+  "excerpt": "Dealership showrooms and their sales, F&I, and service-drive offices price well above a standard corporate suite because of tile floors, customer restroom density, and six- or seven-day schedules. This guide shows per-visit, weekly, and monthly benchmarks for three store sizes and the add-ons that decide the final number.",
+  "quickAnswer": "Auto dealership showroom and office cleaning typically prices at $0.12–$0.20 per sq ft per visit under 2,500 sq ft, $0.09–$0.15 for 2,500–9,999 sq ft, and $0.07–$0.12 for 10,000–24,999 sq ft, before restroom and supply add-ons. A 9,000 sq ft single-franchise store on nightly weekday service runs about $765–$1,276 per visit, roughly $3,830–$6,380 per week, or $16,570–$27,620 per month in base labor. Adding six restrooms, consumables, glass, and amortized floor care pushes the all-in figure to about $21,710–$38,230 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide-angle view of a modern US car dealership showroom after closing at night, a janitor in a navy uniform running a walk-behind auto-scrubber across glossy large-format porcelain tile between two parked display SUVs, floor-to-ceiling glass curtain wall reflecting showroom pendant lights, sales desks with monitors in the background, cool white LED lighting, low camera angle at floor level, no text, no logos, no brand badges, no watermarks",
+    "alt": "Night janitor auto-scrubbing the porcelain tile floor of a car dealership showroom between display vehicles"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What a dealership showroom and office quote actually covers" },
+    { "type": "p", "text": "A franchise dealership looks like one building on a site plan, but a janitorial estimator sees five different cleaning environments under one roof: a high-gloss showroom floor with display vehicles parked on it, a glass curtain wall that customers touch all day, a sales floor of open desks and a raised manager tower, enclosed finance and insurance (F&I) offices, and a customer lounge with a coffee bar, kids corner, and restrooms that serve people waiting two hours for an oil change. Most quotes also include the service-drive write-up lanes, the cashier window, the parts counter front, and a technician breakroom." },
+    { "type": "p", "text": "What the standard showroom-and-office contract usually excludes matters as much: the service bays and shop floor (normally a separate degreasing or sweeper contract), washing or detailing inventory vehicles, exterior lot and sidewalk sweeping, exterior glass above reach height, and high dusting of showroom pendant lights that requires a lift. When you compare bids, confirm each vendor drew the same boundary, because a quote that quietly includes the service drive and one that does not can differ by 15–20% for reasons that have nothing to do with efficiency." },
+    { "type": "h2", "text": "Benchmark rates by dealership size" },
+    { "type": "p", "text": "The figures below use the same per-sq-ft-per-visit brackets that drive our calculator, adjusted for flooring (porcelain tile at 1.12x, mixed tile and carpet at 1.05x) and for the frequency discount that applies as visits increase (0.95x at three nights, 0.90x at five, 0.87x at seven). Monthly totals use 4.33 weeks per month. Restrooms, supplies, and glass are excluded here and shown in the next section." },
+    { "type": "table", "caption": "Base cleaning cost benchmarks for US auto dealership showrooms and offices (before restrooms and add-ons)", "headers": ["Dealership profile", "Cleanable sq ft", "Floor and schedule", "Per visit", "Per week", "Per month", "Per sq ft per month"], "rows": [
+      ["Independent pre-owned store with small showroom", "2,000", "Tile (1.12x), 3x/week (0.95x), 13 visits", "$255–$426", "$766–$1,277", "$3,320–$5,530", "$1.66–$2.77"],
+      ["Single-franchise new-car store", "9,000", "Mixed (1.05x), 5x/week (0.90x), 21.65 visits", "$765–$1,276", "$3,827–$6,379", "$16,570–$27,620", "$1.84–$3.07"],
+      ["Multi-brand flagship open 7 days", "18,000", "Tile (1.12x), 7x/week (0.87x), 30.33 visits", "$1,228–$2,105", "$8,594–$14,733", "$37,240–$63,840", "$2.07–$3.55"]
+    ] },
+    { "type": "p", "text": "Two patterns stand out. First, the per-sq-ft rate falls as the building gets bigger, but the monthly bill climbs steeply because large stores almost always need more nights. Second, the flagship carries the highest per-sq-ft-per-month figure despite the lowest bracket rate, because seven-day retail hours erase most of the size discount. In states that prohibit Sunday vehicle sales, a flagship can usually drop to a 5x/week schedule plus a Saturday-night touch-up, which brings it much closer to the franchise-store ratio." },
+    { "type": "callout", "variant": "benchmark", "title": "Sanity check for any dealership bid", "text": "Divide the vendor's monthly base price by cleanable sq ft. For nightly weekday service on a mixed-floor store between 2,500 and 9,999 sq ft, a result between roughly $1.84 and $3.07 per sq ft per month lines up with the benchmark. Well below that usually means the vendor left out the service drive or plans fewer labor hours than the floor plan needs; well above it usually means specialty floor work is bundled into every visit." },
+    { "type": "h2", "text": "Restroom density and add-ons that move the monthly total" },
+    { "type": "p", "text": "Dealerships have far more restrooms per sq ft than a typical office. A 9,000 sq ft store commonly has a pair of showroom restrooms, a pair off the service lounge, and staff or technician restrooms near the shop, for a total of six. Customer-facing restrooms get heavy use from walk-in shoppers and waiting service customers, so they rarely work on a skip-night schedule. The table prices the standard add-ons for the 9,000 sq ft franchise store on 21.65 visits per month." },
+    { "type": "table", "caption": "Monthly add-ons for a 9,000 sq ft franchise dealership on 5x/week service", "headers": ["Add-on", "Unit rate", "Monthly at 21.65 visits"], "rows": [
+      ["Six restrooms (showroom, service lounge, staff)", "$15–$30 per restroom per visit", "$1,949–$3,897"],
+      ["Interior glass: entry doors, F&I and manager partitions", "$15–$35 per visit", "$325–$758"],
+      ["Customer coffee bar and tech breakroom", "$12–$25 per visit", "$260–$541"],
+      ["Paper, soap, and liners supplied by vendor", "$0.012–$0.025 per sq ft per visit", "$2,338–$4,871"],
+      ["Quarterly tile and carpet deep care (amortized)", "$0.03–$0.06 per sq ft per month", "$270–$540"],
+      ["All-in total including base", "Base $16,570–$27,620 plus the rows above", "$21,710–$38,230"]
+    ] },
+    { "type": "p", "text": "Consumables are the line that surprises general managers most. A busy service lounge goes through roll towels and hand soap quickly, and when the vendor supplies them the cost scales with square footage and visits. Some stores save by buying paper through their own supply account and paying the vendor only to restock, which removes the markup but adds a purchasing task for the office manager. Either way, ask each bidder to price consumables as a separate line so you can compare labor against labor." },
+    { "type": "h2", "text": "Traffic wear: why showroom floors cost more than office carpet" },
+    { "type": "p", "text": "Showroom floors take punishment an office corridor never sees. Display vehicles are driven or pushed in and out, leaving tire scuffs and drips of tire dressing. Customers track in grit from the lot, and in snow-belt states, road salt and calcium chloride arrive on every pair of boots from November through March. Service customers walk straight from the drive lane, where oil and coolant drips are common, into the lounge. That combination is why most dealership estimators price large-format porcelain or ceramic tile at the 1.12x flooring multiplier and require an auto-scrubber pass rather than a mop." },
+    { "type": "ul", "items": [
+      "Tire dressing and rubber scuffs around display vehicles need a neutral cleaner and a white pad, not a stripper, to avoid dulling porcelain glaze.",
+      "Grout lines on older ceramic showrooms darken quickly; a monthly grout scrub is the most common reason a dealership bid rises above standard office rates.",
+      "Polished concrete showrooms price lower (0.95x) because an auto-scrubber covers them fast, but they still need a burnish schedule to keep the reflective look buyers expect.",
+      "Service-drive concrete carries oil tracking; budget a separate degreasing pass so oily soil does not get spread onto lounge carpet.",
+      "Walk-off matting at every customer entrance, at least 15 feet deep where possible, cuts the soil load on the showroom floor and shortens nightly scrub time."
+    ] },
+    { "type": "h2", "text": "Recommended weekly frequency by dealership type" },
+    { "type": "p", "text": "Frequency is the biggest single driver of the monthly invoice, so match it to customer traffic rather than to habit. A pre-owned store with a small showroom and one restroom pair can hold its standard at three nights a week, provided the sales staff empties trash and wipes the coffee station on the off nights. Any franchise store with a service lounge should be on five nights a week at minimum, because restrooms and the lounge degrade within a single business day. Stores open on Sundays, or those with heavy Saturday service traffic, should price a 7x/week schedule or a 5x/week contract with a weekend day porter, and compare the two in the calculator. A day porter working 10 a.m. to 2 p.m. on Saturdays often costs less than two extra full night visits and keeps the showroom photo-ready during peak hours." },
+    { "type": "h2", "text": "How to request comparable per-visit and weekly quotes" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable area by zone", "text": "List showroom, sales floor, F&I offices, lounge, service drive, and restrooms separately, and state which zones are excluded. Vendors bid more accurately on zone counts than on a single gross number from the site plan." },
+      { "name": "Specify floor types and current condition", "text": "Note porcelain, ceramic with grout, polished concrete, VCT in back offices, and carpet tile in F&I. Say whether the tile needs restorative work before the contract starts, so it is not hidden in the monthly rate." },
+      { "name": "Fix the schedule window", "text": "Give the exact window after the showroom closes and before the service drive opens, for example 9 p.m. to 6 a.m., plus alarm and key procedures." },
+      { "name": "Ask for per-visit, weekly, and monthly pricing", "text": "Require each bidder to show a per-visit price, the visits-per-month figure they used, and separate lines for restrooms, glass, supplies, and periodic floor care." },
+      { "name": "Request insurance and staffing proof", "text": "Collect a certificate of insurance naming the dealership entity as additional insured, workers compensation evidence, and the planned crew size and nightly labor hours." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch the exclusion list", "text": "The most common dispute in dealership cleaning contracts is a showroom vehicle that gets sprayed with floor cleaner or brushed by a scrubber. Your scope should state that crews never touch inventory vehicles, and that the vendor carries coverage for damage to client property in its care." },
+    { "type": "h2", "text": "Supplies and equipment worth specifying in the scope" },
+    { "type": "p", "text": "You do not need to dictate every product, but naming a few standards keeps results consistent from crew to crew. For the curtain wall and partitions, an ammonia-based, quick-drying glass cleaner such as the Zep Commercial Streak-Free Glass Cleaner in a four-gallon case refills trigger bottles without the streaking that low-grade cleaners leave under showroom LEDs. For restroom tile, grout, and the coffee bar, a Green Seal certified hydrogen-peroxide cleaner like Spartan Clean by Peroxy lifts soil from grout without harsh fumes in a closed lounge. For VCT in the parts office or service write-up area, a stripper and acrylic finish combination like the Zep High-Traffic Floor Polish and Stripper Bundle supports a quarterly or semi-annual restore cycle priced under the amortized deep-floor line." },
+    { "type": "cta", "text": "Plug your store's cleanable square footage, restroom count, floor type, and schedule into the Office Cleaning Cost Calculator, then load your vendor bids into the Quote Comparator to see which ones line up with these dealership benchmarks." }
+  ],
+  "faqs": [
+    { "q": "Why does a dealership cost more to clean than an office of the same size?", "a": "Three factors stack up. Showrooms are usually porcelain or ceramic tile priced at about 1.12x the carpet rate, restroom counts run two to three times higher than a standard office because of the service lounge, and most franchise stores need five to seven visits a week instead of two or three. A 9,000 sq ft corporate suite on carpet at three nights a week runs about $10,000–$16,670 per month in base labor, while the same footprint as a franchise dealership runs roughly $16,570–$27,620." },
+    { "q": "How do vendors turn a per-visit price into a monthly invoice?", "a": "They multiply the per-visit price by visits per month, using 4.33 weeks per month (52 weeks divided by 12, or 4.333). Five nights a week becomes 21.65 visits, three nights becomes 13, and seven nights becomes 30.33. Always ask a bidder which visit count they used, because a quote built on 20 visits looks cheaper than one built on 21.65 but will be billed differently once the contract starts." },
+    { "q": "Should the service shop floor be in the same contract as the showroom?", "a": "Usually not. Shop floors need degreasers, oil-absorbent handling, and sometimes ride-on sweepers, and the chemicals and disposal rules differ from office cleaning. Most dealers keep the showroom-and-office scope with a janitorial vendor and put bays on a separate industrial cleaning or sweeper contract, with the service-drive write-up lane assigned clearly to one of them." },
+    { "q": "What insurance should a dealership require from its cleaning vendor?", "a": "Ask for a certificate of insurance showing general liability, commonly $1 million per occurrence and $2 million aggregate, workers compensation at statutory limits, commercial auto, and a janitorial bond or third-party crime coverage, since crews work near key cabinets and F&I files after hours. The dealership entity should be named as additional insured, and the vendor should confirm coverage for damage to client property such as display vehicles." },
+    { "q": "Do green-certified chemicals cost more for a dealership contract?", "a": "Only marginally. Green Seal certified cleaners such as hydrogen-peroxide all-purpose products are priced close to conventional concentrates once diluted, and many vendors use them by default. The bigger cost driver is disinfection on high-touch points in the lounge and restrooms, where an EPA-registered disinfectant with a specific dwell time adds labor minutes to each visit." }
+  ],
+  "amazonProductIds": [
+    "zep-commercial-streak-free-glass-cleaner-gallon-4-case",
+    "spartan-clean-by-peroxy-all-purpose-cleaner-gallon-4-case",
+    "zep-high-traffic-floor-polish-and-stripper-bundle"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/auto-dealership-showroom-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/auto-dealership-showroom-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/property-management-leasing-office-cleaning-cost/",
+    "/commercial-cleaning-chemicals-and-mats/cloroxpro-hydrogen-peroxide-vs-diversey-virex-ii-256/"
+  ]
+}

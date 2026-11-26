@@ -1,0 +1,78 @@
+{
+  "slug": "financial-advisory-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/financial-advisory-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "financial advisory office rates",
+  "title": "Financial Advisory Office Rates: Calculating Wealth Management Square-Foot Cleaning Proposals",
+  "seoTitle": "Financial Advisory Office Rates: Wealth Management Cleaning Cost Math",
+  "metaDescription": "Financial advisory office rates run $0.07-$0.20 per sq ft per visit. See monthly totals for 2,000-14,000 sq ft firms, then run the cleaning cost calculator.",
+  "excerpt": "Wealth management and financial advisory offices pay standard per-square-foot janitorial rates, but client-facing suites, hardwood reception floors, and confidential-document handling push bids toward the upper half of each bracket. This guide shows the exact monthly math for three common firm sizes and the frequency that fits each.",
+  "quickAnswer": "Most financial advisory offices pay $0.09-$0.15 per sq ft per visit in the 2,500-9,999 sq ft bracket and $0.12-$0.20 under 2,500 sq ft, plus $15-$30 per restroom per visit. A 6,000 sq ft wealth management suite cleaned three times weekly typically lands between $7,550 and $12,780 per month with two restrooms and a coffee bar. Boutique RIAs under 2,500 sq ft usually spend $1,280-$4,000 per month depending on weekly or twice-weekly service.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-evening scene inside a US wealth management office: a janitorial technician in a navy uniform dust-mopping a walnut engineered hardwood reception floor beside a glass-walled client conference room with leather chairs, warm pendant lighting, city skyline dusk through floor-to-ceiling windows, wide-angle shot from reception desk height, no text, no logos, no watermarks",
+    "alt": "Janitorial technician dust-mopping the hardwood reception floor of a wealth management office at dusk"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Financial Advisory Offices Price Differently From a Generic Office" },
+    { "type": "p", "text": "On paper, a registered investment advisor or wealth management firm looks like low-intensity office space: private offices, a few conference rooms, a kitchenette, and modest headcount per square foot. In practice, these suites are presentation spaces. Clients with seven-figure portfolios walk through reception, sit at a glass conference table, and use the guest restroom. The firm is paying for a finish standard closer to a law firm than a call center, and vendors know it. That expectation shows up as more detail time per visit, not more square footage." },
+    { "type": "p", "text": "Three cost drivers dominate bids for this facility type. First, finish surfaces: engineered hardwood or stone in reception, glass partitions on conference rooms, and polished millwork that shows every fingerprint. Second, restroom density relative to headcount: many advisory suites have a dedicated client restroom in addition to staff restrooms, so a 20-person firm can carry three restroom fixtures groups. Third, confidential-paper handling: shred consoles, locked file rooms, and clean-desk rules mean crews must work around sensitive materials and cannot simply empty every container they see." },
+    { "type": "h2", "text": "Benchmark Rates by Office Size Bracket" },
+    { "type": "p", "text": "Our national benchmarks price janitorial labor per square foot per visit, adjusted by flooring type and frequency. Advisory firms almost always fall into the two smallest brackets, where minimum-per-visit charges of $90-$135 and fixed travel time inflate the effective rate. Larger regional wealth management floors in the 10,000-24,999 sq ft bracket earn better per-foot pricing because crews spend less time in transit and more time producing at the ISSA reference pace of roughly 3,500 sq ft per hour for routine office cleaning." },
+    { "type": "table", "caption": "Financial advisory office monthly cleaning estimates (national benchmarks, before consumables)", "headers": ["Firm profile", "Sq ft / floor type", "Frequency", "Restrooms + add-ons", "Per-visit range", "Monthly range"], "rows": [
+      ["Solo or two-advisor RIA", "2,000 / hardwood (x1.08)", "Weekly (4.33 visits, x1.08)", "1 restroom", "$295-$497", "$1,277-$2,150"],
+      ["Boutique RIA with client lounge", "2,000 / hardwood (x1.08)", "2x/week (8.66 visits, x1.00)", "1 restroom", "$274-$462", "$2,375-$4,001"],
+      ["Mid-size wealth management suite", "6,000 / mixed (x1.05)", "3x/week (13 visits, x0.95)", "2 restrooms + coffee bar", "$581-$983", "$7,548-$12,776"],
+      ["Regional advisory headquarters floor", "14,000 / carpet (x1.00)", "5x/week (21.65 visits, x0.90)", "4 restrooms + breakroom + glass", "$969-$1,692", "$20,979-$36,632"]
+    ] },
+    { "type": "p", "text": "The math behind the mid-size row is worth walking through, because it is the profile most office managers are actually pricing. Start with 6,000 sq ft times $0.09-$0.15, giving $540-$900. Multiply by 1.05 for mixed carpet and hardwood, then by 0.95 for the three-times-weekly frequency discount, which yields $539-$898 of base labor per visit. Add two restrooms at $15-$30 each and a coffee bar at $12-$25, and the per-visit figure becomes $581-$983. Thirteen visits per month produces $7,548-$12,776, or roughly $1.26-$2.13 per sq ft per month." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: what the extras cost on a 6,000 sq ft suite", "text": "Vendor-supplied paper, soap, and liners add $0.012-$0.025 per sq ft per visit, or $936-$1,950 per month at 13 visits. A quarterly carpet extraction and hardwood maintenance program amortizes to $0.03-$0.06 per sq ft per month, or $180-$360. Interior glass on conference partitions runs $15-$35 per visit when scoped separately." },
+    { "type": "h2", "text": "Restroom Density and Traffic Wear in Advisory Suites" },
+    { "type": "p", "text": "Advisory firms generate light foot traffic in absolute terms, but it is concentrated. Client meetings cluster mid-morning and late afternoon, quarterly review season brings a spike in visitors, and the guest restroom nearest reception absorbs most of that load. Bids that treat every restroom as equal tend to under-service the client restroom and over-service the staff restroom tucked behind operations. Ask vendors to price restrooms individually at $15-$30 per visit and to note which one receives a full detail every visit versus a touch-up." },
+    { "type": "p", "text": "Traffic wear follows a predictable path: entry mat, reception, the corridor to the main conference room, and the kitchenette. Hardwood and stone in that path scuff and dull quickly, while private advisor offices with carpet tiles see minimal soil. That is why a flat rate across the whole suite rarely matches reality. A better proposal assigns daily or every-visit care to the client path and treats private offices on a rotating schedule, which can trim 10-15 percent of labor without any visible drop in standard." },
+    { "type": "h2", "text": "Recommended Weekly Frequency by Firm Type" },
+    { "type": "ul", "items": [
+      "Solo practitioners and two-advisor RIAs under 2,500 sq ft with occasional client visits: weekly service plus a mid-week restroom and trash touch-up by staff, keeping spend near $1,280-$2,150 per month.",
+      "Boutique firms hosting three or more client meetings a day: twice weekly, scheduled the evening before the heaviest meeting days, typically $2,375-$4,000 per month for 2,000 sq ft.",
+      "Wealth management teams of 15-40 staff in 5,000-9,999 sq ft: three times weekly, with full restroom and kitchenette care each visit and private offices on rotation.",
+      "Regional headquarters with trading, operations, and compliance staff above 10,000 sq ft: five nights weekly, because breakroom use, trash volume, and restroom demand scale with headcount rather than square footage.",
+      "Any firm hosting evening client events or seminars: add a scheduled post-event visit rather than increasing base frequency all year."
+    ] },
+    { "type": "h2", "text": "Dispensers That Reduce Labor Minutes Per Visit" },
+    { "type": "p", "text": "Restroom labor is one of the few line items a firm can lower through equipment choices. A Georgia-Pacific Compact Vertical Coreless Toilet Paper Dispenser holds two coreless rolls totaling up to 3,000 sheets in an ADA-slim footprint with a keyed lock, so a weekly or twice-weekly crew is far less likely to find an empty roll in the client restroom between visits. In staff restrooms with heavier use, the Scott Pro High-Capacity Coreless Standard Roll Dispenser carries four coreless rolls and supports keyed or keyless operation, cutting refill trips on busy days." },
+    { "type": "p", "text": "At reception and the elevator lobby, a GOJO PURELL ES8 Touch-Free Hand Sanitizer Dispenser uses a 1,200 mL refill with energy-on-the-refill design, meaning batteries are replaced with each refill and nobody on the crew has to track battery life separately. Its at-a-glance refill window lets the custodian confirm level in two seconds. Standardizing dispensers across the suite also lets the vendor stock a single refill type on the cart, which shortens each restroom service." },
+    { "type": "h2", "text": "How to Build a Proposal You Can Compare Line by Line" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage", "text": "Exclude locked server closets and file rooms the crew will never enter, but include corridors and the reception area. Overstated square footage is the most common reason advisory firms overpay." },
+      { "name": "List restrooms and specialty zones separately", "text": "Name the client restroom, staff restrooms, kitchenette, and each glass-walled conference room so vendors price them as discrete line items rather than burying them in a blended rate." },
+      { "name": "State frequency per zone", "text": "Client path and restrooms every visit; private offices once or twice weekly; detail dusting of millwork weekly. This zone-based frequency is where most savings appear." },
+      { "name": "Decide who supplies consumables", "text": "Either budget $0.012-$0.025 per sq ft per visit for vendor-supplied paper and soap or buy them yourself and require the crew to restock from your storage." },
+      { "name": "Convert every bid to monthly using 4.333 weeks", "text": "A bid quoted per visit at twice weekly equals 8.66 visits per month, not 8. Normalizing this way exposes vendors who quote low per visit but bill more visits." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch for blended rates that hide the client restroom", "text": "A proposal priced at a single per-square-foot figure with no restroom line often allocates the same five minutes to every restroom. For a firm whose clients judge the office by its guest restroom, insist on a stated restroom count and per-visit price." },
+    { "type": "cta", "text": "Plug your suite's square footage, floor mix, restroom count, and preferred frequency into the Office Cleaning Cost Calculator to see your expected monthly range, then load competing bids into the Quote Comparator to normalize them on a per-visit and per-month basis." }
+  ],
+  "faqs": [
+    { "q": "What is a fair per-square-foot rate for cleaning a financial advisory office?", "a": "For the 2,500-9,999 sq ft bracket, $0.09-$0.15 per sq ft per visit before restroom and add-on charges is the national benchmark. Under 2,500 sq ft, expect $0.12-$0.20 because travel time and the $90-$135 per-visit minimum weigh more heavily. Expressed monthly, a three-times-weekly program usually works out to about $1.25-$2.15 per sq ft." },
+    { "q": "How do I convert a per-visit quote to a monthly cost?", "a": "Multiply visits per week by 4.333 weeks per month. Twice weekly equals 8.66 visits, three times weekly equals 13, and five nights equals 21.65. Multiply that by the per-visit price, including restrooms and add-ons, to get a monthly figure you can compare against flat monthly bids." },
+    { "q": "Should our vendor carry special insurance for a wealth management office?", "a": "Require a certificate of insurance showing general liability, workers compensation, and a janitorial or third-party crime bond that covers employee dishonesty on client premises. Firms handling client records should also name the firm and landlord as additional insureds and confirm the vendor runs background checks on assigned crew." },
+    { "q": "Does hardwood in reception really raise the price?", "a": "Yes, modestly. Engineered or hardwood floors carry a 1.08 multiplier versus 1.00 for carpet because crews use low-moisture microfiber methods and wood-safe neutral cleaners. On a 2,000 sq ft suite that difference is roughly $20-$35 per visit at benchmark rates." },
+    { "q": "What tasks are usually excluded from a standard advisory office bid?", "a": "Carpet extraction, hardwood recoating, high-window washing, shredding services, and post-event cleanup are typically excluded or priced separately. Confirm in writing whether interior glass partitions and kitchenette appliance interiors are in scope, since those are the most frequent change-order disputes." }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser",
+    "gojo-purell-es8-touch-free-hand-sanitizer-dispenser",
+    "scott-pro-high-capacity-coreless-standard-roll-dispenser"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/financial-advisory-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/financial-advisory-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/real-estate-brokerage-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-janitorial-gear-kit-for-10000-sq-ft-offices/"
+  ]
+}

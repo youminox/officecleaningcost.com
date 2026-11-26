@@ -1,0 +1,94 @@
+{
+  "slug": "auto-dealership-showroom-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/auto-dealership-showroom-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "auto dealership showroom office scope tasks",
+  "title": "Auto Dealership Showroom Office Scope Tasks: Estimating Labor Minutes Zone by Zone",
+  "seoTitle": "Auto Dealership Showroom Office Scope Tasks & Labor Minutes",
+  "metaDescription": "Auto dealership showroom office scope tasks with nightly, weekly, and monthly labor minutes, plus specialty items that lift bids. Compare quotes free.",
+  "excerpt": "A dealership scope of work has to cover a glass-walled showroom, sales and F&I offices, a customer lounge, and the service drive, and each zone eats labor at a different pace. This guide breaks down nightly, weekly, and monthly tasks in minutes so you can check whether a vendor has staffed your store realistically.",
+  "quickAnswer": "A 9,000 sq ft franchise dealership typically needs about 280 labor minutes per night (roughly 4.7 crew hours), plus about 125 minutes of weekly detail work and 3 or more hours of monthly grout and floor care, for a total near 113 labor hours per month on a 5x/week schedule. That is roughly 80% more nightly time than the standard 3,500 sq ft per hour office production rate would predict. The extra comes from showroom auto-scrubbing, curtain-wall glass, six or more restrooms, and the customer lounge.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic medium shot inside a US car dealership at night, a cleaning technician using a brass window squeegee on a tall glass partition of an F&I office while a color-coded dual-compartment mop bucket and microfiber flat mop rest on gray porcelain tile nearby, a display sedan softly out of focus in the showroom behind, warm overhead pendant lighting mixed with cool LED, eye-level camera angle, no text, no logos, no watermarks",
+    "alt": "Cleaning technician squeegeeing an F&I office glass partition in a dealership showroom with mop bucket nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why dealership scopes break the standard office production rate" },
+    { "type": "p", "text": "Janitorial estimators often start with the ISSA-style production benchmark of about 3,500 sq ft per labor hour for routine office cleaning. Apply that to a 9,000 sq ft franchise store and you get about 2.6 hours a night. Walk the building with a stopwatch and the real number is closer to 4.7 hours. The gap comes from tasks that barely exist in a corporate suite: scrubbing a showroom floor around parked vehicles, removing hand and nose prints from a glass curtain wall that children press against all day, servicing six or more restrooms, and resetting a customer lounge that hosts dozens of waiting service customers per day." },
+    { "type": "p", "text": "The model store used throughout this guide has a 4,500 sq ft porcelain-tile showroom and sales floor, about 2,500 sq ft of offices (manager tower, four F&I offices, a used-car desk, and a business office), an 800 sq ft customer lounge with a coffee bar and kids corner, a service drive write-up area, six restrooms, and a technician breakroom. Service bays, inventory vehicles, and the exterior lot are excluded." },
+    { "type": "h2", "text": "Nightly task list with labor minutes" },
+    { "type": "table", "caption": "Nightly scope of work and labor minutes for a 9,000 sq ft franchise dealership", "headers": ["Zone", "Task", "Minutes per visit", "Notes for the SOW"], "rows": [
+      ["Showroom and sales floor", "Dust mop, then auto-scrub or flat-mop around display vehicles", "45", "Neutral cleaner only near vehicles; no spray contact with paint or tires"],
+      ["Entry doors and curtain wall", "Remove prints from doors and glass up to 7 ft", "25", "Squeegee method; full-height glass is periodic"],
+      ["Sales desks", "Empty trash, wipe desk tops and phones, straighten chairs at 10 desks", "25", "Do not move paperwork or deal jackets"],
+      ["Manager tower", "Trash, wipe counters and keyboards, vacuum platform", "10", "Often raised; include stair edges"],
+      ["F&I offices (4)", "Trash, wipe desks and guest chairs, vacuum carpet tile", "24", "About 6 minutes each; locked cabinets untouched"],
+      ["Customer lounge", "Reset seating, wipe tables, clean coffee bar, sanitize kids corner", "30", "Highest-touch zone in the store"],
+      ["Service drive write-up and cashier", "Wipe counters, trash, damp-mop or degrease walkway", "20", "Oily tracking; separate mop head from showroom"],
+      ["Restrooms (6)", "Clean and disinfect fixtures, mirrors, floors; restock", "72", "About 12 minutes each at customer-use soil levels"],
+      ["Technician breakroom", "Tables, sink, microwave, floor", "15", "Grease load higher than an office kitchen"],
+      ["Trash and recycling", "Consolidate and haul to dumpster", "15", "Cardboard from parts deliveries adds volume"],
+      ["Nightly total", "", "281", "About 4.7 labor hours per visit"]
+    ] },
+    { "type": "p", "text": "Restrooms alone consume a quarter of the night. Customer restrooms in a dealership see soil levels closer to retail than to office use, so the 12-minute allowance per room assumes a full clean and disinfect, not a quick wipe. If a vendor's staffing plan shows two hours a night for this store, ask how they plan to cover six restrooms and a lounge in that time." },
+    { "type": "h2", "text": "Weekly and monthly detail tasks" },
+    { "type": "p", "text": "Detail tasks are where scopes diverge most between bidders. Spell them out with a day of the week so that skipped tasks are visible during inspections." },
+    { "type": "table", "caption": "Weekly and periodic tasks for the same 9,000 sq ft dealership", "headers": ["Task", "Frequency", "Minutes per occurrence", "Monthly labor hours"], "rows": [
+      ["Showroom baseboards, column wraps, and kick plates", "Weekly", "30", "2.2"],
+      ["Interior glass partitions on F&I and manager offices", "Weekly", "25", "1.8"],
+      ["Lounge upholstery and fabric chair vacuuming", "Weekly", "20", "1.4"],
+      ["Lift and vacuum under entrance walk-off mats", "Weekly", "20", "1.4"],
+      ["Brochure racks, door hardware, and display stands detail", "Weekly", "15", "1.1"],
+      ["Breakroom refrigerator purge", "Weekly (Friday)", "15", "1.1"],
+      ["Showroom grout-line machine scrub", "Monthly", "180", "3.0"],
+      ["F&I and lounge carpet hot-water extraction", "Quarterly", "240", "1.0 amortized"],
+      ["Parts and service office VCT strip and recoat", "Semi-annual", "360", "1.0 amortized"]
+    ] },
+    { "type": "p", "text": "Add it up and the store needs about 101 hours of nightly work per month (281 minutes times 21.65 visits), about 9 hours of weekly detail (125 minutes times 4.33 weeks), and roughly 5 hours of monthly and amortized periodic work, for a total near 115 labor hours. That figure is the yardstick for reviewing any bid: divide the vendor's proposed monthly hours into this total and you will see immediately whether they plan to do the scope or skim it." },
+    { "type": "h2", "text": "Specialty tasks that push labor above standard office rates" },
+    { "type": "ul", "items": [
+      "Showroom auto-scrubbing around vehicles is slower than open-floor scrubbing because the operator must maneuver at walking speed with clearance from bumpers and tires.",
+      "Curtain-wall glass is a touch magnet; a proper squeegee pass on the lower 7 ft of a 60 ft glass frontage takes far longer than wiping a few office door sidelights.",
+      "Grout scrubbing on ceramic showrooms is specialty work often priced at $55–$95 per hour rather than the $35–$65 standard janitorial rate.",
+      "Service drive degreasing requires a dedicated mop head and bucket so oil does not get dragged onto lounge carpet or showroom tile.",
+      "Kids corners with plastic play equipment need disinfection with an EPA-registered product and a full wet dwell time, which adds minutes even if the area is small.",
+      "Large parts and accessory deliveries generate cardboard volume far beyond a typical office, lengthening trash runs."
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Use separate color-coded tools by zone", "text": "Assign red mop heads and buckets to restrooms, blue to showroom and offices, and a dedicated set to the service drive. A dual-compartment system such as the Unger 15-gallon SmartColor bucket keeps clean solution apart from dirty rinse water, which prevents the gray film and re-soiling that make porcelain showrooms look dull by mid-morning." },
+    { "type": "h2", "text": "How to build the dealership scope of work" },
+    { "type": "steps", "items": [
+      { "name": "Walk the store with the service and sales managers", "text": "Mark every zone on a floor plan, note who uses it and when, and agree which areas belong to the janitorial vendor versus the detail department or shop sweeper contractor." },
+      { "name": "Assign task frequencies by zone", "text": "Use nightly, weekly, monthly, and quarterly columns. Put the day of week next to weekly tasks so inspection checklists match the schedule." },
+      { "name": "Estimate minutes per task", "text": "Use the tables above as a baseline and adjust for your actual restroom count, desk count, and glass frontage. Multiply by 21.65 visits for 5x/week or 30.33 for 7x/week." },
+      { "name": "Write the exclusion list", "text": "State plainly that crews never touch inventory vehicles, do not enter service bays, and do not open locked F&I cabinets or key storage." },
+      { "name": "Set inspection standards", "text": "Agree on a weekly walk-through score sheet covering showroom shine, glass prints, restroom condition, and lounge reset, with a corrective-action window of one business day." }
+    ] },
+    { "type": "h2", "text": "Tools that keep minute estimates realistic" },
+    { "type": "p", "text": "Labor minutes in the tables assume reasonable equipment. The Ettore Master Brass 14-inch squeegee, with a solid brass handle and replaceable professional rubber, lets a technician clear partition glass in long overlapping strokes rather than polishing with cloths, which is where glass minutes usually balloon. The Rubbermaid Commercial HYGEN 18-inch microfiber flat mop kit, with its 2-quart onboard reservoir and quick-connect frame, works well for F&I offices with hard floors and for spot-mopping around vehicles where a bucket would be awkward. For restrooms and the service drive, the Unger dual-bucket system supports the separate-tools-by-zone rule described above. Ask your vendor what equipment they plan to bring, because a crew without an auto-scrubber will need noticeably more showroom minutes than the 45 shown here." },
+    { "type": "cta", "text": "Turn your zone minutes into a dollar budget with the Office Cleaning Cost Calculator, then paste competing dealership bids into the Quote Comparator to see whose staffing hours actually match your scope." }
+  ],
+  "faqs": [
+    { "q": "How many labor hours per month should a 9,000 sq ft dealership contract include?", "a": "Roughly 110 to 120 hours on a 5x/week schedule. That covers about 4.7 hours per night across 21.65 visits (5 nights times 4.33 weeks per month, using 52 weeks divided by 12, or 4.333), plus weekly detail and amortized periodic floor care. Bids planning far fewer hours are likely skipping weekly tasks or rushing restrooms." },
+    { "q": "Should the janitorial vendor clean showroom vehicles?", "a": "No. Inventory vehicles belong to the detail or lot-prep team, and most janitorial insurance policies and scopes exclude vehicle contact. Your SOW should say that crews must not spray, wipe, or brush against display vehicles, and that floor cleaning around them uses neutral cleaner applied with a mop or scrubber, never aerosol sprays." },
+    { "q": "What OSHA rules apply to the cleaning crew in a dealership?", "a": "The OSHA Hazard Communication Standard requires labeled containers and accessible safety data sheets for every chemical the crew uses, which is especially important near a service department with its own solvents. If crews clean restrooms where blood or sharps may be encountered, the vendor should have a bloodborne pathogens exposure control plan and trained staff. Wet-floor signage under walking-working surface rules also matters on glossy showroom tile." },
+    { "q": "How often should showroom grout be machine scrubbed?", "a": "Monthly for most ceramic showrooms with moderate traffic, and every two weeks in snow-belt states during winter when salt residue builds up. Large-format porcelain with narrow grout joints can often stretch to quarterly. Grout work is commonly billed at a specialty hourly rate of $55–$95, so price it as a separate periodic line rather than burying it in the nightly rate." },
+    { "q": "Is a weekend day porter better than adding a seventh night?", "a": "For many stores, yes. A four-hour Saturday porter shift keeps restrooms, the lounge, and showroom glass presentable during peak shopping hours, often for less than two additional full night visits. Price both options in the calculator, since a 7x/week schedule earns a lower 0.87x frequency multiplier but still adds 8.67 visits per month over a 5x/week contract." }
+  ],
+  "amazonProductIds": [
+    "ettore-master-brass-14-inch-commercial-window-squeegee",
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit",
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/auto-dealership-showroom-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/property-management-leasing-office-cleaning-cost/",
+    "/facility-cleaning-costs/property-management-leasing-office-cleaning-checklist-scope/",
+    "/commercial-cleaning-chemicals-and-mats/best-neutral-ph-commercial-floor-cleaners/"
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "slug": "law-firm-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/law-firm-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "law firm rates",
+  "title": "Law Firm Rates for Janitorial Service: Legal Suite Maintenance Pricing & Annual Budget Guide",
+  "seoTitle": "Law Firm Rates: Legal Suite Cleaning Cost per Sq Ft & Annual Budget",
+  "metaDescription": "Law firm rates for janitorial service: $0.07–$0.20 per sq ft per visit, with monthly and annual budgets by suite size. Run your numbers in our calculator.",
+  "excerpt": "A legal suite costs more to clean per square foot than a generic office because of hardwood reception floors, glass conference rooms, client-facing restrooms, and confidentiality rules. This guide shows the per-visit and monthly math for four common firm sizes so you can build a defensible annual janitorial budget.",
+  "quickAnswer": "Most US law firms pay $0.12–$0.20 per sq ft per visit under 2,500 sq ft, $0.09–$0.15 for 2,500–9,999 sq ft suites, and $0.07–$0.12 for 10,000–24,999 sq ft floors. A 6,000 sq ft boutique firm cleaned three nights a week typically lands between $6,700 and $11,100 per month before add-ons, while solo practices rarely fall below the $90–$135 per-visit vendor minimum.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic evening scene inside a US law firm reception area with walnut-paneled walls, engineered hardwood floor and a glass-walled conference room behind; a uniformed janitorial technician runs a low-moisture microfiber mop near a leather client sofa, warm recessed lighting mixed with city glow from floor-to-ceiling windows, wide-angle shot from waist height, no text, no logos, no watermarks",
+    "alt": "Janitorial technician mopping the hardwood reception floor of a law firm after hours beside a glass conference room"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why law firm rates run above a standard office" },
+    { "type": "p", "text": "On paper a law office looks like any other professional suite: private offices, a reception desk, a kitchenette, and a couple of restrooms. In practice, three factors push the labor content up. First, the finish package is heavier. Reception and conference areas often use engineered hardwood, stone, or polished tile, which carry a 1.08 to 1.12 flooring multiplier versus plain carpet. Second, glass is everywhere: conference partitions, sidelights on every partner office, and glass-topped tables that clients notice the moment they sit down. Third, crews have to work around confidential paper. Desks covered in pleadings and closing binders cannot be wiped, which slows the pace and requires a written no-touch protocol." },
+    { "type": "p", "text": "The national ISSA production benchmark sits near 3,500 sq ft per hour for routine office cleaning. Legal suites with heavy private-office density usually run closer to 2,400–2,800 sq ft per hour because each office has its own trash, recycling, and shred console, plus more doors and more detail surfaces. That 20 to 30 percent productivity drag is the single biggest reason legal bids land in the upper half of each size bracket." },
+    { "type": "h2", "text": "Per-visit and monthly benchmarks by firm size" },
+    { "type": "p", "text": "The table below applies our national per-square-foot brackets, the frequency multipliers vendors use when pricing recurring work, and 4.33 weeks per month. It assumes mixed flooring (carpeted offices plus hard-surface reception), which adds roughly 5 percent. Restrooms, glass, breakroom, and deep floor care are priced separately in the next section." },
+    {
+      "type": "table",
+      "caption": "Estimated base janitorial cost for US law firms (mixed flooring, before add-ons)",
+      "headers": ["Firm profile", "Sq ft", "Rate per sq ft per visit", "Frequency", "Per visit", "Monthly base (x1.05 mixed floors)"],
+      "rows": [
+        ["Solo or two-attorney practice", "2,000", "$0.12–$0.20", "2x/week (x1.00, 8.66 visits)", "$240–$400", "$2,180–$3,640"],
+        ["Boutique litigation firm", "6,000", "$0.09–$0.15", "3x/week (x0.95, 13 visits)", "$513–$855", "$7,000–$11,670"],
+        ["Regional full-service office", "15,000", "$0.07–$0.12", "5x/week (x0.90, 21.65 visits)", "$945–$1,620", "$21,480–$36,830"],
+        ["Multi-floor headquarters", "30,000", "$0.05–$0.10", "5x/week (x0.90, 21.65 visits)", "$1,350–$2,700", "$30,690–$61,380"]
+      ]
+    },
+    { "type": "p", "text": "Notice how the frequency multiplier works in your favor as visits increase: a vendor discounts each nightly visit by about 10 percent compared with twice-weekly service because the crew is already routed to your building and soil never builds up. The total monthly bill still rises, but the cost per visit falls." },
+    { "type": "h2", "text": "Restroom density, traffic wear, and the add-ons that move the bill" },
+    { "type": "p", "text": "Law firms tend to have more restrooms per head than open-plan offices. Many suites include a private partner restroom, a client-facing pair off reception, and a staff restroom near the file room. Each fixture set is typically billed at $15–$30 per visit. Traffic wear is concentrated in a narrow corridor: the elevator lobby, reception, and the path to the main conference room see client foot traffic all day, while interior offices see little. That pattern matters for floor care budgeting, because you can extract carpet in the client corridor quarterly and leave private offices on an annual cycle." },
+    {
+      "type": "table",
+      "caption": "Typical monthly add-ons for a 6,000 sq ft boutique firm on 3x/week service (13 visits)",
+      "headers": ["Add-on", "Unit rate", "Quantity", "Monthly range"],
+      "rows": [
+        ["Restroom sanitation", "$15–$30 per restroom per visit", "3 restrooms x 13 visits", "$585–$1,170"],
+        ["Interior glass and conference partitions", "$15–$35 per visit", "13 visits", "$195–$455"],
+        ["Breakroom and coffee bar", "$12–$25 per visit", "13 visits", "$156–$325"],
+        ["Consumables included", "$0.012–$0.025 per sq ft per visit", "6,000 sq ft x 13", "$936–$1,950"],
+        ["Quarterly deep floor care (amortized)", "$0.03–$0.06 per sq ft per month", "6,000 sq ft", "$180–$360"]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Budget benchmark: all-in cost per sq ft per month",
+      "text": "Adding the base and the full add-on stack above, a 6,000 sq ft firm on three nights a week lands around $9,050–$15,930 per month, or roughly $1.51–$2.66 per sq ft per month. If a bid comes in well below $1.40 all-in with consumables included, ask how many labor hours per visit it assumes; under-hours bids are the most common cause of mid-contract quality collapse."
+    },
+    { "type": "h2", "text": "Recommended weekly frequency for a legal suite" },
+    { "type": "p", "text": "Frequency should follow client exposure, not headcount. A firm that hosts depositions, mediations, or closing meetings several times a week needs the reception, conference rooms, and client restrooms reset every night. A transactional or estate-planning practice with a few client visits weekly can run three nights with a midweek day porter check. Solo practitioners in shared buildings often get by on twice-weekly service because the landlord cleans common restrooms." },
+    {
+      "type": "ul",
+      "items": [
+        "5x/week: litigation firms with daily depositions, firms over 10,000 sq ft, and any office with a client-facing café or coffee bar.",
+        "3x/week: boutique firms of 4,000–9,000 sq ft with moderate client traffic; add a Friday restroom-only touch-up if Monday mornings look rough.",
+        "2x/week: solo and two-attorney suites under 2,500 sq ft where building management covers common corridors and restrooms.",
+        "1x/week: virtual-office or satellite suites used mainly for occasional client meetings; expect to pay the vendor minimum of $90–$135 per visit."
+      ]
+    },
+    { "type": "h2", "text": "Building the annual budget line" },
+    { "type": "p", "text": "Finance partners want a single annual number. Build it from the monthly base, add the recurring add-ons, then add a 5 to 8 percent contingency for one-off requests like post-trial war-room cleanups, holiday party resets, and move-day support. For the 6,000 sq ft example, the annual figure is roughly $108,600–$191,200 before contingency. Firms that need nightly service in a 15,000 sq ft office should plan for roughly $320,000–$580,000 including five restrooms and vendor-supplied consumables." },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Measure cleanable square footage", "text": "Use the rentable-area figure from the lease only as a starting point; exclude server rooms, locked evidence storage, and partner offices with no-entry instructions." },
+        { "name": "Pick the frequency by zone", "text": "Price client-facing zones at nightly frequency and interior offices at three nights if your vendor will split zones on the work schedule." },
+        { "name": "Apply the flooring multiplier", "text": "Use 1.05 for mixed carpet and hard floors, 1.08 if most of the suite is hardwood, and 1.12 for stone or tile reception and restrooms." },
+        { "name": "Layer restroom and glass add-ons", "text": "Count every restroom, including private partner restrooms, and every glass conference room." },
+        { "name": "Decide on consumables", "text": "Vendor-supplied paper and soap is convenient but often marked up; compare against your own purchasing contract." }
+      ]
+    },
+    { "type": "h2", "text": "Supplies that affect quality and labor time" },
+    { "type": "p", "text": "Ask bidders what they plan to use, because chemistry and finish choices change both labor minutes and the look of the space. A heavy-duty, phosphate-free concentrate like Simple Green Pro HD handles breakroom appliance grease and entry mat soil without etching stainless. Firms with VCT in file rooms or copy areas benefit from a 25 percent solids, zinc-interlocked acrylic finish such as Diversey Vectra, which holds a high-gloss look between quarterly scrub-and-recoat visits and resists scuffing from rolling file carts. For daily restroom floors and hard surfaces, a neutral-pH all-purpose concentrate diluted at 1:64, such as Fabuloso Professional, keeps cost per gallon of use-solution low and will not dull finished floors." },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Negotiate with zone pricing",
+      "text": "Ask vendors to quote reception, conference, and client restrooms as a nightly zone, and private offices as a separate three-night zone. Firms that split zones typically trim 10 to 18 percent off the monthly bill without clients noticing any difference."
+    },
+    { "type": "cta", "text": "Plug your suite's square footage, flooring mix, restroom count, and target frequency into the Office Cleaning Cost Calculator to get a monthly range for your firm, then line up competing bids side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How do vendors convert a weekly schedule into a monthly invoice?", "a": "Recurring janitorial contracts use about 4.33 weeks per month, so three nights a week becomes 13 billable visits and five nights becomes 21.65 visits. Multiply the per-visit price by those figures. If a vendor bills a flat four weeks per month, confirm they are not quietly skipping the extra visits that fall in 31-day months." },
+    { "q": "What insurance should a law firm require from its cleaning contractor?", "a": "Require a certificate of insurance (COI) naming the firm and the landlord as additional insureds, with commercial general liability of at least $1 million per occurrence, workers' compensation, and a janitorial fidelity bond or third-party crime coverage. The bond matters for law firms because cleaners have after-hours access to client files and trust account paperwork." },
+    { "q": "Are carpet extraction and floor refinishing included in the monthly rate?", "a": "Usually not. Standard scope covers vacuuming, spot cleaning, and damp mopping. Hot-water extraction and VCT scrub-and-recoat are periodic services, typically $0.03–$0.06 per sq ft per month when amortized. Spell out the frequency of each in the scope so it appears on the invoice rather than as a surprise change order." },
+    { "q": "Do law firm cleaners need OSHA training?", "a": "Yes. Under OSHA's Hazard Communication Standard, the vendor must train staff on the chemicals they use and keep Safety Data Sheets available. Crews cleaning restrooms should also have bloodborne pathogens training under 29 CFR 1910.1030 so they handle needles, blood, or other potentially infectious material correctly. Ask for training records with the bid." },
+    { "q": "Is a green-certified program more expensive for a legal office?", "a": "Not much. Green Seal or EPA Safer Choice chemicals cost roughly the same per use-solution gallon as conventional products once properly diluted. The real premium comes from microfiber systems and HEPA vacuums, which usually adds 2 to 5 percent to the bid and often pays back through better indoor air quality in tightly sealed conference rooms." }
+  ],
+  "amazonProductIds": [
+    "simple-green-pro-hd-heavy-duty-cleaner-and-degreaser-1-gallon",
+    "diversey-vectra-commercial-high-gloss-floor-finish-5-gal",
+    "fabuloso-professional-all-purpose-cleaner-concentrate-1-gallon-4"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/law-firm-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/law-firm-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/accounting-cpa-office-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-hardwood-floor-mops-for-commercial-suites/"
+  ]
+}

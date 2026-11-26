@@ -1,0 +1,231 @@
+{
+  "slug": "shared-suite-common-area-cleaning-cost-split",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/shared-suite-common-area-cleaning-cost-split/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "shared office common area cleaning split",
+  "title": "Splitting Common-Area & Lobby Cleaning Costs Across Multi-Tenant Suites",
+  "seoTitle": "Shared Office Common Area Cleaning Split: Cost-Sharing Math",
+  "metaDescription": "Shared office common area cleaning split models: allocate $0.07–$0.15/sq ft lobbies and $15–$30 restrooms fairly by RSF or headcount. Run our calculator.",
+  "excerpt": "Learn how coworking operators, medical suites, and multi-tenant landlords allocate common-area lobby, restroom, and kitchenette cleaning fees without tenant disputes. Compare pro-rata square footage, headcount, and hybrid cost-sharing formulas grounded in 2026 US janitorial rates.",
+  "quickAnswer": "Splitting shared office common-area cleaning costs typically allocates $0.07 to $0.15 per sq ft per visit for shared lobbies and corridors, plus $15 to $30 per shared restroom, $12 to $25 per shared breakroom, and $0.012 to $0.025 per sq ft for consumables across 21.65 weekday visits per month (5x/week). A 2,500 sq ft common zone with two restrooms runs $4,438 to $8,552 per month—usually divided pro rata by Rentable Square Footage (RSF) or via a 70/30 RSF-and-headcount hybrid formula.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide interior photograph of a modern American multi-tenant executive office suite common lobby and glass conference corridor after evening service, polished vinyl wood-look floor and clean ceramic restroom vestibule, commercial side-press wringer mop bucket and color-coded microfiber charging container parked neatly near a discreet janitorial closet door, warm recessed architectural lighting, crisp depth of field, zero text, zero words, zero logos, zero watermarks",
+    "alt": "Clean multi-tenant American office suite common lobby and conference corridor with commercial mopping and color-coded pad system"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "When three or four independent businesses share a floor plate—whether in an executive suite, coworking hub, outpatient medical arts building, or subleased corporate wing—disagreements over janitorial invoices almost never stem from private offices. Friction starts in the shared spaces: the main reception lobby, elevator corridor, shared boardroom glass, multi-stall restrooms, and common breakroom."
+    },
+    {
+      "type": "p",
+      "text": "Under standard [office cleaning cost guides](/office-cleaning-cost-guides/) benchmarks, those high-traffic common areas concentrate the costliest line items: **$15 to $30 per restroom**, **$12 to $25 per kitchenette**, **$15 to $35 for conference glass**, and **$0.012 to $0.025 per sq ft** in paper and soap consumables. Picking a transparent cost-split formula keeps Common Area Maintenance (CAM) reconciliations peaceful."
+    },
+    {
+      "type": "h2",
+      "text": "Line-Item Cost of a Shared Office Common Zone"
+    },
+    {
+      "type": "p",
+      "text": "Before splitting a common-area cleaning invoice across tenants, separate shared zone labor from private suite cleaning. Because shared lobbies and hallways receive five times the foot traffic of private offices, facility managers almost always schedule them **5x/week (21.65 visits/month at the 0.90x frequency multiplier)** using mixed hard-floor and carpet tooling (**1.05x** flooring multiplier) even when individual tenants clean their private desks only 2x or 3x/week."
+    },
+    {
+      "type": "table",
+      "caption": "Monthly Budget Breakdown for a 2,500 Sq Ft Shared Common Zone (5x/Week, 21.65 Visits/Mo, US Average)",
+      "headers": [
+        "Common-Area Component",
+        "Unit Rate Benchmark",
+        "Per-Visit Range",
+        "Monthly Total (21.65 Visits)"
+      ],
+      "rows": [
+        [
+          "Shared Lobby, Hallways & Lounge (2,500 sq ft, Mixed 1.05x)",
+          "$0.09–$0.15 / sq ft × 0.90x × 1.05x",
+          "$213–$354",
+          "$4,611–$7,664"
+        ],
+        [
+          "Shared Multi-Stall Restrooms (2 Restrooms)",
+          "$15–$30 / restroom",
+          "$30–$60",
+          "$650–$1,299"
+        ],
+        [
+          "Shared Kitchenette & Coffee Bar",
+          "$12–$25 / visit",
+          "$12–$25",
+          "$260–$541"
+        ],
+        [
+          "Shared Boardroom Interior Glass",
+          "$15–$35 / visit",
+          "$15–$35",
+          "$325–$758"
+        ],
+        [
+          "Paper, Soap & Trash Liners (2,500 sq ft base)",
+          "$0.012–$0.025 / sq ft / visit",
+          "$30–$63",
+          "$650–$1,364"
+        ],
+        [
+          "Total Shared Common-Area Package",
+          "Combined 5x/week scope",
+          "$300–$537",
+          "$6,496–$11,626"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Why Restrooms and Kitchens Skew Small Shared-Suite Splits",
+      "text": "On a 2,500 sq ft shared common area, floor vacuuming and mopping represent roughly 66% of the bill, while shared restrooms, kitchenette sanitation, interior glass, and consumables account for the remaining 34%. Splitting only by square footage ignores how a 10-person team uses far less coffee and paper towels than a 45-person sales tenant in an identically sized suite."
+    },
+    {
+      "type": "h2",
+      "text": "Three Fair Cost-Allocation Models Compared"
+    },
+    {
+      "type": "p",
+      "text": "Consider a **10,000 sq ft multi-tenant floor** composed of **2,500 sq ft of shared common area** (mid-range **$9,061/month** 5x/week cleaning + consumables) and **7,500 sq ft of leased private suites** split across three tenants: Tenant A (a 3,500 sq ft law firm with 14 onsite staff), Tenant B (a 2,500 sq ft software office with 22 onsite staff), and Tenant C (a 1,500 sq ft [high-density call center](/office-cleaning-cost-guides/high-density-call-center-cleaning-cost/) pod with 18 onsite staff). Notice how the three standard allocation formulas distribute that **$9,061/month** shared bill:"
+    },
+    {
+      "type": "table",
+      "caption": "Comparing Monthly Common-Area Cost Splits Across 3 Tenants ($9,061/Mo Shared Budget)",
+      "headers": [
+        "Tenant & Profile",
+        "Pro-Rata RSF Split (Sq Ft Share)",
+        "Headcount / Badge-Swipe Split (54 Staff)",
+        "Hybrid 70% RSF / 30% Headcount"
+      ],
+      "rows": [
+        [
+          "Tenant A: Law Firm (3,500 USF / 14 staff)",
+          "46.7% → $4,231 / mo",
+          "25.9% → $2,347 / mo",
+          "40.4% → $3,661 / mo"
+        ],
+        [
+          "Tenant B: Tech Suite (2,500 USF / 22 staff)",
+          "33.3% → $3,017 / mo",
+          "40.7% → $3,688 / mo",
+          "35.6% → $3,226 / mo"
+        ],
+        [
+          "Tenant C: Sales Pod (1,500 USF / 18 staff)",
+          "20.0% → $1,812 / mo",
+          "33.3% → $3,017 / mo",
+          "24.0% → $2,175 / mo"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "BOMA Load Factors vs. Headcount & Hybrid Agreements"
+    },
+    {
+      "type": "p",
+      "text": "In traditional multi-tenant leases, landlords bake common-area janitorial into **Rentable Square Footage (RSF)** via a 12% to 18% BOMA load factor on top of Usable Square Footage (USF). Pro-rata RSF is clean to administer because square footage never fluctuates, making it ideal for uniform professional firms."
+    },
+    {
+      "type": "p",
+      "text": "However, when one subtenant runs dense shifts or hosts frequent client meetings while another operates half-remote, a **70% RSF / 30% Headcount Hybrid** model captures reality cleanly: the fixed 70% covers corridor vacuuming, lobby glass, and baseline floor maintenance, while the 30% variable share scales consumables, trash volume, and breakroom sanitation according to active keycard swipes or assigned desks."
+    },
+    {
+      "type": "h2",
+      "text": "Hygiene Equipment for Multi-Tenant Shared Restrooms & Kitchens"
+    },
+    {
+      "type": "p",
+      "text": "Shared suites fail inspections fastest when one custodial cart spreads shared-restroom bacteria onto shared kitchenette counters or hardwood reception floors. Deploying color-coded containment tools alongside locked [commercial locking janitorial carts](/janitorial-carts-mops-and-tools/suncast-locking-cart-vs-rubbermaid-executive-cart/) eliminates tenant complaints and keeps shared storage closets orderly."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**High-Traffic Corridor Wet Mopping:** The **Rubbermaid Commercial WaveBrake 35-Quart Mop Bucket & Side-Press Wringer** (35 qt capacity, WaveBrake baffling, Side-Press wringer, 5-Yr Wringer rating) withstands nightly multi-tenant lobby scrubbing without splashing shared elevator thresholds.",
+        "**Strict Kitchen vs. Restroom Separation:** The **Rubbermaid Commercial HYGEN Charging Bucket** (20 pads capacity, Snap Lid seal, Color-Coded pad workflow, OSHA Ready) lets crews isolate red restroom microfiber pads from blue/green common-kitchen pads inside one compact closet.",
+        "**Quiet Daytime Spot Touch-Ups:** The **O-Cedar ProMist MAX Commercial Microfiber Spray Mop** (14.5-in pad, Double-Sided head, Machine Wash pads, Low Moisture delivery) handles mid-day coffee drips on engineered wood reception floors between tenant visits without wet-floor slip hazards."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Audit Double-Billing Between CAM Charges and Private Suite Bids",
+      "text": "Before signing a private janitorial contract for your leased suite, cross-check your landlord's CAM operating expense exhibit. Many tenants accidentally pay twice for common lobby restrooms and main corridors—once inside building CAM fees and again inside an unadjusted rentable-square-footage vendor quote."
+    },
+    {
+      "type": "h2",
+      "text": "Five Steps to Structure a Dispute-Proof Shared Cleaning Split"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Map Usable vs. Shared Common Square Footage",
+          "text": "Measure exact net cleanable areas for lobbies, hallways, shared conference rooms, and restrooms separately from private suite doors."
+        },
+        {
+          "name": "Solicit Two-Part Vendor Quotes",
+          "text": "Require janitorial bidders to issue Part A (Shared Common Areas) and Part B (Optional Private Suite Cleaning) on separate invoices so costs stay auditable."
+        },
+        {
+          "name": "Separate Consumables From Labor",
+          "text": "Track shared toilet tissue, roll towels, and soap ($0.012–$0.025/sq ft/visit) on a separate line item so high-headcount tenants absorb fair usage shares."
+        },
+        {
+          "name": "Lock In Quarterly Deep Floor Care",
+          "text": "Include amortized floor extraction or VCT buffing ($0.03–$0.06/sq ft/month) in the shared CAM budget rather than springing surprise semi-annual assessments."
+        },
+        {
+          "name": "Reconcile Headcount Twice Annually",
+          "text": "If using a hybrid 70/30 split, update active badge counts every January and July rather than arguing over weekly remote-work attendance."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Build separate budgets for your shared lobby and private tenant suites in the Office Cleaning Cost Calculator or compare competing multi-tenant bids."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Who must be named on the cleaner's COI for a shared multi-tenant floor?",
+      "a": "The janitorial contractor's Certificate of Insurance ($1,000,000/$2,000,000 Commercial General Liability, Workers' Compensation, and fidelity bond) must name the building owner, property manager, and—if a master tenant manages the sublease—the master tenant entity as Additional Insured."
+    },
+    {
+      "q": "How do OSHA HazCom rules work in a shared building janitorial closet?",
+      "a": "Under OSHA Hazard Communication (29 CFR 1910.1200), whichever party controls the shared janitorial closet must keep an up-to-date Safety Data Sheet (SDS) binder accessible for all stored chemicals and prohibit unlabeled spray bottles. Shared restroom bloodborne events still trigger OSHA 29 CFR 1910.1030 rules."
+    },
+    {
+      "q": "Why do multi-tenant lobbies often require Green Seal GS-37 fragrance-free cleaners?",
+      "a": "Because shared air-handling zones serve multiple companies with diverse sensitivities and corporate ESG mandates, property managers specify Green Seal GS-37 or EPA Safer Choice low-VOC, dye-free neutral cleaners to eliminate chemical odor complaints across suite boundaries."
+    },
+    {
+      "q": "What common-area expenses are usually excluded from base building CAM janitorial?",
+      "a": "Base-building CAM cleaning typically covers main lobbies, elevators, and multi-tenant restrooms, while excluding inside-suite kitchenettes, shared-tenant conference room dishware/coffee machines, and [emergency spill cleanups](/office-cleaning-cost-guides/emergency-spill-biohazard-office-cleaning-cost/) caused by a specific tenant event."
+    },
+    {
+      "q": "How should a master tenant convert 4.333-week cleaning bills into flat monthly CAM dues?",
+      "a": "Ensure the cleaning vendor calculates monthly retainers using 4.333 weeks per month (21.65 visits/month for 5x/week service) so your monthly CAM charge remains identical across 28-, 30-, and 31-day months without fifth-week true-up invoices."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-wavebrake-35-quart-mop-bucket-and-side-pre",
+    "rubbermaid-commercial-hygen-charging-bucket",
+    "o-cedar-promist-max-commercial-microfiber-spray-mop"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/high-density-call-center-cleaning-cost/",
+    "/office-cleaning-cost-guides/open-concept-office-vs-private-offices-cost/",
+    "/office-cleaning-cost-guides/executive-floor-white-glove-cleaning-rates/",
+    "/janitorial-carts-mops-and-tools/suncast-locking-cart-vs-rubbermaid-executive-cart/"
+  ]
+}

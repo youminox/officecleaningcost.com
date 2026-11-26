@@ -1,0 +1,73 @@
+{
+  "slug": "daycare-preschool-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/daycare-preschool-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "daycare preschool office rates",
+  "title": "Daycare Preschool Office Rates: How Much Admin Suite Janitorial Service Costs Per Sq Ft and Per Month",
+  "seoTitle": "Daycare Preschool Office Rates: Admin Suite Janitorial Cost Guide",
+  "metaDescription": "Daycare preschool office rates run $0.09–$0.20 per sq ft per visit, or about $2,600–$6,600/mo for admin suites. See the math and run our calculator.",
+  "excerpt": "The admin side of a daycare or preschool, with its parent lobby, director's office, staff lounge, and restrooms, sees more traffic and stricter hygiene expectations than a typical office. This guide benchmarks per-sq-ft and monthly costs and explains the frequency that fits a child care schedule.",
+  "quickAnswer": "Daycare and preschool admin suites under 2,500 sq ft typically pay $0.12–$0.20 per sq ft per visit, and suites of 2,500–9,999 sq ft pay $0.09–$0.15, plus $15–$30 per restroom per visit. Because child care centers operate five days a week, most admin areas are cleaned daily, which puts a 1,400 sq ft suite around $3,700–$6,300 per month and a 3,000 sq ft suite on a 3x weekly schedule around $3,900–$6,600 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior of a US preschool front office and parent check-in lobby after closing, a janitor with a corded backpack vacuum cleaning low-pile carpet beside a sign-in kiosk counter and small cubby bench, bright LVT corridor leading to classrooms in the background, soft warm evening light from a window, wide-angle shot from the entry doorway, no text, no words, no logos, no watermarks",
+    "alt": "Janitor vacuuming the parent check-in lobby of a preschool admin office after closing"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Counts as a Daycare and Preschool Admin Suite" },
+    { "type": "p", "text": "For pricing purposes, the admin suite is the non-classroom part of a child care center: the secured entry vestibule, parent check-in lobby, director and enrollment offices, staff lounge or kitchenette, a records or supply room, and the adult and family restrooms near the front. In most centers this is 1,000 to 3,500 sq ft, though multi-site operators and corporate child care headquarters run larger. Classrooms, nap rooms, diapering stations, and kitchens are usually scoped separately because they fall under state child care licensing sanitation rules and often require daytime staff work." },
+    { "type": "p", "text": "Even without the classrooms, an admin suite in a daycare is not a normal office. Every family passes through the lobby twice a day, often with strollers and wet boots. Parents touch the check-in kiosk, door hardware, and counters. Staff use the lounge in shifts from 6:30 a.m. to 6:30 p.m. Licensing inspectors and prospective families judge the center by the first 20 feet inside the door." },
+    { "type": "h2", "text": "National Benchmark Rates for Admin Suites" },
+    { "type": "table", "caption": "Per-visit benchmark rates by daycare and preschool admin suite size (national, USD)", "headers": ["Admin suite profile", "Typical sq ft", "Rate per sq ft per visit", "Base per visit (before restrooms)", "Typical restrooms"], "rows": [["Single-site home-style preschool office", "600–1,200", "$0.12–$0.20", "$90 minimum–$240", "1"], ["Standard daycare front office and lobby", "1,200–2,499", "$0.12–$0.20", "$144–$500", "1–2"], ["Large center admin wing with staff lounge", "2,500–5,000", "$0.09–$0.15", "$225–$750", "2–3"], ["Multi-site operator regional office", "5,000–9,999", "$0.09–$0.15", "$450–$1,500", "3–4"], ["Corporate child care HQ", "10,000–24,999", "$0.07–$0.12", "$700–$3,000", "4–8"]] },
+    { "type": "callout", "variant": "benchmark", "title": "Minimum visit charge", "text": "Small preschool offices often hit the vendor minimum of $90 to $135 per visit before square footage math matters. If your suite is under 800 sq ft, compare bids on per-visit price and included tasks rather than rate per sq ft." },
+    { "type": "h2", "text": "Worked Monthly Cost Examples" },
+    { "type": "p", "text": "Monthly cost is per-visit cost times visits per month, based on 4.33 weeks in an average month. Daily weekday service equals 21.65 visits and carries a 0.9 frequency multiplier; three times weekly equals 13 visits at 0.95; twice weekly equals 8.66 visits at the 1.0 baseline. Flooring adjusts the base: LVT or VCT is 1.04 and mixed carpet with hard floors is 1.05, both common in child care buildings." },
+    { "type": "table", "caption": "Admin suite cost scenarios using national benchmark multipliers", "headers": ["Scenario", "Inputs", "Per visit (incl. restrooms)", "Visits per month", "Monthly range"], "rows": [["Daily front office", "1,400 sq ft, LVT (x1.04), 1 restroom, 5x/week (x0.9)", "$172.25–$292.08", "21.65", "$3,729–$6,324"], ["Admin wing with staff lounge", "3,000 sq ft, mixed floors (x1.05), 2 restrooms, 3x/week (x0.95)", "$299.33–$508.88", "13", "$3,891–$6,615"], ["Budget twice-weekly schedule", "2,200 sq ft, VCT (x1.04), 2 restrooms, 2x/week (x1.0)", "$304.56–$517.60", "8.66", "$2,637–$4,482"]] },
+    { "type": "p", "text": "The daily 1,400 sq ft front office costs nearly as much as the 3,000 sq ft wing because it is in the under-2,500 sq ft bracket and cleaned 21.65 times a month. Many operators reduce cost by splitting the scope: daily service for the lobby, entry, and restrooms, and two or three visits a week for private offices and storage, where traffic is light." },
+    { "type": "h2", "text": "Restroom Density, Traffic Wear, and Add-Ons" },
+    { "type": "p", "text": "Front-of-house restrooms in a daycare serve parents, siblings, staff, and tour visitors. At $15 to $30 per restroom per visit, one restroom cleaned daily adds $325 to $650 per month and two restrooms add $650 to $1,299. Expect the upper end if the restroom includes a changing table, because diaper-area surfaces need disinfection with full dwell time." },
+    { "type": "ul", "items": [
+      "Staff lounge and kitchenette: $12–$25 per visit, or about $260–$541 per month on a daily schedule.",
+      "Consumables included (tissue, towels, soap, liners): $0.012–$0.025 per sq ft per visit, roughly $364–$758 per month for a 1,400 sq ft suite cleaned daily.",
+      "Interior glass on secured entry vestibules and office sidelights: $15–$35 per visit, often weekly.",
+      "Quarterly deep floor care amortized at $0.03–$0.06 per sq ft per month: $42–$84 per month at 1,400 sq ft or $90–$180 at 3,000 sq ft.",
+      "Seasonal entry mat and lobby carpet extraction during winter months when slush and salt are tracked in."
+    ] },
+    { "type": "p", "text": "Traffic wear concentrates at the vestibule, check-in counter, and the corridor toward classrooms. Strollers and small shoes carry sand from playgrounds as well as street grit. A backpack vacuum with sealed filtration helps here because fine dust stays out of the air in a building where children nap. The Sanitaire SC412A uses a 10 qt bag with sealed HEPA filtration at 11.5 lb and 68 dBA, and the Oreck Commercial Pro6A carries a 6 qt micro-filter bag at 10.5 lb and 67 dBA, light enough for a single cleaner to cover a lobby, offices, and a second-floor admin space quickly." },
+    { "type": "h2", "text": "Recommended Frequency for a Child Care Schedule" },
+    { "type": "steps", "items": [
+      { "name": "Clean high-traffic front areas daily", "text": "Lobby, entry vestibule, check-in counter, and public restrooms should be serviced each weekday evening so the center opens clean at 6:30 a.m." },
+      { "name": "Step private offices down to 2x or 3x weekly", "text": "Director and enrollment offices with one or two users rarely need daily vacuuming; trash can be handled by staff between visits." },
+      { "name": "Keep disinfection on the daily list", "text": "Door push plates, kiosk surfaces, counters, and restroom fixtures get disinfected every visit, with a fast-dwell product so the crew does not need extra time." },
+      { "name": "Schedule floor care around closures", "text": "Plan carpet extraction and VCT recoats on holiday closures or long weekends so floors can dry and odors dissipate before children return." },
+      { "name": "Review frequency each enrollment cycle", "text": "Tours and enrollment events in late winter and summer raise lobby traffic; add a mid-day touch-up during those weeks rather than permanently increasing frequency." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Choose disinfectants that suit a child care building", "text": "CloroxPro hydrogen peroxide cleaner disinfectant concentrate comes in a 128 oz gallon, has a 30-second to 1-minute contact time, and does not produce harsh fumes, which keeps admin-area disinfection fast and lowers odor complaints the next morning from staff and parents." },
+    { "type": "h2", "text": "How to Read a Daycare Admin Cleaning Bid" },
+    { "type": "p", "text": "A complete bid states square footage, flooring, visits per month at 4.33 weeks, restroom count, add-ons, chemical list, and per-visit minimum. If labor hours are shown, standard janitorial labor typically runs $35 to $65 per hour, with disinfection-focused or overnight crews at $55 to $95. A 1,400 sq ft admin suite should take about 40 to 55 minutes per visit including one restroom; quotes based on two hours a night deserve a closer look." },
+    { "type": "cta", "text": "Enter your admin suite square footage, restroom count, and daily or split frequency into the Office Cleaning Cost Calculator, then compare vendor proposals side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Does the cleaning vendor need background checks to work in a daycare admin suite?", "a": "Most state child care licensing agencies require background checks for anyone with unsupervised access while children are present, and many operators extend that to after-hours vendors as policy. Even if crews only work after closing, require background-checked, consistent staff and confirm it in writing alongside the COI." },
+    { "q": "How do I calculate the monthly cost of daily cleaning?", "a": "Multiply the per-visit price by 5 weekdays and then by 4.33 weeks, which equals 21.65 visits per month. A $200 per-visit price on a daily schedule is about $4,330 per month. Make sure the contract uses this averaged month so invoices do not swing between 20 and 23 visits." },
+    { "q": "What OSHA requirements apply to cleaning daycare restrooms and offices?", "a": "Vendors must follow OSHA Hazard Communication, which means trained workers and accessible Safety Data Sheets for every product. Changing tables and bodily fluid cleanup can fall under the bloodborne pathogens standard, so crews need gloves, training, and a clear procedure for blood or vomit." },
+    { "q": "What is usually excluded from an admin suite cleaning contract?", "a": "Classrooms, nap rooms, diapering stations, toy sanitizing, food service kitchens, carpet extraction, floor stripping and recoating, and exterior windows are typically excluded or priced separately. Write the admin scope room by room so classroom-level sanitation duties stay with licensed staff or a separate scope." },
+    { "q": "Is green cleaning required in a daycare office?", "a": "Requirements vary by state, but many child care programs and accreditation bodies favor fragrance-free, low-VOC products certified by Green Seal or EPA Safer Choice for general cleaning. Disinfectants must still be EPA registered and used per label, so ask the vendor for both a green general cleaner and a low-odor disinfectant." }
+  ],
+  "amazonProductIds": [
+    "sanitaire-sc412a-commercial-backpack-vacuum",
+    "oreck-commercial-pro6a-backpack-vacuum",
+    "cloroxpro-hydrogen-peroxide-cleaner-disinfectant-concentrate"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/daycare-preschool-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/daycare-preschool-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/fitness-gym-office-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-budget-commercial-soap-and-towel-dispensers/"
+  ]
+}

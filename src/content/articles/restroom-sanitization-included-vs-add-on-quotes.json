@@ -1,0 +1,84 @@
+{
+  "slug": "restroom-sanitization-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/restroom-sanitization-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge restroom sanitization",
+  "title": "Extra Charge Restroom Sanitization: What Belongs in the Base Contract vs. a Separate Work Order",
+  "seoTitle": "Extra Charge Restroom Sanitization: Included vs Add-On Quote Audit",
+  "metaDescription": "Extra charge restroom sanitization audit: routine service runs $15–$30 per restroom, descaling $16–$28 per fixture extra. Compare bids in our comparator.",
+  "excerpt": "Some janitorial vendors fold restroom descaling into the monthly retainer while others bill it as a separate work order, which makes bids hard to compare. This audit guide shows which restroom tasks are normally included, which are legitimate add-ons, and how to normalize quotes to the same annual cost.",
+  "quickAnswer": "Routine restroom sanitization, including fixture disinfection, dispenser restocking, trash removal, and mopping, belongs in the base contract at roughly $15–$30 per restroom per visit. Descaling, grout scrubbing, grout sealing, and feminine hygiene unit servicing are commonly billed extra at $16–$28 per fixture, $0.35–$0.75 per sq ft, and per-unit monthly fees. Convert every add-on to a monthly amortized figure before comparing bids.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead desk scene in a US office procurement room, two printed janitorial contract proposals with highlighted line items, a calculator and reading glasses, through a glass partition a janitor rolls a gray vented 44-gallon trash barrel past a restroom corridor, balanced daylight from tall windows, 45-degree overhead camera angle, no text, no words, no logos, no watermarks",
+    "alt": "Two janitorial proposals under review with a janitor and trash barrel visible near the restroom corridor"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Restroom Line Items Cause the Most Bid Confusion" },
+    { "type": "p", "text": "Restrooms generate more change orders and invoice disputes than any other area of a commercial cleaning contract. The reason is structural: vendors agree that daily restroom cleaning is part of the base scope, but they disagree on where routine cleaning ends and periodic restoration begins. One bidder may promise that restrooms will be fully sanitized nightly and quietly exclude descaling. Another may include quarterly descaling in a higher monthly retainer. Without a line-by-line audit, the lower bid often ends up costing more after the first two extra-charge invoices." },
+    { "type": "h2", "text": "Included vs. Add-On: The Industry Default" },
+    { "type": "p", "text": "The table below reflects how most US commercial janitorial contracts treat restroom tasks. Use it as a starting checklist, then confirm each line with every bidder." },
+    { "type": "table", "caption": "Typical treatment of restroom tasks in US janitorial contracts", "headers": ["Restroom task", "Usually included in base?", "Typical add-on pricing", "Audit note"], "rows": [
+      ["Disinfect toilets, urinals, sinks, touch points", "Yes", "Within $15–$30 per restroom per visit", "Confirm EPA-registered product and dwell time"],
+      ["Restock paper and soap (labor)", "Yes", "Included", "Consumables themselves may be separate"],
+      ["Supply paper, soap, and liners", "Sometimes", "$0.012–$0.025 per sq ft per visit", "Check brand and dispenser compatibility"],
+      ["Empty trash and replace liners", "Yes", "Included", "Liner size must match receptacles"],
+      ["Damp mop floors with disinfectant", "Yes", "Included", "Verify floor drains are flushed"],
+      ["Fixture descaling", "Rarely", "$16–$28 per fixture per event", "Specify frequency and fixture count"],
+      ["Tile and grout deep scrub", "Rarely", "$0.35–$0.75 per sq ft", "Often paired with quarterly floor care"],
+      ["Grout sealing", "No", "$0.25–$0.50 per sq ft", "Requires cure time before reopening"],
+      ["Feminine hygiene unit service", "Sometimes", "Per-unit monthly fee", "Often subcontracted to a sanitary service"],
+      ["Biohazard or bodily fluid cleanup", "No", "$55–$95 per hour, minimum applies", "Requires bloodborne pathogen training"]
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch the phrase 'as needed'", "text": "Scopes that list descaling or grout scrubbing 'as needed' without frequency give the vendor full discretion. In practice, the work rarely happens until you request it, and then it arrives as an extra-charge work order." },
+    { "type": "h2", "text": "Normalizing Two Bids: A Worked Example" },
+    { "type": "p", "text": "Consider a 12,000 sq ft office with three restrooms, 16 fixtures, and 480 sq ft of restroom tile, cleaned five nights per week. Vendor A quotes $2,240 per month with quarterly descaling and grout scrubbing included. Vendor B quotes $2,030 per month for routine service and lists descaling at $20 per fixture and grout scrubbing at $0.50 per sq ft per quarterly event." },
+    { "type": "table", "caption": "Converting an add-on bid to an apples-to-apples monthly cost", "headers": ["Line item", "Vendor A", "Vendor B"], "rows": [
+      ["Base monthly retainer", "$2,240", "$2,030"],
+      ["Quarterly descaling (16 × $20)", "Included", "$320 per event"],
+      ["Quarterly grout scrub (480 × $0.50)", "Included", "$240 per event"],
+      ["Periodic work amortized (event × 4 ÷ 12)", "$0", "$187"],
+      ["Normalized monthly cost", "$2,240", "$2,217"],
+      ["Normalized annual cost", "$26,880", "$26,604"]
+    ] },
+    { "type": "p", "text": "After normalization, the two bids are within about 1 percent. The decision should then turn on scope clarity and verification. Vendor B's itemized approach makes completion easier to audit, while Vendor A's bundled approach protects you from price creep only if the contract names the descaling months and fixture count." },
+    { "type": "h2", "text": "Receptacles and Liners: The Hidden Restroom Add-On" },
+    { "type": "p", "text": "Trash handling is included in nearly every base scope, but receptacle choice changes the labor. Vented containers reduce the vacuum seal that makes full liners hard to pull, which shortens each stop. The Rubbermaid Commercial Brute 44-Gallon Vented container uses venting channels and LLDPE resin construction and is NSF listed, making it a sensible choice for restroom corridors and janitor closets. In narrow restroom vestibules or copy rooms, the Rubbermaid Commercial Slim Jim 23-Gallon station fits an 11-in wide footprint with bag cinches that keep liners from slipping. For Class A elevator lobbies outside restroom cores, the Safco Public Square 37-Gallon steel receptacle offers fire-safe powder-coated steel with a liner retainer. When the vendor supplies liners, make sure the contract specifies sizes for each receptacle so you are not billed for oversized bags." },
+    { "type": "h2", "text": "Contract Audit Checklist" },
+    { "type": "steps", "items": [
+      { "name": "List every restroom task", "text": "Separate daily, weekly, and periodic tasks in an appendix with exact frequencies." },
+      { "name": "Assign each to base or add-on", "text": "Require bidders to mark each line as included or priced separately, with unit rates." },
+      { "name": "Fix unit rates for the term", "text": "Lock per-fixture and per-sq-ft add-on rates for at least 12 months to prevent mid-contract increases." },
+      { "name": "Require work-order sign-off", "text": "Periodic work should generate a completion ticket signed by your facilities contact." },
+      { "name": "Verify insurance and compliance", "text": "Collect a certificate of insurance, OSHA HazCom training records, and bloodborne pathogen exposure plans before award." }
+    ] },
+    { "type": "ul", "items": [
+      "Ask whether consumables are billed at cost plus a markup or at a fixed per-sq-ft rate.",
+      "Confirm who supplies sanitary napkin receptacle liners and how often units are swapped.",
+      "Clarify whether emergency restroom callouts carry a separate minimum, typically $90–$135 per visit."
+    ] },
+    { "type": "cta", "text": "Load every bid into the Quote Comparator with descaling and grout work amortized monthly, or start with the Office Cleaning Cost Calculator to set a fair baseline for your restroom count." }
+  ],
+  "faqs": [
+    { "q": "Is restroom descaling ever included in a standard cleaning contract?", "a": "Some full-service vendors include quarterly descaling in the monthly retainer, especially in larger buildings. Most standard contracts exclude it and bill $16–$28 per fixture per event. Always confirm the frequency and fixture count in writing." },
+    { "q": "Why would a vendor charge extra for restroom work I thought was routine?", "a": "Usually because the scope was vague. Phrases like 'clean restrooms nightly' do not specify descaling, grout scrubbing, or sanitary unit servicing. A detailed task appendix eliminates most extra-charge disputes." },
+    { "q": "How should I compare a bundled bid to an itemized one?", "a": "Amortize periodic add-ons into a monthly figure by multiplying the per-event cost by events per year and dividing by 12. Then add it to the itemized base retainer and compare the totals on a 12-month basis." },
+    { "q": "Are biohazard cleanups covered under the base contract?", "a": "Rarely. Bodily fluid cleanup falls under OSHA bloodborne pathogen rules and is typically billed hourly at specialty rates of $55–$95 with a minimum charge. Make sure the vendor's crew has documented training and that the event is logged." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-44-gallon-vented-trash-can",
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-restroom-sanitization-quotes/",
+    "/cleaning-services-and-tasks/carpet-hot-water-extraction-cost-guide/",
+    "/cleaning-services-and-tasks/carpet-hot-water-extraction-for-small-vs-large-offices/",
+    "/commercial-cleaning-chemicals-and-mats/best-high-capacity-hepa-purifier-for-open-floorplans/"
+  ]
+}

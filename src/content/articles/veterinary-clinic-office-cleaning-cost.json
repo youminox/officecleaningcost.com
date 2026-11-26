@@ -1,0 +1,78 @@
+{
+  "slug": "veterinary-clinic-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/veterinary-clinic-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "veterinary clinic office rates",
+  "title": "Veterinary Clinic Office Rates: Typical Per-Visit and Weekly Cleaning Quotes for Clinics and Admin Suites",
+  "seoTitle": "Veterinary Clinic Office Rates: Per-Visit & Weekly Cleaning Quotes",
+  "metaDescription": "Veterinary clinic office rates run $0.09-$0.15/sq ft per visit for 2,500-9,999 sq ft, often $8K-$14K/mo at 5x weekly. Run your numbers in our calculator.",
+  "excerpt": "Veterinary clinics pay more per square foot than a typical office because of pet hair, odor, frequent restroom and exam-room turns, and near-daily service frequency. This guide shows the per-visit and monthly math a practice manager can use to check a janitorial bid before signing.",
+  "quickAnswer": "Most veterinary clinic and admin suites between 2,500 and 9,999 sq ft are quoted at $0.09 to $0.15 per sq ft per visit before frequency and flooring adjustments, plus $15 to $30 per restroom per visit. A 4,000 sq ft clinic on VCT with three restrooms cleaned five nights a week typically lands between about $8,270 and $14,110 per month, while practices with boarding wards that need seven-day service move closer to $11,200 to $19,200.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic after-hours scene inside a suburban US veterinary clinic lobby with sealed vinyl floors, stainless exam room door ajar, a janitorial technician wearing a backpack HEPA vacuum removing pet hair along a bench base, cool overhead LED lighting mixed with warm reception lamp glow, wide-angle shot from waist height, no text, no logos, no watermarks",
+    "alt": "Janitorial technician vacuuming pet hair in a veterinary clinic lobby after closing"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why veterinary clinic office rates sit above standard office pricing" },
+    { "type": "p", "text": "A veterinary practice looks like a medical office on the floor plan, but it cleans like a combination of a medical office, a kennel, and a busy retail lobby. Every visit has to deal with shed hair that migrates into HVAC returns and under casework, urine and anal-gland odor in exam rooms, paw-tracked grit at the front door, and a restroom-to-headcount ratio that is higher than a corporate suite because clients, staff, and kennel attendants all share facilities. Vendors price that reality into the base rate, the frequency, and the labor minutes they assign to each room." },
+    { "type": "p", "text": "The national benchmark for a building in the 2,500 to 9,999 sq ft bracket is $0.09 to $0.15 per sq ft per visit, and clinics under 2,500 sq ft see $0.12 to $0.20 because fixed travel and setup time is spread over fewer feet. What separates a vet clinic from a law office of the same size is not the per-foot rate as much as the visit count: most general practices need five nights per week, and any practice with overnight boarding or a 24-hour emergency wing needs seven." },
+    { "type": "h2", "text": "Benchmark monthly quotes by clinic size and service level" },
+    { "type": "p", "text": "The table below uses the same formula as our calculator: square footage times the bracket rate, times the flooring multiplier, times the frequency multiplier, plus restrooms at $15 to $30 each per visit, then multiplied by visits per month. Visits per month assume 4.33 weeks, so five nights per week equals 21.65 visits and seven nights equals 30.33 visits." },
+    { "type": "table", "caption": "Estimated veterinary clinic cleaning cost, national average (before add-ons and deep floor care)", "headers": ["Clinic profile", "Flooring / frequency", "Restrooms", "Per visit", "Monthly range"], "rows": [
+      ["2,000 sq ft single-doctor clinic", "VCT, 5x/week (x0.936)", "2", "$255 - $434", "$5,513 - $9,405"],
+      ["4,000 sq ft two-to-three doctor practice", "VCT, 3x/week (x0.988)", "3", "$401 - $683", "$5,209 - $8,876"],
+      ["4,000 sq ft two-to-three doctor practice", "VCT, 5x/week (x0.936)", "3", "$382 - $652", "$8,269 - $14,107"],
+      ["4,000 sq ft practice with boarding ward", "VCT, 7x/week (x0.905)", "3", "$371 - $633", "$11,244 - $19,195"],
+      ["7,500 sq ft specialty or emergency hospital", "Tile and grout, 5x/week (x1.008)", "5", "$755 - $1,284", "$16,354 - $27,799"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Per-square-foot reality check", "text": "Divide the monthly figure by square footage to compare bids. A 4,000 sq ft clinic at five nights per week works out to roughly $2.07 to $3.53 per sq ft per month. Bids far below $2.00 usually mean the vendor dropped restrooms, exam-room disinfection, or kennel-adjacent corridors from scope; bids far above $3.50 usually include consumables or a quarterly floor program bundled into the base." },
+    { "type": "h2", "text": "Restroom density, exam rooms, and traffic wear" },
+    { "type": "p", "text": "Restrooms are priced separately because they consume a fixed block of labor regardless of building size. A typical vet clinic has one client restroom, one or two staff restrooms, and often a utility sink or shower in the kennel area that the vendor may be asked to wipe down. At $15 to $30 per restroom per visit, three restrooms on a five-night schedule add $974 to $1,949 per month on their own, which is why it pays to confirm exactly which fixtures are in scope." },
+    { "type": "p", "text": "Exam rooms are the second labor driver. Each room has a stainless or laminate table, a scale platform, a sink, a sharps container the vendor should not touch, and a floor that collects hair in every corner. Clinic staff usually disinfect the exam table between patients during the day; the nightly janitorial pass covers floors, baseboards, door hardware, cabinet fronts, waste removal, and a full wet disinfection of the floor. Plan on six to ten minutes per exam room per visit for a competent technician." },
+    { "type": "p", "text": "Traffic wear is concentrated in the lobby and the main corridor between reception and treatment. Claws scratch soft floor finish, wet leashes and paws track in water, and dropped treats get ground into the floor. VCT and sheet vinyl remain the most common clinic flooring, with a 1.04 multiplier; ceramic tile with grout lines carries a 1.12 multiplier because grout absorbs urine and needs scrubbing to control odor." },
+    { "type": "h2", "text": "Recommended weekly frequency for veterinary practices" },
+    { "type": "ul", "items": [
+      "Three nights per week: only for low-volume practices with one doctor, no boarding, and staff willing to handle daily trash and spot mopping themselves. Odor complaints are common at this level.",
+      "Five nights per week: the default for general small-animal practices open Monday through Friday. It keeps exam rooms, lobby, and restrooms reset for every morning opening.",
+      "Six or seven nights per week: required for practices with Saturday hours, boarding, grooming, or overnight hospitalization, since soiled kennel corridors and lobbies cannot sit for a weekend.",
+      "Day porter add-on: busy emergency hospitals often add a two-to-four-hour mid-day porter for lobby accidents and restroom checks, priced at the specialty hourly band of $55 to $95."
+    ] },
+    { "type": "h2", "text": "Add-ons that change the final number" },
+    { "type": "p", "text": "Base quotes rarely include everything a clinic needs. Breakroom sanitation runs $12 to $25 per visit and is nearly universal because vet staff eat on site during long shifts. Interior glass at $15 to $35 per visit matters if your lobby has glass entry doors that collect nose prints at dog height. Vendor-supplied paper and soap consumables add $0.012 to $0.025 per sq ft per visit, or roughly $1,039 to $2,165 per month for a 4,000 sq ft clinic at five nights. A quarterly deep floor program, amortized at $0.03 to $0.06 per sq ft per month, adds $120 to $240 monthly for that same clinic and is the single best investment against embedded odor." },
+    { "type": "p", "text": "Equipment matters for pricing too. Vendors that run a HEPA backpack vacuum, such as a cordless Milwaukee M18 FUEL 3-in-1 with a 1 gal capacity or a Karcher BV 5/1 with fleece plus HEPA filtration and a quiet 62 dBA motor, move faster through hair-heavy exam rooms and avoid blowing dander back into the air. For touch points, an EPA-registered aerosol like Lysol Professional Disinfectant Spray handles door levers, phones, and reception counters, though kennel and exam floors call for a disinfectant whose label lists veterinary pathogens." },
+    { "type": "h2", "text": "How to compare veterinary cleaning bids line by line" },
+    { "type": "steps", "items": [
+      { "name": "Normalize the frequency", "text": "Convert every bid to monthly cost using 4.33 weeks per month. A $420 per-visit quote at five nights is $9,093 per month, not $8,400." },
+      { "name": "Count restrooms and wet areas", "text": "List each restroom, kennel sink, and grooming tub separately and confirm which ones each vendor priced." },
+      { "name": "Check exclusions", "text": "Surgery suites, sharps, medical waste, the controlled-drug safe, and animal cages are normally excluded. Make sure the exclusion list matches what your staff actually handles." },
+      { "name": "Verify chemicals and training", "text": "Ask for the disinfectant name, EPA registration number, and dwell time, and confirm HazCom training and SDS access for every technician." },
+      { "name": "Request a COI", "text": "Require general liability, workers compensation, and janitorial bond or crime coverage naming the practice as certificate holder before keys are issued." }
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Watch the minimum-per-visit trap", "text": "Small satellite clinics under 1,000 sq ft often hit the vendor minimum of $90 to $135 per visit. At five nights that is $1,949 to $2,923 per month no matter how small the space, so a three-night schedule plus staff-handled trash can be more cost-effective." },
+    { "type": "cta", "text": "Enter your clinic square footage, restroom count, flooring type, and night count into the Office Cleaning Cost Calculator to get a per-visit and monthly range, then load your vendor bids into the Quote Comparator to see which one is out of line." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean a 3,000 sq ft veterinary clinic?", "a": "At $0.09 to $0.15 per sq ft per visit on VCT with five nights per week and two restrooms, the per-visit cost is about $283 to $481, which equals roughly $6,130 to $10,410 per month using 21.65 visits. Adding consumables or a quarterly floor program raises that further, while dropping to three nights lowers it to about $4,150 to $7,060." },
+    { "q": "Why do veterinary clinics need more frequent cleaning than a regular office?", "a": "Hair, dander, urine, and tracked-in moisture accumulate every day, and clients judge a practice by smell the moment they walk in. Leaving exam rooms and lobbies uncleaned overnight lets odor bind into floor finish and grout. Most practices find five nights is the minimum that keeps complaints and staff cleanup time under control." },
+    { "q": "What insurance should a vet clinic require from a janitorial vendor?", "a": "Ask for a certificate of insurance showing commercial general liability, typically $1 million per occurrence, workers compensation at statutory limits, auto liability if vehicles are on site, and a janitorial bond or third-party crime coverage. Name the practice and the landlord as additional insured, and keep the COI on file before issuing keys or alarm codes." },
+    { "q": "Are surgery suites usually included in a janitorial contract?", "a": "Usually not. Sterile surgical areas, instrument processing, sharps containers, and regulated medical waste stay with trained clinic staff. Some vendors offer terminal floor cleaning of the surgery suite after staff have cleared it, but that should be a written, separately priced line item with its own chemical and PPE requirements." },
+    { "q": "Does weeks-per-month math really change my vet cleaning bill?", "a": "Yes. Using 4 weeks instead of 4.333 understates the visit count by about 8 percent. On a $400 per-visit, five-night contract, that is the difference between $8,000 and about $8,666 per month, or nearly $8,000 per year, so always confirm the multiplier a vendor used." }
+  ],
+  "amazonProductIds": [
+    "milwaukee-m18-fuel-3-in-1-backpack-vacuum",
+    "karcher-bv-5-1-commercial-backpack-vacuum",
+    "lysol-professional-disinfectant-spray-19-oz-case-12-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/veterinary-clinic-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/veterinary-clinic-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/physical-therapy-clinic-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-non-proprietary-commercial-paper-towel-dispensers/"
+  ]
+}

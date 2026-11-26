@@ -1,0 +1,80 @@
+{
+  "slug": "how-often-to-schedule-marble-terrazzo-honing-and-polishing",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-marble-terrazzo-honing-and-polishing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar marble terrazzo honing and polishing",
+  "title": "Recommended Frequency for Lobby Marble & Terrazzo Honing and Sealing & Annual Spend",
+  "seoTitle": "Quarterly vs Annual Marble & Terrazzo Honing Calendar and Spend",
+  "metaDescription": "Quarterly, annual, or monthly marble terrazzo honing calendar by foot traffic, with annual spend from $0.60 to $4.80/sq ft. Model your schedule in our calculator.",
+  "excerpt": "How often a lobby needs stone honing depends on daily foot traffic, entrance grit, and how well the nightly crew controls soil. This guide maps low, medium, and heavy traffic to a monthly, quarterly, or annual calendar and shows the annualized dollar impact.",
+  "quickAnswer": "Low-traffic lobbies (under 500 people per day) typically need a polish and seal once a year plus a full hone every 3-5 years, about $0.60-$1.40 per sq ft per year. Medium-traffic lobbies (500-2,000 per day) do best with quarterly polishing and an annual hone at $1.80-$3.20 per sq ft per year, while heavy-traffic transit-connected towers often run monthly maintenance polishing and spend $3.00-$4.80 per sq ft annually.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-morning view of a busy US downtown office tower lobby with polished terrazzo flooring, visible dull walk lanes leading from revolving doors to turnstiles, a facilities manager holding a tablet reviewing a maintenance calendar beside a steel trash receptacle, soft daylight through tall glass curtain wall, elevated three-quarter camera angle, no text, no logos, no watermarks",
+    "alt": "Facilities manager reviewing a maintenance schedule in a terrazzo lobby showing worn walk lanes"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Traffic Count Is the Real Scheduling Input" },
+    { "type": "p", "text": "Stone does not wear on a calendar; it wears on footsteps carrying grit. A marble lobby that sees 300 badge swipes a day can hold its polish for a year, while the same stone at a transit-connected tower with 4,000 daily entries can show dull walk lanes in five or six weeks. Before you pick a frequency, pull 30 days of access-control data or a door-counter report and divide by business days. That number, combined with how much walk-off matting you have, determines your calendar far better than a vendor's default proposal." },
+    { "type": "p", "text": "Three maintenance tiers exist in practice. A maintenance polish uses polishing powder or fine 1500-3000 grit pads to restore clarity without cutting. A hone uses coarser diamonds (200-800 grit) to remove scratches and etch. A seal-only visit replenishes the penetrating impregnator that resists coffee, soda, and de-icer salts. A good calendar mixes all three." },
+    { "type": "h2", "text": "Frequency Matrix by Foot Traffic" },
+    { "type": "table", "caption": "Recommended stone maintenance calendar by daily lobby traffic", "headers": ["Traffic level", "Daily entries", "Maintenance polish", "Seal refresh", "Full hone"], "rows": [
+      ["Low", "Under 500", "Annually", "Every 12-18 months", "Every 3-5 years"],
+      ["Medium", "500-2,000", "Quarterly", "Annually", "Every 12-24 months"],
+      ["Heavy", "2,000-5,000", "Monthly in walk lanes, quarterly field", "Every 6 months", "Annually"],
+      ["Extreme", "5,000+ or transit-connected", "Twice monthly in lanes", "Quarterly", "Annually plus spot honing"]
+    ] },
+    { "type": "p", "text": "Climate adjusts these intervals. Buildings in snow-belt markets that track in rock salt and liquid magnesium chloride should add a spring seal refresh and treat December through March as heavy-traffic months even if counts are medium. Sun Belt buildings with sandy parking lots see more scratching and benefit from deeper entrance matting more than additional polish visits." },
+    { "type": "h2", "text": "Annualized Spend by Schedule" },
+    { "type": "p", "text": "To compare schedules, convert each visit type to an annual per-square-foot cost. The examples below use national unit rates of $0.55-$1.10 per sq ft for a maintenance polish on large areas, $0.45-$1.25 for seal-only work, and $2.75-$4.50 for a full hone, polish, and seal on marble." },
+    { "type": "table", "caption": "Annualized stone care spend for a 3,000 sq ft marble lobby", "headers": ["Schedule", "Visits per year", "Annual cost range", "Per sq ft per year", "Monthly budget accrual"], "rows": [
+      ["Low: annual polish, hone every 4 years", "1 polish + 0.25 hone", "$1,800-$4,170", "$0.60-$1.39", "$150-$348"],
+      ["Medium: quarterly polish, annual hone and seal", "3 polish + 1 hone", "$5,400-$9,600", "$1.80-$3.20", "$450-$800"],
+      ["Heavy: monthly lane polish, semiannual seal, annual hone", "12 lane polish + 2 seal + 1 hone", "$9,000-$14,400", "$3.00-$4.80", "$750-$1,200"]
+    ] },
+    { "type": "p", "text": "Monthly accruals are simply the annual figure divided by 12. If you prefer to fold the program into your janitorial invoice, use 4.333 weeks per month when converting weekly or biweekly polish visits: a lobby polished every other week sees 26 visits per year, or about 2.17 per month, matching standard biweekly frequency math in our pricing model." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: matting pays for itself", "text": "Industry soil studies consistently show most tracked-in grit is captured in the first 12-15 feet of walk-off matting. Extending an entrance mat run from 6 to 15 feet in a medium-traffic lobby often lets you drop from quarterly to semiannual polishing, saving $1,500-$3,000 a year on a 3,000 sq ft floor." },
+    { "type": "h2", "text": "Daily and Weekly Habits That Lengthen Intervals" },
+    { "type": "ul", "items": [
+      "Dust mop the stone field at least nightly and again midday in heavy-traffic lobbies; grit under shoe soles acts like sandpaper.",
+      "Use neutral pH cleaners only. Acidic or citrus products etch calcite marble and cement terrazzo matrix.",
+      "Place lobby receptacles on felt pads or in a matting zone. Steel units such as the Safco Public Square 37-gallon receptacle are heavy enough to scratch stone if dragged during liner changes.",
+      "Keep spill response kits in the janitorial closet so coffee and soda are lifted within minutes, not hours.",
+      "Store chemicals in a locked cart like the Suncast Commercial housekeeping cart so acidic restroom products never travel open across the lobby during the day.",
+      "Position slim waste and recycling stations such as the Rubbermaid Slim Jim 23-gallon unit near elevator banks to reduce food and drink spills on the stone field."
+    ] },
+    { "type": "h2", "text": "Building Your 12-Month Stone Calendar" },
+    { "type": "steps", "items": [
+      { "name": "Count traffic", "text": "Pull 30 days of door or badge data and calculate average daily entries per lobby entrance." },
+      { "name": "Assign a tier", "text": "Match the count to low, medium, heavy, or extreme and adjust up one tier for winter salt exposure." },
+      { "name": "Schedule the hone first", "text": "Book the full hone during a quiet period, often late summer or the week after a holiday, then schedule polishes from that date." },
+      { "name": "Measure gloss", "text": "Ask the vendor to record gloss-meter readings at fixed points after each visit so you can stretch or tighten intervals using data." },
+      { "name": "Review annually", "text": "Compare gloss decay and complaint logs against spend and adjust the calendar at contract renewal." }
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "After-hours work and slip safety", "text": "Polishing compounds and fresh sealer can lower slip resistance temporarily. Require wet-floor signage, barricades on ADA routes, and cure times written into the work order so security does not reopen the lobby early. Keep sealer SDS on file under OSHA HazCom." },
+    { "type": "cta", "text": "Model your schedule before you sign: enter your square footage and frequency in the Office Cleaning Cost Calculator to see the monthly impact, and use the Quote Comparator to test quarterly versus annual stone programs from competing vendors." }
+  ],
+  "faqs": [
+    { "q": "Is quarterly polishing worth it for a medium-traffic lobby?", "a": "Usually yes. Quarterly maintenance polishing at $0.55-$1.10 per sq ft keeps the floor from degrading to the point where a full hone at $2.75-$4.50 is required. Skipping polishes often means paying for a full hone every year instead of every 18-24 months, which costs more in total." },
+    { "q": "Can maintenance polishing be added to the nightly janitorial contract?", "a": "It can, if the janitorial vendor has trained staff and stone-specific pads. Many contracts list it as a periodic add-on billed per visit. Confirm the vendor carries a certificate of insurance covering floor-care damage and that the scope names the pad system and neutral chemistry approved by your stone restorer." },
+    { "q": "How should frequency be written into a contract?", "a": "State the visit type, the frequency, and the conversion method. For example, biweekly polishing equals 26 visits per year, or about 2.17 per month based on 4.333 weeks per month. Add a clause allowing the owner to shift visits seasonally so winter months can receive more polishing within the same annual total." },
+    { "q": "What signs mean the schedule is too infrequent?", "a": "Visible dull lanes between the entrance and elevators, water spots that no longer bead on the surface, and rising slip complaints are the common signals. A gloss-meter drop of more than 20 points from the post-restoration reading is a measurable trigger to move up a tier." },
+    { "q": "Do sealers affect green building certification?", "a": "They can. LEED and Green Seal programs typically require low-VOC, water-based impregnating sealers and documentation. Ask for the product's VOC content and SDS, and schedule application when HVAC can ventilate the lobby overnight before occupants arrive." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle",
+    "suncast-commercial-housekeeping-cart-with-locking-cabinet"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/marble-terrazzo-honing-and-polishing-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-marble-terrazzo-honing-and-polishing-quotes/",
+    "/cleaning-services-and-tasks/concrete-densifying-and-polishing-cost-guide/",
+    "/janitorial-carts-mops-and-tools/best-janitorial-utility-carts-for-supply-restocking/"
+  ]
+}

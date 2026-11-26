@@ -1,0 +1,87 @@
+{
+  "slug": "high-rise-exterior-window-cleaning-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/high-rise-exterior-window-cleaning-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge high rise exterior window cleaning",
+  "title": "Extra Charge for High-Rise Exterior Window Cleaning: Is It in Your Base Janitorial Contract or Billed Separately?",
+  "seoTitle": "Extra Charge for High-Rise Exterior Window Cleaning: Included or Add-On?",
+  "metaDescription": "Extra charge high-rise exterior window cleaning audit: why multi-story glass runs $0.15–$0.45 per sq ft of glass as a work order. Compare your quotes now.",
+  "excerpt": "Multi-story exterior glass is almost never part of a nightly janitorial retainer, and vendors who claim it is usually mean ground-floor storefront panes only. This audit guide shows office managers how to read scope language, spot the carve-outs, and price exterior drops as a separate, budgeted work order.",
+  "quickAnswer": "Exterior window cleaning above the first floor is billed extra in roughly nine out of ten US office janitorial contracts, because it requires rope access, swing stages, or boom lifts, separate insurance, and OSHA 1910.27 rope descent planning. Expect a separate work order of about $0.15–$0.45 per square foot of glass per cleaning (or $4–$12 per pane per side), with project minimums of $750–$2,500, while the base retainer at $0.05–$0.20 per floor sq ft covers only interior glass and ground-level entry doors.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot from street level looking up a 12-story glass curtain-wall office tower in a US downtown, two window technicians on rope descent seats midway down the facade with squeegees, a ground crew cone zone on the sidewalk below, crisp late-morning light, slight low-angle perspective, no text, no logos, no watermarks",
+    "alt": "Rope access technicians cleaning the exterior glass of a multi-story office tower above a coned-off sidewalk"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Multi-Story Exterior Glass Sits Outside the Base Retainer" },
+    { "type": "p", "text": "A standard US office janitorial contract is built on production rates: a night crew covering roughly 3,500 sq ft per hour per cleaner (the ISSA benchmark), billed at $0.05 to $0.20 per floor square foot per visit depending on building size. Exterior window cleaning on a multi-story facade does not fit that model at all. It is weather-dependent, requires a separate crew certified for rope descent systems or powered platforms, carries far higher workers compensation rates, and is performed a few times a year rather than nightly. That is why nearly every janitorial bid either excludes exterior glass outright or limits it to ground-level storefront and entry doors." },
+    { "type": "p", "text": "When an office manager sees a bid line reading windows included, the first audit question is which windows. In most cases the answer is interior partition glass, entry door glass, and sidelights reachable from the floor, which is the interior glass add-on that typically prices at $15 to $35 per visit. Anything requiring a ladder over 6 feet, a lift, or a roof anchor is a subcontracted project." },
+    { "type": "h2", "text": "Included vs. Billed Extra: How Vendors Actually Structure It" },
+    { "type": "table", "caption": "Common contract structures for exterior window cleaning on 3- to 20-story offices", "headers": ["Contract structure", "What is covered", "Typical pricing", "Who performs it"], "rows": [
+      ["Base retainer only", "Interior glass, entry doors, ground-floor storefront inside face", "Included in $0.05–$0.20/sq ft per visit", "Night janitorial crew"],
+      ["Retainer plus ground-floor exterior", "Storefront exterior face up to 10 ft, monthly", "$40–$120 per month added", "Janitorial crew with water-fed pole"],
+      ["Bundled annual window program", "All exterior glass 2x per year, amortized monthly", "$0.012–$0.035 per floor sq ft per month", "Window subcontractor under janitorial prime"],
+      ["Separate project work order", "Full facade drop, inside and out on request", "$0.15–$0.45 per sq ft of glass per cleaning; $750–$2,500 minimum", "Specialty rope access or swing stage firm"],
+      ["Direct contract with window firm", "Facade, skylights, atrium glass", "Per-pane $4–$12 per side or per-drop pricing", "Owner-hired window contractor"]
+    ] },
+    { "type": "p", "text": "The bundled annual program is the only structure that legitimately folds multi-story glass into a monthly retainer, and even then it is a pass-through. On a 40,000 sq ft, five-story office with about 14,000 sq ft of exterior glass, two cleanings per year at $0.30 per sq ft of glass equals $8,400 annually, or about $700 per month. Spread over 40,000 floor sq ft, that is roughly $0.0175 per floor sq ft per month riding on top of the janitorial invoice. If a bid claims full facade cleaning is included and the monthly price has not moved at all, the cost is either hidden in a marked-up rate or the work will never be performed." },
+    { "type": "callout", "variant": "warning", "title": "The windows included trap", "text": "Vague scope language like all windows cleaned as needed is the most common source of exterior glass disputes. When the first high-rise invoice arrives, the vendor points to its exclusions page listing work above 10 feet, and the tenant or property manager pays the full project rate with no competitive bid. Define glass by location, side, height, and frequency in the scope matrix before signing." },
+    { "type": "h2", "text": "Contract Clauses to Audit Before You Sign" },
+    { "type": "ul", "items": [
+      "Height limit language: look for phrases like glass reachable from floor level or not exceeding 10 feet, which automatically excludes upper floors.",
+      "Side definition: interior face only versus both faces. Upper-floor interior faces are often janitorial; exterior faces almost never are.",
+      "Access method: rope descent system, swing stage, boom lift, or water-fed pole. The method drives the price and the insurance requirements.",
+      "Certificate of insurance (COI): window subcontractors should carry general liability of at least $2 million per occurrence plus an umbrella, with the owner and property manager named as additional insured.",
+      "Roof anchor certification: OSHA 1910.27 requires anchors to be inspected, tested, and certified, and the building owner must provide written assurance before rope descent work proceeds.",
+      "Rain and wind clauses: who pays for a mobilized crew sent home because gusts exceed safe limits.",
+      "Frequency and calendar: exact months for each cleaning, not quarterly or as needed."
+    ] },
+    { "type": "h2", "text": "Building the True Monthly Cost" },
+    { "type": "p", "text": "To compare a bundled bid against a retainer plus separate work order, convert everything into a monthly number using 4.33 weeks per month. Consider a 22,000 sq ft, four-story suburban office cleaned five nights per week. At a mid-bracket rate of $0.095 per sq ft per visit with the 0.90 daily frequency multiplier, the nightly janitorial cost is about $1,881, or roughly $40,700 per month across 21.65 visits. That is a heavy figure, so most buyers in this bracket negotiate production-based pricing nearer $0.07 per sq ft, landing around $30,000 per month for a fully staffed nightly program including restrooms." },
+    { "type": "p", "text": "Now add the glass. The building has 7,500 sq ft of exterior glass. Two exterior-only cleanings per year at $0.28 per sq ft equals $4,200 annually, or $350 per month. A bundled vendor quoting $425 per month for the same scope is charging about a 21 percent coordination markup, which is within the normal 10 to 25 percent prime-contractor range. A vendor quoting $900 per month for the same two cleanings is padding the line." },
+    { "type": "steps", "items": [
+      { "name": "Measure your glass", "text": "Pull the elevation drawings or ask the window firm for a takeoff of exterior glass square footage and pane count by elevation." },
+      { "name": "Set the calendar", "text": "Choose frequency by soil load: twice yearly for suburban offices, quarterly for downtown towers near traffic, construction, or coastal salt spray." },
+      { "name": "Request separate line items", "text": "Ask every bidder to price exterior glass as its own line with access method, crew size, and mobilization fee disclosed." },
+      { "name": "Verify compliance documents", "text": "Collect the COI, roof anchor certification date, written fall protection plan, and proof of rope access or powered platform training." },
+      { "name": "Normalize to monthly", "text": "Divide annual window cost by 12 and compare against the bundled bid. Accept up to 25 percent coordination markup only if the prime handles scheduling and liability." }
+    ] },
+    { "type": "h2", "text": "When Bundling Makes Sense and When to Contract Direct" },
+    { "type": "p", "text": "Bundling through the janitorial prime is worth the markup when the office manager has no facilities staff, the building has fewer than eight floors, and one invoice and one point of contact matter more than squeezing the last 15 percent out of the glass line. Contracting direct with a window firm makes sense for towers above eight floors, buildings with atriums or skylights, and portfolios where the owner already controls roof access and anchor recertification. Direct contracts also avoid a common problem: the janitorial prime subcontracting to the lowest bidder without verifying anchor certification." },
+    { "type": "p", "text": "Ground-level operations still matter. The interior crew should stage exterior entries cleanly before and after a facade drop, and fixtures like a Safco Public Square 37-gallon fire-safe steel receptacle at the elevator lobby or a Rubbermaid Slim Jim 23-gallon station with vent channels in the copy room should be emptied and moved away from glass lines so the window crew can work inside faces without delay. Night crews running a Suncast housekeeping cart with locking cabinet doors keep ammonia glass cleaners secured when window technicians are working inside occupied floors." },
+    { "type": "callout", "variant": "compliance", "title": "OSHA and liability checkpoints", "text": "Rope descent work is limited to 300 feet under OSHA 1910.27 and requires independent lifelines, certified anchors, and trained workers. Swing stages fall under powered platform rules in 1910.66. If your janitorial vendor cannot produce these documents for its window subcontractor, treat the bundled price as uninsurable risk rather than a savings." },
+    { "type": "h2", "text": "Red Flags in Exterior Glass Quotes" },
+    { "type": "ul", "items": [
+      "A flat monthly windows fee with no glass square footage, pane count, or annual frequency stated.",
+      "Mobilization fees above $400 per visit on a building under ten floors.",
+      "Per-pane pricing that does not distinguish standard panes from oversized curtain-wall lites or French panes.",
+      "No hard-water or construction-debris surcharge disclosure, which leads to change orders after the first drop.",
+      "Insurance certificates listing only the janitorial prime, not the actual window subcontractor."
+    ] },
+    { "type": "cta", "text": "Run your base janitorial number in the Office Cleaning Cost Calculator, then load each vendor's exterior glass line into the Quote Comparator to see which bid is hiding window costs in its monthly rate." }
+  ],
+  "faqs": [
+    { "q": "Is exterior window cleaning ever truly included in an office cleaning contract?", "a": "Only ground-floor storefront glass is routinely included, usually the inside face nightly and the outside face monthly with a water-fed pole. Multi-story exterior glass is included only when the vendor builds an amortized annual window program into the monthly price, which should appear as a distinct line item of roughly $0.012 to $0.035 per floor sq ft per month." },
+    { "q": "How much should a separate high-rise window work order cost?", "a": "Most US markets price exterior-only facade cleaning at $0.15 to $0.45 per sq ft of glass per cleaning, or $4 to $12 per pane per side, with project minimums of $750 to $2,500. Downtown towers with difficult anchor layouts, heavy soil, or swing stage access land at the top of the range." },
+    { "q": "What insurance should I require from the window subcontractor?", "a": "Require a certificate of insurance showing general liability of at least $2 million per occurrence, an umbrella policy, workers compensation with the correct window-washing class code, and the owner, property manager, and tenant named as additional insured. Confirm the certificate names the firm actually performing the drop, not just the janitorial prime." },
+    { "q": "Who is responsible for roof anchor certification?", "a": "The building owner. OSHA 1910.27 requires the owner to provide written assurance that anchors have been inspected, tested, and certified before rope descent work begins. Tenants leasing a full building on a triple-net lease often inherit this duty, so confirm it in the lease before scheduling." },
+    { "q": "How do I compare a bundled window price to a separate bid?", "a": "Convert both to monthly cost. Multiply glass square footage by the per-cleaning rate and annual frequency, divide by 12, and compare against the bundled monthly line. A coordination markup of 10 to 25 percent is normal; anything above that is margin padding." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle",
+    "suncast-commercial-housekeeping-cart-with-locking-cabinet"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-high-rise-exterior-window-cleaning-quotes/",
+    "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-cost-guide/",
+    "/cleaning-services-and-tasks/electrostatic-disinfection-spraying-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/clarke-focus-ii-vs-tennant-imop-lite-review/"
+  ]
+}

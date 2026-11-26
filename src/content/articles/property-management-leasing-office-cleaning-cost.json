@@ -1,0 +1,79 @@
+{
+  "slug": "property-management-leasing-office-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/property-management-leasing-office-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "property management leasing office rates",
+  "title": "Property Management Leasing Office Rates: Monthly Janitorial Spend Benchmarks for Apartment Communities",
+  "seoTitle": "Property Management Leasing Office Rates: Monthly Spend Benchmarks",
+  "metaDescription": "Property management leasing office rates average $0.09–$0.20 per sq ft per visit, about $1,075–$15,760 a month by size. Run yours in our calculator.",
+  "excerpt": "Apartment leasing offices are small, but they double as sales floors for prospective residents and often share a building with a fitness center, mail room, and pool restrooms. This guide shows what community managers actually pay per visit and per month, and how to set frequency so tours always look move-in ready.",
+  "quickAnswer": "Most apartment leasing offices under 2,500 sq ft price at $0.12–$0.20 per sq ft per visit, so a 1,200 sq ft office cleaned three times a week with one restroom runs about $2,045–$3,475 per month. A 4,500 sq ft clubhouse with leasing, fitness, and three restrooms on weekday service runs about $9,260–$15,760 per month. Weekly-only service for a small 1,800 sq ft office can be as low as $1,075–$1,815, but it rarely keeps a tour path presentable.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-morning scene in a bright US apartment community leasing office and clubhouse, a cleaning professional damp-mopping light oak luxury vinyl plank near a leasing desk with a welcome bench, a glass door opening onto a resort-style pool deck outside, fitness room visible through an interior window, soft natural sunrise light through tall windows, wide shot from a high corner angle, no text, no logos, no watermarks",
+    "alt": "Cleaner mopping vinyl plank flooring in an apartment leasing office clubhouse near the pool entrance at sunrise"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes a leasing office different from a regular small office" },
+    { "type": "p", "text": "A leasing office is a sales environment. Prospective residents form an opinion of the whole community from the welcome desk, the restroom they use during a tour, and the clubhouse they walk through on the way to the model unit. Unlike a back-office suite, the leasing office also absorbs resident traffic: package pickups, rent drop-offs, maintenance requests, and residents using the fitness center or business center. In many garden-style and mid-rise communities the leasing office sits inside a clubhouse that includes a fitness room, a resident lounge with a coffee machine, a mail and package room, and restrooms that open onto the pool deck." },
+    { "type": "p", "text": "That mix shapes pricing. Square footage stays modest, so most leasing offices fall in the under-2,500 sq ft bracket where per-sq-ft rates are highest, while restroom counts and amenity traffic push the per-visit price higher than the footprint suggests. Regional management offices that handle accounting and asset management for a portfolio behave more like standard corporate offices and price accordingly." },
+    { "type": "h2", "text": "Benchmark monthly spend by community type" },
+    { "type": "p", "text": "The benchmarks below follow our calculator brackets: $0.12–$0.20 per sq ft per visit under 2,500 sq ft, $0.09–$0.15 from 2,500 to 9,999 sq ft, and $0.07–$0.12 from 10,000 to 24,999 sq ft. Flooring multipliers (luxury vinyl at 1.04x, mixed at 1.05x) and frequency multipliers (1.08x weekly, 0.95x three times a week, 0.90x five times a week) are applied, restrooms are added at $15–$30 each per visit, and visits per month use 4.33 weeks." },
+    { "type": "table", "caption": "Monthly janitorial benchmarks for US apartment leasing and property management offices", "headers": ["Office profile", "Sq ft", "Floor, schedule, restrooms", "Per visit", "Per month", "Per sq ft per month"], "rows": [
+      ["Small community, weekly service only", "1,800", "Carpet (1.00x), 1x/week (1.08x), 1 restroom", "$248–$419", "$1,075–$1,813", "$0.60–$1.01"],
+      ["Standalone leasing office", "1,200", "LVT (1.04x), 3x/week (0.95x), 1 restroom", "$157–$267", "$2,045–$3,473", "$1.70–$2.89"],
+      ["Clubhouse with leasing, fitness, and pool restrooms", "4,500", "Mixed (1.05x), 5x/week (0.90x), 3 restrooms", "$428–$728", "$9,260–$15,760", "$2.06–$3.50"],
+      ["Regional property management headquarters", "12,000", "Carpet (1.00x), 3x/week (0.95x), 4 restrooms", "$858–$1,488", "$11,154–$19,344", "$0.93–$1.61"]
+    ] },
+    { "type": "p", "text": "The clubhouse row is where budgets most often go wrong. A manager who prices only the 1,200 sq ft leasing suite, then adds the fitness center and pool restrooms mid-contract, can see the invoice triple. Price the full shared building on day one, even if the amenities are open only in summer, and use seasonal frequency changes rather than mid-year scope amendments." },
+    { "type": "callout", "variant": "benchmark", "title": "Quick ratio for clubhouse bids", "text": "For a mixed-floor clubhouse between 2,500 and 9,999 sq ft on weekday service, base labor plus restrooms should land around $2.06–$3.50 per sq ft per month. A standalone leasing office on three visits a week should land near $1.70–$2.89. Figures far outside those bands usually mean the scope or visit count differs from what you expect." },
+    { "type": "h2", "text": "Restroom density and amenity traffic" },
+    { "type": "p", "text": "A standalone leasing office usually has one restroom used by staff and touring prospects. Once a clubhouse is involved, the count jumps: separate men's and women's restrooms off the pool deck, sometimes a shower, and a restroom near the fitness room. Pool restrooms take on water, sunscreen residue, and sand, and they need daily attention from Memorial Day through Labor Day even if the leasing office itself is fine on three visits a week. A practical approach many operators use is a 5x/week schedule from May through September and 3x/week the rest of the year, with the restroom count adjusted as pool hours change." },
+    { "type": "table", "caption": "Monthly add-ons for a 4,500 sq ft clubhouse on 5x/week service", "headers": ["Add-on", "Unit rate", "Monthly at 21.65 visits"], "rows": [
+      ["Resident lounge coffee bar and kitchenette", "$12–$25 per visit", "$260–$541"],
+      ["Interior glass: entry doors, fitness window, conference room", "$15–$35 per visit", "$325–$758"],
+      ["Paper, soap, and liners supplied by vendor", "$0.012–$0.025 per sq ft per visit", "$1,169–$2,436"],
+      ["Quarterly carpet extraction and LVT scrub (amortized)", "$0.03–$0.06 per sq ft per month", "$135–$270"]
+    ] },
+    { "type": "h2", "text": "Traffic wear on tour paths and fitness floors" },
+    { "type": "ul", "items": [
+      "The tour path from the front door through the clubhouse to the model unit takes the most foot traffic and should be the first priority on every visit.",
+      "Luxury vinyl plank and VCT near pool doors collect sand and chlorinated water that dull finish; budget periodic machine scrubbing and recoat with a high-traffic acrylic finish.",
+      "Fitness rubber flooring needs a neutral cleaner and should never get floor finish, which makes it slippery.",
+      "Package rooms generate cardboard and tape debris daily, especially around the holidays when volume spikes.",
+      "Pet-friendly communities see paw-print soil at every entrance; walk-off matting and a quick entrance damp-mop pay off quickly."
+    ] },
+    { "type": "h2", "text": "Recommended frequency by community size" },
+    { "type": "steps", "items": [
+      { "name": "Under 150 units with a standalone office", "text": "Three visits a week, scheduled for the mornings before the office opens on the busiest leasing days, usually Monday, Thursday, and Saturday." },
+      { "name": "150 to 350 units with a clubhouse", "text": "Five visits a week in peak leasing and pool season, three in the off-season, plus a Saturday restroom check if the pool is open on weekends." },
+      { "name": "Lease-up or new construction communities", "text": "Five to seven visits a week while tour volume is high, with a post-construction dust program billed separately before daily service begins." },
+      { "name": "Regional management offices", "text": "Two or three visits a week, matching corporate office norms; restrooms and the kitchenette drive most of the cost." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Specify a few supply standards", "text": "A Green Seal certified hydrogen-peroxide cleaner such as Spartan Clean by Peroxy works on restroom tile, grout, glass, and counters without strong odors that prospects notice. For men's restrooms in the clubhouse, enzymatic anti-splash screens like Fresh Products Wave 3D, rated for about 30 days each, reduce odor complaints between visits. For VCT around pool doors, the Zep High-Traffic Floor Polish and Stripper Bundle supports a semi-annual strip-and-recoat cycle." },
+    { "type": "cta", "text": "Enter your leasing office or clubhouse square footage, restroom count, and seasonal schedule into the Office Cleaning Cost Calculator, then compare vendor bids side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Should the leasing office and the clubhouse amenities be on one contract?", "a": "Usually yes. One vendor covering the leasing office, fitness room, resident lounge, and pool restrooms avoids gaps where nobody owns a space, and lets the vendor schedule efficiently. Ask for line-item pricing by zone so you can change pool restroom frequency seasonally without renegotiating the whole contract." },
+    { "q": "How is a monthly invoice calculated from a per-visit price?", "a": "Multiply the per-visit price by visits per month. Vendors use 4.33 weeks per month (52 weeks divided by 12, or 4.333), so three visits a week equals 13 visits, five equals 21.65, and weekly equals 4.33. Confirm the visit count in writing so holiday closures and seasonal changes are handled the same way at billing time." },
+    { "q": "Is weekly cleaning enough for a leasing office?", "a": "Only for very small communities with low tour volume. A weekly visit for an 1,800 sq ft office runs about $1,075–$1,813 per month, but restrooms and the welcome area will look worn by midweek. Most operators find that three visits a week, or weekly service plus staff touch-ups, protects first impressions on tours better." },
+    { "q": "What insurance should a leasing office cleaning vendor carry?", "a": "Ask for a certificate of insurance listing general liability, workers compensation, and commercial auto, with both the owner entity and the management company named as additional insureds. Because crews may work near unit key cabinets and resident files, a janitorial bond or third-party crime coverage is also standard for multifamily contracts." },
+    { "q": "Who supplies paper towels and soap in clubhouse restrooms?", "a": "Either party can. When the vendor supplies consumables, expect about $0.012–$0.025 per sq ft per visit, or roughly $1,169–$2,436 per month for a 4,500 sq ft clubhouse on five visits a week. Many management companies buy paper through a national supply agreement and pay the vendor only to restock." }
+  ],
+  "amazonProductIds": [
+    "spartan-clean-by-peroxy-all-purpose-cleaner-gallon-4-case",
+    "zep-high-traffic-floor-polish-and-stripper-bundle",
+    "fresh-products-wave-3d-urinal-deodorizer-screens-10-box"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/property-management-leasing-office-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/property-management-leasing-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/logistics-warehouse-office-cleaning-cost/",
+    "/commercial-cleaning-chemicals-and-mats/best-green-seal-commercial-office-cleaners/"
+  ]
+}

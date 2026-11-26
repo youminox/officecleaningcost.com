@@ -1,0 +1,83 @@
+{
+  "slug": "trash-and-recycling-valet-service-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/trash-and-recycling-valet-service-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge trash and recycling valet service",
+  "title": "Extra Charge or Included? How Janitorial Vendors Bill Trash and Recycling Valet Service on Multi-Floor Offices",
+  "seoTitle": "Extra Charge Trash & Recycling Valet Service: Included vs Add-On Audit",
+  "metaDescription": "Extra charge trash and recycling valet audit: what base retainers cover, which pulls become $35-$95/hr work orders, and $90-$135 minimums. Compare your quotes.",
+  "excerpt": "This contract audit shows which multi-floor trash and recycling tasks a standard janitorial retainer should already cover and which ones legitimately trigger separate work-order invoices. You will learn the scope wording, hourly rates, and minimum charges to check before you sign or approve an extra bill.",
+  "quickAnswer": "Nightly desk-side and central-station trash and recycling pulls to the building's own dock, compactor, or dumpster are almost always included in a standard janitorial base retainer. Extra charges are legitimate for off-schedule pulls, weekend service, move-out purges, cardboard or e-waste clean-outs, bin washing, compost or third and fourth streams, and off-site hauling, typically billed at $35-$65 per hour (or $55-$95 for specialty work) with a $90-$135 minimum per trip.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic interior of a US office building loading dock at night, a janitorial worker in a navy uniform tipping a gray rolling waste cart into a commercial compactor while a separate blue recycling dumpster sits beside flattened cardboard bundles, overhead sodium and LED dock lighting, yellow fold-flat caution sign on the wet concrete, three-quarter view from dock level, no text, no logos, no watermarks",
+    "alt": "Night janitor emptying an office waste cart into a loading dock compactor beside a recycling dumpster and flattened cardboard"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why trash billing disputes start in the scope sheet" },
+    { "type": "p", "text": "Most invoice disputes about trash and recycling valet service have nothing to do with the hourly rate. They come from a vague scope line such as \"empty all trash and recycling\" that never says how often, from which containers, to which destination, or what happens when volume spikes. The vendor reads it narrowly and bills an extra charge for the overflow after a team offsite; the tenant reads it broadly and refuses to pay. The fix is to decide, before award, which pulls belong in the monthly base retainer and which are priced as separate work orders." },
+    { "type": "p", "text": "On a standard nightly office scope, trash and recycling labor typically accounts for 15-25% of the crew's minutes. That cost is already built into a base rate of roughly $0.07-$0.12 per sq ft per visit for a 10,000-24,999 sq ft office. Anything you consider routine should therefore appear inside that retainer, with the frequency spelled out, so it cannot later reappear as an add-on." },
+    { "type": "h2", "text": "Included versus extra: the line-item audit table" },
+    { "type": "table", "caption": "How vendors typically classify multi-floor trash and recycling tasks", "headers": ["Task", "Usually in base retainer?", "When it becomes an extra charge", "Typical billing method"], "rows": [
+      ["Desk-side basket empty and liner swap", "Yes, on every scheduled visit", "Pulls on unscheduled nights or weekends", "Work order, $90-$135 minimum per trip"],
+      ["Central landfill and mixed-recycling stations", "Yes", "More than two streams or added stations after award", "Scope change, priced per station per visit"],
+      ["Transport to on-site dock, compactor, or dumpster", "Yes", "Destination moved off-site or to another building", "Hourly $35-$65 plus vehicle charge"],
+      ["Breakroom landfill and compost", "Landfill yes; compost often no", "Compost stream added, liner and odor management", "Add-on per visit or per station"],
+      ["Cardboard breakdown", "Incidental boxes only", "Delivery-day volume, move-ins, inventory clear-outs", "Hourly $35-$65"],
+      ["Confidential shred consoles", "No; handled by shred vendor", "Crew asked to consolidate or move consoles", "Hourly $35-$65"],
+      ["E-waste, toner, batteries, lamps", "No", "Staging, inventory, or packing for certified recycler", "Specialty hourly $55-$95"],
+      ["Bin wash and deodorize", "Spot wipe only", "Scheduled sanitizing of all bins", "Per event or monthly flat fee"],
+      ["Move-out or reconfiguration purge", "No", "Furniture moves, office closures, desk clear-outs", "Project quote or hourly with crew size"]
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Audit tip: price extras before you need them", "text": "Ask every bidder to include a rate card for weekend pulls, hourly standard labor, specialty labor, and the minimum trip charge. Rates negotiated at award are usually 10-20% lower than emergency rates quoted the morning after an overflowing holiday party." },
+    { "type": "h2", "text": "What legitimate add-on invoices look like in dollars" },
+    { "type": "p", "text": "Extras are not automatically a sign of a bad vendor. Some work is genuinely outside a nightly scope and should be paid for. The test is whether the invoice ties to a written rate card and a documented request. Here are realistic examples using national benchmark rates of $35-$65 per hour for standard labor, $55-$95 for specialty labor, and a $90-$135 minimum per visit." },
+    { "type": "ul", "items": [
+      "Saturday pull for a weekend-occupied floor: about 2 labor hours, which falls below the minimum, so the bill is $90-$135 per Saturday, or $390-$585 per month at 4.33 weekends.",
+      "Quarterly cardboard and delivery-box clean-out on a three-floor suite: 6 hours at $35-$65, or $210-$390 per event before any hauling fee.",
+      "E-waste staging for a laptop refresh: 4 hours at specialty rates of $55-$95, or $220-$380, with certified recycling billed by the recycler.",
+      "Post-event overflow pull after a catered all-hands: one extra 2-hour trip, $90-$135 under the minimum rule.",
+      "Department move purge of 40 workstations: commonly a 3-person crew for 6 hours, 18 labor hours at $35-$65, or $630-$1,170."
+    ] },
+    { "type": "p", "text": "If the same extra appears more than three months in a row, it is no longer an extra. Fold it into the base retainer at a negotiated per-visit or monthly rate. A recurring Saturday pull, for instance, is often cheaper as a scheduled 1x per week line than as a string of minimum-charge work orders." },
+    { "type": "h2", "text": "How to audit an existing contract in six steps" },
+    { "type": "steps", "items": [
+      { "name": "Pull the scope exhibit, not just the proposal letter", "text": "The task list and frequency matrix in the contract exhibit govern billing. Proposal marketing language does not." },
+      { "name": "List every container type and stream", "text": "Count desk-side baskets, central stations, breakroom bins, compost, and shred consoles per floor. Note which streams are named in the scope." },
+      { "name": "Confirm frequency and destination", "text": "Each line should state the days of service and where waste ends up: dock compactor, recycling dumpster, or a staging room." },
+      { "name": "Match six months of extra invoices to work orders", "text": "Every extra charge should reference a request by name and date and a rate from the card. Flag any that do not." },
+      { "name": "Identify recurring extras", "text": "Anything billed three or more times in six months is a candidate to move into the base retainer at a lower unit rate." },
+      { "name": "Issue a written scope amendment", "text": "Document the changes, the new monthly price, and the updated frequency matrix, signed by both parties, so night supervisors work to the same sheet." }
+    ] },
+    { "type": "h2", "text": "Safety and compliance items that affect who pays" },
+    { "type": "p", "text": "Some exclusions exist for compliance reasons, not profit. Routine pull crews should not handle regulated medical waste or sharps; under the OSHA Bloodborne Pathogens Standard that requires trained, vaccinated-offered workers under an exposure control plan, so it is commonly a specialty response at $55-$95 per hour. Liquid chemicals, aerosols, and batteries in trash bins trigger OSHA Hazard Communication and sometimes universal-waste rules, which is why vendors bill separately for sorting them." },
+    { "type": "p", "text": "Crews working loading docks and wet floors also need proper equipment, and you can reasonably expect it inside the base price. A set of Rubbermaid Commercial 25-inch multilingual wet floor A-frame signs (6-pack, fold-flat with carry handle) lets a night crew mark the dock path and elevator lobby whenever a leaking bag drips. Impact 32-oz heavy-duty spray bottles with Viton seals, graduated markings, and color coding keep diluted cleaners labeled to HazCom standards when crews wipe bins and compactor areas. Swiffer Heavy Duty 360 dusters with 24 refills and a 3-ft extension cover the dusting of tops of bin enclosures and recycling station signage without scratching finishes." },
+    { "type": "callout", "variant": "compliance", "title": "Insurance check before any off-site hauling", "text": "If the vendor will carry waste off-site, require a certificate of insurance showing commercial auto liability in addition to general liability and workers' compensation, and confirm any state or municipal hauler permits. Off-site hauling by an unpermitted janitorial crew can shift liability for illegal dumping back to the generator, which is your company." },
+    { "type": "h2", "text": "Negotiating the retainer so extras stay rare" },
+    { "type": "p", "text": "Write a volume band into the scope: for example, routine pulls cover up to a set number of bags per floor per night, with overflow billed only above 125% of that band for two consecutive nights. Ask for a single blended weekend rate and a cap on minimum-charge trips per month. Request that cardboard breakdown of up to 20 boxes per night be included. These small clauses remove most disputes without driving up the base price meaningfully." },
+    { "type": "cta", "text": "Enter your square footage, floors, and visit frequency in the Office Cleaning Cost Calculator to see the base retainer that should already cover routine pulls, then load each bid's rate card into the Quote Comparator to spot vendors padding trash and recycling as extra charges." }
+  ],
+  "faqs": [
+    { "q": "Should recycling pulls cost more than trash pulls?", "a": "Not on a standard two-stream office. Mixed recycling uses the same cart route and elevator trip as landfill, so it belongs in the same base line. A modest upcharge is reasonable when you add a third or fourth stream such as compost or glass, because each requires separate liners, separate containers on the cart, and separate dock destinations." },
+    { "q": "How do vendors calculate the monthly value of a weekly extra pull?", "a": "They multiply the per-visit charge by 4.33 weeks per month (some use 4.333). A $120 Saturday pull becomes about $520 per month and $6,240 per year. Seeing it annualized usually makes it clear whether the task should move into the base retainer at a negotiated unit rate." },
+    { "q": "Is bin washing part of normal janitorial service?", "a": "Spot wiping visible spills on lids and exteriors is routine. Full washing, sanitizing, and deodorizing every container is usually a scheduled add-on, often monthly for breakroom and central stations. If your lease references Green Seal or LEED operations requirements, specify the cleaning product standard in the add-on line." },
+    { "q": "What minimum charge is fair for an unscheduled trash pull?", "a": "National benchmarks put the per-visit minimum at roughly $90-$135, reflecting travel, supervision, and insurance costs for a crew dispatched for a short task. Negotiate this rate in the original contract and ask that an extra pull performed during an already-scheduled night be billed hourly rather than at the full minimum." },
+    { "q": "Can the vendor refuse to handle certain items in trash bins?", "a": "Yes, and a well-written scope says so. Typical exclusions include sharps, regulated medical waste, liquid chemicals, lithium batteries, fluorescent lamps, and construction debris. These raise OSHA Bloodborne Pathogens, HazCom, or universal-waste issues and are handled by trained staff or specialty contractors under a separate work order." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-25-inch-multilingual-wet-floor-a-frame-sig",
+    "swiffer-dusters-heavy-duty-360-commercial-starter-24-refills",
+    "impact-32-oz-heavy-duty-chemical-spray-bottles-12-pack"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-trash-and-recycling-valet-service-quotes/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-cost-guide/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-for-small-vs-large-offices/",
+    "/janitorial-carts-mops-and-tools/best-commercial-brooms-for-baseboards-and-elevators/"
+  ]
+}

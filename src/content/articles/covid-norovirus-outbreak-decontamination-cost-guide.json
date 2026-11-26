@@ -1,0 +1,78 @@
+{
+  "slug": "covid-norovirus-outbreak-decontamination-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "outbreak & biohazard office decontamination unit price",
+  "title": "Outbreak & Biohazard Office Decontamination Cost: Per-Sq-Ft & Hourly Rates",
+  "seoTitle": "Outbreak & Biohazard Office Decontamination Cost: Unit Price Guide",
+  "metaDescription": "Outbreak & biohazard office decontamination unit prices: $0.12–$0.45/sq ft, $55–$95/hr crews, $250–$600 minimums. Estimate your job in our cost calculator.",
+  "excerpt": "Outbreak decontamination is priced very differently from nightly janitorial work: specialty labor, EPA-registered chemistry with long dwell times, and mobilization minimums drive the bill. This guide breaks down national per-sq-ft, per-fixture, and hourly rates so you can sanity-check an emergency quote.",
+  "quickAnswer": "Nationally, office outbreak decontamination for COVID-19 or norovirus typically costs $0.12–$0.25 per sq ft for electrostatic or spray-and-wipe disinfection of high-touch surfaces and $0.25–$0.45 per sq ft for full-scope norovirus response with List G chemistry and soft-surface treatment. Crews bill $55–$95 per technician hour, restrooms run $25–$60 per fixture group, and most vendors charge a $250–$600 mobilization minimum regardless of size.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic open-plan US office after hours, two technicians in disposable coveralls, nitrile gloves and N95 respirators applying electrostatic disinfectant mist over workstation desks and chair arms, wet surfaces glistening under bright work lights, caution cones at the corridor entrance, wide-angle elevated view, no text, no logos, no watermarks",
+    "alt": "Technicians in protective coveralls applying electrostatic disinfectant to office workstations"
+  },
+  "blocks": [
+    { "type": "h2", "text": "How Decontamination Pricing Differs From Routine Cleaning" },
+    { "type": "p", "text": "Routine janitorial work is priced on productivity. The ISSA benchmark of roughly 3,500 sq ft per hour for general office cleaning is why national rates for a 10,000–24,999 sq ft office settle around $0.07–$0.12 per sq ft per visit. Outbreak decontamination breaks that model. Technicians must touch every high-contact surface, keep disinfectant wet for the label's full contact time, wear PPE that slows movement, and document what was treated. Productivity drops to 800–2,000 sq ft per hour depending on method, and labor shifts from the $35–$65 standard range into the $55–$95 specialty range." },
+    { "type": "p", "text": "Chemistry also changes the math. COVID-19 response uses products on the EPA's List N, many with one- to ten-minute dwell times. Norovirus is a non-enveloped virus that resists quaternary ammonium products, so responders use EPA List G products such as concentrated sodium hypochlorite (1,000–5,000 ppm) or accelerated hydrogen peroxide, which require longer contact and rinsing of food-contact surfaces. Longer dwell and rinse steps translate directly into labor hours." },
+    { "type": "h2", "text": "National Unit Price Benchmarks" },
+    { "type": "table", "caption": "US office outbreak decontamination unit prices (national averages, before local labor adjustments)", "headers": ["Service line", "Unit", "Low", "High", "Notes"], "rows": [
+      ["Electrostatic high-touch disinfection (COVID, List N)", "Per sq ft", "$0.12", "$0.25", "Hard surfaces, desks, doors, shared equipment"],
+      ["Full-scope norovirus response (List G)", "Per sq ft", "$0.25", "$0.45", "Includes manual wipe, bleach-grade chemistry, rinse"],
+      ["Restroom fixture group decon", "Per restroom", "$25", "$60", "Toilets, urinals, sinks, partitions, dispensers"],
+      ["Vomit / fecal incident cleanup", "Per incident", "$150", "$450", "Spill kit, absorbent, carpet extraction, disposal"],
+      ["Carpet hot-water extraction with disinfectant", "Per sq ft", "$0.20", "$0.40", "Affected zones only, not whole floor"],
+      ["Specialty technician labor", "Per hour", "$55", "$95", "Per tech; crews usually 2–4"],
+      ["Mobilization / minimum charge", "Per call", "$250", "$600", "Emergency same-night response at upper end"]
+    ] },
+    { "type": "p", "text": "These figures assume after-hours work in a standard multi-tenant office with carpeted open plan and hard-floor restrooms. Tile-and-grout restrooms run about 12% higher on labor, consistent with the flooring multiplier in the Office Cleaning Cost Calculator, because grout lines and floor drains need extra scrubbing after a norovirus event." },
+    { "type": "h2", "text": "Worked Examples by Office Size" },
+    { "type": "ul", "items": [
+      "2,000 sq ft suite, COVID positive case, electrostatic hard-surface treatment: 2,000 x $0.12–$0.25 = $240–$500, so the $250–$600 minimum usually governs the invoice.",
+      "6,500 sq ft office, norovirus cluster with two restrooms: 6,500 x $0.25–$0.45 = $1,625–$2,925, plus 2 restrooms at $25–$60 = $50–$120, total about $1,675–$3,045.",
+      "15,000 sq ft floor, COVID cluster in one department, targeted zone of 5,000 sq ft plus common areas of 3,000 sq ft: 8,000 x $0.12–$0.25 = $960–$2,000.",
+      "30,000 sq ft building, norovirus outbreak after catered event: 30,000 x $0.25–$0.40 (volume discount at top end) = $7,500–$12,000, plus vomit incident cleanups at $150–$450 each."
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Hourly sanity check", "text": "Divide the quoted total by $75 (mid-range specialty rate). The result is the implied technician-hours. For electrostatic work, expect about one technician-hour per 1,500–2,000 sq ft; for full norovirus response, about one per 800–1,200 sq ft. A quote implying far more hours than that needs a line-by-line explanation." },
+    { "type": "h2", "text": "What Drives a Quote Above the Range" },
+    { "type": "p", "text": "Same-night emergency response pushes rates to the top of every band and often adds a 1.25x to 1.5x after-hours premium. Soft surfaces such as fabric cubicle panels, upholstered seating, and carpet require either extraction or a fabric-compatible disinfectant, adding time. Breakrooms with food-contact surfaces need a potable-water rinse after bleach-grade products. Dense furniture, server rooms where liquids are restricted, and requirements for third-party clearance documentation all add cost." },
+    { "type": "p", "text": "Equipment matters too. A vendor that brings a portable extractor such as the Rug Doctor Mighty Pro X3, which runs a 28 PSI pump, a 10.8-inch cleaning path, and a 3.9-gallon recovery tank, can treat a vomit-contaminated carpet zone on the spot instead of returning with a truck-mount. Hard surfaces at sinks benefit from non-rusting scour pads like 3M Scotch-Brite heavy-duty 6 x 9 inch pads that hold up to bleach solutions, and glass partitions can be squeegeed clean after disinfection with a 14-inch solid brass Ettore Master squeegee to remove residue that otherwise leaves a haze." },
+    { "type": "h2", "text": "How to Read and Negotiate an Emergency Quote" },
+    { "type": "steps", "items": [
+      { "name": "Confirm the pathogen and product", "text": "Ask which EPA registration number the vendor will use and confirm it appears on List N for COVID or carries a norovirus claim for gastrointestinal outbreaks." },
+      { "name": "Define the treated area", "text": "Mark affected zones on a floor plan. Paying full-building rates for a single-department exposure is the most common overcharge." },
+      { "name": "Separate mobilization from unit pricing", "text": "The minimum should cover the first block of work, not be stacked on top of full unit charges for a small suite." },
+      { "name": "Require a completion log", "text": "Insist on a log listing areas treated, product, dilution, dwell time, technician names, and time stamps for your incident file." },
+      { "name": "Verify insurance and training", "text": "Collect a COI with pollution or contractor's environmental liability where available, and proof of OSHA bloodborne pathogen and respiratory protection training." }
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "OSHA standards that apply", "text": "Vomit or fecal cleanup containing visible blood falls under the Bloodborne Pathogens Standard (29 CFR 1910.1030). Bleach and peroxide concentrates require Hazard Communication compliance (29 CFR 1910.1200), and tight-fitting respirators require a written respiratory protection program with fit testing (29 CFR 1910.134). Vendors who skip these programs are underbidding on risk you inherit." },
+    { "type": "h2", "text": "Budgeting for Outbreaks Before They Happen" },
+    { "type": "p", "text": "Because decon is unplanned, many facility managers set aside a contingency equal to one full-scope response for their largest floor, roughly $0.25–$0.45 per sq ft, and negotiate pre-agreed unit rates into the master janitorial agreement. Pre-negotiated rates eliminate emergency premium pricing and let you authorize work by phone at night without a fresh bid." },
+    { "type": "cta", "text": "Plug your square footage and flooring type into the Office Cleaning Cost Calculator to compare routine per-visit costs with a decon event, then upload competing emergency bids to the Quote Comparator to normalize them to per-sq-ft and per-hour terms." }
+  ],
+  "faqs": [
+    { "q": "What is the typical minimum charge for office outbreak decontamination?", "a": "Most US vendors set a mobilization minimum of $250–$600, with same-night emergency calls at the higher end. For suites under about 2,500 sq ft, the minimum usually exceeds the unit-price total, so ask what scope the minimum covers." },
+    { "q": "Why does norovirus decontamination cost more than COVID disinfection?", "a": "Norovirus is a non-enveloped virus resistant to many quaternary disinfectants. Responders use bleach-strength or EPA-registered norovirus-claim products with longer dwell times, rinse food-contact surfaces, and treat vomit-contaminated carpet, which pushes rates to $0.25–$0.45 per sq ft versus $0.12–$0.25 for COVID hard-surface work." },
+    { "q": "Is electrostatic spraying enough on its own?", "a": "Not for heavily soiled surfaces. EPA guidance is that disinfectants work on pre-cleaned surfaces, so a credible scope includes cleaning visible soil first, then applying disinfectant for the full label contact time. Electrostatic application improves coverage but does not replace the cleaning step." },
+    { "q": "Can I add outbreak response pricing to my regular janitorial contract?", "a": "Yes. Many managers add a rate schedule exhibit with pre-agreed per-sq-ft, per-restroom, and hourly decon rates. This avoids emergency premiums and lets you compare the decon line against monthly service, which at 5x weekly equals 21.65 visits per month using 4.33 weeks." },
+    { "q": "What documentation should I get after the work is done?", "a": "A completion log showing treated areas, EPA registration number, dilution, contact time, technician names, and time stamps, plus SDS sheets for products used. Keep these with your incident records for HR, insurer, and landlord inquiries." }
+  ],
+  "amazonProductIds": [
+    "rug-doctor-mighty-pro-x3-commercial-carpet-cleaner",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack",
+    "ettore-master-brass-14-inch-commercial-window-squeegee"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-covid-norovirus-outbreak-decontamination/",
+    "/cleaning-services-and-tasks/covid-norovirus-outbreak-decontamination-included-vs-add-on-quotes/",
+    "/janitorial-carts-mops-and-tools/best-restroom-detailing-kit-for-in-house-custodians/"
+  ]
+}

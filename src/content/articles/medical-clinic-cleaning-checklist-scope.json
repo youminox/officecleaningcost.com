@@ -1,0 +1,88 @@
+{
+  "slug": "medical-clinic-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/medical-clinic-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "medical clinic scope tasks",
+  "title": "Medical Clinic Scope Tasks: Outpatient Suite Janitorial Checklist and Labor Hours",
+  "seoTitle": "Medical Clinic Scope Tasks: Outpatient Janitorial Checklist & Hours",
+  "metaDescription": "Medical clinic scope tasks by daily, weekly, and monthly frequency, with labor minutes per exam room and restroom. Size your crew, then compare quotes.",
+  "excerpt": "A clinic scope of work has to spell out which surfaces get cleaned, which get disinfected, and how long each task takes. This checklist breaks outpatient suite tasks into nightly, weekly, and monthly lists with labor minutes so you can verify vendor crew hours.",
+  "quickAnswer": "A medical clinic scope of work should list nightly exam room disinfection, patient restroom sanitation, waiting room high-touch wiping, and hard floor damp mopping, plus weekly and monthly detail tasks. Expect roughly 8-12 labor minutes per exam room and 12-18 minutes per patient restroom each night, which puts a 4,500 sq ft clinic at about 2-2.5 crew hours per visit versus 1.3 hours for the same footprint as a standard office. At $35-$65 per hour for standard labor, those specialty tasks explain most of the premium in clinic bids.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close-up of a janitorial worker in nitrile gloves wiping the vinyl surface of an exam table with a blue microfiber cloth inside a US outpatient exam room, a wall-mounted otoscope and sharps container softly blurred in the background, a yellow wet floor cone by the doorway, soft neutral evening light from a single ceiling fixture, 45-degree angle, no text, no logos, no watermarks",
+    "alt": "Cleaner wiping an exam table with a color-coded microfiber cloth in an outpatient exam room"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What a clinic scope of work has to define" },
+    { "type": "p", "text": "Most cleaning disputes in outpatient suites trace back to a vague scope. A one-line entry like 'clean exam rooms' tells the crew nothing about whether the exam table, the rolling stool, the blood pressure cuff hook, and the sink faucet get wiped with a general cleaner or disinfected with a registered product held wet for its label contact time. A usable scope names the space, the surfaces, the method, the chemical class, and the frequency. It also states what the crew must not touch: clinical equipment, medication carts, and sharps containers belong to clinical staff." },
+    { "type": "p", "text": "Write the scope by zone. Most clinics split into five: patient-facing (waiting room, check-in, restrooms), clinical (exam, procedure, lab draw), support (soiled and clean utility, staff lounge), administrative (offices, billing, records), and circulation (corridors, entries, elevators). Each zone carries a different frequency and labor rate." },
+    { "type": "h2", "text": "Nightly tasks and labor minutes" },
+    { "type": "table", "caption": "Nightly clinic scope with typical labor minutes per unit", "headers": ["Zone", "Task", "Method / chemical class", "Minutes per unit"], "rows": [
+      ["Exam room", "Disinfect exam table, stool, counters, sink, door lever, light switch", "Color-coded microfiber + EPA-registered disinfectant at label dwell", "8-12 per room"],
+      ["Exam room", "Empty general trash, replace liner, damp mop floor", "Neutral pH floor cleaner", "Included above"],
+      ["Patient restroom", "Disinfect toilet, sink, grab bars, pass-through door, changing station; restock", "Restroom-only red microfiber, disinfectant", "12-18 per restroom"],
+      ["Waiting room", "Wipe chair arms, check-in counter, pens, kiosk screen; vacuum or mop", "Disinfectant wipes on high-touch points", "15-25 per room"],
+      ["Lab / draw station", "Disinfect counters and phlebotomy chair arms (not equipment)", "Disinfectant, staff clears specimens first", "10-15"],
+      ["Corridors", "Dust mop and damp mop hard floors, spot clean walls", "Flagged broom, neutral cleaner", "5-8 per 1,000 sq ft"],
+      ["Admin offices", "Trash, desktop spot clean, vacuum traffic lanes", "General cleaner", "3-5 per office"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Crew hour sanity check", "text": "A standard office at ISSA production of about 3,500 sq ft per hour needs roughly 1.3 hours for 4,500 sq ft. The same footprint as a clinic with 10 exam rooms, 4 restrooms, a waiting room, and a draw station adds up to about 2-2.5 hours. If a vendor staffs 1.5 hours, something on the checklist is not getting done." },
+    { "type": "h2", "text": "Weekly and monthly detail tasks" },
+    { "type": "p", "text": "Weekly and monthly tasks are where clinics accumulate visible grime: baseboards behind exam tables, the underside of waiting room chairs, wheelchair-height wall scuffs, and supply vents above exam lights. Rotate these so each night carries a small slice instead of scheduling one long night that blows the crew schedule." },
+    { "type": "ul", "items": [
+      "Weekly: detail baseboards and corners in exam rooms and corridors with an angled broom such as the O-Cedar Commercial MaxiClean Angle Broom, whose flagged poly bristles and 48-inch handle reach under exam tables and along elevator tracks.",
+      "Weekly: disinfect waiting room chair legs, undersides, and wheelchair storage area.",
+      "Weekly: clean interior glass at entry doors and reception sliders ($15-$35 per visit if priced as an add-on).",
+      "Weekly: descale restroom fixtures and wipe partition tops.",
+      "Monthly: high dust supply and return vents, light lenses, and tops of cabinets.",
+      "Monthly: machine scrub restroom tile floors and grout.",
+      "Monthly: wash waste receptacles and recycling bins inside and out.",
+      "Quarterly: carpet extraction in admin areas and VCT scrub-and-recoat in corridors, amortized at $0.03-$0.06 per sq ft per month."
+    ] },
+    { "type": "h2", "text": "Specialty tasks that push labor above office rates" },
+    { "type": "p", "text": "Three task groups explain why clinic labor bills at or above the top of the $35-$65 standard hourly band, and sometimes into the $55-$95 specialty band. First, dwell time: a disinfectant with a 2-4 minute contact time means the crew must apply, wait, and wipe rather than one pass. Second, color-coded cross-contamination control: separate cloths and mop heads for restrooms, clinical areas, and general areas, which requires more laundering and more cloth changes. Third, documentation: many practices want a signed nightly log per exam room for accreditation surveys." },
+    { "type": "table", "caption": "Labor impact of clinic-specific tasks versus standard office scope (4,500 sq ft example, per night)", "headers": ["Specialty requirement", "Added minutes per night", "Monthly labor cost impact at $35-$65/hr, 21.65 visits"], "rows": [
+      ["Disinfectant dwell on 10 exam rooms", "25-35", "$316-$822"],
+      ["Color-coded cloth and mop changes", "10-15", "$126-$352"],
+      ["Patient restroom specimen pass-through detail", "8-12", "$101-$281"],
+      ["Nightly sign-off log per room", "5-10", "$63-$235"],
+      ["Total specialty uplift", "48-72", "$606-$1,690"]
+    ] },
+    { "type": "h2", "text": "Tools that make the checklist executable" },
+    { "type": "p", "text": "Color-coding only works if the cloths survive laundering. Rubbermaid Commercial HYGEN Microfiber Damp/Wet Cloths come in 16x16 color-coded packs rated for 500 commercial launderings and are bleach safe, so a clinic can assign red to restrooms, yellow to clinical, and blue to general areas. Wet floor signage matters more in clinics than offices because patients with mobility limits may arrive early for 7 a.m. appointments; a 36-inch four-sided cone like the Rubbermaid Commercial Yellow Caution cone with bilingual English and Spanish print is visible from wheelchair height. These tools are minor costs inside a bid but their absence on a site walk tells you a lot about the vendor." },
+    { "type": "callout", "variant": "compliance", "title": "Keep clinical items out of janitorial scope", "text": "State in writing that crews will not clean, move, or unplug clinical equipment, will not handle sharps containers or red-bag waste, and will not open medication or specimen refrigerators. This protects the vendor, protects your patients, and keeps the scope consistent with OSHA bloodborne pathogen exposure determinations." },
+    { "type": "h2", "text": "Turning the checklist into a contract exhibit" },
+    { "type": "steps", "items": [
+      { "name": "Walk the suite with the vendor", "text": "Count exam rooms, restrooms, procedure rooms, and square footage by zone. Note flooring type in each zone." },
+      { "name": "Assign frequency per task", "text": "Clinical and patient zones nightly; admin zones two or three times weekly if budget is tight." },
+      { "name": "Attach labor minutes", "text": "Ask the vendor to show minutes per task and total crew hours per visit so you can audit staffing." },
+      { "name": "Define inspection and correction", "text": "Set a monthly joint inspection with a scored checklist and a 24-hour correction window for failed items." },
+      { "name": "List exclusions", "text": "Regulated medical waste, equipment, exterior windows, and post-construction cleanup should be named as exclusions or priced separately." }
+    ] },
+    { "type": "cta", "text": "Enter your exam room count, restroom count, and square footage in the Office Cleaning Cost Calculator to see the expected crew hours, then use the Quote Comparator to check whether each vendor's staffing matches the checklist." }
+  ],
+  "faqs": [
+    { "q": "How many crew hours should a clinic cleaning bid include?", "a": "Use about 2,000 sq ft per labor hour as a working benchmark for clinical space and 3,500 sq ft per hour for admin space, then add 12-18 minutes per patient restroom. A 4,500 sq ft clinic typically needs 2-2.5 hours per night. Multiply by 21.65 visits per month (five nights at 4.333 weeks) to get 43-54 labor hours monthly." },
+    { "q": "Should the scope distinguish cleaning from disinfecting?", "a": "Yes. Cleaning removes soil; disinfecting kills pathogens and only works on a pre-cleaned surface with the product kept wet for its label contact time. The scope should list which surfaces get each treatment and which EPA-registered product class is used. Ask for Safety Data Sheets on every product to meet the OSHA Hazard Communication Standard." },
+    { "q": "Can admin areas in a clinic be cleaned less often?", "a": "Usually. Billing offices, records rooms, and physician offices without patient contact can move to 2x or 3x weekly. The 2x-weekly frequency carries a 1.0 multiplier and the 3x-weekly a 0.95 multiplier, so the per-visit rate rises slightly but total monthly cost drops." },
+    { "q": "Who handles blood or body fluid spills during the day?", "a": "Clinical staff should handle spills during patient hours using a spill kit. The night crew can perform a final disinfection of the area, but only if they have OSHA Bloodborne Pathogens training and PPE. State this division clearly in the contract and in the vendor's exposure control plan." },
+    { "q": "What documentation should the crew leave each night?", "a": "A simple room-by-room log with the date, initials, and tasks completed is enough for most practices. Accredited ambulatory centers often want the disinfectant name and verification that dwell time was observed. Logs help during surveys and give you objective data in contract disputes." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-microfiber-damp-wet-cloths-12-pack",
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/medical-clinic-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/dental-office-cleaning-cost/",
+    "/facility-cleaning-costs/dental-office-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/unger-18-inch-pro-kit-vs-ettore-master-brass/"
+  ]
+}

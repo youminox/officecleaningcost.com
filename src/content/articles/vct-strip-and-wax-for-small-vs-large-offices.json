@@ -1,0 +1,97 @@
+{
+  "slug": "vct-strip-and-wax-for-small-vs-large-offices",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/vct-strip-and-wax-for-small-vs-large-offices/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "small vs large vct strip and wax volume",
+  "title": "Small vs. Large VCT Strip and Wax Volume: How Economies of Scale Change Unit Pricing",
+  "seoTitle": "Small vs Large VCT Strip and Wax Volume: Unit Pricing by Office Size",
+  "metaDescription": "Small vs large VCT strip and wax volume: 2,000 sq ft suites pay $0.50–$0.75/sq ft, 25,000+ sq ft floors $0.25–$0.38. Compare vendor quotes in our tool.",
+  "excerpt": "Office managers learn why a 2,000 sq ft suite pays two to three times more per square foot for VCT stripping and waxing than a 25,000 sq ft building. The guide breaks down setup costs, crew sizing, and tactics small tenants can use to capture volume pricing.",
+  "quickAnswer": "VCT strip and wax unit pricing falls sharply with volume: a 2,000 sq ft office typically pays $0.50–$0.75 per sq ft (often a $250–$500 minimum), mid-size floors pay $0.35–$0.55, and buildings over 25,000 sq ft pay $0.25–$0.38. Small tenants can narrow the gap by pooling jobs with neighbors or bundling floors into an annual program.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic split composition of two US commercial spaces at night: on the left a compact dental-office reception with glossy beige VCT and one technician with a flat mop, on the right a long corporate building corridor with a crew of three and a wide dust mop on freshly finished VCT, cool even lighting, symmetrical eye-level framing, no text, no logos, no watermarks",
+    "alt": "Small suite with one technician compared with a large corridor crew refinishing VCT floors"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why Unit Prices Drop as Square Footage Grows" },
+    { "type": "p", "text": "Every strip-and-wax job carries fixed costs that don't change much with size: loading a van, driving to the site, unloading a swing machine and wet-vac, mixing stripper, taping off edges, and a supervisor's final inspection. On a typical job, these fixed costs land around $150 to $300. Spread across 2,000 sq ft, that is $0.08 to $0.15 per sq ft before a single tile is stripped. Spread across 30,000 sq ft, it falls to half a cent to a cent." },
+    { "type": "p", "text": "Production rate also improves with scale. Large open corridors let crews run auto-scrubbers and wide finish applicators in long straight passes. Small suites are made of short hallways, door thresholds, and break rooms with appliances, which force hand detailing. The result is that variable labor per square foot falls too, not just setup." },
+    {
+      "type": "table",
+      "caption": "VCT strip and wax economics by office size (national ranges)",
+      "headers": ["Office VCT area", "Crew size", "Production (sq ft/crew hr)", "Setup share per sq ft", "Unit price per sq ft", "Typical job total"],
+      "rows": [
+        ["1,000–2,499 sq ft", "1–2 techs", "250–400", "$0.06–$0.30", "$0.50–$0.75 (or minimum)", "$500–$1,875"],
+        ["2,500–9,999 sq ft", "2 techs", "400–550", "$0.02–$0.08", "$0.35–$0.55", "$875–$5,500"],
+        ["10,000–24,999 sq ft", "3–4 techs", "500–650", "$0.01–$0.03", "$0.28–$0.45", "$2,800–$11,250"],
+        ["25,000+ sq ft", "4–6 techs + auto-scrubber", "600–800", "Under $0.01", "$0.25–$0.38", "$6,250–$19,000+"]
+      ]
+    },
+    { "type": "p", "text": "These tiers mirror the national janitorial pricing brackets, where routine cleaning drops from $0.12–$0.20 per sq ft per visit under 2,500 sq ft to $0.05–$0.10 above 25,000 sq ft. The same logic holds for periodic floor work, but the swing is larger because specialty labor at $55–$95 per hour dominates the cost." },
+    { "type": "h2", "text": "Worked Example: 2,000 sq ft vs. 30,000 sq ft" },
+    { "type": "p", "text": "Consider a 2,000 sq ft medical suite with VCT corridors, exam rooms, and a break room. A two-person crew working at 300 sq ft per crew hour needs about 6.7 crew hours, or 13.3 technician hours. At $65 per hour, labor is about $870. Add $200 in setup and travel and $160 in materials at $0.08 per sq ft, and the job costs roughly $1,230, or $0.62 per sq ft." },
+    { "type": "p", "text": "Now consider a 30,000 sq ft floor of open corridors and common areas. A five-person crew with an auto-scrubber picks up slurry in one pass, so each technician covers about 250 sq ft per hour instead of the 150 sq ft per technician hour seen in the small suite. That means roughly 120 technician hours, or two 12-hour nights for the crew. At a volume rate of $55 per hour, labor is about $6,600; materials add about $1,800 at bulk pricing of $0.06 per sq ft, and setup across two nights adds $500. With supervision and margin, typical bids land around $8,900–$10,500, or $0.30–$0.35 per sq ft, roughly half the small suite's unit price." },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 2.2x rule of thumb",
+      "text": "Across many US bids, small suites under 2,500 sq ft pay roughly 2 to 2.5 times the per-square-foot price of large floors over 25,000 sq ft for the same strip-and-wax specification. If a small-suite quote is more than 3 times a large-floor benchmark, ask what is driving it."
+    },
+    { "type": "h2", "text": "Where Small Offices Lose and Large Offices Gain" },
+    {
+      "type": "ul",
+      "items": [
+        "Minimum charges: most vendors set a $250–$500 project floor, so a 600 sq ft break room can cost as much as an 1,000 sq ft corridor.",
+        "Bulk chemistry: large jobs use 5-gallon pails or drums of stripper and finish, cutting material costs by 20%–30% compared with gallon jugs.",
+        "Equipment efficiency: auto-scrubbers pick up slurry in one pass on large floors but are impractical in small rooms crowded with furniture.",
+        "Scheduling flexibility: large buildings can be phased by wing across multiple nights, letting vendors fill crew schedules efficiently.",
+        "Negotiating leverage: a 25,000+ sq ft annual program is worth thousands to a vendor, so they compete harder on unit price.",
+        "Hidden small-suite costs: parking, freight elevator booking, and security escort fees hit small jobs as hard as large ones."
+      ]
+    },
+    { "type": "h2", "text": "How Small Tenants Can Capture Volume Pricing" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Pool with neighboring tenants", "text": "Coordinate with other suites on your floor or ask the property manager to bundle common-area and tenant VCT into one job. Combining four 2,000 sq ft suites into 8,000 sq ft can drop unit pricing into the $0.35–$0.45 range." },
+        { "name": "Combine services in one visit", "text": "Schedule strip and wax alongside carpet encapsulation or window work so the vendor mobilizes once." },
+        { "name": "Commit to an annual program", "text": "One annual strip plus two or three scrub-and-recoats, priced as a program, often costs 10%–20% less per event than ad hoc requests." },
+        { "name": "Prep the space yourself", "text": "Clear break-room tables, move chairs, and remove clutter before the crew arrives to cut billable setup time." },
+        { "name": "Be flexible on timing", "text": "Vendors often discount jobs that fill slow weeks, such as late January or mid-summer." }
+      ]
+    },
+    { "type": "h2", "text": "Daily Tools That Protect Your Investment at Any Size" },
+    { "type": "p", "text": "The cheapest strip-and-wax job is the one you postpone by protecting the finish. Grit and harsh chemicals are what wear finish down. In large corridors, a 36-inch cotton dust mop with a 360-degree swivel frame and 60-inch handle lets night crews remove grit quickly across wide hallways before damp mopping. For damp mopping, a dual-compartment bucket such as Unger's 15-gallon SmartColor system keeps clean neutral solution separate from dirty rinse water so soil is not redeposited onto the finish. In small suites, a bucketless microfiber kit like the Rubbermaid HYGEN 18-inch Pulse mop with a 2-quart onboard reservoir applies just enough solution to clean without flooding seams, which helps finish last longer between strips." },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Same safety rules regardless of size",
+      "text": "Even a one-room strip job involves alkaline stripper covered by OSHA HazCom. Require SDS sheets, PPE, ventilation, and wet-floor signage. Small vendors working a suite should carry the same COI coverage, including additional-insured language for your landlord, as large contractors."
+    },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to model your VCT square footage at small-suite and pooled-volume rates, then compare vendor bids in the Quote Comparator to see whether you're paying a fair scale-adjusted price." }
+  ],
+  "faqs": [
+    { "q": "Why does my 2,000 sq ft office pay more per sq ft than a big building?", "a": "Fixed setup, travel, and supervision costs of roughly $150 to $300 are spread over fewer square feet, and small rooms slow crews down. Together these push small-suite unit pricing to $0.50–$0.75 per sq ft, compared with $0.25–$0.38 for floors over 25,000 sq ft." },
+    { "q": "Can I negotiate the project minimum for a small break room?", "a": "Sometimes. Vendors may waive or reduce the minimum if you add it onto an existing visit, such as a scheduled carpet cleaning, or if you sign an annual floor program. Standalone one-room jobs almost always hit the $250–$500 minimum." },
+    { "q": "Do large buildings get lower quality because of lower prices?", "a": "Not necessarily. Lower unit prices reflect efficiency, not fewer coats. Specify the number of sealer and finish coats, the stripper dwell time, and the rinse procedure in the scope so all bidders price the same specification regardless of building size." },
+    { "q": "How should I budget strip and wax in a monthly janitorial contract?", "a": "Amortize the annual cost across 12 months. For example, a $1,230 annual strip on a 2,000 sq ft suite equals about $103 per month. If you also schedule scrub-and-recoats, include them. Benchmarks for a full deep floor program fall around $0.03–$0.06 per sq ft per month, though small suites often land above that range." },
+    { "q": "Is it worth pooling with other tenants?", "a": "Usually, yes. Combining several small suites into one 8,000–10,000 sq ft job can cut unit pricing by 25%–40%. The property manager can coordinate scheduling and access, and each tenant pays for its own square footage at the lower blended rate." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-hygen-18-inch-microfiber-flat-mop-kit",
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system",
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-vct-strip-and-wax/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-vct-strip-and-wax-quotes/",
+    "/commercial-vacuums-and-floor-machines/bissell-biggreen-bg102hpro-vs-hoover-hushtone/"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "physical-therapy-clinic-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/physical-therapy-clinic-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "physical therapy clinic rates",
+  "title": "Physical Therapy Clinic Rates: Monthly Janitorial Spend Benchmarks for PT and Rehab Offices",
+  "seoTitle": "Physical Therapy Clinic Rates: Monthly Janitorial Spend Benchmarks",
+  "metaDescription": "Physical therapy clinic rates: $0.09-$0.15/sq ft per visit for 2,500-9,999 sq ft, about $6.2K-$10.5K/mo at 3x weekly for 5,000 sq ft. Try our calculator.",
+  "excerpt": "Physical therapy and rehab clinics combine open gym floors, treatment tables, and patient restrooms, which puts their cleaning costs between a medical office and a fitness studio. This guide gives monthly benchmarks by clinic size and frequency so a clinic director can sanity-check janitorial bids.",
+  "quickAnswer": "Physical therapy clinics between 2,500 and 9,999 sq ft are typically priced at $0.09 to $0.15 per sq ft per visit, adjusted for mixed flooring and frequency, plus $15 to $30 per restroom. A 5,000 sq ft PT clinic with mixed rubber, vinyl, and carpet floors and two restrooms runs about $6,230 to $10,510 per month at three nights per week, or $9,860 to $16,640 at five nights.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide shot of a US outpatient physical therapy gym after hours, padded treatment tables, parallel bars, rubber flooring transitioning to light hardwood, a janitor with a quiet backpack vacuum cleaning around exercise equipment, warm evening light through windows mixed with overhead LEDs, eye-level camera, no text, no logos, no watermarks",
+    "alt": "Janitor vacuuming around treatment tables and parallel bars in a physical therapy gym"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes physical therapy clinic rates different" },
+    { "type": "p", "text": "A physical therapy clinic is a hybrid space. The front looks like a medical office, with reception, a waiting area, and private treatment rooms. The back is an open gym with rubber or sport flooring, mat tables, parallel bars, treadmills, cable machines, and stacks of foam rollers and therabands. Patients sweat, lie face-down on vinyl tables, and touch the same dumbbells and handrails dozens of times a day. That mix of skin-contact surfaces and gym flooring is what pushes PT rates above a standard office of the same size." },
+    { "type": "p", "text": "Most outpatient PT clinics fall in the 2,500 to 9,999 sq ft bracket, where the national benchmark is $0.09 to $0.15 per sq ft per visit. Mixed flooring carries a 1.05 multiplier because crews need both vacuum and wet-mop setups, and a clinic with a hardwood movement studio adds 1.08 on that zone. Small single-therapist practices under 2,500 sq ft pay $0.12 to $0.20 per sq ft, while large rehab centers above 10,000 sq ft drop to $0.07 to $0.12." },
+    { "type": "h2", "text": "Monthly spend benchmarks by clinic size and frequency" },
+    { "type": "p", "text": "These estimates use the calculator formula: square footage times bracket rate times flooring and frequency multipliers, plus restrooms per visit, multiplied by visits per month at 4.33 weeks per month. They exclude consumables, breakroom service, and quarterly floor care." },
+    { "type": "table", "caption": "Estimated physical therapy clinic cleaning costs, national average", "headers": ["Clinic profile", "Frequency (combined factor)", "Restrooms", "Per visit", "Monthly range"], "rows": [
+      ["2,200 sq ft single-therapist studio, mixed floors", "3x/week (x0.998)", "1", "$278 - $469", "$3,618 - $6,096"],
+      ["5,000 sq ft outpatient clinic, mixed floors", "2x/week (x1.05)", "2", "$503 - $848", "$4,352 - $7,339"],
+      ["5,000 sq ft outpatient clinic, mixed floors", "3x/week (x0.998)", "2", "$479 - $808", "$6,225 - $10,506"],
+      ["5,000 sq ft outpatient clinic, mixed floors", "5x/week (x0.945)", "2", "$455 - $769", "$9,856 - $16,643"],
+      ["12,000 sq ft rehab center with aquatic area, mixed floors", "5x/week (x0.945)", "4", "$854 - $1,481", "$18,485 - $32,059"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Translate to dollars per square foot per month", "text": "A 5,000 sq ft PT clinic on a three-night schedule costs about $1.25 to $2.10 per sq ft per month; at five nights it rises to roughly $1.97 to $3.33. Use these ratios to spot bids that quietly dropped the gym floor or treatment rooms from scope." },
+    { "type": "h2", "text": "Restroom density and locker areas" },
+    { "type": "p", "text": "PT clinics typically have one or two patient restrooms, a staff restroom, and in larger rehab centers a changing room or shower used by aquatic therapy patients. Because patients change clothes and some use mobility aids, restrooms are larger and include grab bars, fold-down benches, and ADA fixtures that take longer to wipe down. At $15 to $30 per restroom per visit, two restrooms add $390 to $780 per month on a three-night schedule and $650 to $1,299 at five nights." },
+    { "type": "p", "text": "Showers and changing areas are the biggest swing factor. If your clinic has a therapy pool, expect vendors to price wet-area floors at the tile-and-grout multiplier of 1.12 and to add time for squeegeeing, drain cleaning, and mildew prevention. Pool water chemistry itself should remain with the clinic or a licensed pool service, not the janitorial vendor." },
+    { "type": "h2", "text": "Traffic wear on gym and treatment floors" },
+    { "type": "p", "text": "Rubber gym flooring hides dirt but holds sweat and fine grit in its texture, which dulls the surface and creates odor over time. It needs a neutral cleaner and a damp pass, never solvent or oil-based products that soften the rubber. Vinyl treatment-room floors take wheeled stools and walker traffic, so finish wears along predictable paths. Carpet in the waiting room collects outdoor grit from patients who arrive in athletic shoes. Clinics with a hardwood movement or Pilates studio should insist on a residue-free, urethane-safe cleaner such as Bona Pro Series, GREENGUARD certified and available as ready-to-use or concentrate, so the floor stays non-slip for barefoot patients." },
+    { "type": "p", "text": "Vacuum choice also matters in an open gym full of equipment. A backpack unit like the Karcher BV 5/1, with a 1.3 gal fleece-plus-HEPA bag, 11.7 lb weight, and a 62 dBA sound level, reaches under mat tables and between machines without dragging a cord through the room. For touch points that cannot be wet-wiped, such as treadmill consoles and phones, an EPA-registered aerosol like Lysol Professional Disinfectant Spray is a practical supplement." },
+    { "type": "h2", "text": "Recommended weekly frequency for PT and rehab offices" },
+    { "type": "ul", "items": [
+      "Two nights per week: only workable for a part-time or cash-based practice with low patient volume and staff who disinfect tables and equipment between sessions.",
+      "Three nights per week: the most common schedule for outpatient PT clinics with one to three therapists, usually Monday, Wednesday, and Friday nights.",
+      "Five nights per week: recommended for clinics seeing 40 or more patients per day, hospital-affiliated outpatient sites, and any clinic with showers or a pool.",
+      "Day porter add-on: high-volume rehab centers sometimes add a mid-day restroom and touch-point check, priced at $55 to $95 per hour."
+    ] },
+    { "type": "h2", "text": "Add-ons and how to compare bids" },
+    { "type": "p", "text": "Breakroom sanitation at $12 to $25 per visit, interior glass at $15 to $35 per visit, and vendor-supplied consumables at $0.012 to $0.025 per sq ft per visit are the usual extras. For a 5,000 sq ft clinic at three nights, consumables alone add about $780 to $1,625 per month. A quarterly deep floor program, amortized at $0.03 to $0.06 per sq ft per month, adds $150 to $300 monthly and restores rubber and vinyl floors that daily cleaning cannot fully reset." },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage", "text": "Include the gym, treatment rooms, offices, and restrooms, but exclude storage rooms the vendor will not enter." },
+      { "name": "Pick a realistic frequency", "text": "Match nights to patient volume and whether staff wipe equipment between sessions." },
+      { "name": "Normalize every bid to monthly cost", "text": "Multiply per-visit prices by 4.33 times nights per week so each quote is comparable." },
+      { "name": "Confirm equipment responsibilities", "text": "Decide in writing whether the vendor or clinical staff disinfect mat tables, weights, and machines." },
+      { "name": "Require a COI before start", "text": "General liability, workers compensation, and bond coverage should name the clinic and landlord." }
+    ] },
+    { "type": "cta", "text": "Enter your clinic's square footage, floor mix, restroom count, and nights per week into the Office Cleaning Cost Calculator, then compare vendor proposals side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How much does it cost to clean a 3,500 sq ft physical therapy clinic?", "a": "With mixed flooring, two restrooms, and three nights per week, the per-visit cost is roughly $344 to $584, which is about $4,470 to $7,590 per month using 13 visits. Moving to five nights raises it to approximately $6,860 to $11,640 per month." },
+    { "q": "Should the cleaning crew disinfect PT treatment tables and equipment?", "a": "Clinical staff typically wipe tables and handheld equipment between patients. The nightly crew can perform a terminal disinfection of tables, handrails, parallel bars, and machine grips, but this must be written into the scope with a product compatible with vinyl upholstery so tables do not crack." },
+    { "q": "Do physical therapy clinics need OSHA-compliant cleaning programs?", "a": "Yes. OSHA Hazard Communication applies to every chemical the vendor brings in, and the Bloodborne Pathogens Standard can apply where wound care, dry needling, or blood exposure occurs. Ask vendors for training records, SDS binders, and their spill-response procedure." },
+    { "q": "Why is rubber gym flooring more expensive to clean?", "a": "It holds sweat and grit in its texture, can be damaged by the wrong chemicals, and needs a neutral cleaner with an extra damp pass to avoid residue. Vendors price that labor through the mixed-flooring multiplier and often recommend a quarterly scrub to remove buildup." },
+    { "q": "Is a three-night schedule enough for a busy PT clinic?", "a": "For clinics seeing fewer than about 30 to 40 patients daily, three nights plus staff wipe-downs usually works. Higher volume, showers, or a pool generally justify five nights, because restrooms and gym floors degrade quickly between visits." }
+  ],
+  "amazonProductIds": [
+    "karcher-bv-5-1-commercial-backpack-vacuum",
+    "lysol-professional-disinfectant-spray-19-oz-case-12-pack",
+    "bona-pro-series-commercial-hardwood-floor-cleaner-gallon"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/physical-therapy-clinic-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/physical-therapy-clinic-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/chiropractic-clinic-cleaning-cost/",
+    "/restroom-and-breakroom-dispensers/best-coreless-commercial-toilet-paper-dispensers/"
+  ]
+}

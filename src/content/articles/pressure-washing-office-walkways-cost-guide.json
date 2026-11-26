@@ -1,0 +1,79 @@
+{
+  "slug": "pressure-washing-office-walkways-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/pressure-washing-office-walkways-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "office entry sidewalk & patio pressure washing unit price",
+  "title": "Office Entry Sidewalk & Patio Pressure Washing Cost: Per-Sq-Ft & Hourly Rates",
+  "seoTitle": "Office Sidewalk & Patio Pressure Washing Cost: Per-Sq-Ft & Hourly Rates",
+  "metaDescription": "Office sidewalk and patio pressure washing runs $0.15–$0.35 per sq ft with $175–$350 minimums. See unit rates, hourly math, and run the cost calculator.",
+  "excerpt": "Pressure washing office entries, sidewalks, and employee patios is priced per square foot, per fixture, or per crew hour, and the minimum charge often matters more than the rate. This guide gives national US ranges and shows how to convert any bid into a comparable unit price.",
+  "quickAnswer": "Nationally, flat-surface pressure washing for office entries, sidewalks, and patios costs about $0.15–$0.35 per sq ft for routine cleaning and $0.30–$0.60 per sq ft with hot water, degreasing, or gum removal. Crews bill $55–$95 per technician hour, and most vendors set a mobilization minimum of $175–$350 per visit, so jobs under roughly 1,000 sq ft usually pay the minimum.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early morning scene at a suburban US office building entrance, a technician in safety glasses and rubber boots running a surface-cleaner pressure washing attachment across a concrete walkway, half the sidewalk visibly brighter than the gum-spotted untreated half, low golden sunlight, glass entry doors and planters in background, eye-level wide angle shot, no text, no logos, no watermarks",
+    "alt": "Technician pressure washing a concrete office entry walkway showing clean versus soiled sections"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The three ways vendors price exterior walkway washing" },
+    { "type": "p", "text": "Exterior hardscape is outside the normal janitorial square footage that drives your nightly contract, so vendors price it separately. You will see three formats: a per-square-foot rate for flat concrete or pavers, a per-fixture or per-item rate for things like gum spots, dumpster pads, benches, and smoking receptacles, and an hourly crew rate with a minimum. All three can be fair. The problem is that bidders rarely use the same format, so you need to translate each one into a cost per square foot of measured surface." },
+    { "type": "table", "caption": "National US unit price ranges for office entry sidewalk and patio pressure washing (2026)", "headers": ["Service line", "Unit", "Typical range", "Notes"], "rows": [
+      ["Routine flat concrete wash", "per sq ft", "$0.15–$0.35", "Cold or warm water with surface cleaner"],
+      ["Hot-water degrease and stain treatment", "per sq ft", "$0.30–$0.60", "Oil drips, food court patios, dumpster aprons"],
+      ["Paver patio wash with joint sand refill", "per sq ft", "$0.35–$0.75", "Sealing billed separately"],
+      ["Gum removal", "per piece", "$0.25–$0.75", "Steam or hot-water spot treatment"],
+      ["Dumpster pad or smoking area", "per pad", "$75–$175", "Includes degreaser and rinse"],
+      ["Crew labor", "per tech hour", "$55–$95", "Specialty labor benchmark"],
+      ["Mobilization minimum", "per visit", "$175–$350", "Covers truck, water tank, and setup"]
+    ] },
+    { "type": "h2", "text": "How production rates set the per-square-foot price" },
+    { "type": "p", "text": "A one-technician crew with a 4 gallon-per-minute hot-water unit and a 20-inch rotary surface cleaner typically washes 800–1,200 sq ft per hour of open, lightly soiled concrete, including pre-treatment and rinse. At $75 per hour, that is $0.06–$0.09 in direct labor per sq ft. Add fuel, water recovery if required, chemical, equipment amortization, insurance, and margin, and you land in the $0.15–$0.35 range. Heavily stained entries with gum every few feet drop production to 300–500 sq ft per hour, which is why degreasing and gum work price higher." },
+    { "type": "p", "text": "Interior floor machines are a useful comparison. A 20-inch 175 RPM rotary floor machine or a compact cordless scrubber-drier can handle a covered vestibule or a sealed-concrete lobby threshold, but they are not substitutes for pressure washing open exterior concrete. Vendors who propose scrubbing a covered entry with an auto-scrubber instead of pressure washing are often offering a cheaper, legitimate option for that zone; just make sure the bid says which method applies where." },
+    { "type": "h2", "text": "Converting hourly and per-visit bids to unit price" },
+    { "type": "steps", "items": [
+      { "name": "Measure the surface", "text": "Measure walkways, entry plazas, patios, and pads separately. A 6-foot-wide sidewalk running 150 feet is 900 sq ft; a 30 x 40 foot employee patio is 1,200 sq ft." },
+      { "name": "Ask for estimated hours", "text": "Require hourly bidders to state crew size and expected on-site hours. Multiply by the hourly rate." },
+      { "name": "Add line items", "text": "Add gum counts, pad fees, and any water-recovery or after-hours surcharges." },
+      { "name": "Apply the minimum", "text": "If the total is below the stated minimum, the minimum is your price." },
+      { "name": "Divide by total sq ft", "text": "The result is a comparable effective rate across all bids." }
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Worked example: 2,100 sq ft entry and patio", "text": "Sidewalk 900 sq ft plus patio 1,200 sq ft equals 2,100 sq ft. At $0.25 per sq ft, routine washing is $525. Add 120 gum pieces at $0.50 ($60) and one dumpster pad at $125, for a $710 total, an effective $0.34 per sq ft. An hourly bid of 2 techs x 4 hours x $70 = $560 plus the same pad and gum lines would be $745, or $0.35 per sq ft." },
+    { "type": "h2", "text": "When the minimum charge is the real price" },
+    { "type": "p", "text": "Mobilization is a fixed cost: a trailer-mounted hot-water unit, a 200- to 500-gallon water tank, hoses, cones, and drive time. That is why small suites with a single 400 sq ft entry usually pay a flat $175–$350 regardless of the unit rate. Compare that with the $90–$135 per-visit minimum common for interior janitorial work; exterior washing minimums are higher because the equipment is heavier and setup takes longer. If you only have a small entry, ask your janitorial vendor whether they can combine the wash with another exterior visit or your landlord's common-area schedule so you share the mobilization." },
+    { "type": "h2", "text": "Converting visits to monthly and annual budget" },
+    { "type": "p", "text": "Most offices do not wash monthly. Quarterly service on the 2,100 sq ft example above at $710 per visit is $2,840 per year, or about $237 per month when amortized across 12 months. If you compare it with a weekly interior contract, convert the interior cost using 4.333 weeks per month so both lines sit on the same monthly basis in your budget." },
+    { "type": "h2", "text": "Scope details that change the bid" },
+    { "type": "ul", "items": [
+      "Water source: on-site hose bib access versus vendor-supplied water from a tank.",
+      "Wastewater handling: many municipalities prohibit washwater with detergent or oil from entering storm drains, requiring drain covers, berms, and vacuum recovery that add $0.05–$0.15 per sq ft.",
+      "Surface type: broom-finished concrete, stamped concrete, brick pavers, and sealed stone each need different pressure and tip angle to avoid etching or joint loss.",
+      "Timing: early-morning or weekend windows to avoid pedestrians and wet-surface slip exposure.",
+      "Post-wash sealing for pavers or decorative concrete, usually a separate per-sq-ft line.",
+      "Signage and cones: wet-surface warning signage should be included to manage slip-and-fall liability."
+    ] },
+    { "type": "callout", "variant": "compliance", "title": "Insurance and safety paperwork", "text": "Request a COI with general liability of at least $1 million per occurrence naming the property owner and manager as additional insured. Ask for Safety Data Sheets for any degreaser or detergent under OSHA HazCom, and confirm the crew uses eye protection and slip-resistant footwear. Pressure washers can cause injection injuries, so vendor training records are worth reviewing." },
+    { "type": "cta", "text": "Enter your measured walkway and patio square footage in the Office Cleaning Cost Calculator to budget the exterior line, then drop competing bids into the Quote Comparator to see effective per-sq-ft rates side by side." }
+  ],
+  "faqs": [
+    { "q": "What is a fair per-square-foot price for office sidewalk pressure washing?", "a": "For routine cleaning of broom-finished concrete, $0.15–$0.35 per sq ft is the national range in 2026. Prices toward the top of that range reflect heavier soil, hot water, wastewater recovery, or after-hours timing. Below $0.12 often means the vendor is skipping pre-treatment or will add line items later." },
+    { "q": "Why did I get a flat $250 quote for a small entry?", "a": "That is the mobilization minimum. Exterior pressure washing requires a truck or trailer, a hot-water unit, and water supply, so most vendors set minimums of $175–$350 per visit. For areas under about 1,000 sq ft, the minimum usually exceeds the unit-rate total." },
+    { "q": "Is gum removal included in the square-foot rate?", "a": "Usually not. Standard washing loosens surface soil but does not remove embedded gum. Vendors treat gum with steam or targeted hot water and price it at $0.25–$0.75 per piece. Count gum pieces in a typical 10 x 10 foot section and extrapolate so every bidder prices the same number." },
+    { "q": "Do pressure washing crews need to capture wastewater?", "a": "Many US municipalities follow Clean Water Act stormwater rules that prohibit discharging washwater with detergents, oil, or debris into storm drains. Where enforced, vendors must block drains and vacuum-recover water, adding about $0.05–$0.15 per sq ft. Ask bidders to state their wastewater method in writing." },
+    { "q": "How does this compare with my nightly janitorial cost?", "a": "Interior janitorial runs about $0.05–$0.20 per sq ft per visit depending on building size. Exterior washing is a periodic project at $0.15–$0.35 per sq ft per visit, but done only quarterly or annually. Amortized monthly, a quarterly program is often under 5% of a weekly interior contract calculated at 4.333 weeks per month." }
+  ],
+  "amazonProductIds": [
+    "sanitaire-sc6045a-commercial-rotary-floor-machine",
+    "karcher-bd-30-4-c-bp-compact-scrubber-drier",
+    "oreck-commercial-orbiter-orb550mc-floor-machine"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/pressure-washing-office-walkways-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-pressure-washing-office-walkways/",
+    "/cleaning-services-and-tasks/pressure-washing-office-walkways-included-vs-add-on-quotes/",
+    "/janitorial-carts-mops-and-tools/best-high-reach-dusters-for-office-vents-and-blinds/"
+  ]
+}

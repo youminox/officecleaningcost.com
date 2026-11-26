@@ -1,0 +1,195 @@
+{
+  "slug": "how-often-to-rebid-office-cleaning-contracts-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/how-often-to-rebid-office-cleaning-contracts-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric how often to rebid office cleaning contracts",
+  "title": "Auditing Contractor Claims on When to Rebid Contract (100-Point Renewal Scorecard)",
+  "seoTitle": "Weighted Evaluation Rubric: How Often to Rebid Office Cleaning Contracts",
+  "metaDescription": "Use a 100-point weighted evaluation rubric for how often to rebid office cleaning contracts. Audit incumbent rates vs market bids in our cost calculator.",
+  "excerpt": "Deciding whether to renew an incumbent cleaning vendor at Month 24 or launch a full market RFP requires objective scoring rather than gut instinct. Use this 100-point weighted evaluation rubric to grade price drift, verified labor hours, QA audit trends, and turnover stability.",
+  "quickAnswer": "A structured weighted evaluation rubric how often to rebid office cleaning contracts grades your incumbent vendor on a 100-point scale 90 days before contract expiration: Market Price Alignment vs. $/Sq Ft Benchmarks (30 pts), Verified Nightly Labor Hour Delivery (25 pts), Rolling 12-Month QA Inspection Scores (20 pts), Cleaner Retention & Background Compliance (15 pts), and Periodic Floor & Consumable Execution (10 pts). Incumbents scoring 82+ earn a 1-year renewal option; scores below 82 trigger an immediate competitive RFP.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic three-quarter view of two commercial property operations managers standing in a bright corporate office lobby reviewing a printed vendor performance scorecard and tablet dashboard while inspecting polished terrazzo flooring and stainless steel restroom corridor fixtures, morning sunlight streaming through floor-to-ceiling windows, sharp architectural lens, no text or watermarks",
+    "alt": "Commercial property operations managers scoring an incumbent janitorial contractor with a renewal rubric"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Replacing Gut Feel With a Renew-vs-Rebid Procurement Scorecard"
+    },
+    {
+      "type": "p",
+      "text": "Every 12 to 24 months, commercial office managers face the same procurement dilemma: your incumbent janitorial account executive sends a friendly renewal letter requesting a 4.5% rate increase and argues that switching contractors will disrupt your building security and night operations. Meanwhile, your CFO asks why janitorial spend has climbed 14% over the past two years and demands to know whether you are leaving money on the table."
+    },
+    {
+      "type": "p",
+      "text": "Implementing a formal weighted evaluation rubric how often to rebid office cleaning contracts removes personal lobbying and guesswork from the renewal decision. Executed 90 days prior to your contract anniversary date, this scorecard audits the incumbent contractor's hard operational data against national pricing benchmarks ($0.07 to $0.12 per sq ft per visit for 10,000 to 24,999 sq ft offices; $0.09 to $0.15 per sq ft for 2,500 to 9,999 sq ft suites), ISSA 3,500 sq ft/hr labor production standards, and documented Quality Assurance (QA) records."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 82-Point Renew-vs-Rebid Decision Threshold",
+      "text": "When an incumbent vendor scores 82 to 100 points on the 90-day pre-anniversary audit—and agrees to keep renewal pricing within 3% of current should-cost market benchmarks—exercising a 12-month renewal option outperforms an open RFP by preserving trained crew continuity."
+    },
+    {
+      "type": "h2",
+      "text": "100-Point Weighted Evaluation Rubric: Renew Incumbent vs. Launch Full RFP"
+    },
+    {
+      "type": "p",
+      "text": "Complete this five-factor evaluation matrix at Day -90 before your current contract's notice deadline. Each category is weighted by its financial and operational impact on your facility."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Annual Renew-vs-Rebid Evaluation Rubric for Commercial Office Cleaning Contracts",
+      "headers": [
+        "Audit Criterion",
+        "Weight (Pts)",
+        "0–1 Point (Mandatory Rebid Trigger)",
+        "3 Points (Conditional Renewal / Cure)",
+        "5 Points (Automatic 1-Yr Renewal Eligible)"
+      ],
+      "rows": [
+        [
+          "1. Rate Drift vs. National & Local Benchmarks",
+          "30 pts",
+          "Proposed renewal rate exceeds market benchmark by >8% or demands >5% CPI hike",
+          "Within 4%–7% of benchmark; vendor willing to unbundle add-ons or adjust frequency",
+          "Within +/- 3% of benchmark ($35–$65/hr standard labor at 3,500 sq ft/hr); <=3% CPI cap"
+        ],
+        [
+          "2. Verified Labor Hours vs. Bid Commitment",
+          "25 pts",
+          "Badge/alarm logs show <85% of contracted nightly labor hours actually worked",
+          "88%–94% of contracted hours delivered; occasional short shifts corrected promptly",
+          "95%–100%+ of contracted nightly labor hours verified via geofenced timeclock or fob logs"
+        ],
+        [
+          "3. Rolling 12-Month QA Score & SLA Response",
+          "20 pts",
+          "Average monthly QA inspection <80% or repeated 48+ hr delay fixing restroom/trash misses",
+          "QA scores 82%–89%; minor dusting or glass issues resolved within 24 hours",
+          "QA scores >=90% across 4 consecutive quarters; supervisor conducts biweekly joint walks"
+        ],
+        [
+          "4. Crew Retention, COI & Security Compliance",
+          "15 pts",
+          "3+ unexplained crew replacements in 12 mos; lapsed COI or unbadged substitute workers",
+          "1–2 planned cleaner transitions with prior background check & updated $1M/$2M COI on file",
+          "Same core cleaner(s) >12 mos; current COI, workers' comp, and OSHA HazCom binder verified"
+        ],
+        [
+          "5. Periodic Floor Care & Consumable Execution",
+          "10 pts",
+          "Paid amortized floor care ($0.03–$0.06/sq ft) skipped; chronic restroom paper stockouts",
+          "Quarterly carpet/VCT work completed after reminders; rare dispenser stockouts",
+          "Proactive quarterly floor schedule completed on time with sign-offs; zero restroom stockouts"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Audit the Big Two: Labor Hour Delivery and Should-Cost Math"
+    },
+    {
+      "type": "p",
+      "text": "Categories 1 and 2 represent 55 out of 100 total points because they expose the most common commercial janitorial failure mode: silent labor erosion. Here is how to run the exact numbers before meeting with your vendor:"
+    },
+    {
+      "type": "p",
+      "text": "Suppose you manage an 18,000-square-foot corporate office with mixed commercial carpet (1.0x multiplier) and VCT vinyl corridors (1.04x multiplier, yielding an overall 1.05 mixed-floor multiplier) cleaned 5x per week (21.65 visits per month based on 4.33 weeks/month). At the ISSA benchmark of 3,500 square feet per labor hour adjusted by the 1.05 mixed-floor factor, your building requires roughly 5.4 productive labor hours per night—or 116.9 labor hours per month. Multiplied by standard commercial billed labor rates ($35 to $65 per hour, which include payroll taxes, general liability insurance, supervision, equipment, and standard chemicals), your baseline monthly labor-and-chemical cost should land between $4,091 and $7,598 (or roughly $0.105 to $0.195/sq ft at premium high-density specs, and $0.07 to $0.12/sq ft for standard open-plan office layouts)."
+    },
+    {
+      "type": "p",
+      "text": "Now pull your building's electronic access control logs for the last 60 workdays. If two cleaners badge in at 6:30 PM and badge out at 8:15 PM every night, they are only delivering 3.5 total labor hours per visit (75.8 hours per month)—a 35% shortfall against a 5.4-hour bid commitment. On your evaluation rubric, that vendor scores 0 out of 25 on Category 2. Even if their monthly price looks average on paper, you are paying an effective hourly billing rate well above $85/hr for rushed work, making an immediate competitive rebid mandatory."
+    },
+    {
+      "type": "h2",
+      "text": "Benchmarking Restroom Fixture Upkeep and Consumable Transparency"
+    },
+    {
+      "type": "p",
+      "text": "When grading Category 3 (QA Inspections) and Category 5 (Periodic & Consumable Execution), look closely at restroom hardware maintenance and supply billing. Restrooms carry a $15 to $30 per-visit sanitation benchmark and generate 75% of all tenant complaints. A contractor worthy of a contract renewal maintains streak-free stainless fixtures, checks battery levels, and stocks high-capacity dispensers cleanly without leaving loose roll towels sitting on wet vanity countertops."
+    },
+    {
+      "type": "p",
+      "text": "During your Day -90 walkthrough, inspect how well the crew maintains architectural and high-capacity fixtures such as the Bobrick B-262 ClassicSeries Surface-Mounted Folded Towel Dispenser (satin-finish 304 stainless steel housing 400 C-fold or multifold towels with a keyed tumbler lock), the San Jamar Classic Oceans Twin 9-Inch Jumbo Tissue Dispenser (dual 9-inch roll capacity with a break-resistant translucent face for rapid visual stock checks), and the GOJO TFX Touch-Free Foam Hand Soap Dispenser (1,200 mL ADA-depth touchless unit with a skylight refill window delivering 2,000+ handwashes). If tumblers are jammed, stainless fronts are dull with hard-water spots, or consumable invoices exceed the $0.012 to $0.025 per sq ft per visit benchmark without headcount growth, deduct full points in Category 5."
+    },
+    {
+      "type": "h2",
+      "text": "How to Interpret Your Vendor's Total Score at Day -90"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Score 82 to 100 Points (Fast-Track 12-Month Renewal): Your incumbent is delivering verified nightly hours, maintaining 90%+ QA scores, keeping a stable background-checked crew, and pricing within 3% of market benchmarks. Execute a 1-year renewal addendum capped at <=3% CPI and defer a full market RFP until next year (up to the 36-month maximum cycle).",
+        "Score 68 to 81 Points (30-Day Cure Notice + Selective 3-Bid Market Check): The vendor is salvageable but has drifted on either price or nightly labor hours. Present the completed scorecard to their regional vice president, demand a written labor-hour correction or rate freeze within 15 days, and solicit two benchmark quotes from pre-qualified competitors as leverage.",
+        "Score Below 68 Points (Mandatory Full RFP & Transition): Either severe labor shorting (<85% of bid hours), chronic QA failures, or uncompetitive pricing (>8% above market) has broken the contract value equation. Issue your formal non-renewal notice prior to the 60-day deadline and launch a 4-vendor competitive RFP immediately."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Annual Contract Review Workflow"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Pull 60 Days of Electronic Badge-In / Badge-Out Logs",
+          "text": "Export the night crew's access card timestamps across two full months (43.3 weekday visits) and compare actual on-site person-hours against the daily labor hours promised in the contractor's original proposal."
+        },
+        {
+          "name": "Run a Current Should-Cost Benchmark by Flooring & Frequency",
+          "text": "Calculate your facility's fair market price using current net cleanable square footage, flooring multipliers (carpet 1.0x, VCT 1.04x, tile/grout 1.12x, polished concrete 0.95x), and actual weekly frequency."
+        },
+        {
+          "name": "Grade the 100-Point Matrix With Your Facility & Security Leads",
+          "text": "Score all five categories objectively using your past four quarterly QA walk checklists, COI certificates, and periodic floor care sign-off tickets."
+        },
+        {
+          "name": "Hold a Formal Day -75 Scorecard Review or Issue the RFP",
+          "text": "Share the numeric scorecard with the incumbent vendor at Day -75 to lock in a performance-backed renewal rate freeze—or trigger your 60-day non-renewal notice and open the bid room."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score Category 1 of your renewal rubric against current US commercial benchmarks? Calculate your facility's exact should-cost range in our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Even if an incumbent scores 90+ out of 100 every year, should we still rebid after 36 months?",
+      "a": "Yes. Best-in-class commercial procurement policies mandate a competitive market test or formal three-bid RFP at least once every 36 to 48 months—even when the incumbent is performing well. Inviting the high-scoring incumbent to defend their account in a transparent Year 3 RFP validates market pricing for your finance committee while giving the incumbent a clear advantage on the technical quality weighting."
+    },
+    {
+      "q": "How do we audit nightly labor hours if our office suite doesn't have individual electronic keycard logs?",
+      "a": "Require the contractor to use a GPS-geofenced mobile timekeeping app (such as Swept, Janitorial Manager, or Chronotek) or landline telephony clock-in from your reception phone, and mandate that monthly time-and-attendance summary reports be attached to every monthly invoice as a condition of payment."
+    },
+    {
+      "q": "What weight should price carry vs. technical quality when we do go out to a full RFP?",
+      "a": "When evaluating external bids during a full RFP, allocate 35% to 40% of the score to Total Verified Monthly Cost & Labor Hour Realism, 30% to On-Site Supervision, QA Program & References, 15% to Cleaner Wage Rate & Retention Plan, and 15% to Equipment, Closet HazCom & Insurance Compliance. Never award solely to the lowest dollar bid if their proposed nightly labor hours fall below the ISSA 3,500 sq ft/hr physics threshold."
+    },
+    {
+      "q": "Can we use this 100-point rubric to negotiate a price reduction when our office switches from 5x/week to 3x/week cleaning?",
+      "a": "Absolutely. Moving from 5x-week service (21.65 visits/month, 0.90 frequency multiplier) to 3x-week service (13.0 visits/month, 0.95 frequency multiplier) reduces total monthly visits by 40% while increasing per-visit soil accumulation slightly. Presenting the rubric's should-cost math demonstrates that a fair scope modification should lower your monthly base fee by approximately 33% to 37%."
+    }
+  ],
+  "amazonProductIds": [
+    "san-jamar-classic-oceans-twin-9-inch-jumbo-tissue-dispenser",
+    "gojo-tfx-touch-free-foam-hand-soap-dispenser",
+    "bobrick-b-262-classicseries-surface-mounted-folded-towel-dispens"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/month-to-month-vs-annual-cleaning-contracts/",
+    "/comparing-quotes-and-contracts/month-to-month-vs-annual-cleaning-contracts-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/month-to-month-vs-annual-cleaning-contracts-scoring-criteria/",
+    "/commercial-cleaning-chemicals-and-mats/best-long-commercial-hallway-runners-for-winter-salt/"
+  ]
+}

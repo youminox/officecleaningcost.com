@@ -1,0 +1,84 @@
+{
+  "slug": "insurance-agency-cleaning-cost",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/insurance-agency-cleaning-cost/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "insurance agency rates",
+  "title": "Insurance Agency Office Cleaning Cost: Per-Sq-Ft Rates, Monthly Budgets & Frequency Benchmarks",
+  "seoTitle": "Insurance Agency Rates for Office Cleaning: Per-Sq-Ft & Monthly Costs",
+  "metaDescription": "Insurance agency rates for janitorial service run $0.09–$0.20 per sq ft per visit. See monthly budgets by suite size, then run your numbers in our calculator.",
+  "excerpt": "Insurance agencies pay $0.09 to $0.20 per sq ft per visit for janitorial service depending on suite size, with most storefront and regional offices landing between $1,000 and $5,500 per month. This guide shows how restroom count, client foot traffic, and visit frequency move your bid.",
+  "quickAnswer": "Most insurance agencies pay $0.12–$0.20 per sq ft per visit under 2,500 sq ft and $0.09–$0.15 per sq ft per visit from 2,500 to 9,999 sq ft. A 1,800 sq ft storefront agency cleaned once a week typically budgets $1,010–$1,684 per month, while a 4,000 sq ft agency with mixed flooring cleaned twice weekly lands around $3,270–$5,460 per month before restroom and breakroom add-ons.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic early-evening scene inside a suburban American insurance agency storefront office, a uniformed janitor wearing a cordless backpack vacuum cleaning low-pile carpet tiles between three producer desks with closed laptops and neat policy folders, client waiting chairs near a glass entry door, warm overhead LED lighting mixed with dusk light from the front window, wide-angle shot from the reception counter at chest height, no text, no logos, no signage, no watermarks",
+    "alt": "Janitor vacuuming carpet between agent desks in a small insurance agency storefront office after hours"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What Makes Insurance Agency Cleaning Different From a Generic Office Bid" },
+    { "type": "p", "text": "An independent or captive insurance agency looks like a simple office on a walkthrough: a reception counter, a few producer desks, a CSR pod, a manager office, a small conference room, and one or two restrooms. The pricing nuances come from how the space is used. Clients walk in to sign applications, drop off claim documents, and pay premiums, so the front 400 to 600 sq ft takes retail-grade foot traffic while the back office behaves like a quiet professional suite. Restroom density is also high relative to square footage. A 1,800 sq ft storefront agency in a strip center often has two single-user ADA restrooms, which is roughly one fixture room per 900 sq ft, compared with one per 2,500 to 3,500 sq ft in a typical multi-tenant office floor." },
+    { "type": "p", "text": "Agencies also carry a heavier paper load than most professional offices. Even agencies that have moved to an agency management system still generate printed declarations pages, signed applications, and ID cards. That creates more desk-side trash, more toner dust around copiers, and locked shred consoles that crews must work around but never open. Bidders who have cleaned agencies before price these details into their per-visit rate; bidders who have not tend to underbid and then cut corners on the lobby, which is exactly the area your clients judge you by." },
+    { "type": "h2", "text": "National Per-Sq-Ft Benchmarks Applied to Insurance Agency Suite Sizes" },
+    { "type": "p", "text": "The national benchmarks below use per-visit rates by size bracket, then apply a flooring multiplier and a frequency multiplier. Monthly totals use 4.33 weeks per month, so weekly service equals 4.33 visits and twice-weekly service equals 8.66 visits. Most vendors also enforce a minimum charge of $90 to $135 per visit, which matters for agencies under 1,000 sq ft." },
+    { "type": "table", "caption": "Insurance agency janitorial cost scenarios (national benchmarks, base scope before add-ons)", "headers": ["Agency profile", "Sq ft", "Flooring (multiplier)", "Frequency (multiplier)", "Per visit", "Monthly"], "rows": [
+      ["Storefront captive agency, 2 restrooms", "1,800", "Carpet tiles (1.00)", "1x/wk, 4.33 visits (1.08)", "$233–$389", "$1,010–$1,684"],
+      ["Independent multi-line agency, 2 restrooms", "4,000", "Mixed carpet + LVT (1.05)", "2x/wk, 8.66 visits (1.00)", "$378–$630", "$3,273–$5,456"],
+      ["Regional agency with claims desk, 3 restrooms", "6,500", "Carpet tiles (1.00)", "3x/wk, 13 visits (0.95)", "$556–$926", "$7,225–$12,041"],
+      ["Satellite producer office in executive suite", "900", "Carpet (1.00)", "Biweekly, 2.17 visits (1.16)", "$125–$209", "$271–$453"]
+    ] },
+    { "type": "p", "text": "The satellite example shows why minimums matter: 900 sq ft at $0.12 to $0.20 per sq ft and a 1.16 biweekly multiplier produces $125 to $209 per visit, which clears a $90 to $135 minimum. Drop that to 600 sq ft and the calculated per-visit price can fall below the vendor's minimum, so the minimum becomes your real price." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark check before you sign", "text": "If a bid for a 4,000 sq ft agency on twice-weekly service comes in under roughly $3,000 per month, ask the vendor to show its assumed production rate, hours per visit, and whether restrooms and the breakroom are priced in. Low bids at this size usually omit restroom sanitation, interior glass at the entry, or quarterly carpet extraction." },
+    { "type": "h2", "text": "Restroom Density and Client Traffic: The Two Hidden Cost Drivers" },
+    { "type": "p", "text": "Restroom sanitation is commonly priced as a separate line at $15 to $30 per restroom per visit. For the 1,800 sq ft storefront agency with two restrooms on weekly service, that adds $130 to $260 per month (2 restrooms x $15 to $30 x 4.33 visits). Move the same agency to twice-weekly service and restroom charges double to $260 to $520 per month. Because agency restrooms are used by walk-in clients as well as staff, they need full fixture disinfection, mirror and partition wipe-down, floor-drain flushing, and dispenser refills every visit rather than a quick touch-up." },
+    { "type": "p", "text": "Dispenser choice has a direct effect on labor minutes. A high-capacity coreless tissue dispenser such as the Scott Pro four-roll coreless unit holds enough paper that crews are not refilling every visit, and its ADA-compliant mounting helps your single-user restrooms stay compliant. A touchless foam soap unit like the Rubbermaid AutoFoam 1100 mL dispenser delivers up to 2,750 doses per refill with a battery rated for roughly three years, which cuts both refill frequency and the high-touch surface area crews must disinfect." },
+    { "type": "p", "text": "Traffic wear is the other driver. The lobby carpet and the path from the door to the CSR counter absorb grit from parking lots, rain, and winter salt. A cordless HEPA backpack vacuum such as the ProTeam GoFree Flex Pro II, with a 6 qt capacity and about 75 minutes of runtime at roughly 18 lb with battery, lets a crew vacuum the entry path during an early-evening visit without cord hazards near clients finishing late appointments. Budget the quarterly deep floor program at $0.03 to $0.06 per sq ft per month amortized, or $120 to $240 per month for a 4,000 sq ft agency." },
+    { "type": "h2", "text": "Recommended Weekly Frequency by Agency Type" },
+    { "type": "ul", "items": [
+      "Captive storefront agency under 2,000 sq ft with fewer than 15 walk-ins per day: once weekly full service plus a mid-week restroom and lobby touch-up, or twice weekly if the agency shares no common-area janitorial with the landlord.",
+      "Independent multi-line agency of 3,000 to 5,000 sq ft with a staffed reception desk: twice weekly is the practical floor; three times weekly if clients use restrooms heavily or the agency hosts renewal review meetings in the conference room.",
+      "Regional or commercial-lines agency of 6,000 sq ft and up with claims intake: three times weekly, with daily trash and restroom service on the remaining weekdays if staff headcount exceeds 30.",
+      "Satellite or remote producer office in an executive suite: biweekly or weekly, since the building usually covers common restrooms and the corridor.",
+      "Agencies in buildings with landlord-provided janitorial: confirm what the lease covers before buying a second service; many agencies only need supplemental lobby glass, kitchen, and carpet extraction."
+    ] },
+    { "type": "h2", "text": "Add-Ons That Change the Final Monthly Number" },
+    { "type": "table", "caption": "Common insurance agency add-ons priced per visit or per month", "headers": ["Add-on", "Benchmark rate", "4,000 sq ft agency, 2x/wk (8.66 visits)"], "rows": [
+      ["Restroom sanitation (2 restrooms)", "$15–$30 per restroom per visit", "$260–$520 per month"],
+      ["Breakroom and kitchenette", "$12–$25 per visit", "$104–$217 per month"],
+      ["Entry door and conference glass", "$15–$35 per visit", "$130–$303 per month"],
+      ["Paper and soap consumables included", "$0.012–$0.025 per sq ft per visit", "$416–$866 per month"],
+      ["Quarterly deep floor care (amortized)", "$0.03–$0.06 per sq ft per month", "$120–$240 per month"]
+    ] },
+    { "type": "p", "text": "Stacking every add-on onto the 4,000 sq ft base scope of $3,273 to $5,456 produces an all-in range of roughly $4,303 to $7,602 per month. Most agencies do not need every line. Supplying your own paper and soap through a purchasing account often costs less than the vendor's consumables markup, and glass can drop to weekly if the entry door faces away from the parking lot." },
+    { "type": "h2", "text": "How to Compare Insurance Agency Bids Line by Line" },
+    { "type": "steps", "items": [
+      { "name": "Measure cleanable square footage", "text": "Use the lease exhibit or a laser measure and exclude locked storage, server closets, and shred rooms the crew will not enter. Overstated square footage is the most common reason agencies overpay." },
+      { "name": "Count fixture rooms and flooring types", "text": "List restrooms, the breakroom, and each floor surface. Mixed carpet and LVT carries a 1.05 multiplier versus 1.00 for all-carpet, which adds about $19 to $32 per visit on 4,000 sq ft." },
+      { "name": "Fix the frequency before requesting bids", "text": "Ask every vendor to price the same frequency so per-visit multipliers do not distort the comparison." },
+      { "name": "Require a certificate of insurance and scope sheet", "text": "Request general liability, workers compensation, and a janitorial bond, plus a written task frequency chart that names who handles shred consoles, alarms, and keys." },
+      { "name": "Normalize to monthly cost", "text": "Multiply per-visit prices by 4.33 times weekly visits and add each add-on, then compare totals rather than headline rates." }
+    ] },
+    { "type": "cta", "text": "Plug your agency's square footage, flooring, restroom count, and visit frequency into the Office Cleaning Cost Calculator to get a monthly range in seconds, then paste vendor bids into the Quote Comparator to see which ones skip restrooms, glass, or floor care." }
+  ],
+  "faqs": [
+    { "q": "How much should a small insurance agency pay for weekly office cleaning?", "a": "A 1,500 to 2,000 sq ft agency on weekly service typically pays $0.12 to $0.20 per sq ft per visit with a 1.08 weekly frequency multiplier. For 1,800 sq ft that works out to roughly $233 to $389 per visit, or $1,010 to $1,684 per month at 4.33 visits, plus about $130 to $260 per month if two restrooms are priced separately." },
+    { "q": "Why are insurance agency cleaning rates higher per sq ft than large corporate offices?", "a": "Smaller suites fall into higher per-sq-ft brackets because travel time, setup, and supervision are spread over fewer square feet. Agencies also have more restrooms per square foot and a client-facing lobby that must look retail-ready every morning, which adds labor minutes that a 30,000 sq ft corporate floor dilutes." },
+    { "q": "What insurance and documentation should my janitorial vendor provide?", "a": "Ask for a certificate of insurance naming your agency and landlord as additional insureds on general liability, proof of workers compensation, and a janitorial or fidelity bond covering employee theft. Also request Safety Data Sheets for every chemical used under the OSHA Hazard Communication Standard and confirmation that crews are trained in bloodborne pathogen spill response for restroom cleanup." },
+    { "q": "Should the cleaning crew handle our shred bins and confidential files?", "a": "No. Crews should empty only standard trash and recycling and never open locked shred consoles or file cabinets. Put that exclusion in the written scope, keep shred service with a certified document destruction vendor, and instruct crews to leave any loose paper on desks untouched." },
+    { "q": "How do I convert a per-visit quote into a monthly budget?", "a": "Multiply the per-visit price by visits per week and then by 4.33 weeks per month. A $400 per-visit quote on twice-weekly service equals $400 x 2 x 4.33, or $3,464 per month. Add restroom, breakroom, glass, consumables, and amortized floor care lines to reach the true monthly total." }
+  ],
+  "amazonProductIds": [
+    "scott-pro-high-capacity-coreless-standard-roll-dispenser",
+    "rubbermaid-commercial-autofoam-1100-ml-touchless-soap-dispenser",
+    "proteam-gofree-flex-pro-ii-cordless-backpack-vacuum"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/insurance-agency-cleaning-checklist-scope/",
+    "/facility-cleaning-costs/insurance-agency-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/tech-startup-office-cleaning-cost/",
+    "/janitorial-carts-mops-and-tools/best-chemical-resistant-trigger-sprayers-for-cleaners/"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "slug": "pressure-washing-office-walkways-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/pressure-washing-office-walkways-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge pressure washing office walkways",
+  "title": "Is Office Entry Sidewalk & Patio Pressure Washing Included in Standard Cleaning or Billed Extra?",
+  "seoTitle": "Extra Charge for Office Walkway Pressure Washing? Included vs Add-On",
+  "metaDescription": "Extra charge or included? Most office cleaning contracts bill walkway pressure washing as a $175–$350+ add-on. Audit your scope and compare quotes here.",
+  "excerpt": "Most janitorial contracts cover entry sweeping and litter pickup but bill pressure washing as a separate work order. This audit guide shows the contract language to look for, how bundled pricing hides the cost, and when folding washing into the retainer makes sense.",
+  "quickAnswer": "In most US office contracts, pressure washing entries, sidewalks, and patios is not included in the monthly base price; it is billed as a project work order at $0.15–$0.35 per sq ft with a $175–$350 minimum. Vendors only fold it into the retainer when the scope names the surfaces, the frequency, and the method, typically adding $150–$400 per month for a quarterly program.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic over-the-shoulder view of a US facility manager at a desk reviewing a printed janitorial contract and a tablet showing a photo of a stained office entry sidewalk, window behind showing the actual building entrance walkway with gum spots, soft natural daylight, shallow depth of field, documents blurred and unreadable, no text, no logos, no watermarks",
+    "alt": "Facility manager reviewing a janitorial contract with the stained office entry walkway visible outside"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The default answer: billed extra" },
+    { "type": "p", "text": "Standard janitorial contracts are priced on interior cleanable square footage. National base rates run from $0.05 to $0.20 per sq ft per visit depending on building size, and they assume trash, restrooms, vacuuming, hard-floor mopping, and dusting. Exterior hardscape is not in that square footage. Most scopes include a light exterior line such as police entry area for litter, sweep entry vestibule, and empty exterior receptacles. Pressure washing requires different equipment, water supply, and often wastewater controls, so vendors treat it as a periodic project with its own work order." },
+    { "type": "table", "caption": "How common entry and walkway tasks are typically billed in US office contracts", "headers": ["Task", "Usually in base retainer?", "Typical billing if extra", "Contract language to look for"], "rows": [
+      ["Litter pickup at entry", "Yes", "Included", "Police entry area nightly"],
+      ["Sweep vestibule and entry mats", "Yes", "Included", "Sweep or vacuum entry mats"],
+      ["Empty exterior receptacles and ash urns", "Usually", "$5–$15 per can per visit", "Empty exterior containers"],
+      ["Spot spill response on sidewalk", "Sometimes, with day porter", "$55–$95 per hour", "Day porter exterior rounds"],
+      ["Pressure wash entry and walkways", "Rarely", "$0.15–$0.35 per sq ft, $175–$350 minimum", "Pressure wash hardscape quarterly"],
+      ["Gum removal", "Rarely", "$0.25–$0.75 per piece", "Remove gum from walkways"],
+      ["Dumpster pad degrease", "Rarely", "$75–$175 per pad", "Clean trash enclosure"]
+    ] },
+    { "type": "h2", "text": "When vendors fold washing into the monthly retainer" },
+    { "type": "p", "text": "Some full-service providers, especially those running integrated facility services for a property manager, will include periodic washing in the base. It happens when the scope explicitly names the surfaces, square footage, frequency, and method. The vendor then amortizes the project cost across 12 months. For a 3,000 sq ft walkway washed quarterly at $0.25, the annual cost is $3,000, or $250 per month added to the retainer. That is convenient for budgeting, but it can hide overpricing or skipped visits." },
+    { "type": "callout", "variant": "warning", "title": "The hidden-bundle problem", "text": "If a retainer quietly includes exterior washing, you cannot tell whether you are paying $150 or $600 a month for it, and you have no easy way to prove a visit was skipped. Require the vendor to break out the washing line, the visit months, and a per-visit credit if a visit is missed." },
+    { "type": "h2", "text": "How to audit your current contract" },
+    { "type": "steps", "items": [
+      { "name": "Pull the scope of work and task frequency chart", "text": "Search for pressure wash, power wash, hardscape, exterior, sidewalk, patio, and entry plaza. If none appear with a frequency, washing is not included." },
+      { "name": "Check the exclusions section", "text": "Many contracts exclude exterior surfaces, window washing above ground level, and project work. Exclusions override vague inclusion language." },
+      { "name": "Review past invoices", "text": "Look for project or work-order invoices for exterior washing. If you have been billed separately, the base does not include it." },
+      { "name": "Check your lease and CAM budget", "text": "In multi-tenant buildings, the landlord may already pay for sidewalk washing through common-area maintenance. Avoid paying twice." },
+      { "name": "Ask for a written clarification", "text": "Email the vendor asking whether pressure washing is included, at what frequency, and at what price per visit if billed extra. Keep the reply with your contract file." }
+    ] },
+    { "type": "h2", "text": "Comparing a bundled bid against an add-on bid" },
+    { "type": "p", "text": "Suppose Vendor A quotes a 15,000 sq ft office at $0.09 per sq ft, three visits a week. At 13 visits per month (4.333 weeks), that is $17,550 per month, washing excluded. Vendor B quotes $17,850 per month including quarterly washing of 3,000 sq ft of walkway. The $300 monthly difference equals $3,600 a year, or $900 per visit, or $0.30 per sq ft. That is within the market range but at the high end. If Vendor A would wash at $0.22 per sq ft on a separate work order, that is $660 per visit, or $2,640 per year, so Vendor A wins by about $960 annually." },
+    { "type": "h2", "text": "Contract clauses to add either way" },
+    { "type": "ul", "items": [
+      "A defined list of exterior surfaces with measured square footage for each zone.",
+      "Fixed visit months and a rain-date or freeze-date reschedule window.",
+      "Per-visit price and a credit for missed visits if washing is bundled.",
+      "Wastewater method and compliance with local stormwater rules.",
+      "Before-and-after photos submitted with each completion notice.",
+      "COI with at least $1 million general liability naming owner and property manager as additional insured, plus workers' compensation.",
+      "Safety Data Sheets for detergents and degreasers kept available under OSHA HazCom, and Green Seal or EPA Safer Choice options where runoff reaches landscaping."
+    ] },
+    { "type": "h2", "text": "Equipment that signals exterior upkeep is truly in scope" },
+    { "type": "p", "text": "Ask what the vendor stages on site for daily exterior care. A crew that includes entry upkeep usually brings a 5-caster twist-lock dolly rated to 250 lb for moving 20 to 55 gallon barrels, a 120-gallon mobile collector with rear doors and 12-inch wheels for consolidating exterior and multi-floor trash, and step-on 18-gallon bins with quiet lids near entries. Those tools support litter control between washes. A vendor with no exterior equipment on site is unlikely to be performing the exterior tasks listed in the scope." },
+    { "type": "callout", "variant": "tip", "title": "Negotiate the add-on rate up front", "text": "Even if you do not want washing in the retainer, lock a pre-negotiated per-sq-ft rate and minimum into the contract as a price schedule. You avoid emergency pricing when an event, inspection, or tenant complaint calls for a quick wash." },
+    { "type": "cta", "text": "Load your base retainer and any exterior washing line into the Quote Comparator to see whether bundled or add-on pricing is cheaper, and use the Office Cleaning Cost Calculator to check the interior base rate against national benchmarks." }
+  ],
+  "faqs": [
+    { "q": "Is pressure washing part of standard commercial cleaning?", "a": "Usually not. Standard office janitorial covers interior cleanable square footage and light exterior tasks like litter pickup and entry sweeping. Pressure washing is a periodic specialty service billed as a project work order unless the scope explicitly lists it with a frequency." },
+    { "q": "How much does a vendor add to the monthly retainer to include walkway washing?", "a": "For a typical quarterly program on 2,000–4,000 sq ft of walkways and patio, expect $150–$400 per month added to the retainer. Divide the monthly addition by the number of visits per month to check the effective per-sq-ft rate against the $0.15–$0.35 market range." },
+    { "q": "Who pays for sidewalk washing in a multi-tenant office building?", "a": "Usually the landlord, through common-area maintenance charges passed through to tenants pro rata. Review your lease and CAM reconciliation. If the landlord already schedules washing, you should not also pay your janitorial vendor for the same surfaces." },
+    { "q": "What if my vendor skipped a scheduled wash included in the retainer?", "a": "If the contract lists the visit months and a missed-visit credit, request the credit in writing. If it does not, add that clause at renewal. Requiring dated before-and-after photos with each visit makes verification straightforward." },
+    { "q": "Do pressure washing add-ons need separate insurance?", "a": "Your vendor's existing general liability and workers' compensation policies should cover the work, but confirm pressure washing is not excluded and that any subcontractor carries its own COI naming the owner and property manager as additional insured." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-brute-5-caster-trash-can-dolly",
+    "rubbermaid-commercial-slim-jim-step-on-front-step-18-gallon-bin",
+    "rubbermaid-commercial-mega-brute-mobile-collector-120-gal"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-pressure-washing-office-walkways-quotes/",
+    "/cleaning-services-and-tasks/marble-terrazzo-honing-and-polishing-cost-guide/",
+    "/cleaning-services-and-tasks/marble-terrazzo-honing-and-polishing-for-small-vs-large-offices/",
+    "/janitorial-carts-mops-and-tools/best-vct-floor-finish-applicator-mop-kits/"
+  ]
+}

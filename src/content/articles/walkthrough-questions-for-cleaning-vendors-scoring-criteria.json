@@ -1,0 +1,231 @@
+{
+  "slug": "walkthrough-questions-for-cleaning-vendors-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/walkthrough-questions-for-cleaning-vendors-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric walkthrough questions for cleaning vendors",
+  "title": "Comparing Proposals Side-by-Side: Weighted Evaluation Rubric for Site Walkthrough Questions",
+  "seoTitle": "Weighted Evaluation Rubric: Walkthrough Questions for Cleaning Vendors",
+  "metaDescription": "Score proposals with a weighted evaluation rubric for walkthrough questions for cleaning vendors: verify $0.07–$0.12/sq ft bids inside our Quote Comparator.",
+  "excerpt": "Asking tough questions during a janitorial site walkthrough only pays off if your team scores the answers systematically against the written proposal. Use this 100-point weighted evaluation rubric to grade estimator precision, labor-hour alignment, and OSHA readiness side-by-side.",
+  "quickAnswer": "To compare janitorial proposals side-by-side after site tours, apply a 100-point weighted evaluation rubric that grades five areas: Walkthrough Diagnostic & Measurement Precision (20 points), Labor Hour & ISSA 3,500 Sq Ft/Hr Proposal Alignment (25 points), Scope & Pricing Transparency ($0.07–$0.15/sq ft baseline plus itemized add-ons, 25 points), W-2 Workforce & OSHA Compliance Verification (15 points), and Supervision & Contingency Planning (15 points). Require a minimum score of 80/100 before awarding a 12-month contract.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic commercial office conference room scene showing two facility operations managers scoring three janitorial vendor walkthrough packets side-by-side on a large table next to a laptop spreadsheet and floor plan blueprint, crisp daylight through interior glass walls, 35mm DSLR lens, no text or watermarks",
+    "alt": "Two facility operations managers scoring three janitorial vendor proposals side-by-side using a weighted walkthrough rubric"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Every facility manager has watched an impressive janitorial salesperson give polished verbal answers during a 30-minute site tour, only to deliver a two-page boilerplate PDF quote three days later that ignores 80% of what was discussed. Without a formal scoring mechanism that links site tour responses directly to written proposal terms, procurement teams inevitably fall back on choosing the lowest monthly dollar figure. Implementing a weighted evaluation rubric for walkthrough questions for cleaning vendors lets you grade both the on-site technical audit and the resulting written proposal on a single 100-point scale."
+    },
+    {
+      "type": "h2",
+      "text": "1. The 100-Point Side-by-Side Walkthrough & Proposal Scoring Matrix"
+    },
+    {
+      "type": "p",
+      "text": "Unlike a paper-only RFP scorecard, a walkthrough-linked evaluation rubric grades how accurately the estimator translated physical building conditions—flooring friction multipliers, restroom fixture counts, breakroom appliances, and janitor closet constraints—into verifiable contract deliverables and realistic labor hours."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Evaluation Rubric for Scoring Janitorial Walkthroughs & Written Proposals Side-by-Side",
+      "headers": [
+        "Walkthrough & Proposal Criterion",
+        "Weight (100 Pts)",
+        "Low Score (0–50% of Category Pts)",
+        "High Score (85–100% of Category Pts)"
+      ],
+      "rows": [
+        [
+          "1. On-Site Diagnostic & USF Measurement Precision",
+          "20 Points",
+          "Took no measurements; accepted gross lease RSF; skipped janitor closet & grout inspection",
+          "Verified cleanable USF by flooring type (1.0x–1.12x); counted all restroom fixtures & dispensers"
+        ],
+        [
+          "2. Labor Hours & ISSA 3,500 Sq Ft/Hr Alignment",
+          "25 Points",
+          "Proposal hides nightly hours or assumes >4,800 sq ft/hr; implied labor rate <$35/hr",
+          "Discloses exact nightly crew hours (2,800–3,600 sq ft/hr); implied W-2 rate $35–$65/hr"
+        ],
+        [
+          "3. Scope Parity & Itemized Pricing Transparency",
+          "25 Points",
+          "Lump-sum quote; uses 4.0-week calendar; vague on breakrooms, glass & consumables",
+          "Uses 4.33 wk/mo math (21.65 visits for 5x/wk); itemizes restrooms, breakrooms, glass & consumables"
+        ],
+        [
+          "4. W-2 Workforce, COI & OSHA Closet Readiness",
+          "15 Points",
+          "Hedging on 1099 subcontractors; no specimen COI or OSHA SDS/bloodborne plan provided",
+          "100% W-2 verification; active COI ($1M/$2M GL + Class 9014 WC + Bond); GHS/SDS closet setup"
+        ],
+        [
+          "5. Supervision Cadence & Sick-Call Contingency",
+          "15 Points",
+          "Sales rep could not name the night supervisor or explain 4:00 PM sick-call floater backup",
+          "Named area supervisor attended or confirmed weekly QA audits + 2-hr local floater coverage"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "2. Grading Criterion 1 (20 Points): On-Site Diagnostic & Measurement Precision"
+    },
+    {
+      "type": "p",
+      "text": "How an estimator behaves during the physical walkthrough predicts how their operations team will manage your facility. Award up to 20 points based on whether the vendor actively audited the four physical cost multipliers of your suite:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Usable vs. Rentable Square Footage (5 points): Did the estimator verify cleanable Usable Square Footage (USF) and subtract non-cleaned mechanical or locked IT closets rather than blindly writing down your lease's Rentable Square Footage (RSF)?",
+        "Flooring Surface Friction Mix (5 points): Did they note transitions between commercial carpet (1.00x baseline), VCT/LVT vinyl (1.04x), engineered hardwood (1.08x), ceramic tile and grout (1.12x), and polished concrete (0.95x), which require dual vacuuming and damp-mopping tool setups (1.05x mixed-floor multiplier)?",
+        "Restroom & Dispenser Inventory (5 points): Did they open paper towel, bath tissue, and soap dispensers to check core compatibility and count individual toilets, urinals, and sinks ($15–$30 per restroom per visit benchmark)?",
+        "Janitor Closet & Waste Route Audit (5 points): Did they inspect slop sink drainage, chemical dilution lockboxes, elevator doorway widths, and loading dock dumpster distances?"
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "3. Grading Criterion 2 & 3 (50 Points Combined): Written Proposal Alignment with Walkthrough Answers"
+    },
+    {
+      "type": "p",
+      "text": "The core of your side-by-side comparison happens when the written proposals arrive. Place each vendor's walkthrough notes next to their submitted pricing table. First, check Criterion 2 (25 points): did the nightly labor hours promised verbally during the tour survive into the written contract? For a 14,000-square-foot office cleaned 5x/week (21.65 visits/month, 0.90x frequency multiplier), an ISSA-aligned production rate of 3,500 sq ft/hr requires 4.0 labor hours per night (86.6 hours per month). At a compliant W-2 billing rate of $38 to $48/hour, base monthly labor should land between $3,290 and $4,157 ($0.07 to $0.12/sq ft/visit bracket for 10,000–24,999 sq ft)."
+    },
+    {
+      "type": "p",
+      "text": "Second, score Criterion 3 (25 points) on whether every scope item discussed on the tour is explicitly itemized in the contract schedule:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Calendar Visit Multiplier: Confirm the written contract specifies 4.33 weeks/month (4.33 visits/mo for 1x/week at 1.08x multiplier; 8.66 visits/mo for 2x/week at 1.00x; 13.0 visits/mo for 3x/week at 0.95x; 21.65 visits/mo for 5x/week at 0.90x).",
+        "Breakroom & Kitchenette Sanitation ($12–$25/visit): Verify written inclusion of countertops, sink basins, microwave interiors/exteriors, refrigerator handles, and cabinet pulls.",
+        "Interior Glass & Partitions ($15–$35/visit): Verify frequency for conference room glass walls, sidelights, and entry doors.",
+        "Consumables ($0.012–$0.025/sq ft/visit) & Deep Floor Care ($0.03–$0.06/sq ft/month): Confirm both are separated from base nightly labor so you can toggle them on or off without skewing base bid comparisons."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Scoring On-Site Equipment & Restroom Organization Plans",
+      "text": "When grading Criterion 4 and 5, award full points to vendors who specify organized, cross-contamination-proof tools during the closet walkthrough. Technicians who carry restroom disinfectants and bowl brushes in a Rubbermaid Commercial Deluxe Carry Caddy 3154 (an 8-compartment portable caddy measuring 15x11x7 inches with an ergonomic grip that fits standard cleaning carts) keep restroom chemicals strictly isolated from breakroom counters. For multi-zone trash pulls, deploying a Rubbermaid Commercial Mega BRUTE Mobile Collector 120-Gal (400 lb capacity, 12-inch wheels, and rear access doors) and placing a Rubbermaid Commercial Slim Jim Step-On Front-Step 18-Gallon Bin (hands-free foot pedal with a quiet internal-hinge lid meeting OSHA/medical room standards) in wellness or first-aid rooms demonstrates institutional-grade operational discipline."
+    },
+    {
+      "type": "h2",
+      "text": "4.Worked Example: Side-by-Side Walkthrough Scorecard for Three Bidders"
+    },
+    {
+      "type": "p",
+      "text": "Here is how a facility committee scored three competing bidders for a 14,000-square-foot corporate office (5x/week service) after completing individual 30-minute walkthroughs:"
+    },
+    {
+      "type": "table",
+      "caption": "Sample Completed 100-Point Walkthrough Scorecard (14,000 Sq Ft Office, 5x/Week = 21.65 Visits/Mo)",
+      "headers": [
+        "Scoring Category (Max Points)",
+        "Vendor A ($2,350/mo — 52 Hrs)",
+        "Vendor B ($3,580/mo — 86.6 Hrs)",
+        "Vendor C ($4,650/mo — 97 Hrs)"
+      ],
+      "rows": [
+        [
+          "1. On-Site Diagnostic & USF Precision (20 Pts)",
+          "9 / 20 (Used lease RSF; no fixture count)",
+          "19 / 20 (Verified 14,000 USF & flooring mix)",
+          "17 / 20 (Measured rooms; padded RSF buffer)"
+        ],
+        [
+          "2. Labor Hours & ISSA 3,500 Alignment (25 Pts)",
+          "8 / 25 (2.4 hrs/night = 5,833 sq ft/hr unrealistic)",
+          "24 / 25 (4.0 hrs/night = 3,500 sq ft/hr @ $41.34/hr)",
+          "21 / 25 (4.5 hrs/night = 3,111 sq ft/hr @ $47.93/hr)"
+        ],
+        [
+          "3. Scope Parity & Price Transparency (25 Pts)",
+          "11 / 25 (Excluded breakroom microwaves & glass)",
+          "23 / 25 (All-in 4.33 wk math; add-ons itemized)",
+          "18 / 25 (Bundled mandatory $0.05/sq ft floor plan)"
+        ],
+        [
+          "4. W-2 Workforce, COI & OSHA Setup (15 Pts)",
+          "5 / 15 (1099 subcontractor model; no bond)",
+          "15 / 15 (W-2 payroll, $2M COI, $50k bond, SDS plan)",
+          "15 / 15 (W-2 payroll, full COI & green seal plan)"
+        ],
+        [
+          "5. Supervision & Sick-Call Backup (15 Pts)",
+          "6 / 15 (No local floater crew; monthly check-in)",
+          "14 / 15 (Supervisor on tour; weekly digital QA)",
+          "13 / 15 (Biweekly supervisor audit; local floaters)"
+        ],
+        [
+          "TOTAL RUBRIC SCORE (Min 80 to Award)",
+          "39 / 100 (Disqualified — High Failure Risk)",
+          "95 / 100 (Recommended Award — Best Value)",
+          "84 / 100 (Qualified Runner-Up — Over-Bundled)"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "5. Step-by-Step Post-Walkthrough Evaluation Protocol"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Fill Out Criterion 1 Immediately After Each Vendor Leaves the Building",
+          "text": "Do not wait three days for the written quote to grade on-site diagnostic precision. Score the estimator's measurement rigor, dispenser inspection, and operational questions within 10 minutes of concluding the tour."
+        },
+        {
+          "name": "Normalize All Written Bids to 21.65 Monthly Visits (5x/Week) and Identical USF",
+          "text": "When proposals arrive, strip out optional consumables ($0.012–$0.025/sq ft/visit) and quarterly floor care ($0.03–$0.06/sq ft/month) so Criterion 2 and Criterion 3 compare pure nightly cleaning labor."
+        },
+        {
+          "name": "Send a 3-Question Clarification Email to Any Bidder Scoring 75–85 Points",
+          "text": "If a strong runner-up lost points only because they bundled floor care or misread cleanable USF, give them 24 hours to submit a normalized Best and Final Offer (BAFO) aligned to your exact scope matrix."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Ready to score your walkthrough proposals side-by-side? Enter each vendor's monthly price, nightly hours, and square footage into our Office Cleaning Quote Comparator to generate an instant benchmark score."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "What is the minimum passing score on the 100-point walkthrough evaluation rubric?",
+      "a": "Set 80 out of 100 points as your target threshold for contract award, with 75 points as the absolute minimum floor to remain under consideration. Additionally, enforce a mandatory pass/fail gate on Criterion 4: any vendor scoring below 12/15 on W-2 employment verification, Workers' Compensation insurance, and janitorial bonding is disqualified regardless of total score."
+    },
+    {
+      "q": "How should we score a vendor who brings their Area Operations Manager to the initial walkthrough?",
+      "a": "Award bonus credit inside Criterion 5 (Supervision & Contingency Planning). When the operational leader responsible for staffing and nightly quality inspections walks your building alongside the estimator, scope translation errors between sales and night crews drop dramatically."
+    },
+    {
+      "q": "Why did Vendor C score lower than Vendor B in the sample rubric despite proposing more labor hours?",
+      "a": "More hours are only valuable if they match actual facility workload without padding. Vendor B aligned cleanly with the 3,500 sq ft/hr ISSA benchmark (4.0 nightly hours for 14,000 USF) and itemized periodic floor care as an optional line item, whereas Vendor C padded the square footage baseline and forced a mandatory $700/month amortized floor maintenance bundle into the base rate."
+    },
+    {
+      "q": "How do we verify that the nightly labor hours scored in Criterion 2 are actually delivered after contract start?",
+      "a": "Include a Contract Staffing SLA in your service agreement requiring technicians to clock in and out via geofenced mobile timekeeping or building access keycards, and review monthly time-on-site summary reports during your quarterly vendor business review."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-slim-jim-step-on-front-step-18-gallon-bin",
+    "rubbermaid-commercial-mega-brute-mobile-collector-120-gal",
+    "rubbermaid-commercial-deluxe-carry-caddy-3154"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/measuring-usable-vs-rentable-square-footage/",
+    "/comparing-quotes-and-contracts/measuring-usable-vs-rentable-square-footage-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/measuring-usable-vs-rentable-square-footage-scoring-criteria/",
+    "/restroom-and-breakroom-dispensers/how-to-match-paper-rolls-to-commercial-dispensers/"
+  ]
+}

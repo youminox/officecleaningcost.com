@@ -1,0 +1,111 @@
+{
+  "slug": "carpet-low-moisture-encapsulation-included-vs-add-on-quotes",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/carpet-low-moisture-encapsulation-included-vs-add-on-quotes/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "extra charge carpet low moisture encapsulation",
+  "title": "Extra Charge or Included? How Vendors Bill Carpet Low-Moisture Encapsulation in Office Cleaning Contracts",
+  "seoTitle": "Extra Charge Carpet Encapsulation: Included vs Add-On Quote Audit",
+  "metaDescription": "Is carpet low-moisture encapsulation an extra charge? Learn when it hides in a $0.03–$0.06/sq ft monthly retainer vs work orders. Compare quotes side by side.",
+  "excerpt": "Office managers learn how to tell whether low-moisture carpet encapsulation is genuinely bundled into a janitorial retainer or billed as separate project work orders. The guide gives contract language, red flags, and a cost comparison so you can audit quotes line by line.",
+  "quickAnswer": "Low-moisture carpet encapsulation is usually not part of standard nightly office cleaning; most vendors bill it as a project work order at $0.10–$0.25 per sq ft per pass. Some contracts bundle it into the retainer as an amortized deep floor program worth roughly $0.03–$0.06 per sq ft per month, but only if the scope lists zones, pass counts, and months in writing.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead view of a US office conference table with a printed janitorial contract, a highlighter, a tablet showing a blank floor plan, and a carpet sample swatch, with a clean gray carpet visible beyond a glass partition, warm late-afternoon light, shallow depth of field, no text, no logos, no watermarks",
+    "alt": "Facility manager's desk with a janitorial contract and carpet swatch being reviewed for encapsulation charges"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why This Line Item Causes So Many Billing Disputes" },
+    { "type": "p", "text": "Encapsulation sits in a gray zone between routine janitorial work and periodic restorative floor care. Salespeople often describe it loosely as part of a carpet care program during the walk-through, then the signed scope says only \"vacuum carpeted areas\" and \"spot clean as needed.\" Six months later, traffic lanes look gray, the facility manager asks for encapsulation, and a separate invoice arrives. Neither side is necessarily acting in bad faith; the scope simply never defined the service." },
+    { "type": "p", "text": "The fix is to know the three billing models vendors actually use, recognize the wording that signals each, and decide in advance which one fits your building. On a 15,000 sq ft office, the difference between a well-structured bundle and ad hoc work orders can easily exceed $3,000 a year." },
+    { "type": "h2", "text": "The Three Billing Models" },
+    {
+      "type": "table",
+      "caption": "How encapsulation shows up in US office cleaning quotes",
+      "headers": ["Billing model", "Typical wording", "How it's priced", "Who controls frequency", "Best fit"],
+      "rows": [
+        ["Included in base retainer", "\"Quarterly low-moisture carpet maintenance, all carpeted areas\"", "Amortized $0.03–$0.06 per sq ft per month", "Contract calendar", "Stable tenants with predictable traffic"],
+        ["Itemized program line", "\"Carpet encapsulation program: 4 passes/yr, $X per month\"", "Separate monthly line, often $0.10–$0.18 per sq ft per pass amortized", "Contract calendar, auditable", "Most multi-tenant and owner-occupied offices"],
+        ["Project work order", "\"Periodic floor care available upon request\"", "$0.10–$0.25 per sq ft per pass plus $250–$450 project minimum", "Client requests each job", "Small suites, irregular use, tight budgets"],
+        ["Not offered", "\"Carpet extraction/encapsulation by others\"", "Subcontracted or excluded", "Separate vendor", "Buildings with dedicated floor-care contractors"]
+      ]
+    },
+    { "type": "p", "text": "The itemized program line is usually the most transparent. You still get budget predictability, but because the monthly amount is visible, you can verify each pass happened and negotiate it independently of nightly janitorial rates. A truly bundled retainer hides the cost, making it impossible to know whether passes were skipped." },
+    { "type": "h2", "text": "Red-Flag Language in Scopes of Work" },
+    { "type": "p", "text": "Read the carpet section of every proposal word by word. The following phrases almost always mean encapsulation will be billed extra, or not done at all, regardless of what the sales rep said on site." },
+    {
+      "type": "ul",
+      "items": [
+        "\"Spot clean carpet as needed\" covers small spills only; it never implies machine encapsulation of traffic lanes.",
+        "\"Periodic carpet care available\" means available for a fee, typically quoted per job.",
+        "\"Carpet cleaning per schedule\" without an attached schedule gives the vendor discretion to do nothing.",
+        "\"Excludes specialty floor care\" or \"project work billed separately\" puts encapsulation, extraction, and strip-and-wax outside the retainer.",
+        "\"Furniture moving by client\" means the vendor will clean around desks, leaving lanes under chair mats and file pedestals untouched unless you pay for moving labor.",
+        "\"Subject to access\" can let a vendor skip scheduled passes during busy months without crediting the retainer."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Watch the bundled price creep",
+      "text": "If a vendor claims encapsulation is included but the base rate sits well above the national $0.07–$0.12 per sq ft per visit benchmark for a 10,000–24,999 sq ft office, ask them to break out the floor program. Hidden bundles often price passes at the top of the range and still skip them when crews are short."
+    },
+    { "type": "h2", "text": "Cost Comparison: Bundle vs. Work Orders" },
+    { "type": "p", "text": "Consider a 15,000 sq ft office with 3,000 sq ft of heavy traffic lanes and 12,000 sq ft of open workstation carpet. The facility wants monthly lane passes and quarterly passes for the open field, which is 36,000 + 48,000 = 84,000 pass-square-feet per year." },
+    {
+      "type": "table",
+      "caption": "Annual encapsulation cost for a 15,000 sq ft office (84,000 pass-sq-ft)",
+      "headers": ["Approach", "Rate assumption", "Annual cost", "Monthly equivalent", "Audit visibility"],
+      "rows": [
+        ["Itemized program line", "$0.10–$0.14 per pass-sq-ft", "$8,400–$11,760", "$700–$980", "High"],
+        ["Bundled in retainer", "Base +$0.04–$0.06 per sq ft per month", "$7,200–$10,800", "$600–$900", "Low"],
+        ["Ad hoc work orders, same calendar", "$0.14–$0.20 per pass-sq-ft + minimums", "$11,760–$16,800", "$980–$1,400", "High, but costly"],
+        ["Ad hoc, quarterly only (lanes skipped)", "$0.14–$0.20 on 60,000 pass-sq-ft", "$8,400–$12,000", "$700–$1,000", "High, but lanes degrade"]
+      ]
+    },
+    { "type": "p", "text": "Work orders cost more per pass because each job carries mobilization, a separate supervisor visit, and often a project minimum. They also invite deferral: when every pass needs a purchase order, budget pressure tends to push lane maintenance back, which is how carpet ends up replaced years early." },
+    { "type": "h2", "text": "Contract Audit Checklist" },
+    {
+      "type": "steps",
+      "items": [
+        { "name": "Find the carpet section", "text": "Locate every mention of carpet, floors, and periodic work in the scope, exclusions, and pricing exhibits. Exclusions buried in the general terms often override the task list." },
+        { "name": "Confirm method and product", "text": "The scope should name low-moisture encapsulation specifically, plus the chemistry or a Green Seal certified equivalent, and the machine type (cylindrical brush or orbital pad)." },
+        { "name": "Require a zone map and pass count", "text": "Attach a floor plan showing heavy and standard zones with square footage and passes per year. Without it, \"included\" has no measurable meaning." },
+        { "name": "Clarify furniture and access", "text": "State whether moving chairs, chair mats, and light furniture is included, and whether passes happen during regular night shifts or require weekend access billed at overtime." },
+        { "name": "Set a credit mechanism", "text": "If a scheduled pass is missed, the vendor credits the amortized value on the next invoice. Tie credits to a signed completion log with date-stamped photos." },
+        { "name": "Verify compliance documents", "text": "Request a current COI with additional-insured language, OSHA HazCom training records, and SDS sheets for encapsulant and spotters before the first pass." }
+      ]
+    },
+    { "type": "h2", "text": "Supplies and Site Readiness Vendors Should Bring" },
+    { "type": "p", "text": "Whether encapsulation is bundled or billed separately, crews need to control the work zone. Night-crew kits often include a Rubbermaid Commercial 3154 deluxe carry caddy with eight compartments for quart spotter bottles and detail brushes, which fits on standard janitor carts. Fold-flat 25-inch multilingual A-frame wet floor signs, sold in six-packs, belong at every carpet-to-VCT transition while encapsulant dries and adjacent hard floors are damp-mopped. If the contract also bundles interior glass, an 18-inch squeegee and scrubber kit with an 8-foot telescopic pole lets the same crew reach conference partitions without ladders, which is worth confirming so glass work does not turn into its own surprise add-on." },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Negotiate the program, not the pass",
+      "text": "Vendors discount encapsulation substantially when they can schedule passes into existing night shifts. Offer a 12-month calendar commitment in exchange for program pricing near the low end of $0.10–$0.14 per pass-sq-ft instead of paying work-order rates."
+    },
+    { "type": "cta", "text": "Enter your carpet square footage and desired passes per year in the Office Cleaning Cost Calculator, then load competing proposals into the Quote Comparator to see which vendor is truly including encapsulation and which is billing it extra." }
+  ],
+  "faqs": [
+    { "q": "Is carpet encapsulation part of standard nightly office cleaning?", "a": "Almost never. Standard nightly scopes cover vacuuming, trash, restrooms, and surface dusting. Encapsulation requires a machine, specialized chemistry, and extra labor time, so vendors treat it as periodic work. It is only included when the contract explicitly lists the method, zones, and pass frequency." },
+    { "q": "How can I tell if a bundled retainer actually covers encapsulation?", "a": "Look for a named method, a zone map, a passes-per-year count, and a credit clause for missed passes. If any of those are missing, the service is effectively discretionary. Ask the vendor to show the amortized monthly value of the floor program so you can compare it to the $0.03–$0.06 per sq ft per month benchmark." },
+    { "q": "Why do work-order encapsulation quotes have minimum charges?", "a": "Each project visit requires loading a machine, mixing chemistry, sometimes a separate technician, and supervisor sign-off. Vendors typically set specialty project minimums of $250–$450 so small suites remain profitable. Routine janitorial visits carry lower minimums of roughly $90–$135, but those do not apply to machine floor work." },
+    { "q": "Should encapsulation be subcontracted to a carpet specialist?", "a": "It can be, especially in buildings over 50,000 sq ft or with carpet warranties requiring certified technicians. If your janitorial vendor subcontracts, require the subcontractor's own COI, confirm it is covered under the prime contract's liability terms, and make sure scheduling is coordinated so passes do not collide with nightly crews." },
+    { "q": "Do green cleaning requirements affect encapsulation billing?", "a": "Buildings pursuing LEED or following a green cleaning policy may require Green Seal or equivalent certified encapsulants. These products can cost slightly more, and some vendors add a small surcharge. Specify the certification in the scope up front so it is priced into the program rather than added later." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-deluxe-carry-caddy-3154",
+    "unger-professional-18-inch-window-squeegee-and-scrubber-kit",
+    "rubbermaid-commercial-25-inch-multilingual-wet-floor-a-frame-sig"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/factors-raising-carpet-low-moisture-encapsulation-quotes/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-cost-guide/",
+    "/cleaning-services-and-tasks/vct-strip-and-wax-for-small-vs-large-offices/",
+    "/commercial-vacuums-and-floor-machines/sanitaire-tradition-sc888n-vs-oreck-xl2100rhs/"
+  ]
+}

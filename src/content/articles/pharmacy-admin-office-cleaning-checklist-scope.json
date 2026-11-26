@@ -1,0 +1,89 @@
+{
+  "slug": "pharmacy-admin-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/pharmacy-admin-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "pharmacy admin office scope tasks",
+  "title": "Pharmacy Admin Office Scope Tasks: Estimating Labor Minutes for Compounding Pharmacy Offices",
+  "seoTitle": "Pharmacy Admin Office Scope Tasks: Labor Minutes & Cleaning Checklist",
+  "metaDescription": "Pharmacy admin office scope tasks by daily, weekly, and monthly frequency, with labor minutes per task. Price your SOW in our cost calculator.",
+  "excerpt": "A compounding pharmacy admin office needs a scope of work that separates routine office cleaning from specialty tasks like counter disinfection, shipping-waste removal, and HEPA dust control. This checklist assigns realistic labor minutes to each task so you can tell whether a bid is fully staffed.",
+  "quickAnswer": "A 3,200 sq ft compounding pharmacy admin office typically needs about 85–105 labor minutes per visit: roughly 55 minutes for open-floor work at the ISSA pace of 3,500 sq ft per hour, plus 15–20 minutes per restroom and 10–15 minutes of specialty counter and shipping-area tasks. At $35–$65 per hour standard or $55–$95 for specialty work, that supports per-visit bids of about $290–$480 before add-ons.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a janitorial cart staged in the corridor of a compounding pharmacy back office, color-coded microfiber cloths folded on the top tray, a flat microfiber mop leaning on the cart, a clipboard checklist on the cart without legible writing, shipping boxes and tote bins along the wall, soft fluorescent night lighting, 28mm lens, no text, no logos, no watermarks",
+    "alt": "Janitorial cart with color-coded microfiber staged in a pharmacy back-office corridor"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Why a Generic Office Checklist Underprices Pharmacy Work" },
+    { "type": "p", "text": "Most janitorial scopes are written for a carpeted office where staff sit at desks from nine to five. A compounding pharmacy's admin side breaks that model in four ways: a public pickup counter that collects fingerprints and spills, a shipping and packing station that generates bulky cardboard and cold-chain packaging waste, staff who move between compounding and office space, and a higher share of hard flooring. Each of those adds minutes. When the scope ignores them, the vendor either bids low and quietly skips tasks or submits change orders three months in." },
+    { "type": "p", "text": "The fix is to write the scope task by task with a minute estimate per task. You do not need stopwatch precision; you need enough detail that two vendors bidding the same document are pricing the same labor." },
+    { "type": "h2", "text": "Daily Tasks (Every Scheduled Visit)" },
+    { "type": "table", "caption": "Per-visit task list and labor minutes for a 3,200 sq ft pharmacy admin office", "headers": ["Task", "Area", "Est. minutes per visit", "Labor class"], "rows": [
+      ["Empty deskside bins and replace liners", "Offices, workroom", "8", "Standard"],
+      ["Empty and reline large bins, break down cardboard", "Shipping and packing station", "8–10", "Standard"],
+      ["Disinfect pickup counter, card terminal, pass-through ledge", "Reception", "6–8", "Specialty"],
+      ["Damp-wipe desks clear of paperwork, phones, keyboards", "Offices", "10", "Standard"],
+      ["Vacuum carpet with HEPA filtration", "Private offices", "12", "Standard"],
+      ["Dust mop and damp mop LVT/VCT", "Reception, corridors, workroom", "15", "Standard"],
+      ["Clean and disinfect restrooms, restock", "Two restrooms", "30–40", "Standard"],
+      ["Breakroom counters, sink, microwave, fridge handles", "Breakroom", "8", "Standard"],
+      ["Spot-clean door glass and push plates", "Entry, partitions", "4", "Standard"]
+    ] },
+    { "type": "p", "text": "Those tasks add up to roughly 100–115 minutes for one cleaner, or about 85–105 minutes when a two-person crew splits restrooms and floors efficiently. The ISSA production reference of about 3,500 sq ft per hour covers the open office portion; restrooms and the counter are what stretch the clock." },
+    { "type": "h2", "text": "Weekly and Monthly Tasks" },
+    { "type": "ul", "items": [
+      "Weekly: high dusting of vents, door frames, and tops of filing cabinets in the prior-authorization and billing area (15 minutes).",
+      "Weekly: detail edge vacuuming along baseboards where powder and packaging lint collect (10 minutes).",
+      "Weekly: wipe chair arms, conference table, and shared label printers with a disinfectant approved for electronics (10 minutes).",
+      "Weekly: descale restroom fixtures and scrub floor drains to control odor (10 minutes).",
+      "Monthly: wipe baseboards and kick plates throughout (30 minutes).",
+      "Monthly: clean the interior of the breakroom refrigerator with staff approval and a posted discard notice (20 minutes).",
+      "Monthly: machine-buff or auto-scrub LVT in reception and corridors (45–60 minutes, often billed as floor care).",
+      "Quarterly: hot-water carpet extraction in private offices and VCT scrub-and-recoat where applicable (priced separately at $0.03–$0.06 per sq ft per month amortized)."
+    ] },
+    { "type": "callout", "variant": "warning", "title": "Write the exclusions in plain language", "text": "Exclude the ISO-classified cleanroom, anteroom, segregated compounding area, hazardous-drug storage, and controlled-substance vault from the janitorial scope. Those spaces are cleaned by trained pharmacy staff under USP 797 and USP 800. List them by room name and number so nobody on a night crew is guessing." },
+    { "type": "h2", "text": "Specialty Tasks That Push Labor Above Standard Office Rates" },
+    { "type": "p", "text": "Standard janitorial labor bills around $35–$65 per hour nationally. Specialty labor, where crews follow a site-specific protocol, use EPA-registered disinfectants with defined dwell times, or work around sensitive records, runs $55–$95 per hour. In a pharmacy admin office, these tasks typically fall into the specialty column:" },
+    { "type": "table", "caption": "Specialty tasks and their effect on labor cost", "headers": ["Specialty task", "Why it costs more", "Added minutes per visit", "Cost impact at $55–$95/hr"], "rows": [
+      ["Counter and terminal disinfection with full dwell time", "Surface must stay wet 1–10 minutes depending on label", "6–8", "$5.50–$12.67"],
+      ["Powder dust control at the compounding-to-office transition", "Crew uses HEPA vacuum and damp microfiber only, no dry sweeping", "5", "$4.58–$7.92"],
+      ["Confidential paper handling", "Shred bins left untouched; only sealed shred consoles moved per policy", "3", "$2.75–$4.75"],
+      ["Hazardous-drug waste awareness", "Crew must identify and leave yellow or black containers for pharmacy disposal", "2", "$1.83–$3.17"]
+    ] },
+    { "type": "p", "text": "Individually these are small numbers, but across 13 visits a month at 3x weekly service they add roughly $190–$370 per month. That is the honest reason a pharmacy admin office bid sits above a same-size insurance agency." },
+    { "type": "h2", "text": "Tools That Keep Minutes Down" },
+    { "type": "p", "text": "Equipment choice changes production rates. An 18-inch flat mop like the Bona Commercial System kit, with a telescoping aluminum handle and separate washable microfiber dusting and wet pads, covers LVT corridors faster than a string mop and does not leave standing water near electrical outlets at the packing station. Because it is wood-safe, it also works if the pharmacist's office has engineered hardwood." },
+    { "type": "p", "text": "Fine powder from compounding and paper dust from label printers settle on horizontal surfaces between visits. A portable purifier reduces the dusting load. The Medify MA-50 uses dual-side True HEPA H13 filtration rated for about 1,100 sq ft with a 36 dBA minimum and four fan speeds, which suits an open billing room. The Winix 5500-2 pairs True HEPA with a washable AOC carbon layer and PlasmaWave, sized for a 360 sq ft private office or breakroom where food odors linger. Neither replaces the pharmacy's engineered HVAC controls in compounding rooms; they are for the admin side only." },
+    { "type": "callout", "variant": "tip", "title": "Tie minutes to price in the bid form", "text": "Ask every vendor to state total labor minutes per visit on the bid sheet. Divide their per-visit price by those hours. Anything below about $35 per hour suggests understaffing or wage problems; anything above $95 per hour for this scope needs a specific justification." },
+    { "type": "steps", "items": [
+      { "name": "Walk the suite with the vendor", "text": "Point out the pickup counter, shipping station, and excluded rooms on the floor plan." },
+      { "name": "Attach the task table to the RFP", "text": "Give every bidder the same daily, weekly, and monthly list with minute estimates." },
+      { "name": "Require a minutes-per-visit figure", "text": "Compare implied hourly rates against the $35–$65 standard and $55–$95 specialty range." },
+      { "name": "Audit the first month", "text": "Use a simple sign-off log at the restroom and counter to confirm frequencies are met." }
+    ] },
+    { "type": "cta", "text": "Turn this checklist into a price: enter your square footage, restroom count, and frequency in the Office Cleaning Cost Calculator, then compare vendor bids side by side in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "How many labor minutes should a pharmacy admin office take per visit?", "a": "For about 3,200 sq ft with two restrooms, plan on 85–105 minutes per visit for a two-person crew, or 100–115 minutes for a single cleaner. Bids implying less than an hour are almost certainly skipping restroom detail or counter disinfection." },
+    { "q": "Can the janitorial crew empty our shred bins?", "a": "Only if your HIPAA and records policy allows it. Most pharmacies contract a separate certified shredding service and instruct the janitorial crew to leave locked consoles alone. Put that instruction in the scope so the crew is not accused of mishandling protected health information." },
+    { "q": "What OSHA training should cleaners have for this scope?", "a": "Crews should be trained under OSHA HazCom on the chemicals they use, with Safety Data Sheets on site, and under the Bloodborne Pathogens standard for restroom work and any sharps found in trash. They should also be briefed to recognize and leave hazardous-drug waste containers for pharmacy staff." },
+    { "q": "How do weekly and monthly tasks affect the monthly price?", "a": "Vendors usually spread periodic tasks across regular visits rather than billing them separately. Weekly tasks add about 45 minutes per week and monthly tasks about 50 minutes per month for a 3,200 sq ft suite; at 4.33 weeks per month that is roughly four extra labor hours monthly built into the rate." },
+    { "q": "Is a day porter worth it for a compounding pharmacy?", "a": "If you have walk-in pickup with steady patient traffic, a two-hour midday porter visit to reset the restroom and counter can let you hold evening service at 3x weekly instead of moving to 5x. At $35–$65 per hour, compare that cost against the jump from 13 to 21.65 visits per month." }
+  ],
+  "amazonProductIds": [
+    "bona-commercial-system-multi-surface-hardwood-mop-kit",
+    "medify-ma-50-commercial-h13-hepa-air-purifier-2-200-sq-ft-hr",
+    "winix-5500-2-true-hepa-commercial-office-air-purifier"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/pharmacy-admin-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/church-admin-office-cleaning-cost/",
+    "/facility-cleaning-costs/church-admin-office-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/rubbermaid-tcell-2-vs-fresh-wave-3d-urinal-screens/"
+  ]
+}

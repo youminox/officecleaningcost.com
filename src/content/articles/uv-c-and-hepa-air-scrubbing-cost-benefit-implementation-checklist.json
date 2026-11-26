@@ -1,0 +1,184 @@
+{
+  "slug": "uv-c-and-hepa-air-scrubbing-cost-benefit-implementation-checklist",
+  "pillar": "green-cleaning-and-osha-compliance",
+  "path": "/green-cleaning-and-osha-compliance/uv-c-and-hepa-air-scrubbing-cost-benefit-implementation-checklist/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "90 day staff rollout checklist uv c and hepa air scrubbing cost benefit",
+  "title": "90-Day Facility Rollout Checklist: Deploying Portable H13 HEPA, MERV-13 & UV-C Air Scrubbing",
+  "seoTitle": "90-Day Portable H13 HEPA, MERV-13 & UV-C Rollout Checklist & Cost",
+  "metaDescription": "Execute a 90-day staff rollout checklist for portable H13 HEPA, MERV-13, and UV-C air scrubbing within $0.07-$0.15/sq ft contracts. Model your budget now.",
+  "excerpt": "Rolling out portable H13 HEPA air scrubbers, HVAC MERV-13 upgrades, and touchless hygiene stations fails when facility teams dump hardware into conference rooms without electrical load planning or janitorial SOP integration. Follow this phased 90-day deployment playbook to lock in indoor air quality gains without blowing your annual operating budget.",
+  "quickAnswer": "A disciplined 90-day staff rollout checklist for UV-C and H13 HEPA air scrubbing splits implementation into three 30-day phases: Days 1–30 cover HVAC static-pressure testing, CADR zone mapping, and ADA floor-clearance audits; Days 31–60 phase capital spending across high-density rooms ($0.08–$0.18/sq ft hardware) and touchless restroom/lobby hygiene points; Days 61–90 integrate biweekly pre-filter vacuuming and cartridge logs into your night janitorial contract ($0.07–$0.15/sq ft base rate across 2,500–24,999 sq ft offices) with less than a 3% net monthly fee adjustment.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "US facility operations director with a tablet computer and floorplan blueprint inspecting a newly positioned commercial HEPA air scrubber and wall-mounted touchless sanitizer station in an office elevator lobby, bright clean architectural lighting, wide angle 28mm lens, no text or watermarks",
+    "alt": "Facility operations manager checking a floorplan blueprint beside an office lobby HEPA air purifier"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Unplanned Air Scrubber Rollouts Turn Into Unused Hallway Clutter"
+    },
+    {
+      "type": "p",
+      "text": "Executing a 90-day staff rollout checklist for UV-C and HEPA air scrubbing cost-benefit ensures that your capital outlay translates into verified Equivalent Air Changes per Hour (eACH) rather than unplugged plastic towers shoved behind conference room credenzas. Across US corporate real estate, emergency or reactive purchases of portable H13 HEPA air purifiers fail for three predictable reasons: employees turn units off because they were oversized and placed too close to speakerphones, cords violate OSHA and ADA egress pathways, or night janitorial crews ignore choked pre-filters because nobody updated the cleaning Statement of Work (SOW)."
+    },
+    {
+      "type": "p",
+      "text": "By structuring deployment over a single fiscal quarter (90 days) and coordinating mechanical engineering with your Building Service Contractor (BSC)—who visits 4.33 times/month on a 1x/week schedule (1.08 multiplier), 13.0 times/month on a 3x/week schedule (0.95 multiplier), or 21.65 times/month on a 5x/week weekday schedule (0.90 multiplier)—you can absorb both hardware and maintenance without triggering an unbudgeted mid-year CAM or operating expense variance."
+    },
+    {
+      "type": "table",
+      "caption": "90-Day Phased Implementation Schedule & Budget Allocation (12,000 Sq Ft Office Example)",
+      "headers": [
+        "Rollout Phase",
+        "Core Operational Deliverables",
+        "Responsible Party",
+        "One-Time Capital / Trade Cost",
+        "Recurring Monthly Janitorial Impact"
+      ],
+      "rows": [
+        [
+          "Days 1 – 30: Audit & Baseline Mapping",
+          "AHU static pressure check for MERV-13; CO2/PM2.5 baseline logging; CADR room sizing & ADA cord mapping",
+          "Facility Manager + Landlord MEP Engineer",
+          "$250 – $600 (IAQ monitors / airflow test)",
+          "$0.00 / mo (Planning phase)"
+        ],
+        [
+          "Days 31 – 60: Hardware & Touchless Staging",
+          "Install MERV-13 pleats; stage 6–8 portable H13 HEPA units in boardrooms/breakrooms; mount touchless dispensers",
+          "In-House Maintenance / Day Porter",
+          "$2,200 – $4,400 (H13 units + MERV-13 + dispensers)",
+          "+$35 – $70 / mo (Initial consumable load)"
+        ],
+        [
+          "Days 61 – 90: Janitorial SOP & QA Lock-In",
+          "Add biweekly pre-filter HEPA vacuuming to night SOW; apply QR filter-hour decals; verify 45 dBA acoustic caps",
+          "Janitorial Account Manager + Night Lead",
+          "$0 (Contract addendum execution)",
+          "+$45 – $95 / mo (15 min/wk added labor @ $35–$65/hr)"
+        ],
+        [
+          "Post-Day 90 Steady State",
+          "Semi-annual H13 composite cartridge swap & UV-C quartz lamp inspection (if applicable)",
+          "Janitorial Supervisor / Facility Tech",
+          "$450 – $850 every 6–9 months (Filter kits)",
+          "Stabilized within $0.07 – $0.12/sq ft base contract"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Phase 1 (Days 1–30): Engineering Assessment, CADR Sizing & ADA Placement"
+    },
+    {
+      "type": "p",
+      "text": "Before ordering a single crate of filters or purifiers, dedicate the first 30 days to quantifying what your base building HVAC already delivers and identifying high-risk aerosol bottlenecks. A 12,000 sq ft office does not need portable H13 HEPA scrubbers in low-occupancy private perimeter offices or wide circulation corridors; concentrating portable units in the 25% of floor area where occupants congregate for 30+ minutes delivers 80% of the infection-control benefit at a fraction of the cost."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Week 1: Landlord AHU Static Pressure & MERV-13 Compatibility Verification",
+          "text": "Request the latest Test and Balance (TAB) report from property management. Confirm whether the air handler currently runs MERV-8 or MERV-13 media and verify outdoor air damper minimum positions during occupied hours (7:00 AM to 6:00 PM). If the AHU can accept 2-inch or 4-inch MERV-13 pleated filters without exceeding fan curve limits, schedule the swap for the upcoming quarterly PM cycle."
+        },
+        {
+          "name": "Week 2: High-Density Room CADR Calculations",
+          "text": "Measure square footage and ceiling height for every conference room, training classroom, breakroom/kitchenette, and reception waiting zone. Calculate required Clean Air Delivery Rate (CADR in CFM) to achieve at least 4 to 5 total Equivalent Air Changes per Hour (eACH) while running the portable purifier at 60% fan capacity (Speed 2 or 3) so acoustic levels stay under 45 dBA."
+        },
+        {
+          "name": "Week 3: ADA 36-Inch Path of Travel & Receptacle Load Audit",
+          "text": "Walk each target room to identify dedicated 120V wall outlets that keep power cords completely out of pedestrian walking paths. Under ADA Standards for Accessible Design, floor-standing air scrubbers must never narrow a hallway, doorway clearance, or conference table perimeter below 36 inches of clear passage."
+        },
+        {
+          "name": "Week 4: Upper-Room or In-Duct UV-C Feasibility Screen",
+          "text": "If executive leadership requests UV-C germicidal irradiation, restrict evaluation to in-duct cooling-coil irradiation or windowless high-occupancy rooms with ceilings 9.5 feet or higher. Reject unshielded desktop UV gadgets or ozone-emitting bipolar add-ons that lack UL 2998 zero-ozone certification."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "OSHA Cord Trip Hazards (29 CFR 1910.22 & 1910.305)",
+      "text": "Never run a portable HEPA air purifier on an extension cord or daisy-chained power strip across an office carpet floor. OSHA 29 CFR 1910.305 prohibits flexible extension cords from substituting for fixed building wiring, and loose cables create slip-and-trip liabilities for both employees and night janitorial vacuum operators. Position every purifier within 5 feet of a wall duplex outlet."
+    },
+    {
+      "type": "h2",
+      "text": "Phase 2 (Days 31–60): Phased Hardware Installation & Touchless Hygiene Integration"
+    },
+    {
+      "type": "p",
+      "text": "Airborne filtration solves only half of an office's respiratory and enteric transmission equation; fomite cross-contamination at breakroom sinks ($12–$25 per visit janitorial add-on), elevator lobbies, and restroom stalls ($15–$30 per restroom per visit) spikes whenever employees touch wet lever dispensers or open waste receptacles after coughing or eating. During Days 31 to 60, smart facility directors pair portable H13 HEPA deployment with a synchronized upgrade of high-touch dispenser hardware—allowing the same facilities technician and night janitorial crew to commission the entire environmental wellness package at once."
+    },
+    {
+      "type": "p",
+      "text": "At the main reception desk, elevator bank, and outside each H13-equipped conference room, mount or stand a GOJO PURELL ES8 Touch-Free Hand Sanitizer Dispenser, whose 1,200 mL ADA-compliant profile includes an energy-on-the-refill coin-cell battery built into every fresh sanitizer cartridge—eliminating dead-battery service tickets for your janitorial crew—plus an at-a-glance clear window for rapid night restocking. Inside office kitchenettes and single-occupant restrooms where wall space is tight, install the Georgia-Pacific enMotion Impulse 8-Inch Compact Towel Dispenser, which delivers whisper-quiet touchless 8-inch roll dispensing on 4 D-cell batteries in a shallow compact-depth chassis. Finally, inside multi-stall restrooms (where paper & soap consumables run $0.012–$0.025/sq ft/visit when vendor-supplied), replace high-waste standard rollers with the Georgia-Pacific Compact Vertical Coreless Toilet Paper Dispenser, holding two coreless rolls (up to 3,000 sheets total) behind a keyed lock in an ADA-slim vertical housing that eliminates cardboard core trash and mid-day runouts."
+    },
+    {
+      "type": "h2",
+      "text": "Phase 3 (Days 61–90): Janitorial SOW Integration, Staff Communications & QA Audits"
+    },
+    {
+      "type": "p",
+      "text": "The final 30 days lock in long-term performance by embedding air-scrubber and dispenser care into your nightly or weekly janitorial contract. Whether your facility falls in the 2,500–9,999 sq ft tier ($0.09–$0.15/sq ft) or the 10,000–24,999 sq ft tier ($0.07–$0.12/sq ft), use this 5-point operational checklist to hand off routine upkeep to your cleaning vendor:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Apply Tamper-Resistant Speed & Outlet Decals: Place a discreet facility management label on top of each portable H13 HEPA unit reading 'Building IAQ System — Leave Running on Speed 2 — Do Not Unplug' alongside a QR code linking to the unit's last filter-change date.",
+        "Update the Night Crew Scope of Work (SOW): Add a biweekly line item requiring the vacuum technician (already traversing the suite at the ISSA 3,500 sq ft/hr rate with a HEPA backpack vacuum for 1.00-multiplier commercial carpet) to brush-vacuum the exterior intake grilles and washable mesh pre-filters on every portable air purifier.",
+        "Restrict High-VOC Chemical Triggers Near Purifiers: Brief the night supervisor to prohibit ammonia glass sprays or aerosol air fresheners within 10 feet of running air scrubbers, preventing carbon filter saturation and runaway auto-fan noise.",
+        "Synchronize Filter Hour Counters with Quarterly Floor Care: Align your semi-annual H13 filter cartridge swaps (every 2,500–3,000 run hours) and UV-C lamp checks (every 8,000–9,000 hours) with your contractor's quarterly deep floor care schedule ($0.03–$0.06/sq ft/month amortized) so a supervisor is already onsite to sign off on the maintenance log.",
+        "Publish a 1-Page Tenant / Employee IAQ Fact Sheet: Share the verified room eACH improvement and touchless dispenser locations with staff on Day 75; transparent communication stops employees from overriding fan settings or propping fire-rated hallway doors open for airflow."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Use Smart Plugs or Built-In Schedules to Double H13 Filter Lifespan",
+      "text": "Running a portable H13 HEPA purifier 24/7 burns through an entire 3,000-hour filter cartridge in just 125 days—wasting 65% of filter capacity scrubbing empty conference rooms at 2:00 AM. Program the unit's schedule (or pair non-Wi-Fi units with commercial heavy-duty timer plugs) to run from 6:30 AM to 7:30 PM Monday through Friday (65 hours/week). That extends a 3,000-hour H13 filter cartridge to 46 weeks—nearly 11 months—cutting your annual replacement media cost in half."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to price your updated janitorial scope of work? Run your exact square footage, cleaning frequency, and add-ons through our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "type": "faq",
+      "q": "How long does it take to deploy portable H13 HEPA air scrubbers across a 10,000 to 25,000 sq ft office?",
+      "a": "While physical unboxing takes only an afternoon, a structured 90-day rollout prevents budget waste and staff friction. Days 1–30 verify central HVAC MERV-13 capacity and calculate exact CADR requirements for high-density rooms; Days 31–60 install the units alongside touchless hygiene stations without overloading circuits or blocking ADA corridors; and Days 61–90 train the night janitorial crew on biweekly pre-filter vacuuming and filter-hour tracking."
+    },
+    {
+      "type": "faq",
+      "q": "Should our janitorial contractor or our HVAC vendor maintain portable HEPA air purifiers?",
+      "a": "Assign routine biweekly outer screen vacuuming, cabinet sanitizing, and semi-annual plug-and-play H13 filter cartridge swaps to your commercial janitorial contractor ($35–$65/hr standard labor rate), as their night crew is already onsite 8.66 to 21.65 times per month with commercial HEPA vacuums. Reserve your licensed HVAC mechanical contractor ($115–$175/hr) exclusively for central rooftop MERV-13 filter banks and hardwired in-duct UV-C lamp replacements."
+    },
+    {
+      "type": "faq",
+      "q": "Where should portable H13 HEPA units be positioned inside a conference room for best airflow?",
+      "a": "Place the purifier at least 12 to 18 inches away from walls and curtains so 360-degree or dual-sided intake grilles remain unobstructed, ideally positioned near the center of the longest wall or opposite the HVAC return grille to avoid short-circuiting conditioned supply air. Keep the discharge louver at least 4 feet away from tabletop conference microphones so air velocity and 36–45 dBA fan sound do not interfere with video calls."
+    },
+    {
+      "type": "faq",
+      "q": "How does upgrading to touchless paper, soap, and sanitizer dispensers affect our janitorial consumables cost?",
+      "a": "When a janitorial vendor supplies paper and soap consumables ($0.012–$0.025 per sq ft per visit), upgrading to metered 8-inch touchless roll towel dispensers, coreless dual toilet tissue housings, and energy-on-the-refill sanitizer stations typically reduces paper towel waste by 18% to 25% and eliminates premature half-roll disposal, paying back the dispenser mounting labor within 6 to 9 months."
+    }
+  ],
+  "amazonProductIds": [
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser",
+    "georgia-pacific-compact-vertical-coreless-toilet-paper-dispenser",
+    "gojo-purell-es8-touch-free-hand-sanitizer-dispenser"
+  ],
+  "related": [
+    "/green-cleaning-and-osha-compliance/",
+    "/green-cleaning-and-osha-compliance/uv-c-and-hepa-air-scrubbing-cost-benefit-cost-vs-conventional/",
+    "/green-cleaning-and-osha-compliance/uv-c-and-hepa-air-scrubbing-cost-benefit-vendor-audit-questions/",
+    "/green-cleaning-and-osha-compliance/zero-waste-recycling-and-composting-sorting-cost/",
+    "/commercial-cleaning-chemicals-and-mats/best-neutral-ph-commercial-floor-cleaners/"
+  ]
+}

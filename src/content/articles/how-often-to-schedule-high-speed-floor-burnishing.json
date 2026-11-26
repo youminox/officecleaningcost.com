@@ -1,0 +1,77 @@
+{
+  "slug": "how-often-to-schedule-high-speed-floor-burnishing",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/how-often-to-schedule-high-speed-floor-burnishing/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "quarterly annual calendar high speed floor burnishing",
+  "title": "Recommended Frequency for High-Speed Propane & Electric Floor Burnishing and Annual Spend",
+  "seoTitle": "Floor Burnishing Calendar: Weekly, Monthly or Quarterly & Annual Cost",
+  "metaDescription": "Floor burnishing calendar by foot traffic: quarterly for quiet suites, weekly for lobbies, at about $1,400–$10,400 a year per 10,000 sq ft. Run your numbers.",
+  "excerpt": "Foot traffic, not habit, should set how often your hard floors get burnished. This guide maps low, medium and heavy traffic thresholds to a burnishing, recoat and strip calendar, then annualizes the cost for a 10,000 sq ft office.",
+  "quickAnswer": "Low-traffic offices with fewer than about 250 foot passes per day usually need burnishing only monthly or quarterly, medium-traffic floors with 250–1,000 passes need it biweekly to monthly, and lobbies or elevator banks above 1,000 passes need it weekly or even nightly. For 10,000 sq ft of hard floor, that translates to roughly $1,400 a year on a quarterly schedule and $10,400 a year on a weekly schedule, with scrub-and-recoat and strip cycles layered on an annual calendar.",
+  "readingMinutes": 8,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead view of a busy US office building elevator lobby with polished vinyl tile showing a clear contrast between a freshly burnished glossy lane and a dull traffic path, a commercial entrance runner and bi-level entrance mat at the doorway, a janitorial caddy on a cart nearby, late evening warm lighting, high angle wide shot, no text, no logos, no watermarks",
+    "alt": "Elevator lobby VCT showing glossy burnished lane next to dull traffic path with entrance matting"
+  },
+  "blocks": [
+    { "type": "h2", "text": "Start With Foot Traffic, Not a Default Schedule" },
+    { "type": "p", "text": "Many janitorial proposals list burnishing as weekly simply because that is how the vendor's route runs. That over-serves quiet suites and under-serves lobbies. The better method is to estimate daily foot passes across each hard-floor zone. A simple proxy: count headcount, multiply by four for arrivals, lunch, restroom and departure trips across the main corridor, then add visitor counts. An entry vestibule in a multi-tenant building can see 2,000+ passes a day, while a back-office hallway serving 25 people may see under 150." },
+    { "type": "p", "text": "Traffic wears finish in a predictable sequence. First the gloss dulls from micro-scratching, which burnishing fixes. Then the top coats wear thin in traffic lanes, which a scrub-and-recoat fixes. Finally the finish wears to bare tile or yellows with buildup, which only a strip-and-refinish fixes. A good calendar schedules each of those three tasks at the right interval so cheap burnishing defers the expensive work." },
+    { "type": "h2", "text": "Traffic Thresholds and Recommended Calendar" },
+    { "type": "table", "caption": "Floor care calendar by traffic tier and annualized burnishing cost for 10,000 sq ft of hard floor", "headers": ["Traffic tier", "Daily foot passes", "Burnish frequency", "Scrub and recoat", "Strip and refinish", "Annual burnish cost (10,000 sq ft)"], "rows": [
+      ["Low", "Under 250", "Quarterly (4 visits/yr) at $0.035", "Annually", "Every 3–4 years", "About $1,400"],
+      ["Low-medium", "250–500", "Monthly (12 visits/yr) at $0.03", "Semiannually", "Every 2–3 years", "About $3,600"],
+      ["Medium", "500–1,000", "Biweekly (26 visits/yr) at $0.025", "Quarterly to semiannually", "Every 2 years", "About $6,500"],
+      ["Heavy", "Over 1,000", "Weekly (52 visits/yr) at $0.02", "Quarterly", "Annually", "About $10,400"],
+      ["Extreme (lobby, elevator bank)", "Over 2,000", "2x–5x weekly in zone only", "Quarterly", "Annually", "Priced per zone, $35–$75 per visit"]
+    ] },
+    { "type": "p", "text": "The per-visit unit rate drops as frequency rises because the floor needs less work each time and the visit fits into an existing route. These figures assume route add-on pricing; a standalone visit with a $90–$135 minimum or a dedicated propane mobilization at $175–$300 changes the math for small or infrequent jobs." },
+    { "type": "h2", "text": "The Annual Calendar in Practice" },
+    { "type": "p", "text": "Most US offices are best served by a mixed calendar where zones are burnished at different frequencies. A 10,000 sq ft hard-floor office might split into 1,500 sq ft of entry and elevator lobby, 4,500 sq ft of main corridors and breakroom, and 4,000 sq ft of low-traffic back hallways and storage. Scheduling by zone keeps the shine where visitors see it and saves money everywhere else." },
+    { "type": "steps", "items": [
+      { "name": "Weekly", "text": "Burnish the 1,500 sq ft lobby zone at a flat $50 zone rate: 4.33 visits per month, about $2,600 per year." },
+      { "name": "Biweekly", "text": "Burnish the 4,500 sq ft corridor and breakroom zone at $0.025: about $113 per visit, 26 visits, roughly $2,930 per year." },
+      { "name": "Quarterly", "text": "Burnish the 4,000 sq ft back hallways at $0.035: $140 per visit, but the $90–$135 minimum is already covered, so four visits cost about $560 per year." },
+      { "name": "Quarterly or semiannual recoat", "text": "Scrub and recoat lobby and corridors at $0.18–$0.35 per sq ft on 6,000 sq ft, two to four times a year, for $2,160–$8,400." },
+      { "name": "Strip on rotation", "text": "Strip and refinish the lobby annually and other zones every two to three years so no single year absorbs the full $0.35–$0.75 per sq ft cost." }
+    ] },
+    { "type": "p", "text": "That zoned plan totals about $6,090 per year in burnishing, versus $10,400 for burnishing all 10,000 sq ft weekly, while keeping the most visible floor on the tightest schedule." },
+    { "type": "h2", "text": "Seasonal Adjustments and Grit Control" },
+    { "type": "p", "text": "Winter slush, de-icing salt and spring mud can double the abrasive load on hard floors. In northern markets, many facility managers move lobbies from weekly to twice-weekly burnishing between December and March and drop back in summer. The cheaper lever is matting. Industry guidance holds that most walk-off soil is captured in the first 10–15 feet of matting, and every pound of grit stopped at the door is grit that does not scratch the finish." },
+    { "type": "callout", "variant": "tip", "title": "Matting extends burnish intervals", "text": "A bi-level M+A Matting WaterHog Classic 3x5 mat with its rubber water dam and NFSI-certified slip resistance at the door, followed by a 3x10 NoTrax 136 Brush Step runner with a 24-ounce face and ADA beveled edges down the first corridor, can let a medium-traffic office move from biweekly to monthly burnishing in back zones." },
+    { "type": "p", "text": "Organized day porters also protect finish between burnishes. A compact Rubbermaid Deluxe Carry Caddy 3154 with eight slots keeps neutral floor cleaner, spot-removal pads and microfiber on hand so spills and heel marks are handled before they become permanent scuffs that the next burnish cannot remove." },
+    { "type": "h2", "text": "Signs Your Frequency Is Wrong" },
+    { "type": "ul", "items": [
+      "Gloss meter readings or visual shine drop noticeably within three or four days of a burnish in a zone scheduled weekly: move that zone up to twice weekly or check for chemical residue.",
+      "Floors look identical before and after a burnish: the zone is over-served, so stretch the interval.",
+      "Gray swirls or powder appear after burnishing: the finish is too soft or dirty, and a scrub-and-recoat is due rather than more burnishing.",
+      "Black lanes visible in corridors: top coats are worn through and burnishing cannot fix them.",
+      "Lobby looks great but back hallways are dull: zone the schedule rather than raising frequency everywhere."
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Annual floor program benchmark", "text": "Across a full building that mixes carpet and VCT, combined deep floor care, including recoats and extraction, typically amortizes to $0.03–$0.06 per sq ft per month. Burnishing sits on top of that as routine maintenance." },
+    { "type": "cta", "text": "Use the Office Cleaning Cost Calculator to model weekly, biweekly and quarterly burnishing against your hard-floor square footage, or compare vendor floor calendars in the Quote Comparator to see whose frequency actually matches your traffic." }
+  ],
+  "faqs": [
+    { "q": "Is quarterly burnishing enough for a typical office?", "a": "For low-traffic suites with under about 250 daily foot passes, yes, provided daily dust mopping and damp mopping are done correctly. Anything busier, especially reception areas and corridors near elevators, will show dulling within weeks and benefits from monthly or biweekly service." },
+    { "q": "How do I calculate the monthly cost of weekly burnishing?", "a": "Multiply the per-visit price by 4.33 weeks per month. A 10,000 sq ft floor at $0.02 per sq ft is $200 per visit, or about $866 per month and $10,400 per year. Biweekly uses 2.17 visits per month." },
+    { "q": "Does burnishing replace scrub-and-recoat or stripping?", "a": "No. Burnishing restores gloss on intact finish; it does not add finish or remove deep soil. Recoats are still needed quarterly to annually depending on traffic, and full strips every one to four years. Contracts should list these as separate scope items with their own frequency and price." },
+    { "q": "Are there safety or compliance issues with frequent propane burnishing?", "a": "Yes. Each propane run must stay within the OSHA carbon monoxide limit of 50 ppm over eight hours, so operators should carry CO monitors and work in ventilated, unoccupied areas. Floor chemicals used in prep fall under OSHA HazCom, and vendors should provide a certificate of insurance and Safety Data Sheets. Green Seal certified floor cleaners help where tenants have sustainability requirements." },
+    { "q": "Should burnishing frequency change seasonally?", "a": "In snow-belt markets, increasing lobby burnishing during winter and adding extra entrance matting is common. In mild climates, a steady schedule works, though rainy seasons can justify temporary increases near entrances." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-deluxe-carry-caddy-3154",
+    "notrax-136-brush-step-3x10-commercial-lobby-runner",
+    "m-a-matting-waterhog-classic-3x5-commercial-mat"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/high-speed-floor-burnishing-included-vs-add-on-quotes/",
+    "/cleaning-services-and-tasks/factors-raising-high-speed-floor-burnishing-quotes/",
+    "/cleaning-services-and-tasks/tile-and-grout-deep-cleaning-cost-guide/",
+    "/commercial-vacuums-and-floor-machines/best-high-speed-burnishers-for-vct-lobbies/"
+  ]
+}

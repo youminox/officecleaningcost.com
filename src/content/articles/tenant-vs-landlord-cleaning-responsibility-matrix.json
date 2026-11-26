@@ -1,0 +1,235 @@
+{
+  "slug": "tenant-vs-landlord-cleaning-responsibility-matrix",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/tenant-vs-landlord-cleaning-responsibility-matrix/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "landlord vs tenant lease",
+  "title": "Lease Responsibility Matrix: Landlord Common Areas vs. Tenant Suite Cleaning",
+  "seoTitle": "Lease Responsibility Matrix: Landlord vs. Tenant Cleaning Scope (2026)",
+  "metaDescription": "Compare landlord vs. tenant lease cleaning rules across Full-Service Gross and Triple Net suites ($0.07–$0.15/sq ft). Run our quote comparator today.",
+  "excerpt": "Commercial office leases often blur the boundary between base-building Common Area Maintenance (CAM) janitorial services and direct tenant suite obligations. This procurement guide provides a line-item responsibility matrix and current square-foot benchmarks so facility managers never double-pay for office sanitation.",
+  "quickAnswer": "Under a Full-Service Gross (FSG) commercial lease, the landlord provides basic five-night-per-week trash removal and vacuuming inside the tenant suite as part of base operating expenses, while common lobbies, core elevators, and shared corridor restrooms are billed pro-rata through Common Area Maintenance (CAM). Under Modified Gross or Triple Net (NNN) leases, tenants must contract and pay directly for all interior suite cleaning ($0.07 to $0.15 per sq ft per visit for 2,500 to 24,999 sq ft offices), private En-Suite restrooms ($15 to $30 per visit), and breakroom appliance sanitation ($12 to $25 per visit).",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide-angle interior view of a modern US multi-tenant Class A commercial office building showing the threshold between a polished granite elevator lobby and a glass-partitioned tenant office suite with low-pile carpet tiles, warm architectural lighting, DSLR 35mm lens, zero text or logos",
+    "alt": "Boundary between a Class A commercial office building elevator lobby and a glass-walled tenant office suite"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why the Landlord vs. Tenant Lease Structure Dictates Your Janitorial Budget"
+    },
+    {
+      "type": "p",
+      "text": "When corporate real estate and facility operations teams sign a commercial office lease, janitorial responsibilities are frequently buried inside Exhibit C (Building Rules and Regulations) or an abbreviated cleaning specification rider. Misinterpreting how a landlord vs tenant lease allocates sanitation labor leads to two expensive failures: paying an independent contractor to clean zones already funded through your Common Area Maintenance (CAM) recovery charges, or leaving high-touch interior zones—such as breakroom refrigerators, interior glass partitions, and private executive restrooms—completely unserviced at move-in."
+    },
+    {
+      "type": "p",
+      "text": "Across US commercial office markets, janitorial obligations divide along two structural lines: the physical boundary of the demised premises (the leased suite footprint versus multi-tenant common cores) and the financial structure of the lease (Full-Service Gross, Modified Gross, or Triple Net). Even in Class A high-rise towers where nighttime base-building crews enter every tenant suite five nights a week (21.65 visits per month based on the industry standard 4.33 weeks per month), the landlord's baseline specification intentionally excludes high-detail tasks to protect building operating expense caps."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "2026 Base-Building CAM vs. Direct Tenant Suite Benchmarks",
+      "text": "In multi-tenant Class A and Class B office buildings, landlords typically budget $1.45 to $2.35 per rentable square foot (RSF) annually for base janitorial inside operating expense pools. When tenants under NNN or Modified Gross leases procure private interior cleaning directly, per-visit rates range from $0.09 to $0.15 per sq ft for suites between 2,500 and 9,999 sq ft, and $0.07 to $0.12 per sq ft for 10,000 to 24,999 sq ft footprints at standard twice-weekly (1.0x multiplier) service."
+    },
+    {
+      "type": "h2",
+      "text": "Master Tenant vs. Landlord Cleaning Responsibility Matrix"
+    },
+    {
+      "type": "p",
+      "text": "Before issuing a Request for Proposals (RFP) to commercial janitorial vendors, facility managers must audit their lease's Cleaning Specifications Exhibit line by line. The matrix below maps standard US commercial office zones against Full-Service Gross (FSG), Modified Gross (MG), and Triple Net (NNN) lease allocations, alongside current national cost benchmarks."
+    },
+    {
+      "type": "table",
+      "caption": "Commercial Office Lease Cleaning Responsibility & Cost Allocation Matrix (2026 USD Benchmarks)",
+      "headers": [
+        "Facility Zone / Task",
+        "Full-Service Gross (FSG) Lease",
+        "Modified Gross (MG) Lease",
+        "Triple Net (NNN) Lease",
+        "Direct Tenant Cost Benchmark (If Tenant-Paid)"
+      ],
+      "rows": [
+        [
+          "Main Lobby, Elevators & Multi-Tenant Corridors",
+          "Landlord (Included in Base Rent / CAM)",
+          "Landlord (Billed via CAM Share)",
+          "Landlord (Billed via NNN CAM Share)",
+          "Reconciled annually via pro-rata RSF load factor"
+        ],
+        [
+          "Shared Core Restrooms (Multi-Tenant Floor)",
+          "Landlord (Nightly + Day Porter)",
+          "Landlord (Billed via CAM Share)",
+          "Landlord (Billed via NNN CAM Share)",
+          "Included in CAM ($0.012–$0.025/sq ft/visit paper & soap)"
+        ],
+        [
+          "Private En-Suite Restrooms (Inside Demised Suite)",
+          "Tenant Above-Standard Charge or Direct Vendor",
+          "Tenant Direct Contract",
+          "Tenant Direct Contract",
+          "$15.00 – $30.00 per restroom per visit"
+        ],
+        [
+          "In-Suite Trash Removal & Carpet HEPA Vacuuming",
+          "Landlord Nightly Crew (5x/wk = 21.65 visits/mo)",
+          "Tenant Direct Contract (Often 2x–5x/wk)",
+          "Tenant Direct Contract",
+          "$0.07 – $0.15/sq ft per visit (2,500–24,999 sq ft)"
+        ],
+        [
+          "In-Suite Breakroom Sink, Appliances & Countertops",
+          "Excluded from Base Spec (Tenant Add-On)",
+          "Tenant Direct Contract",
+          "Tenant Direct Contract",
+          "$12.00 – $25.00 per breakroom per visit"
+        ],
+        [
+          "Interior Glass Partitions & Conference Sidelights",
+          "Excluded from Base Spec (Tenant Add-On)",
+          "Tenant Direct Contract",
+          "Tenant Direct Contract",
+          "$15.00 – $35.00 per visit for smudge & streak removal"
+        ],
+        [
+          "Quarterly Deep Carpet Extraction & VCT Scrub/Recoat",
+          "Tenant Direct Responsibility",
+          "Tenant Direct Responsibility",
+          "Tenant Direct Responsibility",
+          "$0.03 – $0.06/sq ft/month amortized ($55–$95/hr specialty)"
+        ],
+        [
+          "Exterior Perimeter Windows & Curtain Wall Glass",
+          "Landlord Base Building (1x–2x/year)",
+          "Landlord via CAM Recovery",
+          "Landlord via NNN CAM (or Tenant in Single-Story)",
+          "Billed via CAM unless single-tenant flex/retail frontage"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Decoding the Physical Boundary: Common Core vs. Demised Premises"
+    },
+    {
+      "type": "p",
+      "text": "The single most common source of friction in a landlord vs tenant lease occurs where public building architecture meets private tenant build-outs. Understanding BOMA (Building Owners and Managers Association) Z65 measurement standards helps clarify who owns which square foot of cleaning labor:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Multi-Tenant Floor Common Areas: When three companies share the 8th floor of an office tower, the elevator lobby, fire egress stairwells, janitor's slop sink closet, and central men's/women's/unisex restrooms belong to the base building. The landlord's contractor services these zones, and each tenant pays their proportionate percentage share based on Rentable Square Footage (RSF).",
+        "Full-Floor Single-Tenant Suites: If your company leases an entire floor where the elevators open directly into your reception zone, leases differ sharply. Most institutional landlords still retain responsibility for the core restrooms and elevator threshold under FSG terms, but NNN and Modified Gross leases often transfer full-floor restrooms and elevator lobbies directly to the tenant's janitorial contract.",
+        "Private En-Suite Wet Columns (Executive Washrooms, Wellness Rooms, and Showers): Even in a Full-Service Gross building, any plumbing fixture built strictly inside your demised suite perimeter—such as a CEO washroom, mother's lactation sink, or commuter shower—is classified as an 'Above-Building-Standard Improvement.' Landlords either exclude it from nightly cleaning or bill a monthly work-order surcharge of $15 to $30 per fixture per visit.",
+        "In-Suite Kitchenettes and Coffee Bars: Base-building janitorial riders almost universally state that nightly crews will empty a central breakroom trash receptacle and damp-mop hard flooring, but will NOT load dishwashers, wipe microwave interiors, sanitize refrigerator handles, or descale coffee brewers."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Hardware & Consumable Ownership Across Lease Types"
+    },
+    {
+      "type": "p",
+      "text": "Beyond hourly labor ($35 to $65 per hour for standard commercial custodians based on an ISSA production rate of 3,500 sq ft per hour), lease responsibility matrices must define who purchases and restocks restroom and breakroom dispensers. In shared core restrooms, the property manager standardizes hardware and bills paper and soap consumables ($0.012 to $0.025 per sq ft per visit) through CAM. However, when a tenant controls private en-suite restrooms or leases a standalone NNN facility, installing commercial-grade, high-capacity dispensers immediately cuts custodian refill time and prevents midday run-outs."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "High-Capacity Coreless Bath Tissue Systems: Installing the Scott Pro High-Capacity Coreless Standard Roll Dispenser (Kimberly-Clark) in tenant-controlled restrooms provides a 4-roll coreless capacity in an ADA-compliant footprint with keyed or keyless locking options, eliminating cardboard core waste and reducing custodian restocking labor during high-traffic weekdays.",
+        "Touchless Foam Hand Soap Stations: For executive washrooms and in-suite breakrooms, the Rubbermaid Commercial AutoFoam 1100 mL Touchless Soap Dispenser delivers up to 2,750 doses per refill with a 3-year battery life and ADA-compliant wall projection, preventing counter soap drips that trigger extra detail-cleaning charges.",
+        "Standardized Multifold Hand Towels: Stocking private suite restrooms and kitchenettes with Tork Universal Multifold Hand Towels Natural (16-Pack Case, 4,000 sheets total in 16 packs of 250 sheets, 9.125 x 9.5 inch unfolded dimensions, 100% recycled fiber) ensures universal compatibility with existing recessed wall cabinets left behind by prior tenants."
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Mandatory Vendor Access & COI Rules in Landlord-Controlled Buildings",
+      "text": "If your Full-Service Gross lease excludes breakrooms, interior glass, and carpet extraction, you may want to hire an independent contractor for supplemental cleanings. Check your lease's 'Rules and Regulations' first: 85% of Class A office leases require third-party janitorial vendors to submit a Certificate of Insurance (COI) naming the Landlord and Property Management Firm as Additional Insureds ($1M/$2M General Liability plus statutory Workers' Compensation), pass background checks for after-hours keycard issuance, and comply with union labor harmony clauses in major metro cores."
+    },
+    {
+      "type": "h2",
+      "text": "5-Step Audit to Align Your Lease Matrix with Vendor Quotes"
+    },
+    {
+      "type": "p",
+      "text": "To eliminate scope gaps between your property manager and your contracted cleaning vendor, execute this five-step procurement workflow before signing a janitorial service agreement:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Step 1: Extract the Lease Cleaning Exhibit & BOMA Floor Plan",
+          "text": "Request the exact 'Landlord Janitorial Specifications' exhibit from your lease alongside a cad-verified Usable Square Footage (USF) versus Rentable Square Footage (RSF) diagram. Never pay an independent janitorial contractor based on RSF; your suite's Usable Square Footage is 12% to 18% smaller than the rentable figure carrying the building's core/common load factor."
+        },
+        {
+          "name": "Step 2: Separate Base-Building Nightly Tasks from Above-Standard Add-Ons",
+          "text": "Highlight every task the landlord performs (such as 5x/week dry trash pickup and traffic-lane vacuuming) and isolate the exclusions: breakroom sanitation ($12–$25/visit), interior conference glass ($15–$35/visit), and private en-suite restrooms ($15–$30/visit)."
+        },
+        {
+          "name": "Step 3: Compare Landlord Above-Standard Work Orders vs. Independent Bids",
+          "text": "Ask the building's property management office for their incumbent contractor's rate card to clean your excluded breakroom, glass, and carpets. Compare that quote against independent commercial cleaning bids using a 4.33 weeks-per-month multiplier (e.g., 2x/week = 8.66 visits/month at a 1.0x frequency multiplier; 5x/week = 21.65 visits/month at a 0.90x multiplier)."
+        },
+        {
+          "name": "Step 4: Match Flooring Multipliers to Your Suite Finish Schedule",
+          "text": "Adjust your expected per-square-foot target rate according to your interior build-out: commercial carpet tiles carry a 1.00x baseline multiplier, VCT/LVT vinyl carries a 1.04x multiplier, engineered hardwood carries a 1.08x multiplier, and ceramic tile with grout requires a 1.12x labor multiplier."
+        },
+        {
+          "name": "Step 5: Document Consumable Supply & Slop Sink Access",
+          "text": "Confirm in writing whether your vendor has badge access to the floor's base-building janitor closet (for water supply and mop-water disposal) and specify whether consumables ($0.012 to $0.025/sq ft/visit) are vendor-supplied or tenant-purchased."
+        }
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "When to Use the Landlord's Incumbent Vendor vs. an Independent Contractor"
+    },
+    {
+      "type": "p",
+      "text": "In a Full-Service Gross building where the landlord's vendor already enters your suite nightly for trash and basic vacuuming, hiring a second outside company to clean just the breakroom and interior glass rarely makes financial sense due to the $90 to $135 minimum per-visit trip charge enforced by commercial janitorial firms. Instead, negotiate an 'Above-Standard Supplemental Scope Rider' directly with the building's incumbent janitorial provider. Because their crew is already on-site with security clearance and janitor-closet keys, you avoid minimum trip charges and only pay the incremental task rates ($12 to $25 for the breakroom and $15 to $35 for interior glass) plus periodic deep floor care ($0.03 to $0.06 per sq ft per month)."
+    },
+    {
+      "type": "p",
+      "text": "Conversely, if you occupy a Modified Gross or Triple Net suite where all interior cleaning falls on the tenant, soliciting three independent competitive bids is essential. Property managers often recommend their base-building vendor for tenant-direct suites, not realizing the incumbent contractor may inflate tenant-direct rates by 18% to 30% assuming you will not comparison-shop."
+    },
+    {
+      "type": "cta",
+      "text": "Ready to benchmark your exact Usable Square Footage and lease obligations? Run your suite specs through our Office Cleaning Cost Calculator or compare three vendor proposals side-by-side in our Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Should I pay my janitorial contractor based on Rentable Square Footage (RSF) or Usable Square Footage (USF)?",
+      "a": "Always scope and pay your direct janitorial contractor based on cleanable Usable Square Footage (USF), never Rentable Square Footage (RSF). RSF includes a 12% to 18% BOMA load factor for elevator shafts, lobbies, and shared corridors that the landlord cleans under Common Area Maintenance (CAM). Paying a private vendor on a 10,000 RSF lease when your usable interior is 8,500 USF wastes $105 to $180 per visit at standard $0.07 to $0.12/sq ft rates."
+    },
+    {
+      "q": "Why won't my building's Full-Service Gross nightly cleaners wipe our breakroom microwave or conference glass?",
+      "a": "Standard commercial lease janitorial exhibits strictly limit base-building crews to emptying central trash cans, dust-mopping hard floors, and vacuuming main traffic lanes to keep building CAM expenses uniform across all tenants. Detailed food-surface disinfection, appliance wiping, and interior glass partition cleaning are classified as tenant-specific above-standard tasks billed separately at $12 to $25 per breakroom visit and $15 to $35 per interior glass pass."
+    },
+    {
+      "q": "Who is responsible for OSHA Bloodborne Pathogen and HazCom compliance inside a leased tenant suite?",
+      "a": "whichever entity directly contracts the cleaning labor holds primary oversight, while the employer of the custodians must maintain OSHA 29 CFR 1910.1200 Hazard Communication (Safety Data Sheets on-site) and 29 CFR 1910.1030 Bloodborne Pathogens training. If you hire an independent janitorial vendor for your NNN or Modified Gross suite, your contract must require the vendor to keep an updated SDS binder in the suite janitor closet and provide biohazard spill kits."
+    },
+    {
+      "q": "How does monthly billing math work when reconciling weekly landlord or vendor cleaning charges?",
+      "a": "Commercial janitorial contracts use 4.33 weeks per month (52 weeks divided by 12 months) rather than a flat 4 weeks. A 5-day-per-week nightly service equals 21.65 visits per month (with a 0.90x high-frequency unit discount multiplier), a 3-day-per-week service equals 13.0 visits per month (0.95x multiplier), and a 2-day-per-week baseline service equals 8.66 visits per month (1.00x multiplier)."
+    }
+  ],
+  "amazonProductIds": [
+    "scott-pro-high-capacity-coreless-standard-roll-dispenser",
+    "rubbermaid-commercial-autofoam-1100-ml-touchless-soap-dispenser",
+    "tork-universal-multifold-hand-towels-natural-16-pack-case"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/tenant-vs-landlord-cleaning-responsibility-matrix-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/tenant-vs-landlord-cleaning-responsibility-matrix-scoring-criteria/",
+    "/comparing-quotes-and-contracts/negotiating-free-first-month-or-deep-clean-credit/",
+    "/commercial-vacuums-and-floor-machines/best-commercial-vacuums-for-low-pile-office-carpet/"
+  ]
+}

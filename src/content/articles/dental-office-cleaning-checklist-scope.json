@@ -1,0 +1,86 @@
+{
+  "slug": "dental-office-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/dental-office-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "dental office scope tasks",
+  "title": "Dental Office Scope Tasks: Daily and Weekly Checklist for Dental and Orthodontic Crews",
+  "seoTitle": "Dental Office Scope Tasks: Daily & Weekly Orthodontic Crew Checklist",
+  "metaDescription": "Dental office scope tasks by zone: operatory floors, sterilization room, lobby, and restrooms with minutes per task and crew hours. Compare vendor quotes.",
+  "excerpt": "A dental cleaning scope has to draw a clear line between what clinical staff disinfect and what the night crew cleans. This checklist lays out daily, weekly, and monthly tasks by zone with labor minutes so you can size crew hours and audit bids.",
+  "quickAnswer": "A dental office scope should assign the night crew operatory floors, cabinet exteriors, sinks outside the clinical field, the sterilization room floor and counters, restrooms, and the waiting room, while clinical staff keep chairs, delivery units, and instruments. Expect 6-9 labor minutes per operatory and 12-18 minutes per restroom nightly, which puts a 2,400 sq ft six-operatory office at roughly 1.2-1.6 crew hours per visit. Weekly baseboard detail, monthly vent dusting, and quarterly floor finish work are what push dental labor above standard office rates.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter shot of an orthodontic open-bay clinic in the evening, four empty patient chairs in a row, a janitorial worker sweeping fine debris along the baseboard with an angled broom and lobby dustpan, a yellow four-sided wet floor cone near the entrance, large windows showing a suburban parking lot at blue hour, clean soft lighting, no text, no logos, no watermarks",
+    "alt": "Janitorial worker sweeping baseboards in an orthodontic open-bay clinic with a wet floor cone nearby"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The clinical line: who cleans what in a dental office" },
+    { "type": "p", "text": "Before writing a single task, draw the line between clinical disinfection and janitorial cleaning. Dental assistants disinfect the chair, delivery unit, light handles, x-ray heads, and countertops within the treatment field between patients, using barriers and products the practice selects. The night crew owns everything outside that field: the floor, including around and under the chair base; cabinet fronts and countertops outside the field; the operatory sink basin and faucet if the practice assigns it; door hardware; trash; and all non-clinical rooms. Writing this line into the scope prevents both gaps and duplicated effort." },
+    { "type": "p", "text": "Organize the scope by zone: operatories or open bays, sterilization and lab, patient restrooms, waiting room and front desk, staff areas, and circulation. Orthodontic clinics add a toothbrushing station and often a retainer or aligner fitting room." },
+    { "type": "h2", "text": "Nightly task list with labor minutes" },
+    { "type": "table", "caption": "Nightly dental office scope and typical minutes per unit", "headers": ["Zone", "Night crew task", "Method", "Minutes per unit"], "rows": [
+      ["Operatory", "Sweep and damp mop floor around chair base and stool, wipe cabinet fronts, empty general trash", "Angled broom, neutral pH mop solution", "6-9 per operatory"],
+      ["Open-bay ortho chairs", "Sweep and mop bay floor, wipe bay divider walls, empty trash", "Same as above, larger area", "4-6 per chair"],
+      ["Sterilization room", "Mop floor, wipe counters outside instrument flow, clean sink exterior", "Disinfectant on counters only after staff clears instruments", "8-12"],
+      ["Patient restroom", "Disinfect fixtures, mirror, grab bars, restock paper and soap, mop", "Restroom-only color-coded cloths", "12-18 per restroom"],
+      ["Toothbrushing station", "Scrub basin, wipe splash zone, mop wet floor", "Disinfectant, non-scratch pad", "5-8"],
+      ["Waiting room", "Wipe chair arms, check-in counter, kids area toys bin exterior, vacuum or mop", "Disinfectant on high-touch points", "12-20"],
+      ["Front desk and admin", "Trash, desk spot clean around equipment, vacuum", "General cleaner", "3-5 per workstation"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Crew hour math for a 2,400 sq ft office", "text": "Six operatories at 6-9 minutes, a sterilization room at 8-12, two restrooms at 12-18 each, a waiting room at 12-20, and four admin workstations at 3-5 adds up to roughly 80-115 minutes. At 21.65 visits per month that is 29-41 labor hours, or $1,010-$2,670 in direct labor at $35-$65 per hour before overhead and supplies." },
+    { "type": "h2", "text": "Weekly and monthly detail tasks" },
+    { "type": "ul", "items": [
+      "Weekly: detail baseboards and chair-base perimeters where prophy paste and composite dust collect, using a flagged-bristle angled broom such as the O-Cedar Commercial MaxiClean Angle Broom and Lobby Pan.",
+      "Weekly: scrub operatory and breakroom sinks with a non-rusting synthetic pad such as 3M Scotch-Brite Commercial Heavy-Duty Scour Pads, which will not leave metal particles in stainless or porcelain.",
+      "Weekly: clean interior glass at the entry and reception window.",
+      "Weekly: wipe waiting room chair legs and the underside of the check-in counter ledge.",
+      "Monthly: high dust supply vents above operatories, where dental aerosols settle, and light lenses.",
+      "Monthly: machine scrub restroom floors and grout lines.",
+      "Monthly: wash trash and recycling receptacles.",
+      "Quarterly: scrub and recoat VCT in operatories and corridors, or extract carpet in the waiting room, amortized at $0.03-$0.06 per sq ft per month."
+    ] },
+    { "type": "h2", "text": "Tasks that push dental labor above office rates" },
+    { "type": "p", "text": "Dental scope runs above standard office production for three reasons. First, operatory floors are obstacle courses: the crew has to work around chair bases, rheostat cords, mobile carts, and stools, which slows mopping considerably. Second, the debris is unusual: dried prophy paste and impression material do not lift with a single damp pass and often need a scour pad and second pass. Third, aerosol settling from handpieces means horizontal surfaces and vents collect fine residue faster than in an office, so high dusting has to happen monthly rather than quarterly." },
+    { "type": "table", "caption": "Labor uplift from dental-specific tasks, 2,400 sq ft office, 5x/week", "headers": ["Dental-specific requirement", "Added minutes per night", "Monthly cost at $35-$65/hr, 21.65 visits"], "rows": [
+      ["Working around chair bases and carts", "12-18", "$152-$422"],
+      ["Second pass on prophy paste and impression debris", "6-10", "$76-$235"],
+      ["Sterilization room separation protocol", "5-8", "$63-$188"],
+      ["Rotating weekly detail slice (baseboards, sinks)", "8-12", "$101-$281"],
+      ["Total dental uplift", "31-48", "$392-$1,126"]
+    ] },
+    { "type": "h2", "text": "Safety and signage during the shift" },
+    { "type": "p", "text": "Many dental offices start hygiene at 7 a.m., and some crews clean early in the morning instead of at night. If mopping overlaps with arriving staff, a visible wet floor sign is essential. A 36-inch four-sided cone like the Rubbermaid Commercial Yellow Caution Wet Floor Cone with bilingual print is visible over operatory half-walls and stacks compactly in a small janitor closet, which matters in suites with almost no storage." },
+    { "type": "callout", "variant": "compliance", "title": "OSHA and waste boundaries", "text": "Crews must not handle sharps containers, biohazard bags, extracted teeth containers, or amalgam waste. Where restroom and sterilization room cleaning creates potential exposure, the vendor needs a written exposure control plan under the OSHA Bloodborne Pathogens Standard and an SDS on site for every product under HazCom." },
+    { "type": "h2", "text": "Turning the checklist into your contract" },
+    { "type": "steps", "items": [
+      { "name": "Map each operatory", "text": "Mark the clinical field and the janitorial zone on a floor plan and attach it to the contract." },
+      { "name": "Match frequency to clinic days", "text": "A four-day practice needs 17.33 visits per month; a five-day practice needs 21.65." },
+      { "name": "Ask for minutes per task", "text": "Require the vendor to show labor minutes and nightly crew hours so you can audit staffing against the table above." },
+      { "name": "Schedule a 30-day joint walk", "text": "Inspect chair-base perimeters, vents, and restroom grout after the first month and adjust the checklist." }
+    ] },
+    { "type": "cta", "text": "Run your operatory count and square footage through the Office Cleaning Cost Calculator to estimate crew hours, then compare each vendor's staffing plan in the Quote Comparator." }
+  ],
+  "faqs": [
+    { "q": "Should the janitorial crew disinfect dental chairs?", "a": "No. The chair, delivery unit, and light are clinical surfaces that dental staff disinfect between patients and at end of day according to the practice's infection control protocol. The night crew cleans the floor around and under the chair base and the cabinet exteriors outside the treatment field." },
+    { "q": "How many labor hours does a small dental office need per night?", "a": "A 1,800-2,400 sq ft office with four to six operatories typically needs 1.0-1.6 hours. Multiply by visits per month using 4.333 weeks: four nights a week is 17.33 visits, five nights is 21.65. That gives 17-35 labor hours per month." },
+    { "q": "Are early-morning cleanings acceptable for dental offices?", "a": "Yes, if the crew finishes before the first patient and uses wet floor signage while staff arrive. Morning cleaning can reduce cost slightly because there is no night differential, but it compresses the window and risks unfinished work on busy days." },
+    { "q": "What insurance should the vendor carry for dental work?", "a": "A COI listing your practice as additional insured with at least $1 million general liability per occurrence, workers compensation, and a fidelity or janitorial bond. Ask for proof of OSHA bloodborne pathogen training for every assigned crew member." },
+    { "q": "What tasks should be priced as extras rather than included?", "a": "Floor stripping and refinishing outside the quarterly program, carpet extraction on demand, exterior windows, post-renovation dust cleanup, and any emergency call-outs. Get a per-occurrence price for each in the contract so they are not negotiated under pressure." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-36-inch-yellow-caution-wet-floor-cone-4-si",
+    "o-cedar-commercial-maxiclean-angle-broom-and-lobby-pan",
+    "3m-scotch-brite-commercial-heavy-duty-scour-pads-20-pack"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/dental-office-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/law-firm-cleaning-cost/",
+    "/facility-cleaning-costs/law-firm-cleaning-checklist-scope/",
+    "/janitorial-carts-mops-and-tools/best-lobby-dustpans-and-brooms-for-day-porters/"
+  ]
+}

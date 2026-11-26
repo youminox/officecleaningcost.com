@@ -1,0 +1,83 @@
+{
+  "slug": "restroom-consumable-restocking-service-cost-guide",
+  "pillar": "cleaning-services-and-tasks",
+  "path": "/cleaning-services-and-tasks/restroom-consumable-restocking-service-cost-guide/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "restroom paper, soap & liner replenishment unit price",
+  "title": "Restroom Paper, Soap & Liner Replenishment Unit Price: Per-Sq-Ft, Per-Fixture, and Hourly Rates for US Offices",
+  "seoTitle": "Restroom Paper, Soap & Liner Replenishment Unit Price: 2026 US Rates",
+  "metaDescription": "Restroom paper, soap & liner replenishment unit prices: $0.012-$0.025/sq ft per visit, $15-$30 per restroom, $90-$135 minimums. Calculate your monthly cost.",
+  "excerpt": "This guide lays out the national unit rates vendors use to price restroom paper, soap, and liner replenishment, whether per square foot, per restroom, per dispenser, or per hour. You will see worked monthly totals for three office sizes and the minimum charges that apply to standalone restock visits.",
+  "quickAnswer": "Nationally, vendors that supply and restock restroom paper, soap, and trash liners charge about $0.012-$0.025 per sq ft per visit for the consumables, plus $15-$30 per restroom per visit for the cleaning and restock labor. Standalone day-porter restock visits bill at $35-$65 per hour with a $90-$135 minimum, so a 10,000 sq ft office with four restrooms serviced weeknights typically runs $3,900-$8,000 per month.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic close view inside a clean US corporate office restroom, a janitorial worker in gloves loading a coreless toilet tissue roll into a wall-mounted dispenser while a cart with cased paper towels, soap refill cartridges, and folded trash liners waits by the door, bright neutral LED lighting on white tile and quartz counters, shot from a low three-quarter angle, no text, no logos, no watermarks",
+    "alt": "Custodian refilling a toilet tissue dispenser in an office restroom with a supply cart of paper towels, soap refills, and liners"
+  },
+  "blocks": [
+    { "type": "h2", "text": "The four ways vendors price restroom replenishment" },
+    { "type": "p", "text": "Restroom consumable restocking combines two costs that are often blurred on proposals: the product itself (toilet tissue, roll or folded towels, hand soap, seat covers, and trash can liners) and the labor to check, load, and stock dispensers. Some vendors bill both in one per-square-foot line; others separate a per-restroom labor charge from a pass-through supply invoice. Before comparing bids, convert every proposal into the same units." },
+    { "type": "table", "caption": "National unit price benchmarks for restroom paper, soap, and liner replenishment", "headers": ["Pricing unit", "Typical national range", "What it covers", "Best fit"], "rows": [
+      ["Per sq ft per visit (consumables included)", "$0.012-$0.025", "Vendor-supplied tissue, towels, hand soap, and liners across the facility", "Bundled with nightly janitorial service"],
+      ["Per restroom per visit", "$15-$30", "Cleaning fixtures, checking and loading dispensers, liner swap", "Labor line in any scope"],
+      ["Per dispenser per restock", "$2.50-$5.00", "Check, load, and wipe one tissue, towel, soap, or liner point", "Fixture-heavy buildings, audits"],
+      ["Hourly day porter", "$35-$65 per hour", "Midday restroom sweeps and restocking", "High-traffic floors, events"],
+      ["Specialty hourly", "$55-$95 per hour", "Bodily-fluid cleanup, dispenser installation or swap-outs", "Incidents, retrofit projects"],
+      ["Minimum per standalone visit", "$90-$135", "Trip, supervision, and insurance overhead", "Small suites, extra visits"]
+    ] },
+    { "type": "p", "text": "The per-dispenser rate and the per-restroom rate describe the same labor from different angles. A typical office restroom with two toilets, a sink, and a trash point has six to eight dispensers, so $2.50-$5.00 per dispenser lands close to the $15-$30 per restroom benchmark. Use whichever unit makes it easiest to audit your building." },
+    { "type": "h2", "text": "Worked monthly totals for three office sizes" },
+    { "type": "p", "text": "These examples combine the consumables-included rate with the per-restroom labor charge. Visits per month use 4.33 weeks: 2x per week equals 8.66 visits, weeknights equal 21.65 visits." },
+    { "type": "table", "caption": "Monthly restroom replenishment cost by office size (consumables plus restroom labor)", "headers": ["Office profile", "Visits per month", "Consumables per visit", "Restroom labor per visit", "Total per visit", "Monthly total"], "rows": [
+      ["2,000 sq ft, 1 restroom, 2x per week", "8.66", "$24-$50", "$15-$30", "$39-$80", "$338-$693"],
+      ["10,000 sq ft, 4 restrooms, weeknights", "21.65", "$120-$250", "$60-$120", "$180-$370", "$3,897-$8,011"],
+      ["30,000 sq ft, 10 restrooms, weeknights", "21.65", "$360-$750", "$150-$300", "$510-$1,050", "$11,042-$22,733"]
+    ] },
+    { "type": "p", "text": "The 2,000 sq ft example shows why minimums matter. If that suite asked for restocking as a standalone visit instead of bundling it with cleaning, the $39-$80 computed price would rise to the $90-$135 minimum, more than doubling the cost per visit. Bundle restocking into a cleaning visit whenever possible." },
+    { "type": "callout", "variant": "benchmark", "title": "Benchmark: consumables as a share of the bill", "text": "When consumables are included, they commonly represent 10-20% of a nightly janitorial invoice for a standard carpeted office. A larger share usually means oversized dispensers being topped off with premium product, or roll towels in a building that would do fine with high-capacity hardwound towels." },
+    { "type": "h2", "text": "What moves your unit price up or down" },
+    { "type": "ul", "items": [
+      "Product grade: two-ply premium tissue and foam soap cost more per use than standard one-ply and bulk liquid, and Green Seal or EPA Safer Choice certified paper may carry a modest premium.",
+      "Dispenser type: high-capacity coreless tissue and hardwound towel dispensers reduce refill labor and stub-roll waste versus single-roll or multifold units.",
+      "Occupant density: a call center at 6 people per 1,000 sq ft burns through paper roughly twice as fast as a law office at 3 per 1,000 sq ft.",
+      "Restroom count per floor: more restrooms per occupant means more fixtures to check even if usage per fixture is low.",
+      "Proprietary dispensers: vendor-locked systems can make product swaps hard, so negotiate refill pricing for the full contract term.",
+      "Visit frequency: each extra visit adds the labor line, while consumables scale more with headcount than with visits."
+    ] },
+    { "type": "h2", "text": "Pass-through supplies versus included pricing" },
+    { "type": "p", "text": "With pass-through billing, the vendor restocks your purchased product or bills supplies at cost plus a handling markup, often 10-20%. With included pricing, the vendor takes the usage risk and charges per square foot. Included pricing is simpler and protects you from cost spikes, but it hides product grade. Pass-through gives you control and visibility but requires someone to watch inventory and approve monthly supply invoices." },
+    { "type": "steps", "items": [
+      { "name": "Count dispensers by restroom", "text": "Walk each restroom and record tissue, towel, soap, seat cover, sanitary napkin, and liner points. This becomes your audit baseline." },
+      { "name": "Estimate monthly usage", "text": "Ask the current vendor for three months of case counts or use invoices from your supply house." },
+      { "name": "Price both models", "text": "Request a per-sq-ft included price and a pass-through price with the markup stated, using the same product specifications." },
+      { "name": "Fix the product specs in the contract", "text": "List ply, sheet count, roll size, soap format, and liner gauge and size so the vendor cannot downgrade product mid-term." },
+      { "name": "Set a par level and stock-out penalty", "text": "Require a minimum on-site stock, such as one week of cases, and a credit if a restroom runs out during business hours." }
+    ] },
+    { "type": "h2", "text": "Safety, compliance, and crew equipment" },
+    { "type": "p", "text": "Restroom restocking happens around wet floors and disinfectants, so crew equipment and compliance are part of the price. A set of Rubbermaid Commercial 25-inch multilingual wet floor A-frame signs (six fold-flat signs with carry handles) lets one night crew mark several restrooms at once. Impact 32-oz heavy-duty spray bottles with Viton seals, graduated markings, and color coding keep diluted disinfectants labeled to OSHA Hazard Communication standards and help crews hit correct dilution and dwell times. Swiffer Heavy Duty 360 dusters with a 3-ft extension and 24 refills handle partition tops, vents, and the tops of tall dispensers that gather dust." },
+    { "type": "callout", "variant": "compliance", "title": "OSHA and contract checks", "text": "Restroom crews must be covered by the vendor's OSHA Bloodborne Pathogens exposure control plan, with gloves, training, and hepatitis B vaccine offered. Confirm Safety Data Sheets for every chemical are kept on site, and require a certificate of insurance showing general liability and workers' compensation before the first visit." },
+    { "type": "cta", "text": "Enter your square footage, restroom count, and visit frequency in the Office Cleaning Cost Calculator with consumables switched on to see your monthly replenishment cost, then use the Quote Comparator to line up included versus pass-through bids on the same units." }
+  ],
+  "faqs": [
+    { "q": "How is a per-sq-ft consumables rate turned into a monthly price?", "a": "Multiply square footage by the per-visit rate, then by visits per month at 4.33 weeks per month (4.333 in some contracts). A 10,000 sq ft office at $0.018 per sq ft per visit pays $180 per visit for consumables; on a weeknight schedule of 21.65 visits that is about $3,897 per month before restroom labor." },
+    { "q": "Is restroom restocking included in standard janitorial service?", "a": "Restocking labor almost always is; the product often is not. Many contracts list consumables as an exclusion and expect the tenant or landlord to buy them. Read the scope exclusions carefully and decide whether you want included or pass-through supplies before comparing bids." },
+    { "q": "What minimum applies to a midday restock visit?", "a": "Standalone visits typically carry a $90-$135 minimum, reflecting travel and supervision. If you need restocking more than twice a week outside regular cleaning, a scheduled day porter at $35-$65 per hour is usually cheaper than repeated minimum-charge trips." },
+    { "q": "Do green-certified paper and soap cost much more?", "a": "Usually a small premium, often single-digit percentages on paper and somewhat more on certified foam soaps. High-capacity dispensers and controlled-dispense soap usually offset it by lowering waste. Specify Green Seal or EPA Safer Choice certification in the contract if your lease or LEED operations plan requires it." },
+    { "q": "Who handles bodily-fluid incidents in restrooms?", "a": "Routine restocking crews should isolate the area with wet floor signs and follow the vendor's OSHA Bloodborne Pathogens procedures. Significant incidents are commonly billed as specialty work at $55-$95 per hour using EPA-registered disinfectants with the label dwell time observed." }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-25-inch-multilingual-wet-floor-a-frame-sig",
+    "swiffer-dusters-heavy-duty-360-commercial-starter-24-refills",
+    "impact-32-oz-heavy-duty-chemical-spray-bottles-12-pack"
+  ],
+  "related": [
+    "/cleaning-services-and-tasks/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-for-small-vs-large-offices/",
+    "/cleaning-services-and-tasks/how-often-to-schedule-restroom-consumable-restocking-service/",
+    "/cleaning-services-and-tasks/restroom-consumable-restocking-service-included-vs-add-on-quotes/",
+    "/janitorial-carts-mops-and-tools/best-portable-microfiber-charging-buckets-for-crews/"
+  ]
+}

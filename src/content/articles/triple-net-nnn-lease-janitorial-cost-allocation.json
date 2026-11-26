@@ -1,0 +1,263 @@
+{
+  "slug": "triple-net-nnn-lease-janitorial-cost-allocation",
+  "pillar": "office-cleaning-cost-guides",
+  "path": "/office-cleaning-cost-guides/triple-net-nnn-lease-janitorial-cost-allocation/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "triple net lease janitorial cost",
+  "title": "Triple Net Lease Janitorial Cost: NNN Suite vs. Common Area CAM Allocation",
+  "seoTitle": "Triple Net Lease Janitorial Cost: 2026 NNN CAM Guide",
+  "metaDescription": "Triple net lease janitorial cost splits direct suite cleaning ($14.51–$48.91/sq ft/yr) from NNN CAM pass-throughs. Audit lease scope in our cost calculator.",
+  "excerpt": "Understand how US triple-net (NNN) commercial leases divide direct tenant suite janitorial expenses from landlord Common Area Maintenance (CAM) pass-throughs. Use these annual per-square-foot benchmarks and responsibility tables to prevent double-billing during CAM reconciliations.",
+  "quickAnswer": "Under a US triple-net (NNN) office lease, the tenant contracts and pays directly for 100% of interior suite janitorial—averaging $14.51 to $24.57 per sq ft annually for base 3x/week carpeted service (4,000 sq ft suite) and $23.56 to $48.91 per sq ft annually for 5x/week mixed-floor suites (8,000 sq ft). Simultaneously, the landlord bills shared lobbies, corridors, and core restrooms through monthly NNN Common Area Maintenance (CAM) pro-rata pass-throughs.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic wide-angle photograph inside a modern suburban US triple-net office park suite after business hours, clean mixed commercial carpet tile and luxury vinyl plank hallway leading to frosted glass suite entry doors, warm late afternoon light casting across spotless floor, compact cordless commercial backpack vacuum staged beside reception counter, crisp architectural photography, zero text, zero words, zero logos, zero watermarks",
+    "alt": "Clean suburban US NNN office suite corridor with mixed LVT and carpet flooring, glass entry doors, and cordless commercial vacuum"
+  },
+  "blocks": [
+    {
+      "type": "p",
+      "text": "Signing a triple-net (NNN) lease shifts building operating expenses—property taxes, building insurance, and Common Area Maintenance (CAM)—directly onto the tenant. Where first-time NNN tenants get blindsided is **janitorial double-exposure**: paying a third-party cleaning vendor every month for their interior suite while simultaneously paying a monthly CAM estimate for the building's common-area porter and restroom maintenance."
+    },
+    {
+      "type": "p",
+      "text": "Because commercial brokers quote NNN base rent without interior janitorial embedded, your facilities team must budget two separate cleaning lines. Direct suite cleaning follows standard US market rates (**$0.05 to $0.20 per sq ft per visit** plus **$15 to $30 per private restroom**), whereas common-area cleaning is allocated via your **pro-rata share** (Tenant Rentable Square Footage divided by Building Total Rentable Square Footage)."
+    },
+    {
+      "type": "h2",
+      "text": "Direct Tenant Suite Janitorial Benchmarks Under NNN Leases"
+    },
+    {
+      "type": "p",
+      "text": "To model your true out-of-pocket NNN occupancy cost, convert monthly janitorial retainers into **annual dollars per square foot** so finance teams can add them directly alongside NNN base rent and CAM estimates. The table below compares **Base Cleaning** (floors, trash, dusting, and suite restrooms) against an **All-In Scope** adding breakroom sanitation ($12–$25/visit), interior conference glass ($15–$35/visit), paper/soap consumables ($0.012–$0.025/sq ft/visit), and quarterly deep floor care ($0.03–$0.06/sq ft/month)."
+    },
+    {
+      "type": "table",
+      "caption": "2026 US NNN Tenant Direct Suite Janitorial Benchmarks (1.00x National Average, 4.333 Weeks/Mo)",
+      "headers": [
+        "NNN Suite Profile",
+        "Scope Tier",
+        "Per-Visit Total",
+        "Monthly Total",
+        "Annual Total",
+        "Annual Cost / Sq Ft"
+      ],
+      "rows": [
+        [
+          "4,000 sq ft Suite (2 RR, Carpet, 3x/wk)",
+          "Base Suite + RR",
+          "$372–$630",
+          "$4,836–$8,190",
+          "$58,032–$98,280",
+          "$14.51–$24.57/sq ft/yr"
+        ],
+        [
+          "4,000 sq ft Suite (2 RR, Carpet, 3x/wk)",
+          "All-In Scope + Supplies",
+          "$447–$790",
+          "$5,931–$10,510",
+          "$71,172–$126,120",
+          "$17.79–$31.53/sq ft/yr"
+        ],
+        [
+          "8,000 sq ft Suite (3 RR, Mixed 1.05x, 5x/wk)",
+          "Base Suite + RR",
+          "$725–$1,224",
+          "$15,705–$26,500",
+          "$188,459–$317,995",
+          "$23.56–$39.75/sq ft/yr"
+        ],
+        [
+          "8,000 sq ft Suite (3 RR, Mixed 1.05x, 5x/wk)",
+          "All-In Scope + Supplies",
+          "$848–$1,484",
+          "$18,608–$32,609",
+          "$223,294–$391,303",
+          "$27.91–$48.91/sq ft/yr"
+        ],
+        [
+          "25,000 sq ft Single-Tenant NNN Bldg (8 RR, Mixed, 5x/wk)",
+          "Base Building + RR",
+          "$1,301–$2,602",
+          "$28,172–$56,344",
+          "$338,065–$676,129",
+          "$13.52–$27.05/sq ft/yr"
+        ],
+        [
+          "25,000 sq ft Single-Tenant NNN Bldg (8 RR, Mixed, 5x/wk)",
+          "All-In Scope + Supplies",
+          "$1,628–$3,288",
+          "$36,002–$72,674",
+          "$432,019–$872,092",
+          "$17.28–$34.88/sq ft/yr"
+        ]
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Audit Your Load Factor vs. Cleanable Square Footage",
+      "text": "NNN leases charge rent and CAM on Rentable Square Footage (RSF), which often includes a 12% to 18% core load factor for shared lobbies and mechanical shafts. Never hand your janitorial vendor your lease RSF—bid strictly on net Usable/Cleanable Square Footage inside your suite demising walls so you do not pay twice to clean common hallways."
+    },
+    {
+      "type": "h2",
+      "text": "NNN Lease Responsibility Matrix: Tenant Direct vs. CAM Pass-Through"
+    },
+    {
+      "type": "p",
+      "text": "Every NNN lease varies slightly between multi-tenant medical/office parks and single-tenant standalone buildings. Before issuing an RFP, verify which building zones belong to your private janitorial contract and which zones are already funded inside landlord CAM fees."
+    },
+    {
+      "type": "table",
+      "caption": "Typical US Triple-Net (NNN) Office Lease Janitorial Cost Allocation",
+      "headers": [
+        "Building Zone / Task",
+        "Multi-Tenant NNN Park",
+        "Single-Tenant NNN Building",
+        "Common Billing Pitfall"
+      ],
+      "rows": [
+        [
+          "Suite Carpets, LVT, Desks & Trash",
+          "Tenant Direct Contract (100%)",
+          "Tenant Direct Contract (100%)",
+          "Bidding RSF instead of net cleanable interior sq ft"
+        ],
+        [
+          "Private Suite Restrooms & Kitchenette",
+          "Tenant Direct Contract + Supplies",
+          "Tenant Direct Contract + Supplies",
+          "Forgetting to exclude from CAM if core restrooms exist"
+        ],
+        [
+          "Shared Multi-Tenant Core Restrooms",
+          "Landlord Contract via Pro-Rata CAM",
+          "N/A (Tenant maintains all restrooms)",
+          "Overlap if tenant vendor accidentally restocks core rooms"
+        ],
+        [
+          "Main Atrium Lobby, Elevators & Corridors",
+          "Landlord Contract via Pro-Rata CAM",
+          "Tenant Direct Contract",
+          "Landlord adding 10%–15% CAM administrative fee on porter labor"
+        ],
+        [
+          "Exterior Window Washing & Dumpster Pad",
+          "Landlord Contract via Pro-Rata CAM",
+          "Tenant Direct (unless roof/structural landlord clause)",
+          "Tenant paying vendor for dumpster pad pressure washing billed in CAM"
+        ],
+        [
+          "Quarterly Carpet & VCT Restoration",
+          "Tenant Direct ($0.03–$0.06/sq ft/mo) inside suite",
+          "Tenant Direct across entire building",
+          "Deferred floor care violating lease return condition clauses"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Landlord Compliance Rules, Quiet Hours, and NNN Equipment Standards"
+    },
+    {
+      "type": "p",
+      "text": "Even when an NNN tenant hires and pays its own cleaning contractor directly, the property owner dictates strict vendor compliance inside the lease's Rules and Regulations exhibit. Almost every institutional NNN landlord requires a Certificate of Insurance (COI) carrying **$1,000,000/$2,000,000 Commercial General Liability**, statutory Workers' Compensation, a janitorial fidelity bond, **Additional Insured** endorsements naming both the ownership LLC and property management firm, and often a **Waiver of Subrogation**."
+    },
+    {
+      "type": "p",
+      "text": "In multi-tenant NNN flex and medical-office parks where neighboring suites operate late or share thin demising walls, low-decibel HEPA equipment prevents tenant complaints and protects building air quality. Reliable commercial tools for NNN suite contractors include the **Makita XCV17Z 36V LXT Brushless Backpack Vacuum** (2.0 L capacity, HEPA filter, 9.9 lb frame, 36V LXT battery) for fast cordless touch-ups, the **Milwaukee M18 FUEL 3-in-1 Backpack Vacuum** (1 gal capacity, HEPA filter, 15 lb weight, M18 brushless motor) for high vents and exam or conference corners, and the **Karcher BV 5/1 Commercial Backpack Vacuum** (1.3 gal capacity, Fleece + HEPA filtration, 11.7 lb chassis, ultra-quiet 62 dBA operation) when neighboring tenants work past 6:00 PM."
+    },
+    {
+      "type": "callout",
+      "variant": "compliance",
+      "title": "Check Single-Tenant NNN Lease End Maintenance Clauses",
+      "text": "Single-tenant NNN leases typically require tenants to maintain flooring, grout, and interior glass in good condition reasonable wear excepted. Skipping quarterly deep floor care ($0.03 to $0.06/sq ft/month) can trigger expensive lease-end VCT strip-and-wax or carpet replacement deductions from your security deposit."
+    },
+    {
+      "type": "h2",
+      "text": "Comparing NNN Direct Costs Against Full-Service Gross Leases"
+    },
+    {
+      "type": "p",
+      "text": "When relocating between properties, facilities leaders must normalize NNN quotes against [full-service gross (FSG) leases](/office-cleaning-cost-guides/full-service-gross-lease-cleaning-standards/). An FSG lease may carry a higher headline rent per sq ft because 5-night basic cleaning is baked into base rent, whereas an NNN lease strips out janitorial—requiring you to add **$14.51 to $48.91/sq ft/yr** (for smaller 4,000 to 8,000 sq ft suites) or **$13.52 to $34.88/sq ft/yr** (at 25,000+ sq ft) into your [annual cleaning budget forecast](/office-cleaning-cost-guides/quarterly-annual-office-cleaning-budget-forecast/) plus common-area CAM."
+    },
+    {
+      "type": "ul",
+      "items": [
+        "**Verify CAM Janitorial Exclusions:** Request the prior year's CAM reconciliation ledger and confirm you are not billed pro-rata for another single-user tenant's dedicated suite cleaning.",
+        "**Watch CAM Administrative Markups:** Many NNN leases allow landlords to layer a 5% to 15% management or administrative fee onto common-area janitorial invoices.",
+        "**Confirm Trash Compactor & Hauling Boundaries:** Clarify whether your direct suite cleaner may use the building's shared compactor or if private haul-out fees apply."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Audit Your NNN Janitorial Allocation in 4 Steps"
+    },
+    {
+      "type": "p",
+      "text": "Run this four-step audit before signing a new NNN lease or approving your annual landlord CAM reconciliation."
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Pull Exact Usable Square Footage From CAD Floor Plans",
+          "text": "Remove the landlord's 12% to 18% building load factor so direct cleaning bids apply strictly to cleanable suite area inside your walls."
+        },
+        {
+          "name": "Cross-Check CAM Ledger Line Items Against Your Lease Exhibit",
+          "text": "Verify that landlord CAM janitorial charges cover only shared lobbies, exterior walkways, and core restrooms—never interior tenant suites or private restrooms."
+        },
+        {
+          "name": "Secure Landlord-Compliant COI Endorsements Prior to Start",
+          "text": "Provide your property manager with your vendor's COI naming the owner and management company as Additional Insured with Waiver of Subrogation before issuing suite keycards."
+        },
+        {
+          "name": "Model All-In Annual OpEx With Consumables and Floor Care",
+          "text": "Combine direct vendor base rates, consumables ($0.012–$0.025/sq ft/visit), quarterly deep floor care ($0.03–$0.06/sq ft/month), and pro-rata CAM cleaning into one annualized per-sq-ft number."
+        }
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "Calculate your exact NNN interior suite cleaning budget using net cleanable square footage, restrooms, and add-on scope options."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Does a triple-net (NNN) office lease include interior suite cleaning?",
+      "a": "No. Under a standard NNN lease, the tenant is responsible for hiring and paying a commercial janitorial vendor directly for all interior suite cleaning, trash removal, and private restroom sanitation. The landlord only cleans shared common lobbies, corridors, and core restrooms—and passes those costs back to tenants via monthly CAM charges."
+    },
+    {
+      "q": "How much does NNN janitorial cost per square foot per year?",
+      "a": "Using US national averages and 4.333 weeks per month, a 25,000 sq ft NNN office cleaned 5x/week runs roughly $13.52 to $27.05 per sq ft annually for base cleaning and $17.28 to $34.88 per sq ft annually all-in with consumables, breakroom, glass, and quarterly floor care. Smaller 4,000 to 8,000 sq ft suites average $14.51 to $48.91 per sq ft annually depending on visit frequency and restroom density."
+    },
+    {
+      "q": "What is the biggest janitorial billing mistake in NNN CAM reconciliations?",
+      "a": "The most common error is double-paying when a tenant hires a vendor using Rentable Square Footage (which includes shared common hallways) while also paying pro-rata CAM charges for those same hallways, or when a landlord mistakenly allocates 100% of a building's master janitorial bill into CAM even though certain suites clean themselves."
+    },
+    {
+      "q": "Can a landlord reject our NNN cleaning contractor?",
+      "a": "Yes, if the contractor fails to meet lease compliance rules. NNN landlords routinely require W-2 payroll verification, $1M/$2M General Liability insurance naming the landlord as Additional Insured, statutory Workers' Compensation, fidelity bonding, and OSHA HazCom (29 CFR 1910.1200) Safety Data Sheet compliance."
+    },
+    {
+      "q": "Are winter salt extraction and biohazard cleanups covered under base NNN cleaning?",
+      "a": "No. Seasonal winter de-icing salt extraction inside tenant suites, hot-water carpet extraction, and OSHA Bloodborne Pathogens (29 CFR 1910.1030) biohazard remediation are excluded from routine base bids and bill as scheduled add-ons or at $55 to $95 per specialty labor hour."
+    }
+  ],
+  "amazonProductIds": [
+    "makita-xcv17z-36v-lxt-brushless-backpack-vacuum",
+    "milwaukee-m18-fuel-3-in-1-backpack-vacuum",
+    "karcher-bv-5-1-commercial-backpack-vacuum"
+  ],
+  "related": [
+    "/office-cleaning-cost-guides/",
+    "/office-cleaning-cost-guides/full-service-gross-lease-cleaning-standards/",
+    "/office-cleaning-cost-guides/quarterly-annual-office-cleaning-budget-forecast/",
+    "/office-cleaning-cost-guides/seasonal-winter-salt-office-cleaning-surcharge/",
+    "/janitorial-carts-mops-and-tools/best-microfiber-flat-mop-kits-for-offices/"
+  ]
+}

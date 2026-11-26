@@ -1,0 +1,92 @@
+{
+  "slug": "urgent-care-center-cleaning-checklist-scope",
+  "pillar": "facility-cleaning-costs",
+  "path": "/facility-cleaning-costs/urgent-care-center-cleaning-checklist-scope/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "urgent care center scope tasks",
+  "title": "Urgent Care Center Scope Tasks: Production Benchmarks & Work Scope for an Urgent Care Facility",
+  "seoTitle": "Urgent Care Center Scope Tasks: Daily, Weekly & Monthly Checklist",
+  "metaDescription": "Urgent care center scope tasks by zone, at about 1,550 sq ft/hr vs 3,500 for offices. See nightly labor hours, then price your clinic in our calculator.",
+  "excerpt": "An urgent care scope of work has to cover exam rooms, procedure rooms, specimen restrooms, and a waiting room that sees 100-plus patients a day. This checklist breaks every task into daily, weekly, and monthly frequencies and shows which items push labor hours to more than double a standard office.",
+  "quickAnswer": "A complete urgent care scope covers nightly disinfection of exam rooms, procedure rooms, restrooms, waiting areas, and nurse stations, weekly burnishing and detail work, and monthly high dusting, grout care, and vent cleaning. Expect about 2.9 labor hours per night for a 4,500 sq ft clinic with five restrooms, versus roughly 1.3 hours for a standard office of the same size, which is why bids land near $441-$761 per visit.",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic overhead three-quarter view of a US urgent care exam room at night after closing, cleaning technician in blue nitrile gloves wiping a stainless exam stool and the exam table base, red and blue color-coded dual mop bucket parked by the door, sheet vinyl floor with coved base, crisp neutral LED lighting, no text, no logos, no signage, no watermarks",
+    "alt": "Cleaning technician disinfecting an urgent care exam room with a color-coded dual mop bucket"
+  },
+  "blocks": [
+    { "type": "h2", "text": "What makes an urgent care scope different" },
+    { "type": "p", "text": "A general office scope is built around desks, carpet, and two restrooms. An urgent care scope is built around patient flow: check-in, waiting, triage, exam, procedure, discharge. Each stop leaves a different soil type. Waiting rooms collect tracked-in grit and respiratory droplets. Exam rooms collect glove wrappers, blood-pressure-cuff residue, and splash around the handwashing sink. Procedure rooms collect irrigation fluid and, occasionally, blood. A scope that treats all of these as ordinary office space will leave the clinic exposed during a state survey or an accreditation visit." },
+    { "type": "p", "text": "The fix is a zone-based scope with a production rate for each zone. That gives you a realistic labor estimate, a way to check bids, and a document the night crew can actually follow." },
+    { "type": "h2", "text": "Zone-by-zone production benchmarks" },
+    { "type": "p", "text": "Industry production standards from ISSA put routine office cleaning near 3,500 sq ft per labor hour. Clinical space runs far slower because every horizontal surface gets a disinfectant wipe with a label-required wet dwell time, and because fixture rooms are timed per room rather than per square foot. The table models a typical 4,500 sq ft retail pad urgent care with eight exam rooms, one procedure room, and five restrooms." },
+    { "type": "table", "caption": "Nightly labor model for a 4,500 sq ft urgent care center", "headers": ["Zone", "Sq ft", "Production rate", "Nightly minutes", "Key labor driver"], "rows": [
+      ["Lobby, vestibule, waiting", "900", "2,500 sq ft/hr", "22", "Chairs, kiosk, walk-off mats, glass"],
+      ["Exam rooms (8 x 110 sq ft)", "880", "1,500 sq ft/hr", "35", "Disinfect counters, stools, sinks, door hardware"],
+      ["Procedure / X-ray room", "350", "1,200 sq ft/hr", "18", "Floor disinfection, lead apron hooks, carts exterior"],
+      ["Restrooms (5 rooms)", "250", "12 min per room", "60", "Fixtures, specimen pass-through, dispensers"],
+      ["Nurse station / lab nook", "400", "1,800 sq ft/hr", "13", "Shared keyboards, phones, counters"],
+      ["Corridors", "1,200", "4,500 sq ft/hr", "16", "Dust mop, damp mop, scuff removal"],
+      ["Admin offices / breakroom", "520", "3,500 sq ft/hr", "9", "Trash, vacuum, breakroom sink and microwave"],
+      ["Total", "4,500", "about 1,550 sq ft/hr blended", "173 (about 2.9 hrs)", "vs about 1.3 hrs at office standard"]
+    ] },
+    { "type": "callout", "variant": "benchmark", "title": "Labor multiplier to expect", "text": "At about 2.9 labor hours per night against roughly 1.3 hours for an equal-size office, urgent care runs about 2.2 times the standard office labor load. When a bid shows fewer than two labor hours per night for a 4,500 sq ft clinic, the vendor is either skipping zones or not allowing disinfectant dwell time." },
+    { "type": "h2", "text": "Daily (nightly) tasks" },
+    { "type": "ul", "items": [
+      "Remove all general trash and recycling; replace liners in every receptacle, including exam room step cans. Do not touch sharps containers or red-bag waste.",
+      "Disinfect high-touch points: door handles, push plates, check-in counter, kiosk screens, pens, chair arms, light switches, elevator buttons if present.",
+      "Exam rooms: disinfect countertops, sink and faucet, soap and towel dispensers, stool seats and bases, exam table base and step, and wall-mounted equipment exteriors. Clinical staff handle the exam table surface and medical equipment.",
+      "Procedure room: disinfect floor end to end with an EPA-registered hospital disinfectant, wipe cart exteriors and light handles, and report any visible blood to the clinical lead before cleaning.",
+      "Restrooms: clean and disinfect toilets, urinals, sinks, grab bars, baby changing stations, and specimen pass-through doors; restock tissue, towels, soap, and seat covers to full.",
+      "Floors: dust mop corridors with a wide 36-inch dust mop, then damp mop all hard floors using a dual-compartment bucket so dirty rinse water never re-enters the clean solution.",
+      "Waiting room: vacuum walk-off mats, spot clean upholstered seating, wipe vinyl seating, clean entry glass and sidelights.",
+      "Breakroom: clean sink, counters, microwave inside and out, refrigerator handles, and table tops."
+    ] },
+    { "type": "h2", "text": "Weekly and monthly tasks" },
+    { "type": "table", "caption": "Periodic scope items and their cost effect", "headers": ["Task", "Frequency", "Typical labor", "Why it matters"], "rows": [
+      ["High-speed burnish VCT corridors and waiting", "Weekly", "45-60 min", "Holds gloss and removes black heel marks from wheelchairs and stools"],
+      ["Detail clean baseboards and coved base", "Weekly", "30-45 min", "Coved base traps dried disinfectant residue and soil"],
+      ["Disinfect waiting chairs fully, including legs and undersides", "Weekly", "30 min", "Children touch chair frames constantly"],
+      ["Wipe wall surfaces to 6 ft in exam rooms and corridors", "Weekly", "40 min", "Splash and hand marks near sinks and hand sanitizer stations"],
+      ["Grout scrub restroom and procedure room tile", "Monthly", "60-90 min", "Tile-and-grout floors carry a 1.12 labor multiplier for this reason"],
+      ["High dusting: vents, return grilles, light lenses, tops of cabinets", "Monthly", "60 min", "Dust on supply diffusers redistributes particulate into clinical rooms"],
+      ["Clean interior glass partitions and triage windows", "Monthly", "30-45 min", "Fingerprints and droplet film on reception glass"],
+      ["Scrub and recoat VCT", "Quarterly", "Project pricing", "Amortized at about $0.03-$0.06 per sq ft per month"]
+    ] },
+    { "type": "h2", "text": "Specialty tasks that push labor above office rates" },
+    { "type": "p", "text": "Four line items explain most of the gap between an urgent care bid and a standard office bid. First, disinfectant dwell time: many hospital disinfectants require the surface to stay visibly wet for one to ten minutes, so technicians work in a planned loop rather than wiping and moving on. Second, color-coded tools: microfiber cloths and mop heads are segregated by zone, typically red for restrooms and blue for general clinical areas, which adds laundering and change-out steps. A two-tank bucket such as the Unger 15-gallon SmartColor system enforces that separation at the mop level. Third, restroom density at about 12 minutes per fixture room. Fourth, documentation: many clinics require a signed nightly log by room, which adds five to ten minutes per shift but is the evidence you need when a patient complains or a surveyor asks." },
+    { "type": "p", "text": "Administrative areas with engineered wood or LVT can be handled with a low-moisture flat mop, such as an 18-inch microfiber kit with separate dusting and wet pads. That keeps excess water off wood-look surfaces and speeds the non-clinical portion of the shift." },
+    { "type": "h2", "text": "Writing the scope so bids are comparable" },
+    { "type": "steps", "items": [
+      { "name": "Attach a room schedule", "text": "List every room by number, function, flooring, and square footage so each vendor prices the same space." },
+      { "name": "Assign frequencies per task", "text": "Use a matrix with columns for nightly, weekly, monthly, and quarterly so nothing is left to interpretation." },
+      { "name": "Define clinical versus janitorial responsibility", "text": "State plainly that clinical staff clean medical equipment and exam table surfaces between patients, and janitorial handles environmental surfaces." },
+      { "name": "Specify chemicals and dwell times", "text": "Require EPA registration numbers and label contact times on the chemical list, plus Safety Data Sheets on site." },
+      { "name": "Require inspection and logs", "text": "Ask for monthly quality audits with a scored checklist and nightly room sign-off sheets." }
+    ] },
+    { "type": "callout", "variant": "tip", "title": "Ask for labor hours, not just price", "text": "Have each bidder state planned nightly labor hours and crew size. Divide the monthly price by monthly hours to get an implied hourly rate, then compare against specialty janitorial benchmarks of roughly $55-$95 per hour. Outliers in either direction deserve a follow-up call." },
+    { "type": "cta", "text": "Enter your clinic's room count, square footage, and seven-night schedule in the Office Cleaning Cost Calculator, then run vendor proposals through the Quote Comparator to see which ones actually price the full scope." }
+  ],
+  "faqs": [
+    { "q": "How many cleaners does a 4,500 sq ft urgent care need each night?", "a": "Usually one technician working about three hours, or two working about 90 minutes each. Two-person crews are common because they finish before early-shift staff arrive and allow one person to focus on restrooms and clinical rooms while the other handles floors and trash." },
+    { "q": "Who cleans the exam table and medical equipment?", "a": "Clinical staff disinfect exam tables, blood pressure cuffs, otoscopes, and other patient-care equipment between patients and at day end. The janitorial scope covers environmental surfaces: counters, sinks, floors, walls, and fixtures. Writing this split into the contract prevents gaps and liability disputes." },
+    { "q": "Do urgent care cleaners need OSHA training?", "a": "Yes. Because cleaners may contact surfaces contaminated with blood or other potentially infectious materials, the employer must provide bloodborne pathogen training under 29 CFR 1910.1030 and offer the hepatitis B vaccine. HazCom training under 29 CFR 1910.1200 is also required for the disinfectants they use, with Safety Data Sheets accessible on site." },
+    { "q": "How do periodic tasks show up in a monthly bill?", "a": "Weekly tasks are folded into the nightly rate. Quarterly floor care is often billed as a separate project or amortized monthly at about $0.03-$0.06 per sq ft. For a 4,500 sq ft clinic that is roughly $135-$270 per month. Frequency math uses 4.333 weeks per month, so a weekly burnish happens about 52 times a year, not 48." },
+    { "q": "What should be excluded from the janitorial scope?", "a": "Common exclusions are regulated medical waste, sharps containers, medical equipment disinfection, pharmaceutical storage areas, carpet extraction beyond the quarterly program, exterior windows, and post-construction cleanup. List exclusions explicitly so change orders are priced fairly." }
+  ],
+  "amazonProductIds": [
+    "unger-commercial-15-gallon-dual-bucket-smartcolor-system",
+    "rubbermaid-commercial-36-inch-cotton-dust-mop-frame-and-handle",
+    "bona-commercial-system-multi-surface-hardwood-mop-kit"
+  ],
+  "related": [
+    "/facility-cleaning-costs/",
+    "/facility-cleaning-costs/urgent-care-center-disinfection-and-compliance-pricing/",
+    "/facility-cleaning-costs/diagnostic-lab-office-cleaning-cost/",
+    "/facility-cleaning-costs/diagnostic-lab-office-cleaning-checklist-scope/",
+    "/restroom-and-breakroom-dispensers/best-bulk-2-ply-toilet-paper-for-offices/"
+  ]
+}

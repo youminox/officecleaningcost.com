@@ -1,0 +1,206 @@
+{
+  "slug": "project-work-rate-card-in-base-contracts-scoring-criteria",
+  "pillar": "comparing-quotes-and-contracts",
+  "path": "/comparing-quotes-and-contracts/project-work-rate-card-in-base-contracts-scoring-criteria/",
+  "isPillar": false,
+  "isTransactional": false,
+  "primaryKeyword": "weighted evaluation rubric project work rate card in base contracts",
+  "title": "Procurement Scorecard & Weighted Evaluation Rubric: Project Work Rate Card in Base Contracts",
+  "seoTitle": "Project Work Rate Card Scoring Rubric for Base Janitorial Contracts",
+  "metaDescription": "Project work rate card weighted evaluation rubric: score vendor bids on $0.03-$0.06/sq ft floor care and $55-$95/hr rates. Run numbers in our comparator.",
+  "excerpt": "Comparing commercial cleaning proposals purely on base monthly price masks massive differences in periodic floor care and specialty labor rates. Use this 100-point weighted evaluation rubric to score vendor project work rate cards objectively during your RFP.",
+  "quickAnswer": "To evaluate a commercial janitorial project work rate card objectively, procurement teams should deploy a 100-point weighted scoring rubric that allocates 30 points to unit-rate competitiveness ($0.08–$0.22/sq ft extraction, $55–$95/hr specialty labor), 25 points to turnkey scope inclusions (furniture handling, 20%+ wax solids), 20 points to amortized program accountability ($0.03–$0.06/sq ft/month clawback credits), 15 points to dedicated equipment ownership, and 10 points to call-out SLAs and minimums ($90–$135).",
+  "readingMinutes": 9,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Photorealistic medium shot of two US corporate procurement managers in a glass-walled conference room comparing commercial cleaning bid binders and floor sample tiles on a table, modern open-plan office and polished concrete corridor visible outside, soft natural lighting, zero text or watermarks",
+    "alt": "Corporate procurement team scoring janitorial RFP binders and floor care specifications in a conference room"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "Why Your Janitorial RFP Needs a Dedicated Project Rate Card Rubric"
+    },
+    {
+      "type": "p",
+      "text": "In a standard commercial janitorial Request for Proposals (RFP), most facility managers assign 100% of the pricing score to the base monthly fee—such as comparing Vendor A at $1,950/month against Vendor B at $2,100/month for a 20,000-square-foot office cleaned 5x per week (21.65 monthly visits based on 4.33 weeks/month and the 0.90 daily weekday multiplier). While both bids sit comfortably inside the $0.07 to $0.12 per square foot national bracket for 10,000–24,999 sq ft facilities, evaluating the base retainer alone ignores 20% to 25% of your actual annual spend."
+    },
+    {
+      "type": "p",
+      "text": "When you apply a structured weighted evaluation rubric to the project work rate card (Exhibit B of the base contract), hidden total-cost-of-ownership (TCO) disparities surface immediately. Vendor A may win the base monthly price by $150/month ($1,800/year), yet quote $0.24/sq ft for carpet extraction, $0.75/sq ft for VCT stripping, and $95/hr for specialty labor with a 4-hour weekend minimum. Vendor B, meanwhile, locks in $0.11/sq ft extraction, $0.38/sq ft VCT stripping, and $62/hr specialty labor with no furniture-moving surcharges—saving $4,200 per year on scheduled restoration and delivering a net $2,400 annual savings."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "Recommended RFP Weighting Split: 75% Base / 25% Project Rate Card",
+      "text": "Within the Financial & Commercial section of your master janitorial RFP scorecard, allocate 75% of the pricing points to the base recurring monthly fee and 25% to a standardized 'Annualized Project Basket' calculated directly from each bidder's project work rate card."
+    },
+    {
+      "type": "h2",
+      "text": "The 100-Point Project Work Rate Card Evaluation Rubric"
+    },
+    {
+      "type": "p",
+      "text": "Use the following five-category, 100-point procurement scorecard to audit and rank every finalist vendor's project work rate card before advancing to best-and-final offers (BAFO)."
+    },
+    {
+      "type": "table",
+      "caption": "100-Point Weighted Scoring Rubric for Janitorial Project Work Rate Cards",
+      "headers": [
+        "Evaluation Criterion",
+        "Weight (Points)",
+        "Tier 1: Unacceptable (0–40% of Pts)",
+        "Tier 2: Market Average (50–75% of Pts)",
+        "Tier 3: Best-in-Class (80–100% of Pts)"
+      ],
+      "rows": [
+        [
+          "1. Annualized Project Basket Unit Pricing",
+          "30 Pts",
+          "Rates exceed benchmarks (>$0.22/sq ft carpet, >$0.75/sq ft VCT strip, >$95/hr specialty) or marked 'TBD'",
+          "Rates align with mid-range benchmarks ($0.14/sq ft carpet, $0.48/sq ft VCT strip, $75/hr specialty, $50/hr standard)",
+          "Volume-tiered rates at lower benchmark bound ($0.08–$0.12/sq ft carpet, $0.32–$0.42/sq ft VCT, $55–$65/hr specialty)"
+        ],
+        [
+          "2. Turnkey Scope & Chemical Spec Clarity",
+          "25 Pts",
+          "Excludes chair moving; charges extra for machines/chemicals; wax solids and coat counts omitted",
+          "Includes light chair moving and standard equipment; specifies 3 coats VCT finish and standard detergent",
+          "Turnkey net-cleanable sq ft pricing; includes furniture reset, 4 coats 20%+ solids finish, CRI & Green Seal chemistry"
+        ],
+        [
+          "3. Amortized Floor Program Accountability",
+          "20 Pts",
+          "Flat $0.05–$0.06/sq ft/mo fee with no calendar schedule, no photo proof, and no missed-service refund mechanism",
+          "Fixed $0.04/sq ft/mo schedule with quarterly dates listed, but requires manager follow-up to claim credits",
+          "Transparent $0.03–$0.04/sq ft/mo ledger with automatic 100% monthly fee clawback if photo-verified ticket isn't filed"
+        ],
+        [
+          "4. In-House Equipment & Operator Verification",
+          "15 Pts",
+          "Subcontracts all floor/window project work to unvetted third parties at a 20–30% broker markup",
+          "Owns basic buffers and portables; rents auto-scrubbers and passes rental fees through on larger scopes",
+          "100% W-2 trained floor techs using company-owned CRI extractors, orbital scrubbers, and high-filtration gear"
+        ],
+        [
+          "5. Mobilization Minimums, Escalation & SLAs",
+          "10 Pts",
+          "$250+ trip minimum even during night shift; no CPI cap on annual rate card price increases",
+          "$135 minimum trip fee; 4-hour emergency response; annual increases tied loosely to market labor rates",
+          "Zero trip fee when paired with night shift ($90–$135 off-shift min); 2-hr emergency SLA; rates capped at <=3% CPI"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "How to Score Criterion 1: The Standardized Annual Project Basket"
+    },
+    {
+      "type": "p",
+      "text": "Bidders frequently game rate cards by pricing one headline item low (for example, quoting $0.08/sq ft for carpet extraction) while inflating five other lines (such as quoting $0.85/sq ft for ceramic tile and grout scrubbing or $92/hr for event porter labor). To prevent cherry-picking, never score individual unit lines in isolation. Instead, build a fixed 'Mock Annual Project Basket' that mirrors your facility's actual 12-month material footprint."
+    },
+    {
+      "type": "p",
+      "text": "For example, if you manage an 18,000-square-foot Mixed-flooring office (1.05 base flooring multiplier) consisting of 11,000 net cleanable sq ft of Commercial Carpet (1.00 multiplier), 3,000 net sq ft of VCT / LVT Vinyl (1.04 multiplier), and 1,200 net sq ft of Ceramic Tile & Grout in restrooms and showers (1.12 multiplier), your standardized RFP evaluation basket should require bidders to extend their unit rates across:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "22,000 sq ft of Annual Carpet Hot-Water Extraction (two full 11,000 sq ft semi-annual cycles at $0.08–$0.14/sq ft = $1,760 to $3,080).",
+        "3,000 sq ft of Annual VCT Full Strip & 4-Coat Refinish (one annual restoration at $0.32–$0.50/sq ft = $960 to $1,500) plus 3,000 sq ft of VCT Mid-Year Top-Scrub & 2-Coat Recoat ($0.15–$0.24/sq ft = $450 to $720).",
+        "2,400 sq ft of Ceramic Tile & Grout Rotary Scrubbing (two semi-annual 1,200 sq ft restroom deep scrubs at $0.30–$0.55/sq ft = $720 to $1,320).",
+        "40 Hours of Additional Standard Porter Labor for corporate events and quarterly kitchen/fridge cleanouts ($35–$65/hr = $1,400 to $2,600) plus 12 Hours of Specialty Machine/Emergency Labor ($55–$95/hr = $660 to $1,140)."
+      ]
+    },
+    {
+      "type": "p",
+      "text": "By summing that exact basket (benchmark range: $5,950 to $10,360 per year), you convert a complex 12-line rate card into a single comparable dollar figure that awards the full 30 points to the lowest compliant basket and prorates points downward for higher bids."
+    },
+    {
+      "type": "h2",
+      "text": "Verifying In-House Hardware & Facility Infrastructure Compatibility"
+    },
+    {
+      "type": "p",
+      "text": "Criterion 4 (15 points) separates genuine commercial janitorial operators from paper brokers who subcontract weekend project work to transient crews. During your vendor finalist interview, require bidders to submit an equipment inventory sheet and verify how their project workflows integrate with your on-site waste and chemical staging equipment:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Daytime Project Chemical Security: When project porters or floor technicians perform daytime touch-ups or weekend restoration in shared tenant areas, open chemical buckets create liability risks. Award higher rubric scores to contractors utilizing enclosed storage carts such as the Suncast Commercial Housekeeping Cart with Locking Cabinet (featuring locking cabinet doors, a 300-lb load capacity, 8-in non-marking wheels, and an integrated bag holder) to keep stripping agents and spotters locked away from office occupants.",
+        "Class A Lobby & Elevator Bank Protection: During weekend floor stripping or move-in project support, heavy traffic around architectural receptacles requires careful handling. Facilities outfitted with the Safco Public Square 37-Gallon Commercial Steel Receptacle (built with fire-safe powder-coated steel, a square architectural profile, and an internal liner retainer) require floor crews trained to lift and pad steel bases onto dry runners so wet acrylic finish never rusts or bonds to the receptacle perimeter.",
+        "Tight Breakroom & Copy Corridor Clearance: In high-density copy rooms and kitchenettes, staging the Rubbermaid Commercial Slim Jim 23-Gallon Recycling & Waste Station (11-in wide narrow footprint with venting channels and bag cinches) allows floor crews to clear and reset rooms rapidly within the base per-square-foot rate without damaging cabinetry."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "4-Step Vendor Verification Process Before Awarding Rubric Points"
+    },
+    {
+      "type": "p",
+      "text": "Never award Tier 3 rubric points based solely on a salesperson's checkmarks. Execute these four verification steps during the final RFP diligence phase:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Audit 3 Recent Project Work Invoices from Peer Accounts",
+          "text": "Ask each finalist to provide three redacted project work invoices (for carpet extraction, VCT stripping, and emergency call-outs) billed to current client buildings of similar size (10,000–24,999 sq ft) within the past 6 months. Verify that no hidden fuel, machine rental, or furniture-moving surcharges appeared on those real-world bills."
+        },
+        {
+          "name": "Verify Direct W-2 Floor Tech Payroll vs. 1099 Subcontracting",
+          "text": "Confirm that the vendor employs dedicated mobile floor crews on their W-2 payroll covered under their Workers' Compensation policy. Unvetted 1099 subcontractors brought in on weekends void most building security protocols and increase chemical floor-damage claims."
+        },
+        {
+          "name": "Inspect the Chemical SDS & Floor Finish Product Data Sheets",
+          "text": "Require the bidder to attach the manufacturer Product Data Sheet (PDS) and OSHA Safety Data Sheet (SDS) for their proposed VCT stripper, acrylic finish (verifying >=20% non-volatile solids), and carpet pre-spray (verifying pH <10 and wool/nylon stain-resist compatibility for commercial carpet tiles)."
+        },
+        {
+          "name": "Test the Amortized Credit Clause with Redline Acceptance",
+          "text": "Provide your mandatory clawback clause—stating that any amortized quarterly floor service ($0.03–$0.06/sq ft/mo) not documented via timestamped photos within 10 business days of quarter close automatically credits back 100% to the tenant—and score whether the vendor accepts it without exception."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "tip",
+      "title": "Scoring Minimum Cut-Off Threshold",
+      "text": "Establish a mandatory minimum threshold of 70 out of 100 points on the Project Work Rate Card Rubric to qualify for contract award. Any bidder scoring below 70 must revise their Exhibit B rate schedule and scope definitions before their base monthly bid can be considered."
+    },
+    {
+      "type": "cta",
+      "text": "Benchmarking multiple vendor bids right now? Plug each contractor's base square-foot rate, frequency schedule, and quarterly floor care add-ons into our Office Cleaning Cost Calculator & Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "How should we weight the project work rate card if our office is 100% polished concrete or hardwood?",
+      "a": "Even if your facility has zero VCT vinyl or commercial carpet—for example, a creative office with Polished Concrete (0.95 flooring multiplier) or Engineered Hardwood (1.08 multiplier)—you still require periodic auto-scrubber burnishing, wood-safe low-moisture microfiber restoration, interior glass detailing ($15–$35/visit), ceramic restroom grout scrubbing ($0.30–$0.55/sq ft), and event/emergency porter hours ($35–$95/hr). Simply adjust your Mock Annual Project Basket in Criterion 1 to reflect concrete/wood maintenance and restroom tile restoration while keeping the overall 25% RFP weight intact."
+    },
+    {
+      "q": "What score deduction should apply if a vendor subcontracts carpet and VCT project work?",
+      "a": "If a bidder discloses that they subcontract periodic floor care or window washing, deduct at least 10 of the 15 points under Criterion 4 unless they provide three binding protections: (1) a written pass-through guarantee banning broker markups above the rate card prices, (2) a full Certificate of Insurance (COI) with Additional Insured and Workers' Comp coverage from the named subcontractor prior to site entry, and (3) a requirement that the prime contractor's W-2 site supervisor remains physically on site throughout the weekend project."
+    },
+    {
+      "q": "How do ISSA production rates factor into scoring hourly specialty labor on a rate card?",
+      "a": "While general nightly maintenance runs near the ISSA benchmark of 3,500 sq ft per hour, restorative project tasks range from 300 sq ft/hr (full VCT chemical strip and 4-coat wax) to 800 sq ft/hr (walk-behind carpet extraction). If a vendor quotes a low $55/hr specialty labor rate but refuses to commit to per-square-foot unit ceilings, score them poorly under Criterion 1 and Criterion 2—because a slow crew taking twice the ISSA time allowance turns a $55/hr rate into an effective $110/hr cost."
+    },
+    {
+      "q": "Should multi-year CPI caps on the project rate card match the base contract escalation cap?",
+      "a": "Yes. To earn full points under Criterion 5 (10 points), the vendor must agree that all per-square-foot and hourly rates on the project work rate card remain fixed for the initial 12 to 24 months and escalate at the exact same capped percentage (typically 2.5% to 3.5% or CPI-U, whichever is less) as the base monthly janitorial retainer."
+    }
+  ],
+  "amazonProductIds": [
+    "rubbermaid-commercial-slim-jim-23-gallon-recycling-and-waste-sta",
+    "safco-public-square-37-gallon-commercial-steel-receptacle",
+    "suncast-commercial-housekeeping-cart-with-locking-cabinet"
+  ],
+  "related": [
+    "/comparing-quotes-and-contracts/",
+    "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi/",
+    "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi-mistakes-to-avoid/",
+    "/comparing-quotes-and-contracts/indemnification-and-additional-insured-coi-scoring-criteria/",
+    "/commercial-cleaning-chemicals-and-mats/best-air-purifier-and-disinfectant-combo-for-flu-season/"
+  ]
+}
