@@ -1,0 +1,200 @@
+{
+  "slug": "how-to-match-paper-rolls-to-commercial-dispensers",
+  "pillar": "restroom-and-breakroom-dispensers",
+  "path": "/restroom-and-breakroom-dispensers/how-to-match-paper-rolls-to-commercial-dispensers/",
+  "isPillar": false,
+  "isTransactional": true,
+  "primaryKeyword": "commercial paper towel core size compatibility",
+  "title": "Dispenser Compatibility Guide: Core Sizes & Proprietary vs. Universal",
+  "seoTitle": "Commercial Paper Towel Core Size Compatibility & Dispenser Guide",
+  "metaDescription": "Master commercial paper towel core size compatibility (1.5-in to 3.25-in) and universal vs. proprietary rolls. Cut $0.012–$0.025/sq ft supply costs today.",
+  "excerpt": "Ordering a pallet of commercial paper towels or bath tissue with the wrong core diameter or roll width stalls nightly janitorial restocking and leads to jammed dispensers. This engineering reference breaks down 1.5-inch, 1.75-inch, 1.9-inch, and 3.25-inch commercial core standards alongside proprietary spindle notches.",
+  "quickAnswer": "Mastering commercial paper towel core size compatibility prevents costly restocking errors across universal (1.9-inch to 2.0-inch towel cores; 3.25-inch to 3.3-inch JRT tissue cores) and proprietary system-matched dispensers (1.5-inch or 1.75-inch notched hubs in 8-inch or 10-inch widths). In commercial offices where consumables add $0.012 to $0.025 per sq ft per visit and restroom cleaning runs $15 to $30 per visit across 21.65 monthly weekday visits, matching exact core inner diameters, roll outer diameters (7.8 to 9.0 inches), and soap dock collars eliminates cabinet jams and emergency vendor return fees.",
+  "readingMinutes": 10,
+  "datePublished": "2026-11-25",
+  "dateModified": "2026-11-25",
+  "image": {
+    "prompt": "Close-up facility management workspace view showing commercial hardwound paper towel rolls with different cardboard core diameters, an opened 8-inch compact touchless wall dispenser showing internal spindle hubs, stainless steel caliper ruler on a clean laminate supply room counter, bright overhead LED lighting, photorealistic, no text or logos",
+    "alt": "Commercial paper towel rolls of varying core diameters beside an opened compact touchless wall dispenser"
+  },
+  "blocks": [
+    {
+      "type": "h2",
+      "text": "The Three Dimensions That Govern Commercial Dispenser Compatibility"
+    },
+    {
+      "type": "p",
+      "text": "Every month, commercial office managers and janitorial supervisors waste hours returning mismatched paper cases because they checked only the linear footage on the box rather than the three physical dimensions that dictate whether a roll turns freely inside a cabinet: Core Inner Diameter (ID), Roll Width, and Maximum Outer Roll Diameter (OD)."
+    },
+    {
+      "type": "p",
+      "text": "When a night cleaner earning $35 to $65 per hour attempts to force a universal 1.9-inch core hardwound roll onto a proprietary 1.5-inch or notched 1.75-inch spindle hub, one of two failures happens immediately. Either the cardboard core wobbles off-center and drags against the internal backplate—burning out the 4 D-cell battery motor in a touchless unit within two weeks—or the cleaner crushes the cardboard plug to force the door closed, jamming the autocut knife blade on the very first pull. Even worse, when a roll won't fit at all, janitors leave the naked roll sitting on the wet sink counter where it absorbs splash water and inflates your consumable spend from $0.012 per sq ft per visit toward $0.025 per sq ft per visit."
+    },
+    {
+      "type": "callout",
+      "variant": "benchmark",
+      "title": "The 0.15-Inch Core Tolerance Rule",
+      "text": "Commercial dispenser mandrels and spring-loaded hub plugs operate on a strict +/- 0.10-inch tolerance. A 1.75-inch core roll will never seat over a universal 1.95-inch hub without tearing the cardboard plug, while a 2.0-inch core placed on a 1.5-inch hub slips off the rotation teeth during rapid dispensing."
+    },
+    {
+      "type": "h2",
+      "text": "Master Compatibility Matrix: Commercial Core Sizes, Roll Widths & Outer Diameters"
+    },
+    {
+      "type": "p",
+      "text": "Use the engineering lookup table below to verify exact core inner diameters, roll face widths, and housing clearance diameters before placing your next bulk consumable order or transitioning a facility between janitorial contractors."
+    },
+    {
+      "type": "table",
+      "caption": "US Commercial Paper Towel & Bath Tissue Core Size Compatibility Reference Matrix",
+      "headers": [
+        "Dispenser System Category",
+        "Core Inner Diameter (ID)",
+        "Roll Width / Sheet Footprint",
+        "Max Roll Outer Diameter (OD)",
+        "Proprietary Lockout vs. Universal Fit"
+      ],
+      "rows": [
+        [
+          "Universal Hardwound Roll Towel (Manual Lever / Crank)",
+          "1.90 in – 2.00 in",
+          "7.875 in – 8.00 in Width",
+          "7.80 in – 8.00 in OD (600–800 ft)",
+          "Open Universal (Fits standard spring hub cones)"
+        ],
+        [
+          "Compact 8-In Automated Touchless Towel (e.g., enMotion Impulse 8)",
+          "1.50 in – 1.625 in Custom Plug",
+          "8.00 in Width (600–700 ft)",
+          "7.80 in OD Compact Depth",
+          "System-Matched End-Cap Plugs Required"
+        ],
+        [
+          "Full-Size 10-In Automated Touchless Towel (e.g., enMotion 10-In)",
+          "1.625 in – 1.75 in Notched Core",
+          "10.00 in Width (800 ft)",
+          "8.00 in OD High-Capacity",
+          "System-Matched Width & Core Hub Tabs"
+        ],
+        [
+          "Modulated Mechanical Autocut Towel (e.g., Scott Pro / Tork H1)",
+          "1.50 in or 1.75 in Keyed Core",
+          "7.80 in – 8.00 in Width",
+          "7.80 in – 8.25 in OD (up to 1,150 ft)",
+          "Color-Coded or Slotted Core Adapters Required"
+        ],
+        [
+          "Universal JRT Jr. Jumbo Bath Tissue (Single or Twin 9-In)",
+          "3.25 in – 3.30 in Core",
+          "3.50 in – 3.70 in Web Width",
+          "9.00 in OD (750–1,000 ft 2-Ply)",
+          "Open Universal across all 3.25-in Mandrels"
+        ],
+        [
+          "Standard Commercial Wrapped Bath Tissue (450–500 Sheets)",
+          "1.50 in – 1.625 in Core",
+          "4.00 in – 4.50 in Web Width",
+          "4.30 in – 4.60 in OD",
+          "Universal Spindle & Vertical Drop-Roll Holders"
+        ]
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Evaluating Dispenser Hardware, Compatible Rolls, Soap Cartridges & Liners"
+    },
+    {
+      "type": "p",
+      "text": "Whether you are outfitting compact breakroom kitchenettes ($12 to $25 per visit sanitation add-on) or multi-stall core restrooms ($15 to $30 per visit), matching each cabinet and receptacle to its exact consumable SKU eliminates day-to-day maintenance friction:"
+    },
+    {
+      "type": "ul",
+      "items": [
+        "Georgia-Pacific enMotion Impulse 8-Inch Compact Towel Dispenser: Designed specifically for tight wall clearances in office breakrooms, coffee stations, and single-occupant ADA restrooms, this compact-depth touchless cabinet runs on 4 D-cell batteries and accepts 8-inch system-matched enMotion rolls where full 10-inch cabinets cannot fit between mirrors and tile returns.",
+        "Angel Soft Professional Series 2-Ply Embossed Toilet Paper (80-Case): Built on a standard universal commercial core with 450 embossed 2-ply septic-safe sheets per individually wrapped roll, this 80-roll case fits standard horizontal tension spindles, dual-roll architectural holders, and vertical drop-mandrel zero-waste cabinets without core adapters.",
+        "PURELL ES8 1200 mL Healthy Soap Foam Refill (2-Pack): Soap dispenser compatibility is 100% proprietary because the pump nozzle, sanitary check valve, and energy-on-the-refill or bayonet collar are molded directly into the cartridge. These 1,200 mL fragrance-free, dye-free green-certified refills snap exclusively into PURELL ES8 touchless dispensers.",
+        "Boardwalk 40x48 High-Density 45-Gallon Commercial Trash Liners (250-Case): Liner compatibility follows the circumference rule (Can Rim Circumference divided by 2, plus 4 inches for overhang). A 40x48-inch 16-micron star-seal bag fits 44-gallon round utility barrels and large 40-to-45-gallon restroom paper towel receptacles without slipping inside the rim.",
+        "Plasticplace 30x36 Clear 20–30 Gallon Recycling Can Liners (250-Case): Sized at 30x36 inches in 0.75-mil clear LLDPE, these liners fit 23-gallon slim wall-hugger recycling containers in copy rooms and breakrooms while giving night crews full visual transparency to verify single-stream compliance."
+      ]
+    },
+    {
+      "type": "h2",
+      "text": "Step-by-Step Procedure to Map Every Dispenser SKU in Your Facility"
+    },
+    {
+      "type": "p",
+      "text": "In multi-tenant buildings or suites that have expanded across floors over several years, it is common to discover three different paper towel dispenser models and two incompatible soap brackets. Eliminate emergency supply mismatches with this four-step standardization audit:"
+    },
+    {
+      "type": "steps",
+      "items": [
+        {
+          "name": "Locate the Internal System Code Stamp Inside Each Cabinet Door",
+          "text": "Unlock every paper towel, bath tissue, and foam soap dispenser and read the molded alphanumeric system code stamped inside the backplate or lid (such as H1, H2, T2, ES8, or GP 59466) rather than guessing from the exterior logo."
+        },
+        {
+          "name": "Measure Both Core Hub Plugs because Left and Right Ends Differ",
+          "text": "On automated and mechanical autocut roll dispensers, measure both the left spring cradle and the right drive-gear hub; many proprietary units use a 1.75-inch round hub on one side and a slotted keyway tab on the drive side."
+        },
+        {
+          "name": "Apply Color-Coded SKU Labels Inside Every Dispenser & Closet Shelf",
+          "text": "Print permanent laminated vinyl tags (e.g., 'BLUE TAG: 8-Inch enMotion Roll' or 'GREEN TAG: 2-Ply Standard 450-Sheet Roll') and adhere them inside the dispenser lid and directly on the matching janitor closet rack."
+        },
+        {
+          "name": "Retire Orphan Dispensers That Require Single-Use Case Orders",
+          "text": "If one breakroom or private restroom houses an obsolete dispenser requiring its own unique paper case, replace it with a standardized unit like the Georgia-Pacific enMotion Impulse 8-Inch or universal cabinet so your purchasing team drops down to two paper SKUs building-wide."
+        }
+      ]
+    },
+    {
+      "type": "callout",
+      "variant": "warning",
+      "title": "Never Remove Plastic Core Reducers From Dispenser Spindles",
+      "text": "Many commercial jumbo bath tissue dispensers ship with removable snap-on 3.25-inch plastic adapter rings over a narrow 2.25-inch base spindle. If a janitor pops off and loses those adapter rings, standard 3.25-inch JRT rolls will hang loosely, oscillate during pulling, and snap the perforated 2-ply web."
+    },
+    {
+      "type": "h2",
+      "text": "How Dispenser Standardization Lowers Monthly Janitorial Contract Bids"
+    },
+    {
+      "type": "p",
+      "text": "When janitorial contractors walk a 10,000 to 24,999 sq ft office ($0.07 to $0.12 per sq ft base cleaning rate) to price a 5x-week service agreement (21.65 visits per month, 0.90x frequency multiplier), fragmented dispenser hardware signals higher restocking time and supply management overhead. A technician pushing a janitorial cart loaded with five different paper roll sizes and three incompatible soap cartridges loses 15 to 25 minutes per night compared to a standardized facility. Consolidating your hardware and matching exact core specs keeps restroom service charges at the $15 per visit low end rather than the $30 per visit maximum."
+    },
+    {
+      "type": "cta",
+      "text": "Want to see how consumables-included riders ($0.012–$0.025/sq ft/visit) compare against direct bulk purchasing for your office? Run your facility profile in our Office Cleaning Cost Calculator or audit your contractor's pricing in the Quote Comparator."
+    }
+  ],
+  "faqs": [
+    {
+      "q": "Will a standard 8-inch universal hardwound roll fit inside a 10-inch automated touchless dispenser?",
+      "a": "No. A 10-inch automated dispenser like the full-size Georgia-Pacific enMotion requires a full 10-inch wide roll with specific end-cap core plugs to engage the left and right suspension arms. If your wall space or budget calls for an 8-inch roll footprint, install the purpose-built Georgia-Pacific enMotion Impulse 8-Inch Compact Towel Dispenser."
+    },
+    {
+      "q": "What is the difference between a JRT Jr. and a JRT Sr. commercial jumbo toilet paper roll?",
+      "a": "Both use a universal 3.25-inch to 3.3-inch inner core diameter, but a JRT Jr. roll has a 9-inch outer diameter (typically 750 to 1,000 feet of 2-ply tissue) whereas a JRT Sr. roll has a 12-inch outer diameter (up to 2,000 feet). Roughly 90% of US office restroom jumbo dispensers are built for 9-inch JRT Jr. rolls; ordering 12-inch JRT Sr. rolls by mistake will prevent the dispenser cover from closing."
+    },
+    {
+      "q": "Can we refill sealed commercial foam soap cartridges like PURELL ES8 with bulk gallon liquid soap?",
+      "a": "No—and attempting to pierce or pry open factory-sealed foam cartridges violates CDC and public health hand-hygiene guidelines. Open bulk-fill soap reservoirs develop bacterial biofilm (such as Serratia marcescens and Pseudomonas aeruginosa) when topped off repeatedly, whereas sanitary-sealed 1,200 mL cartridges install a sterile new foaming pump nozzle with every refill."
+    },
+    {
+      "q": "How do we calculate the exact trash liner dimensions for our office restroom and breakroom cans?",
+      "a": "To determine liner width, measure the outer perimeter (circumference) of the top of the receptacle and divide by 2. To determine liner length, measure the vertical height of the bin, add half the diameter of the bottom base, and add 4 to 5 inches for top cuff overhang. For example, a 44-gallon round barrel (24-inch diameter, 31.5-inch height) takes a 40x48-inch liner."
+    }
+  ],
+  "amazonProductIds": [
+    "angel-soft-professional-series-2-ply-embossed-toilet-paper-80-ca",
+    "boardwalk-40x48-high-density-45-gallon-commercial-trash-liners-2",
+    "plasticplace-30x36-clear-20-30-gallon-recycling-can-liners-250-c",
+    "purell-es8-1200-ml-healthy-soap-foam-refill-2-pack",
+    "georgia-pacific-enmotion-impulse-8-inch-compact-towel-dispenser"
+  ],
+  "related": [
+    "/restroom-and-breakroom-dispensers/",
+    "/restroom-and-breakroom-dispensers/best-commercial-restroom-accessories-for-day-porters/",
+    "/restroom-and-breakroom-dispensers/best-vandal-resistant-dispensers-for-shared-lobbies/",
+    "/restroom-and-breakroom-dispensers/best-quick-view-window-restroom-dispensers/",
+    "/city-cleaning-costs/office-cleaning-cost-corpus-christi-tx/"
+  ]
+}
