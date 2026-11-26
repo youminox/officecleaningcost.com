@@ -121,18 +121,21 @@ def main():
         errors.append("Missing scripts/.cache/hashes.json")
 
     # 3. Check Legal Identity
-    for rel in ("src/components/Footer.tsx", "src/components/SimplePage.tsx", "src/lib/client-constants.ts"):
+    for rel in ("src/components/Footer.tsx", "src/components/SimplePage.tsx", "src/lib/content.ts"):
         p = ROOT / rel
         if not p.exists():
             errors.append(f"Missing {rel}")
     combined_legal = "\n".join(
         (ROOT / rel).read_text()
-        for rel in ("src/components/Footer.tsx", "src/components/SimplePage.tsx", "src/lib/client-constants.ts")
+        for rel in ("src/components/Footer.tsx", "src/components/SimplePage.tsx", "src/lib/content.ts")
         if (ROOT / rel).exists()
     )
     for token in ("CARLOS LINGAN BORJA", "Lima, Peru", "info@charlielingan.com"):
         if token not in combined_legal:
-            errors.append(f"Missing legal token {token!r} in Footer/SimplePage/client-constants")
+            errors.append(f"Missing legal token {token!r} in Footer/SimplePage/content.ts")
+    for rel in ("src/components/Footer.tsx", "src/components/SimplePage.tsx"):
+        if "LEGAL_LINE" not in (ROOT / rel).read_text():
+            errors.append(f"LEGAL_LINE not rendered in {rel}")
 
     # 4. Check Amazon Associates compliance
     amz_raw = (DATA_DIR / "amazon-products.json").read_text()
@@ -148,8 +151,8 @@ def main():
 
     for template in (
         "src/app/page.tsx",
-        "src/app/office-cleaning-cost-calculator/page.tsx",
-        "src/app/compare-cleaning-quotes/page.tsx",
+        "src/components/CalculatorWidget.tsx",
+        "src/components/QuoteComparisonTool.tsx",
         "src/app/[categoria]/page.tsx",
         "src/components/ArticleLayout.tsx",
         "src/components/SimplePage.tsx",
